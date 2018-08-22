@@ -3,7 +3,7 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 购买任何 Office 365 服务（详见以下符合条件的服务 部分）后，将会获得 FastTrack 专家指导，了解如何登录并开始使用 Office 365。
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499069"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449058"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -182,7 +182,7 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
     
 - Office 365 由世纪互联运营 \*\*
     
-\*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://go.microsoft.com/fwlink/?linkid=2005430)。
+\*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://aka.ms/aboutgovcloud)。
   
 \*\*若要详细了解由世纪互联运营的 Office 365FastTrack 权益，请联系[世纪互联支持](https://go.microsoft.com/fwlink/?linkid=852156)。
   

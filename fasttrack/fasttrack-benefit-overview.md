@@ -3,7 +3,7 @@ title: FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: 使用适于 Office 365 的 FastTrack 中心权益，可以与 FastTrack 专家远程合作，共同让 Office 365 环境可供使用，并计划在组织内推动服务的使用。有关资格的详细信息，请参阅适用于 Office 365 的 FastTrack 中心权益。
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498839"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449056"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
@@ -28,7 +28,7 @@ ms.locfileid: "21498839"
   
 - [FastTrack 流程](fasttrack-process.md)
     
-- [对源环境的预期](environment-expectations.md)
+- [对源环境的预期](source-environment-expectations.md)
     
 - [载入和迁移阶段](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ ms.locfileid: "21498839"
     
   - 单一 Active Directory 林环境。
     
-  - 受支持的多林 Active Directory 拓扑。有关受支持的拓扑，请参阅[对源环境的预期](environment-expectations.md)。
+  - 受支持的多林 Active Directory 拓扑。有关受支持的拓扑，请参阅[对源环境的预期](source-environment-expectations.md)。
     
 - 具有满足以下条件的 Office 365 帐户的联合标识：
     
