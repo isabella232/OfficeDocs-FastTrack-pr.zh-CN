@@ -3,7 +3,7 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498849"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449062"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -24,6 +24,9 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>有关载入和迁移 Office 365 美国政府版的信息，请参阅[载入和迁移 Office 365 美国政府版](US-Gov-appendix-onboarding-and-migration.md)。 
+
 有关每个阶段的具体任务，请参阅 [FastTrack 责任](fasttrack-responsibilities.md)和[你的责任](your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
@@ -33,7 +36,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 - 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
     
     > [!NOTE]
-    >  如果你的 Office 365 租户中列出了一个合作伙伴，将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+    >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
   
 - 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
     
@@ -49,7 +52,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家与客户一起评估源环境和需求。我们负责运行工具，以便收集数据，并指导客户如何估计带宽需求，以及如何评估 Internet 浏览器、客户端操作系统、域名系统 (DNS)、网络、基础结构和标识系统，以确定是否需要为载入进行任何更改。 
+FastTrack 专家会与你一起评估你的源环境和需求。我们会提供可助你收集你的环境数据的工具，并指导你如何估计带宽需求，以及如何评估你的 Internet 浏览器、客户端操作系统、域名系统 (DNS)、网络和基础结构，还会帮你进行系统确认以确定是否需要为载入进行任何更改。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   

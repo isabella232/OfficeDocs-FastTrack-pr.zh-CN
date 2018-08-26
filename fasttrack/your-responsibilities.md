@@ -3,7 +3,7 @@ title: 你的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499099"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449055"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
-你在载入过程中将承担以下责任。
+你在载入过程中将承担以下责任。\*
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 开发并实现你的成功计划。
     
@@ -91,7 +91,7 @@ ms.locfileid: "21499099"
     
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。
     
-- 为 Office 365 服务（例如：SharePoint Online、Exchange Online 或 Yammer Enterprise）和组织目标提供你的目标。
+- 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 专业增强版）目标和组织目标。
     
 ## <a name="assess-phase"></a>评估阶段
 
@@ -163,6 +163,6 @@ ms.locfileid: "21499099"
     
 - 更新你的 Apple 推送通知服务 (APNS) 证书。
     
-
+\*有关你针对 Office 365 美国政府版的责任的信息，请参阅[你针对 Office 365 美国政府版的责任](US-Gov-appendix-your-responsibilities.md)。
   
 

@@ -3,7 +3,7 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的逐步指导。我们通过综合使用工具和文档，以及在适用和可行的情况下执行配置任务，为客户提供指导。具体包括使用适用于 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的所有符合条件的客户。
-ms.openlocfilehash: 8a3157281947fbc9996a104014a29bb564fe7e13
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498879"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449064"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -43,7 +43,7 @@ FastTrack 专家提供有关将数据迁移到 Office 365 的逐步指导。我�
 
 |**活动**|**对源环境的预期**|
 |:-----|:-----|
-|Exchange Online 迁移  <br/> | Microsoft 两两组合迁移下列源环境，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/> 一个 IBM Domino 7.0.3 前向环境（ [附录 A：从 IBM Domino 迁移到 Exchange Online](from-ibm-domino-to-exchange-online.md)）。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  单个 G 套件环境（仅限 Gmail、联系人和日历）。  <br/>  一个 Novell GroupWise 7.0.4 前向环境。  <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
+|Exchange Online 迁移  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/> 一个 IBM Domino 7.0.3 前向环境（ [附录 A：从 IBM Domino 迁移到 Exchange Online](from-ibm-domino-to-exchange-online.md)）。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。  <br/>  一个 Novell GroupWise 7.0.4 前向环境。  <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
 |SharePoint Online 迁移  <br/> | 文件共享（支持 SMB 2.0 前向的设备上的服务器消息块 (SMB) 文件共享）。  <br/>  Box（Starter、Business、Enterprise）。  <br/> |
 |OneDrive for Business 迁移  <br/> | 文件共享（SMB 文件在支持 SMB 2.0 前向的设备上共享）。  <br/>  单个 G 套件环境（仅限 Google Drive）。  <br/>  Box（Starter、Business、Enterprise）。 <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 驱动器。*|
    

@@ -3,7 +3,7 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498939"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449061"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
-FastTrack 专家在载入期间将承担以下责任。
+FastTrack 专家在载入期间将承担以下责任。\*
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 为你提供远程支持协助，帮助你成功完成开发和实施规划，以及阶段说明中所述的必要配置活动。
     
@@ -176,7 +176,7 @@ FastTrack 专家在载入期间将承担以下责任。
     
 - 配置 SharePoint Online 功能。 
     
-- 如果使用 FastTrack 中心数据迁移服务并且如果您符合条件，则提供数据迁移。
+- 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。
     
 - 评估 SharePoint Online 混合 所需的本地 SharePoint 场基础结构配置。 
     
@@ -348,5 +348,5 @@ FastTrack 专家在载入期间将承担以下责任。
     
 - Microsoft StaffHub 的下载位置。
     
-
+\*有关你针对 Office 365 美国政府版的 FastTrack 责任的信息，请参阅[针对 Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)。
 
