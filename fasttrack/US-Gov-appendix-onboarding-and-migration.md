@@ -3,7 +3,7 @@ title: 入职培训和迁移阶段 for Office 365 美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美国政府的 office 365 加入具有四个主要阶段 — 开始进行评估，修正，并启用。您可以按照这些阶段使用可选数据迁移阶段下图中所示。
-ms.openlocfilehash: a95ed9fc068577808e4a7b8e4fe98acb9f201ce0
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329991"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828000"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>入职培训和迁移阶段 for Office 365 美国政府
 
@@ -33,7 +33,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 - 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
     
     > [!NOTE]
-    >  如果你的 Office 365 租户中列出了一个合作伙伴，将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+    >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
   
 - 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
     
