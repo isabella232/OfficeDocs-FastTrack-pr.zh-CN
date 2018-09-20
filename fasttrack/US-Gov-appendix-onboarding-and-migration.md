@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美国政府的 office 365 加入具有四个主要阶段 — 开始进行评估，修正，并启用。您可以按照这些阶段使用可选数据迁移阶段下图中所示。
-ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828000"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021714"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>入职培训和迁移阶段 for Office 365 美国政府
 
@@ -31,12 +31,9 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 在购买了正确数量和类型的许可证后，请按照购买确认电子邮件中的指导操作，将许可证与你的现有租户或新租户相关联。 
   
 - 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
-    
     > [!NOTE]
-    >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
-  
-- 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
-    
+    >  如果你的 Office 365 租户中列出了一个合作伙伴，将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+- 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。    
 - 也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
@@ -86,21 +83,14 @@ FastTrack 专家处理您评估源环境和要求。我们提供您收集有关�
 
 对于 Exchange Online，我们会全程指导你，直到你的组织可以使用电子邮件为止。具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
   
-- 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。
-    
+- 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
-    > 你的邮件交换 (MX) 记录必须指向 Office 365。 
-  
-- 设置 Exchange Online 高级威胁防护 (ATP) 功能（如果在 MX 记录指向 Office 365 后此功能属于订阅服务的话）。此功能被配置为 Exchange Online Protection 反恶意软件设置的一部分。
-    
-- 配置防火墙端口。
-    
-- 设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 和 MX 记录（根据需要）。 
-    
-- 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。
-    
-- 执行从源邮件环境到 Office 365 的邮件迁移。
-    
+    > 你的邮件交换 (MX) 记录必须指向 Office 365。   
+- 设置 Exchange Online 高级威胁防护 (ATP) 功能（如果在 MX 记录指向 Office 365 后此功能属于订阅服务的话）。此功能被配置为 Exchange Online Protection 反恶意软件设置的一部分。   
+- 配置防火墙端口。   
+- 设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 和 MX 记录（根据需要）。     
+- 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。   
+- 执行从源邮件环境到 Office 365 的邮件迁移。   
     > [!NOTE]
     > 有关邮件和数据迁移的详细信息，请参阅[数据迁移](data-migration.md)。 
   
@@ -108,14 +98,10 @@ FastTrack 专家处理您评估源环境和要求。我们提供您收集有关�
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 和 OneDrive for Business
 
-对于 SharePoint Online 和 OneDrive for Business，我们提供针对以下方面的指导：
-  
-- 设置 DNS。
-    
-- 配置防火墙端口。
-    
-- 设置用户和许可证。
-    
+对于 SharePoint Online 和 OneDrive for Business，我们提供针对以下方面的指导： 
+- 设置 DNS。   
+- 配置防火墙端口。   
+- 设置用户和许可证。   
 - 配置 SharePoint 混合 功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。
     
 FastTrack 专家综合使用工具和文档，以及在适用和可行的情况下执行配置任务，提供有关将数据迁移到 Office 365 的指导。
@@ -130,18 +116,12 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-对于 Skype for Business Online，我们提供针对以下方面的指导：
-  
-- 配置防火墙端口。
-    
-- 设置 DNS。
-    
-- 创建任何聊天室系统设备的帐户。
-    
-- 部署支持的 Skype for Business Online 客户端。
-    
+对于 Skype for Business Online，我们提供针对以下方面的指导： 
+- 配置防火墙端口。    
+- 设置 DNS。    
+- 创建任何聊天室系统设备的帐户。    
+- 部署支持的 Skype for Business Online 客户端。   
 - 建立内部部署 Lync 2010 之间的拆分域服务器配置，Lync 2013 或业务 2015年服务器环境的 Skype 和 Skype 业务 online 租户 （如果适用）。
-
 - 启用调用计划、 Skype 会议广播，和电话系统和调用 （中可用市场 – GCC 高或 DoD 计划中不可用） 的计划。 
     
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
@@ -153,38 +133,26 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 > [!NOTE]
 > 以下中不提供 GCC 高或 DoD 计划。
 
-对于 Microsoft Teams，我们提供针对以下方面的指导：
-  
-- 确认最低要求。
-    
-- 配置防火墙端口。
-    
-- 设置 DNS。
-    
-- 确认是否已在 Office 365 租户上启用 Microsoft Teams。
-    
+对于 Microsoft Teams，我们提供针对以下方面的指导： 
+- 确认最低要求。   
+- 配置防火墙端口。   
+- 设置 DNS。  
+- 确认是否已在 Office 365 租户上启用 Microsoft Teams。    
 - 启用或禁用用户许可证。
     
 ![FastTrack Microsoft 团队关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-对于 Power BI，我们提供针对以下方面的指导： 
-  
-- 分配 Power BI 许可证。
-    
-- 部署 Power BI Desktop 应用。
-    
+对于 Power BI，我们提供针对以下方面的指导：  
+- 分配 Power BI 许可证。    
+- 部署 Power BI Desktop 应用。   
 ## <a name="project-online"></a>Project Online
 
-对于 Project Online，我们提供针对以下方面的指导：
-  
-- 验证 Project Online 依赖的基本 SharePoint 功能。
-    
-- 向你的租户添加 Project Online 服务（包括向用户添加订阅）。
-    
-- 设置企业资源池 (ERP)。
-    
+对于 Project Online，我们提供针对以下方面的指导： 
+- 验证 Project Online 依赖的基本 SharePoint 功能。    
+- 向你的租户添加 Project Online 服务（包括向用户添加订阅）。    
+- 设置企业资源池 (ERP)。   
 - 创建你的首个项目。 
     
 ![Project Online 的“启用”阶段发生的步骤](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -198,20 +166,13 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
   
 ## <a name="office-365-proplus"></a>Office 365 专业增强版
 
-对于 Office 365 专业增强版，我们提供针对以下方面的指导：
-  
-- 解决部署问题。
-    
-- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。
-    
-- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。
-    
-- 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
-    
-- 使用 Office 部署工具配置更新设置。
-    
-- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。
-    
+对于 Office 365 专业增强版，我们提供针对以下方面的指导： 
+- 解决部署问题。    
+- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。    
+- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。    
+- 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
+- 使用 Office 部署工具配置更新设置。    
+- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。    
 - 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
