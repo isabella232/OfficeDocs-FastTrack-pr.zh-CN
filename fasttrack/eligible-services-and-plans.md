@@ -11,26 +11,22 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 购买任何 Office 365 服务（详见以下符合条件的服务 部分）后，将会获得 FastTrack 专家指导，了解如何登录并开始使用 Office 365。
-ms.openlocfilehash: 96a5f720fbe20a648df862a364255da2c3b19049
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 54a7f6f7f2e06d28ac1d2d90deaa8e2c6efd4c20
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828110"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021694"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
 购买任何 Office 365 服务（详见以下**符合条件的服务**部分）后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Office 365。 
   
-- 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
-    
+- 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。   
     > [!NOTE]
     >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
-  
 - 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
-    
 - 还可从租户可用服务列表中的 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698) 请求 FastTrack 中心 帮助。 
-    
 > [!NOTE]
 > 本地环境必须先通过 FastTrack 中心检查，然后 FastTrack 专家才能提供指导。 
   
@@ -39,23 +35,14 @@ ms.locfileid: "23828110"
 FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/fwlink/?linkid=2005429)的协助：
   
 - Exchange Online
-    
 - SharePoint Online
-    
 - OneDrive for Business
-    
 - Skype for Business Online
-    
 - Microsoft Teams
-    
 - Power BI
-    
 - Project Online
-    
 - Yammer Enterprise 
-    
 - Office 365 专业增强版
-    
 - Microsoft StaffHub
     
 ## <a name="eligible-commercial-plans"></a>符合条件的商业计划
@@ -64,85 +51,58 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
   
  **Office 365**
   
-- Office 365 商业版
-    
-- Office 365 商业协作版
-    
+- Office 365 商业版  
+- Office 365 商业协作版  
 - Help and training
-    
 - Office 365 企业版 E1
-    
 - Office 365 企业版 E3
-    
-- Office 365 企业版 E4
-    
+- Office 365 企业版 E4  
 - Office 365 企业版 E5
-    
 - Office 365 企业版 F1
-    
 - Office 365 美国政府版 G1\*
-    
 - Office 365 美国政府版 G3\*
-    
 - Office 365 美国政府版 G4\*
-    
-- Office 365 美国政府版 G5\*
-    
+- Office 365 美国政府版 G5\* 
 - Office 365 美国政府版 F1\*
-    
 - Office 365 专业增强版
     
  **Microsoft 365 企业版**
   
 - Microsoft 365 E3\*\*\*
-    
 - Microsoft 365 E5\*\*\*
-    
 - Microsoft 365 商业版\*\*\*
     
  **Exchange Online**
   
 - Exchange Online 计划 1
-    
-- Exchange Online 计划 2
-    
+- Exchange Online 计划 2 
 - Exchange Online Kiosk
-    
 - Exchange Online 高级威胁防护
     
  **Project Online**
   
-- Project Online 协作版
-    
+- Project Online 协作版  
 - Project Online Professional
-    
 - Project Online 高级版
     
  **SharePoint Online**
   
 - SharePoint Online 计划 1
-    
 - SharePoint Online 计划 2
     
  **OneDrive for Business**
   
-- 含 Office Online 的 OneDrive for Business
-    
+- 含 Office Online 的 OneDrive for Business 
 - OneDrive for Business 计划 1
-    
 - OneDrive for Business 计划 2
     
  **Skype for Business Online**
   
 -  电话系统 
-    
 -  通话套餐 
-    
 -  音频会议 
-    
--  Skype for Business Online 计划 1 
-    
-- Skype for Business Online 计划 2
+-  Skype for Business Online 计划 1  
+-  Skype for Business Online 计划 2
     
  **Yammer**
   
@@ -155,13 +115,11 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
  **Office 365 教育版**
   
 - Office 365 A3
-    
 - Office 365 A5
     
  **Microsoft 365 教育版**
   
 - Microsoft 365 A3\*\*\*
-    
 - Microsoft 365 A5\*\*\*
     
 > [!NOTE]
@@ -175,18 +133,15 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
 不符合 FastTrack 服务使用条件的计划包括（但不限于）：
   
 - Exchange Online Archiving\*\*\*\*
-    
 - Exchange Online Protection\*\*\*\*
-    
 - Microsoft Office 365 专用和 ITAR/联邦计划
-    
 - Office 365 由世纪互联运营 \*\*
     
 \*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://aka.ms/aboutgovcloud)。
   
 \*\*若要详细了解由世纪互联运营的 Office 365FastTrack 权益，请联系[世纪互联支持](https://go.microsoft.com/fwlink/?linkid=852156)。
   
-\*\*\* 仅适用于符合 FastTrack 条件的云服务和此权益说明中所述的功能。
+\*\*\*仅适用于符合 FastTrack 条件的云服务和此权益说明中所述的功能。
   
 \*\*\*\*通过符合条件的计划（如企业版 E3 和 E5）获取时，会提供该计划的 FastTrack 指南。
   
