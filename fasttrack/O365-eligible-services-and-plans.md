@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 购买任何 Office 365 服务（详见以下符合条件的服务 部分）后，将会获得 FastTrack 专家指导，了解如何登录并开始使用 Office 365。
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353639"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565556"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -45,9 +45,9 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
 - Office 365 专业增强版
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>符合条件的商业计划
+## <a name="eligible-plans"></a>符合条件的计划
 
-至少必须从以下符合条件的计划（包括等效的 Office 365 Germany 计划）列表中购买 50 个许可证，才可以使用 FastTrack 服务：
+至少必须购买下面列出的符合条件的计划的 150 个许可证，才能接收 FastTrack 服务：
   
  **Office 365**
   
@@ -66,12 +66,22 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
 - Office 365 美国政府版 F1\*
 - Office 365 专业增强版
     
+ **Office 365 教育版**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 企业版**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 商业版\*\*\*
     
+ **Microsoft 365 教育版**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Exchange Online**
   
 - Exchange Online 计划 1
@@ -106,27 +116,9 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
     
  **Yammer**
   
-- Yammer Enterprise
-    
-## <a name="eligible-education-plans"></a>符合条件的教育计划
-
-只有从以下符合条件的计划列表中购买至少 1000 个许可证时，FastTrack 服务才适用于 Office 365 教育版和 Microsoft 365 教育版：
-  
- **Office 365 教育版**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 教育版**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer Enterprise 
 > [!NOTE]
-> 如果在 2017 年 12 月 1 日前购买或续订了 Office 365 A5 计划，在当前整个订阅期内，至少必须有 50 个付费席位，才有资格享受 FastTrack 权益。如果在 2017 年 12 月 1 日后购买或续订了 Office 365 A5 计划，至少必须有 1000 个付费席位，才有资格享受 FastTrack 权益。 
-  
-> [!NOTE]
-> 免费使用的计划（如 Office 365 A1 或学生使用权益计划）没有资格获得 FastTrack 支持。 
+> 判断是否有资格享有 FastTrack 中心权益的依据是，是否购买前面提到的符合条件的计划的付费许可证。免费计划（如 Office 365 A1、Office 365 非营利组织商业协作版和学生使用权益计划）不符合接收 FastTrack 支持的条件。 
   
 ## <a name="ineligible-plans"></a>不符合条件的计划
 
