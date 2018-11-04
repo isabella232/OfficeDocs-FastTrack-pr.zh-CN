@@ -3,7 +3,7 @@ title: 您的 Office 365 的责任美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 56767a7d3465cd13c2891d14c277d5f9013a7c96
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 7df072dd5206ba2ba22b5a1be50f3c716ca0482b
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021584"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895699"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>您的 Office 365 的责任美国政府
 
