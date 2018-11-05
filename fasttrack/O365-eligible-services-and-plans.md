@@ -3,30 +3,46 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: 购买任何 Office 365 服务（详见以下符合条件的服务 部分）后，将会获得 FastTrack 专家指导，了解如何登录并开始使用 Office 365。
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: 购买任何 Office 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Office 365。
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565556"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895579"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
 购买任何 Office 365 服务（详见以下**符合条件的服务**部分）后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Office 365。 
   
-- 可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。   
+可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
+
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
+
+通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“服务”****。
+4.  完成“通过 Microsoft 365 请求帮助”**** 表单。
     > [!NOTE]
-    >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
-- 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
-- 还可从租户可用服务列表中的 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698) 请求 FastTrack 中心 帮助。 
+    >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“我的客户”****。
+4.  搜索你的客户或从你的客户列表中选择。
+5.  选择“服务”****。
+6.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+
+也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
 > [!NOTE]
 > 本地环境必须先通过 FastTrack 中心检查，然后 FastTrack 专家才能提供指导。 
   
@@ -47,7 +63,7 @@ FastTrack 中心提供有关以下 [Office 365 服务](https://go.microsoft.com/
     
 ## <a name="eligible-plans"></a>符合条件的计划
 
-至少必须购买下面列出的符合条件的计划的 150 个许可证，才能接收 FastTrack 服务：
+必须*至少*购买以下符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务：
   
  **Office 365**
   

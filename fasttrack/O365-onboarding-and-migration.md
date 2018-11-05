@@ -3,20 +3,20 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353779"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895747"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -33,14 +33,27 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 在购买了正确数量和类型的许可证后，请按照购买确认电子邮件中的指导操作，将许可证与你的现有租户或新租户相关联。 
   
-可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
-    
-> [!NOTE]
->  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
-  
-合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
+可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 
-也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
+
+通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“服务”****。
+4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
+> [!NOTE]
+>  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+  
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“我的客户”****。
+4.  搜索你的客户或从你的客户列表中选择。
+5.  选择“服务”****。
+6.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+
+也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在这一阶段，我们讨论入门流程并验证数据，同时创建启动会议。这包括与你一起了解打算如何使用服务和组织的目标和计划来推动服务使用。
   
@@ -94,6 +107,7 @@ FastTrack 专家会与你一起评估你的源环境和需求。我们会提供�
 - 设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 和 MX 记录（根据需要）。 
 - 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。
 - 执行从源邮件环境到 Office 365 的邮件迁移。
+- 配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。
     > [!NOTE]
     > 有关邮件和数据迁移的详细信息，请参阅[数据迁移](O365-data-migration.md)。 
   
@@ -162,7 +176,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 
 对于 Project Online Professional 和 Project Online 高级版，我们提供针对以下方面的指导：
 - 解决部署问题。
-- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。  
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。  
 - 使用即点即用从 Office 365 门户安装 Project Online 桌面客户端。
 - 使用 Office 部署工具配置更新设置。  
 - 为 Project Online 桌面客户端 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。  
@@ -178,8 +192,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 
 对于 Office 365 专业增强版，我们提供针对以下方面的指导：
 - 解决部署问题。   
-- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。 
-- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。   
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。 
+- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 部署工具配置更新设置。   
 - 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。  
@@ -197,6 +211,9 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
     
 ![Microsoft StaffHub 载入步骤](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
 
-  
+对于 Outlook for iOS 和 Outlook for Android，我们提供以下方面的指导：
+- 从 Apple App Store 和 Google Play 下载 Outlook for iOS 和 Outlook for Android。
+- 配置帐户和访问 Exchange Online 邮箱。
 

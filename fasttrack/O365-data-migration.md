@@ -3,20 +3,20 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
-description: FastTrack 专家提供有关将数据迁移到 Office 365 的逐步指导。我们通过综合使用工具和文档，以及在适用和可行的情况下执行配置任务，为客户提供指导。具体包括使用适用于 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的所有符合条件的客户。
-ms.openlocfilehash: d7ed685c5b8affeda242d3e0715095332f12d025
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
+ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565604"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895771"
 ---
 # <a name="data-migration"></a>数据迁移
 
