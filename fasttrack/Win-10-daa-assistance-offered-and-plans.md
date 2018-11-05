@@ -3,7 +3,7 @@ title: FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353669"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895615"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>提供的协助和符合条件的计划   
 
-在你购买任何 Windows 10 或 Microsoft 365 服务时（详见下列“符合条件的计划”**** 部分），对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
+在购买任意 Windows 10 或 Microsoft 365 服务（详见以下**符合条件的计划**部分）后，如果在部署到 Windows 10 和 Office 365 专业增强版和不断更新的过程中遇到应用兼容性问题，FastTrack 专家将提供免费的咨询和修正指导（通过符合条件的订阅）。
 
 若要获取帮助，请完成[桌面应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 

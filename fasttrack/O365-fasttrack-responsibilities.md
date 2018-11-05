@@ -3,7 +3,7 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353729"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895639"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -103,6 +103,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。 
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
+- 配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
@@ -191,7 +192,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 
 针对以下内容提供相关指导：
 - 解决部署问题。
-- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
 - 从门户下载并安装 Project Online 桌面客户端。   
 - 使用 Office 部署工具或组策略模板配置更新设置。
 - 现场为 Project Online 桌面客户端 设置一个分发服务器，包括指导如何为 Office 2016 部署工具创建 configuration.xml 文件。 
@@ -205,9 +206,9 @@ FastTrack 专家在载入期间将承担以下责任。\*
 
 针对以下内容提供相关指导：
 - 解决部署问题。
-- 使用 Office 365 管理中心 和 Windows PowerShell 分配最终用户许可证。
-- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。
-- 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
+- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
+- 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。
 - 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。
 - 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
@@ -220,5 +221,11 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 核心产品功能。
 - Microsoft StaffHub 的下载位置。
     
-\*有关你针对 Office 365 美国政府版的 FastTrack 责任的信息，请参阅[针对 Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)。
+## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
+
+针对以下内容提供相关指导：
+- 将 Outlook 下载到 iOS 和 Android 设备。
+- 在 Outlook 中配置电子邮件帐户。
+
+\*有关针对 Office 365 美国政府版的 FastTrack 责任的信息，请参阅[针对 Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)。
 
