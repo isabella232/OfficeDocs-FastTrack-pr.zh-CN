@@ -3,7 +3,7 @@ title: FastTrack 流程
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353589"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895663"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -38,16 +38,29 @@ FastTrack 流程提供了载入和用户采用服务。
   
 ![使用载入权益的日程表](media/O365-Onboarding-Timeline.png)
   
-可以通过 Office 365 管理中心或 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要通过 Office 365 管理中心获取帮助，管理员需登录到管理中心并单击" **需要帮助吗?** "向导。若要通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助，请登录并单击" **服务** "，然后完成" **请求 Office 365 帮助** "表单。 
-    
+可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
+
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
+
+通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“服务”****。
+4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
 > [!NOTE]
->  如果你的 Office 365 租户中列出了一个合作伙伴，将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
+>  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
   
  也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
  在载入助手启动后，我们便会制定联机会议的日程安排。
     
-合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作，合作伙伴需登录网站，选择客户记录，单击" **服务** "，并完成" **请求 Office 365 帮助** "表单。 
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“我的客户”****。
+4.  搜索你的客户或从你的客户列表中选择。
+5.  选择“服务”****。
+6.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
 
 下表列出了流程中的角色和职责。
     
