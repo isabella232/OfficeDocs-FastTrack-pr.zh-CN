@@ -3,7 +3,7 @@ title: 入职培训和迁移阶段 for Office 365 美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美国政府的 office 365 加入具有四个主要阶段 — 开始进行评估，修正，并启用。您可以按照这些阶段使用可选数据迁移阶段下图中所示。
-ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895603"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133070"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>入职培训和迁移阶段 for Office 365 美国政府
 
@@ -30,27 +30,27 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 在购买了正确数量和类型的许可证后，请按照购买确认电子邮件中的指导操作，将许可证与你的现有租户或新租户相关联。 
   
-您可以通过[Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 
+可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
  
-要通过[Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，您的管理员登录到管理中心，然后单击**是否需要帮助？** 小部件。 
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
 
-若要通过[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助： 
-1.  登录到[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择**FastTrack**。
-3.  选择**服务**。
-4.  完成**请求以获取帮助 Microsoft 365**窗体。 
+通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“服务”****。
+4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
     > [!NOTE]
-    >  如果您的 Office 365 租户中列出了您的一个合作伙伴，您将不会看到此选项。请咨询您的合作伙伴以获得帮助。 
+    >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
 
-合作伙伴还可以帮助通过[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)代表客户。这样：
-1.  登录到[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择**FastTrack**。
-3.  选择**我的客户**。
-4.  搜索您的客户或从客户列表中选择。
-5.  选择**服务**。
-6.  完成**请求以获取帮助 Microsoft 365**窗体。   
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.  选择“FastTrack”****。
+3.  选择“我的客户”****。
+4.  搜索你的客户或从你的客户列表中选择。
+5.  选择“服务”****。
+6.  完成“通过 Microsoft 365 请求帮助”**** 表单。   
 
-还可从租户可用服务列表中的 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698) 请求 FastTrack 中心 帮助。 
+也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -184,8 +184,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 
 对于 Office 365 专业增强版，我们提供针对以下方面的指导： 
 - 解决部署问题。    
-- 分配使用的[Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 的最终用户许可证。    
-- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。    
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。    
+- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。    
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 部署工具配置更新设置。    
 - 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。    

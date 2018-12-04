@@ -3,7 +3,7 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895747"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133178"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 

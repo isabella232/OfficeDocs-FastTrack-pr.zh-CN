@@ -3,7 +3,7 @@ title: Office 365 的 FastTrack 责任美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895543"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133118"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 的 FastTrack 责任美国政府
 
@@ -200,8 +200,8 @@ FastTrack 专家在载入期间将承担以下责任。
 
 针对以下内容提供相关指导：
 - 解决部署问题。   
-- 分配使用的[Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 的最终用户许可证。  
-- 使用即点即用从 Office 365 门户安装 Office 365 ProPlus。   
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。  
+- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
 - 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。   
