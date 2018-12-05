@@ -3,7 +3,7 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895771"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133154"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -219,6 +219,9 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 执行迁移后迁移修正（如果适用）。
 - 计划并实施更改管理和最终用户通信（如果适用）。   
 - 管理和配置成功完成评估和迁移活动所需的源系统和设备的任何更改。
+
+> [!NOTE]
+> Microsoft 无法保证文件迁移速度。
     
 ## <a name="migration-to-onedrive-for-business"></a>迁移到 OneDrive for Business
 
@@ -294,5 +297,6 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 计划并实施更改管理和最终用户通信（如果适用）。  
 - 管理和配置成功完成评估和迁移活动所需的源系统和设备的任何更改。
     
-  
+> [!NOTE]
+> Microsoft 无法保证文件迁移速度。  
 
