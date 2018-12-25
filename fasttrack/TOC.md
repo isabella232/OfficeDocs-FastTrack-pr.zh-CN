@@ -1,32 +1,33 @@
-# [适于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)
-## [符合条件的服务和计划](O365-eligible-services-and-plans.md)
-## [FastTrack 中心权益概述](O365-fasttrack-benefit-overview.md)
-### [FastTrack 流程](O365-fasttrack-process.md)
-### [对源环境的预期](O365-source-environment-expectations.md)
-### [载入和迁移阶段](O365-onboarding-and-migration.md)
-### [数据迁移](O365-data-migration.md)
-### [FastTrack 责任](O365-fasttrack-responsibilities.md)
-### [你的责任](O365-your-responsibilities.md)
-### [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-### [附录 B：FastTrack 中心的其他权益](O365-fasttrack-additional-benefits.md)
-### [附录 C - FastTrack 中心 HIPAA 业务联合协议](O365-hipaa-business-associate-agreement.md)
-### [附录 D - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述](US-Gov-appendix-overview.md)
-# 
+# [适用于 Microsoft 365 的 FastTrack 中心权益](M365-fasttrack-benefit-overview.md)
+## [适于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)
+### [符合条件的服务和计划](O365-eligible-services-and-plans.md)
+### [FastTrack 中心权益概述](O365-fasttrack-benefit-overview.md)
+#### [FastTrack 流程](O365-fasttrack-process.md)
+#### [对源环境的预期](O365-source-environment-expectations.md)
+#### [载入和迁移阶段](O365-onboarding-and-migration.md)
+#### [数据迁移](O365-data-migration.md)
+#### [FastTrack 责任](O365-fasttrack-responsibilities.md)
+#### [你的责任](O365-your-responsibilities.md)
+#### [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
+#### [附录 B：FastTrack 中心的其他权益](O365-fasttrack-additional-benefits.md)
+#### [附录 C - FastTrack 中心 HIPAA 业务联合协议](O365-hipaa-business-associate-agreement.md)
+#### [附录 D - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述](US-Gov-appendix-overview.md)
+## 
   [适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## 
+### 
   [FastTrack 中心权益符合条件的服务和计划](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## 
+### 
   [适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [FastTrack 中心权益概述](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [对源环境的预期](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [载入阶段](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [FastTrack 责任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [你的责任](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-# [适用于 Windows 10 的 FastTrack 中心权益](Win-10-fasttrack-benefit-for-Windows-10.md)
-## [桌面应用保证](Win-10-desktop-app-assure.md)
-### [提供协助和符合条件的计划](Win-10-daa-assistance-offered-and-plans.md)
+## [适用于 Windows 10 的 FastTrack 中心权益](Win-10-fasttrack-benefit-for-Windows-10.md)
+### [桌面应用保证](Win-10-desktop-app-assure.md)
+#### [提供协助和符合条件的计划](Win-10-daa-assistance-offered-and-plans.md)
