@@ -3,20 +3,19 @@ title: 入职培训和迁移阶段 for Office 365 美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 美国政府的 office 365 加入具有四个主要阶段 — 开始进行评估，修正，并启用。您可以按照这些阶段使用可选数据迁移阶段下图中所示。
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133070"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696767"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>入职培训和迁移阶段 for Office 365 美国政府
 
@@ -50,7 +49,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 5.  选择“服务”****。
 6.  完成“通过 Microsoft 365 请求帮助”**** 表单。   
 
-也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -118,7 +117,7 @@ FastTrack 专家处理您评估源环境和要求。我们提供您收集有关�
 - 设置 DNS。   
 - 配置防火墙端口。   
 - 设置用户和许可证。   
-- 配置 SharePoint 混合 功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。
+- 配置 SharePoint 混合功能，如混合搜索、 混合网站、 混合分类、 内容类型，混合自助式网站创建 (仅对 SharePoint Server 2013)，扩展应用程序启动器混合 OneDrive for Business 和 extranet 网站。
     
 FastTrack 专家综合使用工具和文档，以及在适用和可行的情况下执行配置任务，提供有关将数据迁移到 Office 365 的指导。
   
@@ -187,8 +186,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。    
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。    
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
-- 使用 Office 部署工具配置更新设置。    
-- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。    
+- 使用 Office 365 部署工具配置更新设置。    
+- Office 365 proplus，包括用于 Office 365 部署工具的 configuration.xml 文件的创建帮助设置一个现场通讯组的服务器。    
 - 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)

@@ -3,20 +3,19 @@ title: Office 365 的 FastTrack 责任美国政府
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133118"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696779"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 的 FastTrack 责任美国政府
 
@@ -42,14 +41,14 @@ FastTrack 专家在载入期间将承担以下责任。
   - 客户端需求（Internet 浏览器、客户端操作系统、移动设备和服务需求）。
   - 用户标识和设置。 
   - 将已购买且定义的符合条件的服务作为初始启用的一部分。
-  - 成功推行服务采用和值。   
+  - 成功推动服务采用和价值。   
 - 制定修正活动的日程表。
 - 提供修正清单。   
 - 访问现有的 SharePoint Server 2013 或 SharePoint Server 2016 基础结构，包括：  
-  - SharePoint Online 混合 的先决条件。  
-  - SharePoint Online 混合 功能的本地基础结构准备。  
+  - SharePoint Online 的混合的先决条件。  
+  - SharePoint Online 的混合功能的内部部署基础结构准备。  
   - 访问所需的 SharePoint Online 终结点。 
-  - OneDrive for Business 混合 的访问群体。    
+  - Onedrive for Business 混合的访问群体。    
 - 访问现有的 Lync 或 Skype for Business Online 基础结构，其中包括：  
   - 支持的 Skype for Business 客户端部署策略。  
   - 对终结点的访问权限。  
@@ -115,11 +114,11 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用个人网站和社交功能。   
 - 配置 SharePoint Online 功能。    
 - 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。  
-- 评估 SharePoint Online 混合 所需的本地 SharePoint 场基础结构配置。    
+- 评估 SharePoint Online 的混合所需的本地 SharePoint 场基础结构配置。    
 - 使用工具和自动化执行以下操作： 
   - 配置本地云 Search Service 应用程序。    
   - 配置 SharePoint 本地和云环境间的信任。   
-- 配置本地 SharePoint 站点以使用 SharePoint Online 混合 功能。
+- 配置用于 SharePoint Online 的混合功能的本地 SharePoint 网站。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -135,7 +134,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 分配最终用户许可证。   
 - 设置由 SharePoint Online 访问群体来控制和管理谁能够获取 OneDrive for Business。    
 - 将 OneDrive for Business 同步客户端部署到桌面。   
-- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。  
+- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向 （SharePoint 2013 和 SharePoint 2016 仅）。  
 - 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -204,7 +203,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。   
+- Office 365 proplus，包括用于 Office 365 部署工具的 configuration.xml 文件的创建帮助设置一个现场通讯组的服务器。   
 - 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
 
     
