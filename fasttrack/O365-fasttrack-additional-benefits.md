@@ -3,23 +3,22 @@ title: 附录 B：FastTrack 中心的其他权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133082"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696719"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
-为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅[符合条件的服务和计划](O365-eligible-services-and-plans.md)。 
+为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。 
   
 ## <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -43,7 +42,7 @@ ms.locfileid: "27133082"
 
 对于 Office 365 ProPlus，我们提供以下指导： 
 - 根据 Microsoft 最佳做法进行评估和计划，重点是让环境准备好执行初始部署和更新管理。 
-- 使用 Office 部署工具开发部署配置和更新设置。 
+- 使用 Office 365 部署工具开发部署配置和更新设置。 
 - 使用 System Center Configuration Manager 进行部署打包。  
 - 部署并配置 Office 遥测来指导你针对应用程序兼容性评估业务关键型 Office 文档和解决方案的使用情况。
     

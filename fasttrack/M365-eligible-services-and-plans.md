@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472800"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696803"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -30,19 +30,17 @@ ms.locfileid: "27472800"
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“服务”****。
-4.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  选择“服务”****。
+3.  完成“通过 Microsoft 365 请求帮助”**** 表单。
     > [!NOTE]
     >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
 
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“我的客户”****。
-4.  搜索你的客户或从你的客户列表中选择。
-5.  选择“服务”****。
-6.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  选择“我的客户”****。
+3.  搜索你的客户或从你的客户列表中选择。
+4.  选择“服务”****。
+5.  完成“通过 Microsoft 365 请求帮助”**** 表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
 
@@ -56,8 +54,8 @@ FastTrack 中心提供有关以下服务的协助：
 - Exchange Online
 - SharePoint Online
 - OneDrive for Business
-- Skype for Business Online
 - Microsoft Teams
+- Skype for Business Online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ FastTrack 中心提供有关以下服务的协助：
   
  **Microsoft 365 企业版**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 商业版
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 商业版\*
     
  **Microsoft 365 教育版**
 
@@ -134,9 +132,9 @@ FastTrack 中心提供有关以下服务的协助：
     
  **Skype for Business Online**
   
--  电话系统 
--  通话套餐 
--  音频会议 
+-  电话系统\*\*\* 
+-  通话套餐\*\*\* 
+-  音频会议\*\*\*
 -  Skype for Business Online 计划 1  
 -  Skype for Business Online 计划 2
     
@@ -147,6 +145,8 @@ FastTrack 中心提供有关以下服务的协助：
 \*仅适用于符合 FastTrack 条件的云服务和此权益说明中所述的功能。
 
 \*\*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://aka.ms/aboutgovcloud)。
+
+\*\*\*可用于 Skype for Business Online 和 Microsoft Teams 许可用户。
 
 > [!NOTE]
 > FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 

@@ -3,20 +3,19 @@ title: FastTrack 流程
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133010"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696731"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -44,9 +43,8 @@ FastTrack 流程提供了载入和用户采用服务。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“服务”****。
-4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
+2.  选择“服务”****。
+3.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
 > [!NOTE]
 >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
   
@@ -56,11 +54,10 @@ FastTrack 流程提供了载入和用户采用服务。
     
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“我的客户”****。
-4.  搜索你的客户或从你的客户列表中选择。
-5.  选择“服务”****。
-6.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
+2.  选择“我的客户”****。
+3.  搜索你的客户或从你的客户列表中选择。
+4.  选择“服务”****。
+5.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
 
 下表列出了流程中的角色和职责。
     
