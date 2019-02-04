@@ -3,7 +3,7 @@ title: 适用于 Office 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
-ms.openlocfilehash: d8252e28903f88250056dbc20b49dac3fef0fb7f
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27132938"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696635"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>适用于 Office 365 的 FastTrack 中心权益
 
@@ -29,7 +28,7 @@ ms.locfileid: "27132938"
   
 Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心迁移服务的条件。有关详细信息，请参阅[数据迁移](O365-data-migration.md)。
   
-若要详细了解符合条件的服务和计划，请参阅[符合条件的服务和计划](O365-eligible-services-and-plans.md)。
+若要详细了解符合条件的服务和计划，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。
   
 要了解 FastTrack 中心流程和相关人员的职责，请参阅 [FastTrack 中心权益概述](O365-fasttrack-benefit-overview.md)。
   
