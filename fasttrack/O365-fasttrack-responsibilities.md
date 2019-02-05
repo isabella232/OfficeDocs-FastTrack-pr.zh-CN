@@ -3,20 +3,19 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133094"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696827"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -46,17 +45,17 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 制定修正活动的日程表。
 - 提供修正清单。 
 - 访问现有的 SharePoint Server 2013 或 SharePoint Server 2016 基础结构，包括：
-  - SharePoint Online 混合 的先决条件。 
-  - SharePoint Online 混合 功能的本地基础结构准备。
+  - SharePoint Online 混合的先决条件。 
+  - SharePoint Online 混合功能的本地基础结构准备。
   - 访问所需的 SharePoint Online 终结点。
-  - OneDrive for Business 混合 的访问群体。 
-- 访问现有的 Lync 或 Skype for Business Online 基础结构，其中包括：
-  - 支持的 Skype for Business 客户端部署策略。
+  - OneDrive for Business 混合的访问群体。 
+- 访问现有的 Lync、Skype for Business Online 或 Microsoft Teams 基础结构，其中包括：
+  - 支持的 Skype for Business 客户端或 Teams 客户端部署策略。
   - 对终结点的访问权限。
   - 连接质量。
   - 带宽预估。
   - 支持拆分域服务器配置的先决条件。
-  - 准备将确定的用户迁移到 Skype for Business Online。
+  - 准备将确定的用户迁移到 Skype for Business Online 或 Teams。
 - 评估邮件基础结构，其中包括： 
   - 整个邮件流和传递原则。
   - 客户端访问（包括已发布的现有客户端访问终结点）。
@@ -101,7 +100,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 针对以下内容提供相关指导：
 - 创建或更新 DNS 记录。 
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。 
-- 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
+- 配置 Exchange Online Protection、数据丢失防护 (DLP) 和 Office 365 邮件加密 (OME) 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
 - 配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。
     
@@ -117,11 +116,11 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 启用个人网站和社交功能。
 - 配置 SharePoint Online 功能。 
 - 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。
-- 评估 SharePoint Online 混合 所需的本地 SharePoint 场基础结构配置。 
+- 评估 SharePoint Online 混合所需的本地 SharePoint 场基础结构配置。 
 - 使用工具和自动化执行以下操作：
   - 配置本地云 Search Service 应用程序。 
   - 配置 SharePoint 本地和云环境间的信任。
-- 配置本地 SharePoint 站点以使用 SharePoint Online 混合 功能。
+- 配置本地 SharePoint 站点以使用 SharePoint Online 混合功能。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -140,6 +139,32 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。
 - 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
     
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+针对以下内容提供相关指导：
+- 确认最低要求。
+- 配置防火墙端口。
+- 设置 DNS。  
+- 确认是否已在 Office 365 租户上启用 Teams。
+- 启用或禁用用户许可证。
+- Teams 客户端通讯组。
+- IT 专业人士和管理员功能。
+- 核心产品功能。
+- 客户成功模板。
+- 创建与受支持的会议室系统设备相关联的帐户（最多 10 个帐户）。 
+- 启用直接路由。
+- 启用音频会议。
+- 会议桥默认设置的组织设置。
+- 向许可用户分配会议桥。
+- 启用电话系统。
+- 启用电话系统和通话套餐载入（在可用市场中）。
+- 向许可用户分配号码。
+- 通过 UI 进行本地号码端口定位的指南（最多到 999）。
+- 超过 999 的本地号码端口定位 SR 支持。 
+- 启用 Teams 实时事件。 
+- 组织设置和集成到 Microsoft Stream。
+
+
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 针对以下内容提供相关指导：
@@ -158,19 +183,6 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 启用 Skype for Business 会议直播：
   - 启用 Skype for Business 会议直播载入指南。
   - 使用会议直播服务的联合身份验证组织设置。
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-针对以下内容提供相关指导：
-- 确认最低要求。
-- 配置防火墙端口。
-- 设置 DNS。  
-- 确认是否已在 Office 365 租户上启用 Microsoft Teams。
-- 启用或禁用用户许可证。
-- Microsoft Teams 客户端通讯组。
-- IT 专业人士和管理员功能。
-- 核心产品功能。
-- 客户成功模板。
     
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +206,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 解决部署问题。
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
 - 从门户下载并安装 Project Online 桌面客户端。   
-- 使用 Office 部署工具或组策略模板配置更新设置。
+- 使用 Office 365 部署工具或组策略模板配置更新设置。
 - 现场为 Project Online 桌面客户端 设置一个分发服务器，包括指导如何为 Office 2016 部署工具创建 configuration.xml 文件。 
 - 正在将 Project Online 桌面客户端 连接到 Project Online。
     
@@ -210,7 +222,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
 - 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。
-- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。
+- 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。
 - 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

@@ -3,20 +3,19 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133178"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696839"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -39,19 +38,17 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“服务”****。
-4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
+2.  选择“服务”****。
+3.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
 > [!NOTE]
 >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“我的客户”****。
-4.  搜索你的客户或从你的客户列表中选择。
-5.  选择“服务”****。
-6.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  选择“我的客户”****。
+3.  搜索你的客户或从你的客户列表中选择。
+4.  选择“服务”****。
+5.  完成“通过 Microsoft 365 请求帮助”**** 表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
@@ -102,7 +99,9 @@ FastTrack 专家会与你一起评估你的源环境和需求。我们会提供�
 - 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。
     > [!NOTE]
     > 你的邮件交换 (MX) 记录必须指向 Office 365。 
-- 设置 Exchange Online 高级威胁防护 (ATP) 功能（如果在 MX 记录指向 Office 365 后此功能属于订阅服务的话）。此功能被配置为 Exchange Online Protection 反恶意软件设置的一部分。
+- 如果 Exchange Online 高级威胁防护 (ATP) 功能属于订阅服务，则设置该功能。这可在 MX 记录指向 Office 365 后完成。此功能被配置为 Exchange Online Protection 反恶意软件设置的一部分。
+- 为在 Office 365 中验证的所有已启用邮件的域设置数据丢失防护 (DLP) 功能，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
+- 为在 Office 365 中验证的所有已启用邮件的域设置 Office 365 邮件加密 (OME) ，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
 - 配置防火墙端口。
 - 设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 和 MX 记录（根据需要）。 
 - 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。
@@ -119,7 +118,7 @@ FastTrack 专家会与你一起评估你的源环境和需求。我们会提供�
 - 设置 DNS。
 - 配置防火墙端口。
 - 设置用户和许可证。   
-- 配置 SharePoint 混合 功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。
+- 配置 SharePoint 混合功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。
     
 FastTrack 专家综合使用工具和文档，以及在适用和可行的情况下执行配置任务，提供有关将数据迁移到 Office 365 的指导。
   
@@ -131,6 +130,19 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
   
 ![启用阶段的 OneDrive 初始启用步骤](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+对于 Microsoft Teams，我们提供针对以下方面的指导：
+- 确认最低要求。  
+- 配置防火墙端口。   
+- 设置 DNS。 
+- 确认是否已在 Office 365 租户上启用 Microsoft Teams。  
+- 启用或禁用用户许可证。
+    
+![FastTrack Microsoft Teams 关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Microsoft Teams 共享的 Skype 功能](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 对于 Skype for Business Online，我们提供针对以下方面的指导：
@@ -143,17 +155,6 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
   
 ![启用阶段 2 的 Skype for Business 载入步骤](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-对于 Microsoft Teams，我们提供针对以下方面的指导：
-- 确认最低要求。  
-- 配置防火墙端口。   
-- 设置 DNS。 
-- 确认是否已在 Office 365 租户上启用 Microsoft Teams。  
-- 启用或禁用用户许可证。
-    
-![FastTrack Microsoft 团队关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,8 +179,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 解决部署问题。
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。  
 - 使用即点即用从 Office 365 门户安装 Project Online 桌面客户端。
-- 使用 Office 部署工具配置更新设置。  
-- 为 Project Online 桌面客户端 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。  
+- 使用 Office 365 部署工具配置更新设置。  
+- 为 Project Online 桌面客户端 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。  
 - 将 Project Online 桌面客户端 连接到 Project Online Professional 或 Project Online 高级版。
     
 ![在 Project for Office 365 启用阶段发生的步骤。](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -195,8 +196,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。 
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
-- 使用 Office 部署工具配置更新设置。   
-- 为 Office 365 ProPlus 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 部署工具一起使用。  
+- 使用 Office 365 部署工具配置更新设置。   
+- 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。  
 - 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
