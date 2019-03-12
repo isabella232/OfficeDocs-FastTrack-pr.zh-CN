@@ -1,29 +1,29 @@
 ---
-title: 入职培训和迁移阶段 for Office 365 美国政府
+title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 美国政府的 office 365 加入具有四个主要阶段 — 开始进行评估，修正，并启用。您可以按照这些阶段使用可选数据迁移阶段下图中所示。
-ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+description: office 365 板载版 office 365 美国政府有四个主要阶段, 即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
+ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696767"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355256"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>入职培训和迁移阶段 for Office 365 美国政府
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
 Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及下图所示的可选数据迁移阶段。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-对于每个阶段的详细任务，请参阅[为 Office 365 美国政府 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)和[您的 Office 365 美国政府责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务, 请参阅 office [365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)和[你对 office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -55,13 +55,13 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 这包括与您一起了解服务的使用方式、您组织的目标和推动服务使用的计划。
   
-![启动阶段的初始启用步骤](media/O365-Onboarding-Initiate.png)
+![启动阶段的入门步骤](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>评估阶段
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家处理您评估源环境和要求。我们提供您收集有关您的环境的数据，并指导您完成估计带宽需求和评估 internet 浏览器、 客户端操作系统、 域名系统 (DNS)、 网络、 基础结构和标识系统的工具确定是否需要为入职培训进行任何更改。 
+FastTrack 专家与客户一起评估源环境和需求。 我们为您提供了一些工具, 用于收集有关您的环境的数据, 并指导您完成估计带宽要求和评估您的 internet 浏览器、客户端操作系统、域名系统 (DNS)、网络、基础结构和身份系统, 以确定是否需要进行任何更改以进行载入。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
@@ -117,7 +117,7 @@ FastTrack 专家处理您评估源环境和要求。我们提供您收集有关�
 - 设置 DNS。   
 - 配置防火墙端口。   
 - 设置用户和许可证。   
-- 配置 SharePoint 混合功能，如混合搜索、 混合网站、 混合分类、 内容类型，混合自助式网站创建 (仅对 SharePoint Server 2013)，扩展应用程序启动器混合 OneDrive for Business 和 extranet 网站。
+- 配置 SharePoint 混合功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。
     
 FastTrack 专家综合使用工具和文档，以及在适用和可行的情况下执行配置任务，提供有关将数据迁移到 Office 365 的指导。
   
@@ -136,8 +136,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置 DNS。    
 - 创建任何聊天室系统设备的帐户。    
 - 部署支持的 Skype for Business Online 客户端。   
-- 建立内部部署 Lync 2010 之间的拆分域服务器配置，Lync 2013 或业务 2015年服务器环境的 Skype 和 Skype 业务 online 租户 （如果适用）。
-- 启用调用计划、 Skype 会议广播，和电话系统和调用 （中可用市场 – GCC 高或 DoD 计划中不可用） 的计划。 
+- 在本地 Lync 2010、Lync 2013 或 skype for business 2015 server 环境和 skype for business Online 租户之间建立拆分域服务器配置 (如果适用)。
+- 启用通话套餐、Skype 会议直播和电话系统和通话套餐 (在可用市场中-在 GCC 高或 DoD 计划中不可用)。 
     
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 以下中不提供 GCC 高或 DoD 计划。
+> 以下项在 GCC High 或 DoD 计划中不可用。
 
 对于 Microsoft Teams，我们提供针对以下方面的指导： 
 - 确认最低要求。   
@@ -177,7 +177,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 对于 Yammer，我们提供有关启用 Yammer Enterprise 服务的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府的组件，但可以获取免费的每个用户的独立报价许可 for Office 365 中 GCC。此服务是当前仅限于购买 Office 365 GCC 下企业协议和企业订阅协议的客户。Yammer 中不提供 GCC 高或 DoD 计划。 
+> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。 
   
 ## <a name="office-365-proplus"></a>Office 365 专业增强版
 
@@ -187,7 +187,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。    
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。    
-- Office 365 proplus，包括用于 Office 365 部署工具的 configuration.xml 文件的创建帮助设置一个现场通讯组的服务器。    
+- 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。    
 - 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)

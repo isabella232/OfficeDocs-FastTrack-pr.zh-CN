@@ -1,27 +1,27 @@
 ---
-title: 您的 Office 365 的责任美国政府
+title: 你对 Office 365 美国政府的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 9a4c5d05fd068d797a168ba4b9fb8a63d5185cf8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 39737115cb4ff157782d559d1125a8edbc76cf40
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696683"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355208"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>您的 Office 365 的责任美国政府
+# <a name="your-responsibilities-for-office-365-us-government"></a>你对 Office 365 美国政府的责任
 
 你在载入过程中将承担以下责任。
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 开发并实现你的成功计划。   
 - 在此处列出的可配置选项范围外，还对你的 Office 365 租户提供任何增强功能和集成。    
@@ -41,8 +41,8 @@ ms.locfileid: "29696683"
 - 管理、配置和应用安全策略。    
 - 激活移动设备。    
 - 提供网络配置、分析、带宽验证、测试和监视。 
-- Alter 防火墙规则，以支持特定 Url 和 IP 地址范围使用 Office 365 服务 （如果需要）。
-- 提供内部部署在 （如果需要） 到 Microsoft 反向代理终结点。     
+- 更改防火墙规则以支持 Office 365 服务使用的特定 url 和 IP 地址范围 (如果需要)。
+- 向 Microsoft 提供本地反向代理终结点 (如果需要)。     
 - 更改网络，为 Skype for Business Online 服务提供必要的带宽。   
 - 管理技术变更管理审核流程，并创建支持文档。    
 - 指定和定义适用于用户、工作站和服务器管理的组策略。    
@@ -58,7 +58,7 @@ ms.locfileid: "29696683"
     
 ## <a name="initiate-phase"></a>启动阶段
 
-- 设置为入职培训合作关系的协作的 Microsoft 团队空间并邀请 FastTrack 中心团队成员 （GCC 高或 DoD 计划中不可用）。   
+- 为加入合作关系和邀请 FastTrack 中心团队成员 (不适用于 GCC 高或 DoD 计划) 设置协作 Microsoft 团队空间。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。    
 - 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 专业增强版）目标和组织目标。

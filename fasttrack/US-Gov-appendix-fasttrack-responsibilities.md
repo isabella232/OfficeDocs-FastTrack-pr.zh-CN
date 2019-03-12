@@ -1,27 +1,27 @@
 ---
-title: Office 365 的 FastTrack 责任美国政府
+title: Office 365 美国政府版的 FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696779"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355280"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 的 FastTrack 责任美国政府
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
 FastTrack 专家在载入期间将承担以下责任。
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 为你提供远程支持协助，帮助你成功完成开发和实施规划，以及阶段说明中所述的必要配置活动。
 - 提供可用的文档和软件工具、管理控制台和脚本，以指导你减少或消除配置任务，并成功规划资源。 
@@ -41,14 +41,14 @@ FastTrack 专家在载入期间将承担以下责任。
   - 客户端需求（Internet 浏览器、客户端操作系统、移动设备和服务需求）。
   - 用户标识和设置。 
   - 将已购买且定义的符合条件的服务作为初始启用的一部分。
-  - 成功推动服务采用和价值。   
+  - 成功推行服务采用和值。   
 - 制定修正活动的日程表。
 - 提供修正清单。   
 - 访问现有的 SharePoint Server 2013 或 SharePoint Server 2016 基础结构，包括：  
-  - SharePoint Online 的混合的先决条件。  
-  - SharePoint Online 的混合功能的内部部署基础结构准备。  
+  - SharePoint Online 混合的先决条件。  
+  - SharePoint Online 混合功能的本地基础结构准备。  
   - 访问所需的 SharePoint Online 终结点。 
-  - Onedrive for Business 混合的访问群体。    
+  - OneDrive for Business 混合的访问群体。    
 - 访问现有的 Lync 或 Skype for Business Online 基础结构，其中包括：  
   - 支持的 Skype for Business 客户端部署策略。  
   - 对终结点的访问权限。  
@@ -79,8 +79,8 @@ FastTrack 专家在载入期间将承担以下责任。
   - 在你的 Active Directory 域服务 (AD DS) 和 Office 365 间安装目录同步服务器（如果需要）。   
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
-      - 配置 Azure Active Directory 传递身份验证，如果需要 （GCC 高或 DoD 计划中不可用）。
-      - 配置 Azure Active Directory 无缝单一登录 (SSO)，如果需要 （GCC 高或 DoD 计划中不可用）。
+      - 配置 Azure Active Directory 直通身份验证 (如果需要) (不适用于 GCC 高或 DoD 计划)。
+      - 配置 Azure Active Directory 无缝单一登录 (SSO) (如果需要) (不适用于 GCC 高或 DoD 计划)。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -91,7 +91,7 @@ FastTrack 专家在载入期间将承担以下责任。
     > [!NOTE]
     > 对于所有多个林配置，AD FS 部署不在此范围内。 
 - 测试 SSO 功能（如果已部署）。   
-- 成功推行服务采用和值。
+- 成功推动服务采用和价值。
     
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -100,7 +100,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 设置安装统一消息 (UM) 与 Exchange Online （UM 不 GCC DoD 计划中可用）。 
+- 使用 Exchange Online 设置统一消息 (um) (um 在 GCC DoD 计划中不可用)。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
@@ -114,11 +114,11 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用个人网站和社交功能。   
 - 配置 SharePoint Online 功能。    
 - 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。  
-- 评估 SharePoint Online 的混合所需的本地 SharePoint 场基础结构配置。    
+- 评估 SharePoint Online 混合所需的本地 SharePoint 场基础结构配置。    
 - 使用工具和自动化执行以下操作： 
   - 配置本地云 Search Service 应用程序。    
   - 配置 SharePoint 本地和云环境间的信任。   
-- 配置用于 SharePoint Online 的混合功能的本地 SharePoint 网站。
+- 配置本地 SharePoint 站点以使用 SharePoint Online 混合功能。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -134,7 +134,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 分配最终用户许可证。   
 - 设置由 SharePoint Online 访问群体来控制和管理谁能够获取 OneDrive for Business。    
 - 将 OneDrive for Business 同步客户端部署到桌面。   
-- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向 （SharePoint 2013 和 SharePoint 2016 仅）。  
+- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。  
 - 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -147,19 +147,19 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用音频会议：   
   - 会议桥默认设置的组织设置。   
   - 向许可用户分配会议桥。 
-- 启用 （GCC 高或 DoD 计划中不可用） 的电话系统：  
+- 启用电话系统 (在 GCC 高或 DoD 计划中不可用):  
   - 启用电话系统和通话套餐载入（在可用市场中）。 
   - 向许可用户分配号码。  
   - 通过 UI 进行本地号码端口定位的指南（最多到 999）。  
   - 超过 999 的本地号码端口定位 SR 支持。  
-- 启用 Skype 业务会议广播 （GCC 高或 DoD 计划中不可用）：  
+- 启用 Skype for business 会议广播 (在 GCC 高或 DoD 计划中不可用):  
   - 启用 Skype for Business 会议直播载入指南。  
   - 使用会议直播服务的联合身份验证组织设置。
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 以下中不提供 GCC 高或 DoD 计划。
+> 以下项在 GCC High 或 DoD 计划中不可用。
 
 针对以下内容提供相关指导：
 - 确认最低要求。   
@@ -193,7 +193,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府的组件，但可以获取免费的每个用户的独立报价许可 for Office 365 中 GCC。此服务是当前仅限于购买 Office 365 GCC 下企业协议和企业订阅协议的客户。Yammer 中不提供 GCC 高或 DoD 计划。
+> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
   
 ## <a name="office-365-proplus"></a>Office 365 专业增强版
 
@@ -203,7 +203,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- Office 365 proplus，包括用于 Office 365 部署工具的 configuration.xml 文件的创建帮助设置一个现场通讯组的服务器。   
+- 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。   
 - 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
 
     
