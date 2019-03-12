@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696803"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355292"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -71,6 +71,7 @@ FastTrack 中心提供有关以下服务的协助：
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 安全性\*
 - Microsoft 365 商业版\*
     
  **Microsoft 365 教育版**
@@ -163,11 +164,11 @@ FastTrack 中心提供有关以下服务的协助：
 |**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
 |**Cloud Attach**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
-|**Microsoft 高级威胁保护**     |    有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft 高级威胁分析**   |        有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Microsoft 高级威胁保护**     |    有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
+|**Microsoft 高级威胁分析**   |        有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 |**Microsoft Cloud App Security**    |       有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
-有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](https://go.microsoft.com/fwlink/?linkid=2005312)。
+有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)。
 
 ## <a name="eligible-windows-10-plans"></a>符合条件的 Windows 10 计划
 

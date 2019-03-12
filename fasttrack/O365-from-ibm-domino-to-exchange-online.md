@@ -3,19 +3,19 @@ title: 附录 A：从 IBM Domino 迁移到 Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 从 IBM Domino 迁移到 Exchange Online 包括几个重要方面，其中包括在以下阶段中发生的情况：
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696815"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355232"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>附录 A - 从 IBM Domino 迁移到 Exchange Online
 
@@ -28,7 +28,7 @@ ms.locfileid: "29696815"
     
 ## <a name="identities"></a>标识
 
-你负责创建和管理标识（仅限云，与其本地 Active Directory 同步或联合）。在载入的早期阶段，你必须在 Domino 和本地 Active Directory 或 Azure AD 之间完成标识映射（如果不存在）。
+你负责创建和管理标识（仅限云，与其本地 Active Directory 同步或联合）。 在载入的早期阶段，你必须在 Domino 和本地 Active Directory 或 Azure Active Directory 之间完成标识映射（如果不存在）。
   
 ## <a name="coexistence"></a>共存
 
@@ -90,7 +90,7 @@ ms.locfileid: "29696815"
     >  虽然 FastTrack 会迁移达到允许总目标大小的 85% 的邮箱，但是尝试迁移大小超过 2GB 的邮箱会带来额外的风险，如：    <br/> 迁移的持续时间延长。    <br/> 转为使用用于迁移其他邮箱的资源。    <br/> 错误率大幅提升。 
 - 准备邮件内数据库及其访问控制列表 (ACL)，以便进行迁移。必须执行一些修正步骤，才能将邮件内数据库及其权限成功迁移到 Exchange Online 中的共享邮箱。其中一些步骤如下： 
   - 删除 Domino 目录中现有的邮件内数据库条目，并创建新的人员记录。
-  - 在同步到 Office 365 Azure AD 且用于在 Exchange Online 中的共享邮箱上配置权限的本地 Active Directory 中创建已启用邮件的通用安全组。这将在邮件内数据库上设置的权限转移到 Exchange Online 中的共享邮箱。
+  - 在同步到 Office 365 Azure Active Directory 且用于在 Exchange Online 中的共享邮箱上配置权限的本地 Active Directory 中创建已启用邮件的通用安全组。 这将在邮件内数据库上设置的权限转移到 Exchange Online 中的共享邮箱。
     
 > [!NOTE]
 > 现在即可开始新邮件系统和客户端的最终用户准备工作和培训。 
