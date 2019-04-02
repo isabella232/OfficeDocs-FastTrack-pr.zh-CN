@@ -3,7 +3,7 @@ title: 适用于 Office 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,33 +12,33 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
-ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 04a8aab19ad2a2c35b9dd187a17932b2cd6d772a
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355136"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016812"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="9daa0-105">适用于 Office 365 的 FastTrack 中心权益</span><span class="sxs-lookup"><span data-stu-id="9daa0-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="16df0-105">适用于 Office 365 的 FastTrack 中心权益</span><span class="sxs-lookup"><span data-stu-id="16df0-105">FastTrack Center Benefit for Office 365</span></span>
 
-<span data-ttu-id="9daa0-p102">为 Office 365 租户*至少*购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。</span><span class="sxs-lookup"><span data-stu-id="9daa0-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="16df0-p102">为 Office 365 租户*至少*购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。</span><span class="sxs-lookup"><span data-stu-id="16df0-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="9daa0-109">在本文档中，FastTrack 专家是指包括 Microsoft 员工、Microsoft 核准供应商和 Microsoft 核准合作伙伴在内的人员。</span><span class="sxs-lookup"><span data-stu-id="9daa0-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="16df0-109">在本文档中，FastTrack 专家是指包括 Microsoft 员工、Microsoft 核准供应商和 Microsoft 核准合作伙伴在内的人员。</span><span class="sxs-lookup"><span data-stu-id="16df0-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="9daa0-p103">Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心迁移服务的条件。有关详细信息，请参阅[数据迁移](O365-data-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="9daa0-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="16df0-p103">Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心迁移服务的条件。有关详细信息，请参阅[数据迁移](O365-data-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="16df0-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="9daa0-112">若要详细了解符合条件的服务和计划，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。</span><span class="sxs-lookup"><span data-stu-id="9daa0-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="16df0-112">若要详细了解符合条件的服务和计划，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。</span><span class="sxs-lookup"><span data-stu-id="16df0-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="9daa0-113">要了解 FastTrack 中心流程和相关人员的职责，请参阅 [FastTrack 中心权益概述](O365-fasttrack-benefit-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="9daa0-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="16df0-113">要了解 FastTrack 中心流程和相关人员的职责，请参阅 [FastTrack 中心权益概述](O365-fasttrack-benefit-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="16df0-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
   
-<span data-ttu-id="9daa0-p104">你是否正在查找有关[企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)的信息？其中包括的信息有：</span><span class="sxs-lookup"><span data-stu-id="9daa0-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
+<span data-ttu-id="16df0-p104">你是否正在查找有关[企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)的信息？其中包括的信息有：</span><span class="sxs-lookup"><span data-stu-id="16df0-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
   
-- <span data-ttu-id="9daa0-116">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="9daa0-116">Microsoft Intune</span></span>    
-- <span data-ttu-id="9daa0-117">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="9daa0-117">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="16df0-116">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="16df0-116">Microsoft Intune</span></span>    
+- <span data-ttu-id="16df0-117">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="16df0-117">Azure Active Directory Premium</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="9daa0-118">本信息仅供参考。</span><span class="sxs-lookup"><span data-stu-id="9daa0-118">For informational purposes only.</span></span> 
+> <span data-ttu-id="16df0-118">本信息仅供参考。</span><span class="sxs-lookup"><span data-stu-id="16df0-118">For informational purposes only.</span></span> 
   
   
 
