@@ -3,26 +3,26 @@ title: Office 365 美国政府的源环境预期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你设置与源环境的集成级别（例如，如果在源环境中你已经拥有想要移动到 Office 365 的服务）。
-ms.openlocfilehash: 520ae3e241e2af9f39f7dc7d91059cf561a70259
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7556568b4f9a3ab9291f00aff528d3fc37b0063d
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355220"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016944"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 美国政府的源环境预期
 
 FastTrack 中心权益可以指导你设置与源环境的集成级别（例如，如果在源环境中你已经拥有想要移动到 Office 365 的服务）。
   
 > [!NOTE]
-> 如果集成是必需的，则对于相应的应用程序而言，源环境必须处于最低级别。 
+> 如果必须集成，对于相应的应用程序，源环境必须处于最低级别。 
   
 下表展示了对您的现有源环境的载入预期。
 

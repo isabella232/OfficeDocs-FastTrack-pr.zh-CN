@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355340"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017076"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -220,7 +220,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 提供有关评估和迁移活动的基础结构先决条件（如果需要）。  
 - 向 FastTrack 专家授予对源环境和目标环境的访问权限及其他权限，以方便专家执行迁移活动（如果需要）。
     > [!NOTE]
-    > 迁移仅使用符合载入时定义的安全要求的帐户。 如果不使用此类帐户，则可能会遇到迁移延迟问题。 
+    > 迁移仅使用符合载入时定义的安全要求的帐户。如果不使用此类帐户，则可能会遇到迁移延迟问题。 
 - 提供支持评估和迁移的先决条件并执行所需的活动。   
 - 安装由 FastTrack 提供的评估工具并完成评估数据收集活动（如果适用）。   
 - 安装由 FastTrack 提供的迁移软件本地部署（如果适用）。   
@@ -307,7 +307,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 提供有关评估和迁移活动的基础结构先决条件（如果需要）。   
 - 向 FastTrack 专家授予对源环境和目标环境的访问权限及其他权限，以方便专家执行迁移活动（如果需要）。  
     > [!NOTE]
-    > 迁移仅使用符合载入时定义的安全要求的帐户。 如果不使用此类帐户，则可能会遇到迁移延迟问题。 
+    > 迁移仅使用符合载入时定义的安全要求的帐户。如果不使用此类帐户，则可能会遇到迁移延迟问题。 
 - 安装由 FastTrack 提供的评估工具并完成评估数据收集活动（如果适用）。
 - 安装由 FastTrack 提供的迁移软件本地部署（如果适用）。  
 - 完成由 FastTrack 提供的修正报告中所述的修正活动（如果适用）。   

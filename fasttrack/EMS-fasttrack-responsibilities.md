@@ -5,25 +5,25 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359956"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016908"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
 在载入过程中, FastTrack 具有以下职责。
 
-## <a name="general"></a>概要
+## <a name="general"></a>常规
 
 -   向您提供远程支持协助, 以获取详细阶段说明中列出的必需配置活动。
 
@@ -31,7 +31,7 @@ ms.locfileid: "30359956"
 
 ## <a name="initiate-phase"></a>启动阶段
 
--   与您共同启动初始启用。
+-   与您合作以开始加入。
 
 -   定义您需要初始启用的符合条件的服务。
 
@@ -43,11 +43,11 @@ ms.locfileid: "30359956"
 
     -   DNS、网络和基础结构需求。
 
-    -   客户端需求（Internet 浏览器、客户端操作系统和服务需求）。
+    -   客户端需求 (Internet 浏览器、客户端操作系统和服务需求)。
 
     -   用户标识和设置。
 
-    -   使已购买且定义的符合条件的服务纳入初始启用的范围。
+    -   启用已购买并定义为加入的符合条件的服务。
 
 -   制定修正活动的日程表。
 
@@ -68,11 +68,11 @@ ms.locfileid: "30359956"
 
 -   验证与 Microsoft online services 的连接。
 
--   对于单个林环境：
+-   对于单林环境:
 
     -   在 Active directory 域服务 (AD DS) 和符合条件的 Microsoft online services 之间安装目录同步服务器 (仅在需要时提供指导)。
 
-    -   使用 Azure Active Directory Connect 工具配置托管身份验证 (密码哈希同步或传递身份验证)。(仅在需要时提供指导)。
+    -   使用 Azure Active Directory Connect 工具配置托管身份验证 (密码哈希同步或传递身份验证)。 (仅在需要时提供指导)。
 
         > [!NOTE]
         > 自定义规则扩展的开发和实现不在范围内。
@@ -96,7 +96,7 @@ ms.locfileid: "30359956"
 
 - 验证与 Azure AD Premium 服务的连接。
 
-- 对于单个林环境：
+- 对于单林环境:
 
   -   如果需要, 在 Active directory 域服务 (AD DS) 和 Azure AD Connect 之间安装目录同步。
 
@@ -109,14 +109,14 @@ ms.locfileid: "30359956"
   - 根据需要，配置 Azure Active Directory 直通身份验证。
   - 根据需要，配置 Azure Active Directory 无缝单一登录 (SSO)。
     > [!NOTE]
-    > 如果你的 Active directory 林之间存在林信任, 并且已正确配置名称后缀路由, 则支持对多林环境的 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理, 以提供对登录请求的高可用性。
+    > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。 可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。
 
   - 有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites)和 [Azure Active Directory 无缝单一登录：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)。
   - 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)。
   - 若要详细了解无缝 SSO 问题，请参阅[排除 Azure Active Directory 无缝单一登录故障](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)。
 
       > [!NOTE]
-      > 密码哈希同步和密码写回支持多个林。但是, 不支持其他写回方案。
+      > 密码哈希同步和密码写回支持多个林。 但是, 不支持其他写回方案。
 
   - 配置本地 Active directory 林与 Microsoft Azure active directory 高级目录之间的同步 (Azure active directory)。
 
@@ -169,7 +169,7 @@ ms.locfileid: "30359956"
 ### <a name="enable-phase---intune"></a>启用阶段-Intune
 
 > [!IMPORTANT]
-> FastTrack 不支持使用 Intune 的 Windows 10 经典电脑管理。FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 管理。
+> FastTrack 不支持使用 Intune 的 Windows 10 经典电脑管理。 FastTrack 仅支持通过 Intune 移动设备管理 (MDM) 进行 Windows 10 管理。
 
 提供有关以下内容的**指导**:
 

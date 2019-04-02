@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359800"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016924"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -49,7 +49,7 @@ ms.locfileid: "30359800"
 
 -   管理技术变更管理审批流程, 并创建支持文档。
 
--   修改您的运营模型和运营指南。
+-   修改操作模型和操作指南。
 
 -   设置本地多因素身份验证。
 
@@ -73,17 +73,17 @@ ms.locfileid: "30359800"
 
 -   注册团队查看者、移动威胁防御和电信费用管理解决方案订阅。
 
--   注册 Windows Defender 高级威胁防护许可证。(Windows e5 或 Microsoft E5 许可证)。
+-   注册 Windows Defender 高级威胁防护许可证。 (Windows e5 或 Microsoft E5 许可证)。
 
 ## <a name="initiate-phase"></a>启动阶段
 
 -   与 FastTrack 团队合作, 开始载入符合条件的服务。
 
--   参加参与启动会议，管理和领导您组织中的参与者，并确认修正日程表。
+-   参与接洽启动会议、管理组织中的参与者和领导参与者, 并确认修正时间线。
 
 ## <a name="assess-phase"></a>评估阶段
 
--   确定适当的利益干系人（包括项目经理）完成必要的评估活动。
+-   确定合适的利益干系人 (包括项目经理) 完成必要的评估活动。
 
 -   如果针对您的环境、EMS 或其单个云服务订阅运行评估工具时需要指导, 请与 FastTrack 团队共享你的屏幕 (如果你选择)。
 
@@ -99,11 +99,11 @@ ms.locfileid: "30359800"
 
 -   执行相应的步骤，完成评估阶段中确定的修正活动。
 
--   参加检查点会议。
+-   参与检查点会议。
 
 ## <a name="enable-phase"></a>启用阶段
 
--   如果针对您的环境、EMS 或其单个云服务订阅运行评估工具时需要指导, 请与 FastTrack 团队共享你的屏幕 (如果你选择)。根据需要管理资源。
+-   如果针对您的环境、EMS 或其单个云服务订阅运行评估工具时需要指导, 请与 FastTrack 团队共享你的屏幕 (如果你选择)。 根据需要管理资源。
 
 -   根据 FastTrack 团队的指导, 配置与网络相关的项。
 
@@ -120,9 +120,9 @@ ms.locfileid: "30359800"
 -   为 FastTrack 团队中的每个指导启用各种服务。
 
 > [!NOTE]
-> **想要了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **想要了解详细信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
-## <a name="see-also"></a>另请参阅 
+## <a name="see-also"></a>另请参阅
 
 - [EMS 的 FastTrack 优势](EMS-fasttrack-benefit-for-EMS.md)
 - [适用于 Office 365 的 FastTrack 权益](O365-fasttrack-benefit-for-office-365.md)

@@ -3,19 +3,19 @@ title: FastTrack 流程
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: cf6b75ce9381574bd9545b80b6ad3abd215b4fbf
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: bfe10237234c8294c23f8d780104be85e0587af1
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355196"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016830"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
