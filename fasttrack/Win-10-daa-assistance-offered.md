@@ -3,7 +3,7 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355184"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016867"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -46,7 +46,7 @@ FastTrack 提供以下协助：
 ## <a name="out-of-scope"></a>超出范围
 
 FastTrack 不会提供以下帮助：
-- 用于确定在 Windows 10 和 Office 365 专业增强版上是否正常运作的应用清单和测试。有关此流程的更多指南，请访问[显示桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。如果你对深入升级就绪评估感兴趣，请填写[显示桌面评估客户申请](https://go.microsoft.com/fwlink/?linkid=2053818)表。
+- 用于确定在 Windows 10 和 Office 365 专业增强版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问[桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果对深入升级就绪性评估感兴趣，请填写[新式桌面评估的客户请求](https://go.microsoft.com/fwlink/?linkid=2053818)表单。
 - 研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。有关详细信息，请参阅 [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580)。
 - 应用仅打包服务。但是，桌面应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。
 

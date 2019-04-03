@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355292"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016992"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -112,7 +112,7 @@ FastTrack 中心提供有关以下服务的协助：
 - Exchange Online 计划 2 
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Exchange Online 高级威胁防护
+- Office 365 高级威胁防护
     
  **Project Online**
   
@@ -165,7 +165,7 @@ FastTrack 中心提供有关以下服务的协助：
 |**Cloud Attach**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
 |**Microsoft 高级威胁保护**     |    有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft 高级威胁分析**   |        有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Microsoft 高级威胁分析**   |        有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 |**Microsoft Cloud App Security**    |       有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)。
