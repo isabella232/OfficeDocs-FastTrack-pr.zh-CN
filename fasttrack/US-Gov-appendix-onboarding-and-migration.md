@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: office 365 板载版 office 365 美国政府有四个主要阶段, 即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+description: Office 365 板载版 office 365 美国政府有四个主要阶段, 即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016980"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513593"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务, 请参阅 office [365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)和[你对 office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务, 请参阅 office [365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)和[你对 Office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -136,7 +136,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置 DNS。    
 - 创建任何聊天室系统设备的帐户。    
 - 部署支持的 Skype for Business Online 客户端。   
-- 在本地 Lync 2010、Lync 2013 或 skype for business 2015 server 环境和 skype for business Online 租户之间建立拆分域服务器配置 (如果适用)。
+- 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 server 环境和 Skype for business Online 租户之间建立拆分域服务器配置 (如果适用)。
 - 启用通话套餐、Skype 会议直播和电话系统和通话套餐 (在可用市场中-在 GCC 高或 DoD 计划中不可用)。 
     
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
@@ -177,7 +177,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 对于 Yammer，我们提供有关启用 Yammer Enterprise 服务的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。 
+> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 Office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。 
   
 ## <a name="office-365-proplus"></a>Office 365 专业增强版
 

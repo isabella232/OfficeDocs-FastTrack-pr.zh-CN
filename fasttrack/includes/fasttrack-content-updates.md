@@ -18,13 +18,13 @@
 | 4/1/2019 | [符合条件的服务和计划](/FastTrack/m365-eligible-services-and-plans) | 修改内容 |
 | 4/1/2019 | [适用于 Microsoft 365 的 FastTrack 中心权益](/FastTrack/m365-fasttrack-benefit-overview) | 修改内容 |
 | 4/1/2019 | [数据迁移](/FastTrack/o365-data-migration) | 修改内容 |
-| 4/1/2019 | [附录 B - FastTrack 中心的附加权益](/FastTrack/o365-fasttrack-additional-benefits) | 修改内容 |
+| 4/1/2019 | [附录 B：FastTrack 中心的其他权益](/FastTrack/o365-fasttrack-additional-benefits) | 修改内容 |
 | 4/1/2019 | [适用于 Office 365 的 FastTrack 中心权益](/FastTrack/o365-fasttrack-benefit-for-office-365) | 修改内容 |
 | 4/1/2019 | [FastTrack 中心权益概述](/FastTrack/o365-fasttrack-benefit-overview) | 修改内容 |
 | 4/1/2019 | [FastTrack 流程](/FastTrack/o365-fasttrack-process) | 修改内容 |
 | 4/1/2019 | [FastTrack 责任](/FastTrack/o365-fasttrack-responsibilities) | 修改内容 |
-| 4/1/2019 | [附录 A - 从 IBM Domino 迁移到 Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | 修改内容 |
-| 4/1/2019 | [附录 C - FastTrack 中心 HIPAA 业务关联协议](/FastTrack/o365-hipaa-business-associate-agreement) | 修改内容 |
+| 4/1/2019 | [附录 A：从 IBM Domino 迁移到 Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | 修改内容 |
+| 4/1/2019 | [附录 C - FastTrack 中心 HIPAA 业务联合协议](/FastTrack/o365-hipaa-business-associate-agreement) | 修改内容 |
 | 4/1/2019 | [载入和迁移阶段](/FastTrack/o365-onboarding-and-migration) | 修改内容 |
 | 4/1/2019 | [对源环境的预期](/FastTrack/o365-source-environment-expectations) | 修改内容 |
 | 4/1/2019 | [你的责任](/FastTrack/o365-your-responsibilities) | 修改内容 |
@@ -35,4 +35,12 @@
 | 4/1/2019 | [你对 Office 365 美国政府的责任](/FastTrack/us-gov-appendix-your-responsibilities) | 修改内容 |
 | 4/1/2019 | [提供的协助](/FastTrack/win-10-daa-assistance-offered) | 修改内容 |
 | 4/1/2019 | [桌面应用保证](/FastTrack/win-10-desktop-app-assure) | 修改内容 |
-| 4/1/2019 | [适用于 Windows 10 的 FastTrack 中心权益](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | 修改时间 |
+| 4/1/2019 | [适用于 Windows 10 的 FastTrack 中心权益](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | 修改内容 |
+
+
+## <a name="week-of-april-08-2019"></a>2019 年 4 月 8 日那周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 2019 年 4 月 10 日 | [载入和迁移阶段](/FastTrack/ems-onboarding-phases) | 修改内容 |

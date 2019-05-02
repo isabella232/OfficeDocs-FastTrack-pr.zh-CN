@@ -3,19 +3,19 @@ title: Office 365 美国政府版的 FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016968"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513123"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -100,7 +100,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 使用 Exchange Online 设置统一消息 (um) (um 在 GCC DoD 计划中不可用)。 
+- 使用 Exchange Online 设置统一消息 (UM) (UM 在 GCC DoD 计划中不可用)。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
@@ -152,7 +152,7 @@ FastTrack 专家在载入期间将承担以下责任。
   - 向许可用户分配号码。  
   - 通过 UI 进行本地号码端口定位的指南（最多到 999）。  
   - 超过 999 的本地号码端口定位 SR 支持。  
-- 启用 Skype for business 会议广播 (在 GCC 高或 DoD 计划中不可用):  
+- 启用 Skype for Business 会议广播 (在 GCC 高或 DoD 计划中不可用):  
   - 启用 Skype for Business 会议直播载入指南。  
   - 使用会议直播服务的联合身份验证组织设置。
     
@@ -193,7 +193,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
+> Yammer Enterprise 不是 Office 365 美国政府的一个组件, 但可以免费获取, 作为针对 GCC 中的 Office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
   
 ## <a name="office-365-proplus"></a>Office 365 专业增强版
 

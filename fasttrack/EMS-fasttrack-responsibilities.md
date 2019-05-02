@@ -5,25 +5,25 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016908"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513831"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
 在载入过程中, FastTrack 具有以下职责。
 
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 -   向您提供远程支持协助, 以获取详细阶段说明中列出的必需配置活动。
 
@@ -70,7 +70,7 @@ ms.locfileid: "31016908"
 
 -   对于单林环境:
 
-    -   在 Active directory 域服务 (AD DS) 和符合条件的 Microsoft online services 之间安装目录同步服务器 (仅在需要时提供指导)。
+    -   在 Active Directory 域服务 (AD DS) 和符合条件的 Microsoft online services 之间安装目录同步服务器 (仅在需要时提供指导)。
 
     -   使用 Azure Active Directory Connect 工具配置托管身份验证 (密码哈希同步或传递身份验证)。 (仅在需要时提供指导)。
 
@@ -98,7 +98,7 @@ ms.locfileid: "31016908"
 
 - 对于单林环境:
 
-  -   如果需要, 在 Active directory 域服务 (AD DS) 和 Azure AD Connect 之间安装目录同步。
+  -   如果需要, 在 Active Directory 域服务 (AD DS) 和 Azure AD Connect 之间安装目录同步。
 
   -   使用 Azure AD Connect 工具配置身份验证方法 (密码哈希同步或传递身份验证)。
 
@@ -118,21 +118,21 @@ ms.locfileid: "31016908"
       > [!NOTE]
       > 密码哈希同步和密码写回支持多个林。 但是, 不支持其他写回方案。
 
-  - 配置本地 Active directory 林与 Microsoft Azure active directory 高级目录之间的同步 (Azure active directory)。
+  - 配置本地 Active Directory 林与 Microsoft Azure Active directory 高级目录之间的同步 (Azure Active Directory)。
 
     > [!NOTE]
     > 自定义规则扩展的开发和实现不在范围内。
 
 - 对于单个林, 当目标为联合身份时:
 
-  -   在单一站点、容错配置 (如果需要) 中为使用 Azure ad Premium 的本地域身份验证安装和配置 AD FS。
+  -   在单一站点、容错配置 (如果需要) 中为使用 Azure AD Premium 的本地域身份验证安装和配置 AD FS。
 
   > [!NOTE]
   > 对于所有的多林配置, AD FS 部署不在作用域内。
 
 - 测试 SSO 功能 (如果已部署)。
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>启用阶段-azure ad Premium--azure ad Connect 和 AD FS
+### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>启用阶段-Azure AD Premium--Azure AD Connect 和 AD FS
 
 提供有关设置的指导:
 
@@ -173,7 +173,7 @@ ms.locfileid: "31016908"
 
 提供有关以下内容的**指导**:
 
--   通过利用本地 Active directory 或云标识 (Azure Active directory) 配置由 Intune 使用的标识。
+-   通过利用本地 Active Directory 或云标识 (Azure Active Directory) 配置由 Intune 使用的标识。
 
 -   许可最终用户。
 
@@ -197,7 +197,7 @@ ms.locfileid: "31016908"
 
         -   适用于应用程序部署的批量购买计划, 包括 Apple 的 VPP、适用于企业的 Windows 应用商店和 Google 的工作商店重头戏。
 
-        -   如果您的组织中有现有的证书颁发机构、wlan 或 vpn 基础结构, 则部署电子邮件、无线网络和 vpn 配置文件。
+        -   如果您的组织中有现有的证书颁发机构、Wlan 或 VPN 基础结构, 则部署电子邮件、无线网络和 VPN 配置文件。
 
         -   设置 Microsoft Intune Exchange Connector (如果适用)。
 
@@ -220,7 +220,7 @@ ms.locfileid: "31016908"
 
         -   电信费用管理解决方案 (需要电信费用管理解决方案订阅)。
 
-        -   windows Defender 高级威胁防护 (windows E5 或 Microsoft 365 E5 许可证是必需的)。
+        -   Windows Defender 高级威胁防护 (Windows E5 或 Microsoft 365 E5 许可证是必需的)。
 
     -   为适用的受支持平台配置软件更新。
 
@@ -259,7 +259,7 @@ ms.locfileid: "31016908"
 
 -   将用户添加到 Intune 订阅、定义 IT 管理员角色以及创建用户和设备组。
 
--   准备 intune (如果未安装 intune):
+-   准备 Intune (如果未安装 Intune):
 
     -   根据您的管理需求配置移动设备管理 MDM) 证书颁发机构, 其中包括:
 
@@ -280,6 +280,22 @@ ms.locfileid: "31016908"
 - 将工作负荷切换到 Intune。
 
 - 监视环境中的联合管理活动。
+
+### <a name="enable-phase--azure-information-protection"></a>启用阶段– Azure 信息保护
+
+提供以下支持: 
+
+- 客户能够在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。 
+- 使用 Azure 信息保护扫描程序的 rest 文件。
+- 使用 Exchange Online 邮件流规则的传输中的电子邮件。 
+
+此外, 还向希望使用 Microsoft Azure 权限管理服务 (Azure RMS)、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 应用保护的客户提供支持。 
+
+向客户提供有关如何执行以下操作的指南: 
+
+- 激活并配置其租户。
+- 创建和设置标签和策略。
+- 对文档应用信息保护。 
 
 > [!NOTE]
 > **想要了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。

@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767291"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513455"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
-当您使用[符合条件的服务和计划](M365-eligible-services-and-plans.md)来获取 microsoft Azure Active Directory Premium 和 microsoft Intune 准备好使用时, 此过程涉及到几个阶段。 以下各节介绍了每个载入过程的阶段。
+当您使用[符合条件的服务和计划](M365-eligible-services-and-plans.md)来获取 Microsoft Azure Active Directory Premium、microsoft Intune 和 Azure 信息保护准备就绪时, 该过程中涉及到几个阶段。 以下各节介绍了每个载入过程的阶段。
 
 加入分为四个主要阶段:
 
@@ -82,7 +82,7 @@ FastTrack 中心还将向你提供有关如何推动符合条件的服务的成�
 
 **启用相位-核心功能**
 
-核心载入涉及服务预配以及租户和身份集成。 它还包括为加入在线服务 (如 Azure AD Premium 和 Intune) 奠定基础的步骤。
+核心载入涉及服务预配以及租户和身份集成。 它还包括为提供联机服务 (如 Azure AD Premium、Intune 和 Azure 信息保护) 奠定基础的步骤。
 
 ![启用启动阶段-核心功能](./media/ft-enable-phase-core-01.png)
 
@@ -95,7 +95,7 @@ FastTrack 中心还将向你提供有关如何推动符合条件的服务的成�
 
 ### <a name="enable-phase---azure-ad-premium"></a>启用阶段-Azure AD 高级版
 
-可以使用 azure Active directory Connect tool Directory 同步和 Active directory 联合身份验证服务 (AD FS) 设置 azure AD Premium 环境 (根据需要)。
+可以使用 Azure Active Directory Connect tool Directory 同步和 Active Directory 联合身份验证服务 (AD FS) 设置 Azure AD Premium 环境 (根据需要)。
 
 对于包括将本地标识同步到云的 Azure AD 高级方案, 我们通过向你的订阅添加 IT 管理员和用户来帮助你, 配置管理先决条件, 设置 Azure AD Premium, 设置目录使用 Azure AD Connect 工具与托管身份验证和 AD FS 同步, 配置测试用户并验证服务的核心用例。
 
@@ -103,7 +103,7 @@ Azure AD Premium 安装程序包括启用以下功能:
 
 -   Azure Active Directory 自助服务密码重置 (SSPR)。
 
--   azure 多因素身份验证 (azure MFA)。
+-   Azure 多因素身份验证 (Azure MFA)。
 
 -   最多三台 (3) 或更多软件即服务 (SaaS) 应用程序集成, 使用来自[Azure Active Directory 市场](https://azure.microsoft.com/marketplace/active-directory/)的单一登录 (SSO)。
 
@@ -141,7 +141,7 @@ Azure AD Premium 安装程序包括启用以下功能:
 
 -   根据您的管理需求配置移动设备管理 (MDM) 证书颁发机构, 其中包括:
 
-    -   当 intune 是唯一的 mdm 解决方案或与 Office 365 的移动设备管理配合使用时, 将 intune 设置为 MDM 颁发机构。
+    -   当 Intune 是唯一的 MDM 解决方案或与 Office 365 的移动设备管理配合使用时, 将 Intune 设置为 MDM 颁发机构。
 
 -   提供适用于以下项的 MDM 指南:
 
@@ -153,7 +153,7 @@ Azure AD Premium 安装程序包括启用以下功能:
 
         -   条件访问策略。
 
-        -   如果你的组织中有现有的证书颁发机构、wlan 或 VPN 基础结构, 则部署电子邮件、无线网络和虚拟专用网络 (VPN) 配置文件。
+        -   如果你的组织中有现有的证书颁发机构、Wlan 或 VPN 基础结构, 则部署电子邮件、无线网络和虚拟专用网络 (VPN) 配置文件。
 
         -   设置 Microsoft Intune Exchange Connector (如果适用)。
 
@@ -166,7 +166,7 @@ Azure AD Premium 安装程序包括启用以下功能:
 
             -   电信费用管理解决方案 (需要电信费用管理解决方案订阅)。
 
-            -   windows Defender 高级威胁防护 (windows E5 或 Microsoft 365 E5 许可证是必需的)。
+            -   Windows Defender 高级威胁防护 (Windows E5 或 Microsoft 365 E5 许可证是必需的)。
 
     -   将每个[受支持平台](https://technet.microsoft.com/library/dn600287.aspx)的设备注册到 Intune。
 
@@ -195,9 +195,9 @@ Azure AD Premium 安装程序包括启用以下功能:
 
 FastTrack 支持以下 Autopilot 方案:
 
-- **Azure AD 自助服务:** 设备加入 Azure AD 并注册到 Intune。 此方案在使用 Windows 10 1703 和最新版本时受支持。
+- **AZURE AD 自助服务:** 设备加入 Azure AD 并注册到 Intune。 此方案在使用 Windows 10 1703 和最新版本时受支持。
 
-- **混合 AAD 自助服务:** 设备将加入内部部署 ad 和 Azure AD, 并注册到 Intune。 此方案在使用 Windows 10 1809 和最新版本时受支持。
+- **混合 AAD 自助服务:** 设备将加入内部部署 AD 和 Azure AD, 并注册到 Intune。 此方案在使用 Windows 10 1809 和最新版本时受支持。
 
 - **自设置:** 设备将自动加入 Azure AD。 此方案在使用 Windows 1809 和最新版本时受支持。
 
@@ -224,9 +224,9 @@ FastTrack 可帮助您在组织中安全地部署 Outlook for iOS 和 Outlook fo
 
 使用 Intune 安全部署适用于 iOS 和 Android 的 Outlook Mobile 的步骤取决于源环境, 并且可以包括:
 
-- 通过 Apple app store 或 Google Play 商店下载 Outlook for iOS 和 Android、Microsoft 身份验证者和 Intune 公司门户应用。
+- 通过 Apple App Store 或 Google Play 商店下载 Outlook for iOS 和 Android、Microsoft 身份验证者和 Intune 公司门户应用。
 - 同时提供有关设置的指导:
-    - Outlook for iOS 和 Android、Microsoft 身份验证者和 intune 公司门户应用程序部署 (intune)。
+    - Outlook for iOS 和 Android、Microsoft 身份验证者和 Intune 公司门户应用程序部署 (Intune)。
     - 应用保护策略
     - 条件访问策略
     - 应用配置策略
@@ -246,7 +246,7 @@ FastTrack 引导您完成使用 Configuration Manager 和 Intune 同时管理 Wi
 
 - 将用户添加到 Intune 订阅、定义 IT 管理员角色以及创建用户和设备组。
 
-- 提供有关如何从与 System Center Configuration Manager (混合) 集成到 intune 独立的 intune 迁移的指南。
+- 提供有关如何从与 System Center Configuration Manager (混合) 集成到 Intune 独立的 Intune 迁移的指南。
 
 - 提供有关为 MDM 自动注册设置 Azure Active Directory 的指南。
 
@@ -269,6 +269,23 @@ FastTrack 还提供了有关如何促进符合条件的服务的成功采用的�
 ![启用启动阶段-Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![启用加入阶段-共同管理](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>启用阶段– Azure 信息保护
+
+Azure 信息保护提供以下支持: 
+
+- 客户能够在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。 
+- 使用 Azure 信息保护扫描程序的 rest 文件。
+- 使用 Exchange Online 邮件流规则的传输中的电子邮件。 
+
+此外, 还向希望使用 Microsoft Azure 权限管理服务 (Azure RMS)、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 应用保护的客户提供支持。 
+
+向客户提供有关如何执行以下操作的指南: 
+
+- 激活并配置其租户。
+- 创建和设置标签和策略。
+- 对文档应用信息保护。 
+
 
 > [!NOTE]
 > **想要了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。

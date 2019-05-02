@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016924"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513375"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -57,23 +57,23 @@ ms.locfileid: "31016924"
 
 -   建立并维护你的测试环境。
 
--   在基础结构服务器上安装 service pack/累积更新 (cu) 和其他所需更新。
+-   在基础结构服务器上安装 service pack/累积更新 (Cu) 和其他所需更新。
 
 -   提供和配置任何公用安全套接字层 (SSL) 证书。
 
--   将 configuration manager 设置或升级到与 Configuration manager 的 Microsoft Intune 集成的最低要求。
+-   将 Configuration Manager 设置或升级到与 Configuration Manager 的 Microsoft Intune 集成的最低要求。
 
--   如果需要使用 Intune 部署 wi-fi 和 VPN 配置文件, 请根据需要提供和配置证书颁发机构、wlan 和 vpn 基础结构。
+-   如果需要使用 Intune 部署 Wi-fi 和 VPN 配置文件, 请根据需要提供和配置证书颁发机构、Wlan 和 VPN 基础结构。
 
 -   编写组织的使用条款 (TOU) 声明, 以在最终用户可以访问的 Microsoft Intune 公司门户上进行配置和显示。
 
--   将 Configuration manager 站点服务器和 Configuration manager 客户端升级到最新的内部版本 (如果需要)。
+-   将 Configuration Manager 站点服务器和 Configuration manager 客户端升级到最新的内部版本 (如果需要)。
 
 -   注册第三方订阅, 如移动威胁防护、电信费用等, 需要与 Microsoft Intune 集成时。
 
 -   注册团队查看者、移动威胁防御和电信费用管理解决方案订阅。
 
--   注册 Windows Defender 高级威胁防护许可证。 (Windows e5 或 Microsoft E5 许可证)。
+-   注册 Windows Defender 高级威胁防护许可证。 (Windows E5 或 Microsoft E5 许可证)。
 
 ## <a name="initiate-phase"></a>启动阶段
 
