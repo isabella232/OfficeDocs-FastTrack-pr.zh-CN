@@ -3,7 +3,7 @@ title: 适用于 Office 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
-ms.openlocfilehash: 04a8aab19ad2a2c35b9dd187a17932b2cd6d772a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: afc8980037d92042f98a89ab55c1642078fea49c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016812"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513387"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>适用于 Office 365 的 FastTrack 中心权益
 
@@ -39,7 +39,3 @@ Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心�
     
 > [!NOTE]
 > 本信息仅供参考。 
-  
-  
-
- 

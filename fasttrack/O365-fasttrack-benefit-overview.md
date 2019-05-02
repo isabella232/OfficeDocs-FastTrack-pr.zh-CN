@@ -3,7 +3,7 @@ title: FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 使用适于 Office 365 的 FastTrack 中心权益，可以与 FastTrack 专家远程合作，共同让 Office 365 环境可供使用，并计划在组织内推动服务的使用。有关资格的详细信息，请参阅适用于 Office 365 的 FastTrack 中心权益。
-ms.openlocfilehash: 9c6cd19b93ffb7b8520b67e87c818f0361a237d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: c220ff2180122aa5d16fa3b118742897fb545bcd
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016752"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513807"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 

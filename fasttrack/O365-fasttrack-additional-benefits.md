@@ -3,18 +3,18 @@ title: 附录 B：FastTrack 中心的其他权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 3775e5d4fd7aea76d8fb3ee766253ede9f82611d
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1521d3eec5c710af4418bc8bf71d8aac74e68dbc
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016921"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513411"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
