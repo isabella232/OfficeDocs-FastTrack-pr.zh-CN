@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016992"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513087"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -147,7 +147,7 @@ FastTrack 中心提供有关以下服务的协助：
 
 \*\*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://aka.ms/aboutgovcloud)。
 
-\*\*\*可用于 Skype for Business Online 和 Microsoft Teams 许可用户。
+\*\*\*可用于 Skype for Business Online 和 Microsoft Teams 许可用户。 需要符合条件购买 Skype for Business 或 Microsoft Teams。 
 
 > [!NOTE]
 > FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 
@@ -160,7 +160,7 @@ FastTrack 中心提供有关以下服务的协助：
 |---------|---------|
 |**企业移动性 + 安全性 (EMS) E3 或 E5**       |   适用于符合 FastTrack 权益的云服务。否则这将路由到 FastTrack 专家或合作伙伴引荐。        |
 |**Microsoft Azure Active Directory Premium**     |  如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。       |
-|**Microsoft Azure 信息保护**    |  可用于 P2，作为 E5 的一部分或作为独立计划。否则这将路由到 FastTrack 专家或合作伙伴引荐。        |
+|**Microsoft Azure 信息保护**    |  适用于 P2，作为 EMS E5 的一部分，或者作为单独套餐。 否则，这将会路由至 FastTrack 专家或合作伙伴引用。        |
 |**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
 |**Cloud Attach**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |

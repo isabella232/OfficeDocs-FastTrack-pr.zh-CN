@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017076"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513747"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -23,7 +23,7 @@ FastTrack 专家提供有关将数据迁移到 Office 365 的逐步指导。我�
   
 下表中列出的数据迁移服务适用于许可证不少于 500 个的 Office 365 租户。\*例如，可能要将源环境中的数据迁移到 Office 365。FastTrack 中心 权益包括了解如何完成源环境集成，从而促进内容迁移。
   
-\*如果在 2017 年 9 月 1 日前购买或续订了商业计划，在当前整个订阅期内，至少必须有 150 个席位，才能享受迁移权益。对于教育计划，只有教职员工才有资格使用迁移服务。 
+\*如果在 2017 年 9 月 1 日之前购买或续订了商务套餐，则当前订阅期内的最低座席要求为 150 个座席，以享受迁移优势。对于教育套餐，只有付费教职员工许可证才具有迁移服务资格。 
   
 > [!NOTE]
 > 通过 FastTrack 服务迁移的数据可以转移到美国或 Microsoft 维护设施的其他任何地方（除非特定 FastTrack 协定另有规定），并在其中进行存储和处理。FastTrack 服务并不旨在确保数据符合特殊法律或法规要求。 
