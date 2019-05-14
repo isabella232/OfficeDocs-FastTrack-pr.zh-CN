@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513831"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967957"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -283,7 +283,7 @@ ms.locfileid: "33513831"
 
 ### <a name="enable-phase--azure-information-protection"></a>启用阶段– Azure 信息保护
 
-提供以下支持: 
+提供有关以下内容的指导: 
 
 - 客户能够在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。 
 - 使用 Azure 信息保护扫描程序的 rest 文件。

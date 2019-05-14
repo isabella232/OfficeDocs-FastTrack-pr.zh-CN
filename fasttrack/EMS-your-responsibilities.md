@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513375"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967969"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -47,7 +47,7 @@ ms.locfileid: "33513375"
 
 -   管理网络配置、分析、带宽验证、测试和监控。
 
--   管理技术变更管理审批流程, 并创建支持文档。
+-   管理技术变更管理审核流程, 并创建基于指南的文档。
 
 -   修改操作模型和操作指南。
 

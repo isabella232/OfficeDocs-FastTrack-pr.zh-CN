@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513455"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967981"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -47,7 +47,7 @@ ms.locfileid: "33513455"
 > [!NOTE]
 > 如果你的 Office 365 租户中列出了 Microsoft 合作伙伴, 你将不会看到此选项。 请咨询你的 Microsoft 合作伙伴以获取帮助。
 
-Microsoft 合作伙伴也可以代表客户通过[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 To do so:
+Microsoft 合作伙伴也可以代表客户通过[FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 为此，请执行以下操作：
 
 1. 登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。
 2. 选择“FastTrack”****。
@@ -272,7 +272,7 @@ FastTrack 还提供了有关如何促进符合条件的服务的成功采用的�
 
 #### <a name="enable-phase--azure-information-protection"></a>启用阶段– Azure 信息保护
 
-Azure 信息保护提供以下支持: 
+Azure 信息保护针对以下内容提供指导: 
 
 - 客户能够在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。 
 - 使用 Azure 信息保护扫描程序的 rest 文件。
