@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967981"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673555"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -272,20 +274,16 @@ FastTrack 还提供了有关如何促进符合条件的服务的成功采用的�
 
 #### <a name="enable-phase--azure-information-protection"></a>启用阶段– Azure 信息保护
 
-Azure 信息保护针对以下内容提供指导: 
-
-- 客户能够在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。 
-- 使用 Azure 信息保护扫描程序的 rest 文件。
-- 使用 Exchange Online 邮件流规则的传输中的电子邮件。 
-
-此外, 还向希望使用 Microsoft Azure 权限管理服务 (Azure RMS)、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 应用保护的客户提供支持。 
-
 向客户提供有关如何执行以下操作的指南: 
 
 - 激活并配置其租户。
 - 创建和设置标签和策略。
 - 对文档应用信息保护。 
+- 在 Windows 上运行的 Office 应用程序 (如 Word、PowerPoint、Excel 和 Outlook) 中自动分类和标记信息, 并使用 Azure 信息保护客户端。
+- 使用 Azure 信息保护扫描程序在 rest 上使用文件。
+- 使用 Exchange Online 邮件流规则监视传输中的电子邮件。
 
+此外, 还向希望使用 Microsoft Azure 权限管理服务 (Azure RMS)、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 应用保护的客户提供指导。
 
 > [!NOTE]
 > **想要了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)。
