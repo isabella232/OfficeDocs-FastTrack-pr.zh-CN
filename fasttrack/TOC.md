@@ -19,6 +19,6 @@
 #### [载入阶段](EMS-onboarding-phases.md)
 #### [FastTrack 责任](EMS-fasttrack-responsibilities.md)
 #### [你的责任](EMS-your-responsibilities.md)
-## [适用于 Windows 10 的 FastTrack 中心权益](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [适用于 Windows 10 的 FastTrack 中心权益](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [桌面应用保证](Win-10-desktop-app-assure.md)
 #### [提供的协助](Win-10-daa-assistance-offered.md)

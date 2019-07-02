@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673279"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410883"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益
 
-当你在符合条件的计划中购买至少 150 个 EMS 许可证或其任何单个云服务时，可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后，与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。 专家还会提供迁移指导。
+当你在符合条件的计划中购买至少 150 个 EMS 许可证或其任何单个云服务时，可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后，与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。 专家还会提供迁移指导。 
 
 > [!IMPORTANT]
 > 在本文档中，FastTrack 专家是指包括 Microsoft 员工、Microsoft 核准供应商和 Microsoft 核准合作伙伴在内的人员。
