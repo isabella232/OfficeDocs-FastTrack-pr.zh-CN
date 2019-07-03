@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 5ed941e536a548aadc20117e45f66c141e81e4c7
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673603"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410823"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -128,7 +128,7 @@ FastTrack 中心提供有关以下服务的协助：
     
  **OneDrive for Business**
   
-- 含 Office Online 的 OneDrive for Business 
+- 含 Office 的 OneDrive for Business
 - OneDrive for Business 计划 1
 - OneDrive for Business 计划 2
     

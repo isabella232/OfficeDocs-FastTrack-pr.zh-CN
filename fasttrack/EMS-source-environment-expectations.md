@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673560"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410811"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 
@@ -38,7 +38,7 @@ ms.locfileid: "34673560"
 |Intune 与 Windows Defender 高级威胁防护 (Windows Defender ATP) 集成|你的 Windows Defender ATP 订阅已根据贵公司的安全要求进行激活和配置。<br /><br />**注意**：FastTrack 服务权益可帮助你将 Intune 与 Windows Defender ATP 集成，并根据其 Windows 10 风险级别评估创建设备合规性策略。 FastTrack 服务权益不提供有关购买、许可、激活或使用 Windows Defender ATP 及其安全中心控制台的帮助。 |
 |Windows Autopilot|IT 管理员负责通过让硬件供应商代表他们上载其硬件 ID 或自己将其上载到 Windows Autopilot 服务中来向其组织注册设备。 |
 |使用 Intune 安全地部署 Outlook for iOS 和 Outlook for Android|<br /><br />-   在 Azure AD for Office 365 中启用的用户标识。<br />-   配置有已分配的用户许可证的 Exchange Online 或混合 Exchange。<br />|
-|Azure 信息保护（P2 或 EMS E5）|<br /><br />客户应该已经： <br /> - 使用 Azure AD。<br />- 使用 Windows 或 iOS（其他操作系统超出范围）。<br /> - 使用不依赖 Office Online 作为主客户端的比 Office 2010 SP2 更高版本的 Office 客户端。 <br /> - 具有他们的主文件共享位置。  <br /> - 已从 Active Directory 权限管理服务 (AD RMS) 升级。 <br /> - 具有已批准的分类的分类法。 <br /> - 了解针对其受保护密钥管理的任何监管限制。 <br />|
+|Azure 信息保护（P2 或 EMS E5）|<br /><br />客户应该已经： <br /> - 使用 Azure AD。<br />- 使用 Windows 或 iOS（其他操作系统超出范围）。<br /> - 使用不依赖 Office 作为主客户端的比 Office 2010 SP2 更高版本的 Office 客户端。 <br /> - 具有他们的主文件共享位置。  <br /> - 已从 Active Directory 权限管理服务 (AD RMS) 升级。 <br /> - 具有已批准的分类的分类法。 <br /> - 了解针对其受保护密钥管理的任何监管限制。 <br />|
 |Azure 信息保护扫描程序|<br /><br /> 客户应该已经： <br /> - 使用 Windows Server 2012 R2 或 Windows Server 2016。<br /> - 具有 Internet 连接。 <br /> - 在本地或远程实例中安装了 Microsoft SQL Server 2012 或更高版本。  <br /> - 为其本地 Active Directory 创建了服务帐户，并已与 Azure AD 同步。  <br /> - 已下载 AzInfoProtection.exe。 <br /> - 已为自动分类/保护配置了标签。<br />|
 
 > [!NOTE]
