@@ -3,19 +3,19 @@ title: Office 365 美国政府版的 FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673663"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054047"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -157,9 +157,6 @@ FastTrack 专家在载入期间将承担以下责任。
   - 使用会议直播服务的联合身份验证组织设置。
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
-
-> [!NOTE]
-> 以下项在 GCC High 或 DoD 计划中不可用。
 
 针对以下内容提供相关指导：
 - 确认最低要求。   
