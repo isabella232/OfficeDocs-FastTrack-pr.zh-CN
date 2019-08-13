@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054107"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294430"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -40,8 +40,6 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“服务”****。
 3.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
-> [!NOTE]
->  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 

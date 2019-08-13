@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053987"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294334"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -45,10 +45,8 @@ FastTrack 流程提供了载入和用户采用服务。
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“服务”****。
 3.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
-> [!NOTE]
->  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
   
- 也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+ 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
  在载入助手启动后，我们便会制定联机会议的日程安排。
     

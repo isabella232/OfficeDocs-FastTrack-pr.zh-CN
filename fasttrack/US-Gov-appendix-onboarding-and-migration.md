@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段, 即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053711"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294346"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -38,8 +38,6 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 2.  选择“FastTrack”****。
 3.  选择“服务”****。
 4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
-    > [!NOTE]
-    >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
 
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
