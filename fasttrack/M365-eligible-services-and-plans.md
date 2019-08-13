@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053879"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294214"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -32,9 +32,7 @@ ms.locfileid: "36053879"
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“服务”****。
 3.  完成“通过 Microsoft 365 请求帮助”**** 表单。
-    > [!NOTE]
-    >  如果你的 Office 365 租户中列出了你的一个合作伙伴，你将不会看到此选项。请咨询你的合作伙伴以获得帮助。 
-
+  
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“我的客户”****。
@@ -163,7 +161,7 @@ FastTrack 中心提供有关以下服务的协助：
 |**Microsoft Azure Active Directory Premium**     |  如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。       |
 |**Microsoft Azure 信息保护**    |  适用于 P2，作为 E5 的一部分，或者作为单独套餐。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。       |
 |**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
-|**Cloud Attach**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
+|**在云端将 Configuration Manager 与 Microsoft Intune 结合起来**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
 |**Microsoft 高级威胁保护**     |    有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
 |**Microsoft 高级威胁分析**   |        有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |

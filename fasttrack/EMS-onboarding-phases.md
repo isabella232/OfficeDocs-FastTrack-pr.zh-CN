@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053819"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294298"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -45,9 +45,6 @@ ms.locfileid: "36053819"
 4. 填写**通过 Microsoft 365 请求帮助**表单。
 
 在载入支持启动后，我们便会制定联机会议的日程安排。
-
-> [!NOTE]
-> 如果你的 Office 365 租户中列出了一个 Microsoft 合作伙伴，则你不会看到此选项。 请咨询你的合作伙伴以获得帮助。
 
 Microsoft 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 为此，请执行以下操作：
 
