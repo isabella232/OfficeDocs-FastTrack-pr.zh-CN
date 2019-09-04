@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30875b429649b7d69083ea39f99b0158fbc7de0b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: a758a288d5e4ce653ae8f15f54c9ac5fe7a92ae1
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053783"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711620"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -122,7 +122,7 @@ ms.locfileid: "36053783"
 -   根据 FastTrack 团队的指导，启用各种服务。
 
 > [!NOTE]
-> **希望了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **希望了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/zh-CN/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>另请参阅
 
