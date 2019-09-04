@@ -3,35 +3,35 @@ title: 源环境预期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你为 Windows 10 部署设置与源环境的集成级别。
-ms.openlocfilehash: 2aaee180b8cc6a0b6b0f6d0608ebbcb02610d2da
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 30e3ce25d36116629dcd3814c90d3402bcff895e
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294382"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712256"
 ---
-# <a name="source-environment-expectations"></a><span data-ttu-id="905e1-103">源环境预期</span><span class="sxs-lookup"><span data-stu-id="905e1-103">Source Environment Expectations</span></span>
+# <a name="source-environment-expectations"></a><span data-ttu-id="cd743-103">源环境预期</span><span class="sxs-lookup"><span data-stu-id="cd743-103">Source Environment Expectations</span></span>
 
-<span data-ttu-id="905e1-104">FastTrack 中心权益可以指导你设置与源环境的集成级别。</span><span class="sxs-lookup"><span data-stu-id="905e1-104">The FastTrack Center Benefit provides guidance for you to set up levels of integration with your source environment (for example, if you already have services in your source environment that you want to move to Office 365).</span></span>
+<span data-ttu-id="cd743-104">FastTrack 中心权益可以指导你设置与源环境的集成级别。</span><span class="sxs-lookup"><span data-stu-id="cd743-104">The FastTrack Center Benefit provides guidance for you to set up levels of integration with your source environment (for example, if you already have services in your source environment that you want to move to Office 365).</span></span>
   
-<span data-ttu-id="905e1-105">要升级电脑，必须满足以下要求：</span><span class="sxs-lookup"><span data-stu-id="905e1-105">For PC upgrade, you must meet these requirements:</span></span>
+<span data-ttu-id="cd743-105">要升级电脑，必须满足以下要求：</span><span class="sxs-lookup"><span data-stu-id="cd743-105">For PC upgrade, you must meet these requirements:</span></span>
 
-- <span data-ttu-id="905e1-106">源操作系统：Windows 7 企业版或专业版，Windows 8.1 企业版或专业版</span><span class="sxs-lookup"><span data-stu-id="905e1-106">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional</span></span>
-- <span data-ttu-id="905e1-107">设备：台式机、笔记本电脑或平板电脑的外形规格</span><span class="sxs-lookup"><span data-stu-id="905e1-107">Devices: Desktop, notebook, or tablet form factor</span></span>
-- <span data-ttu-id="905e1-108">目标操作系统：Window 10 企业版</span><span class="sxs-lookup"><span data-stu-id="905e1-108">Target OS: Window 10 Enterprise</span></span>
+- <span data-ttu-id="cd743-106">源操作系统：Windows 7 企业版或专业版，Windows 8.1 企业版或专业版</span><span class="sxs-lookup"><span data-stu-id="cd743-106">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional</span></span>
+- <span data-ttu-id="cd743-107">设备：台式机、笔记本电脑或平板电脑的外形规格</span><span class="sxs-lookup"><span data-stu-id="cd743-107">Devices: Desktop, notebook, or tablet form factor</span></span>
+- <span data-ttu-id="cd743-108">目标操作系统：Window 10 企业版</span><span class="sxs-lookup"><span data-stu-id="cd743-108">Target OS: Window 10 Enterprise</span></span>
 
-<span data-ttu-id="905e1-109">若要升级基础结构，必须满足以下要求：</span><span class="sxs-lookup"><span data-stu-id="905e1-109">For infrastructure upgrade, you must meet this requirement:</span></span>   
+<span data-ttu-id="cd743-109">若要升级基础结构，必须满足以下要求：</span><span class="sxs-lookup"><span data-stu-id="cd743-109">For infrastructure upgrade, you must meet this requirement:</span></span>   
 
-- <span data-ttu-id="905e1-110">受支持的 Windows 10 目标版本中的 System Center Configuration Manager（当前分支）</span><span class="sxs-lookup"><span data-stu-id="905e1-110">System Center Configuration Manager (Current Branch) at a supported version for the Windows 10 target</span></span>
+- <span data-ttu-id="cd743-110">受支持的 Windows 10 目标版本中的 System Center Configuration Manager（当前分支）</span><span class="sxs-lookup"><span data-stu-id="cd743-110">System Center Configuration Manager (Current Branch) at a supported version for the Windows 10 target</span></span>
 
-<span data-ttu-id="905e1-111">有关详细信息，请参阅 [Configuration Manager 中的 Windows 10 支持](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)中的 Configuration Manager 支持表格。</span><span class="sxs-lookup"><span data-stu-id="905e1-111">For more information, see the Configuration Manager support table at [Support for Windows 10 in Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span></span>
+<span data-ttu-id="cd743-111">有关详细信息，请参阅 [Configuration Manager 中的 Windows 10 支持](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)中的 Configuration Manager 支持表格。</span><span class="sxs-lookup"><span data-stu-id="cd743-111">For more information, see the Configuration Manager support table at [Support for Windows 10 in Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).</span></span>
   
 
  
