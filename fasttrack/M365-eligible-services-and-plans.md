@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294214"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711632"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -158,13 +158,12 @@ FastTrack 中心提供有关以下服务的协助：
 |计划    |资格详细信息  |
 |---------|---------|
 |**企业移动性 + 安全性 (EMS) E3 或 E5**       |   适用于符合 FastTrack 权益的云服务。否则这将路由到 FastTrack 专家或合作伙伴引荐。        |
-|**Microsoft Azure Active Directory Premium**     |  如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。       |
-|**Microsoft Azure 信息保护**    |  适用于 P2，作为 E5 的一部分，或者作为单独套餐。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。       |
+|**Azure Active Directory Premium**     |  如果以单独套餐的形式购买或随附 E3 或 E5 购买，则符合条件。       |
+|**Azure 信息保护**    |  适用于 P2，可随附 E5 购买或以单独套餐的形式购买。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。       |
 |**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
-|**在云端将 Configuration Manager 与 Microsoft Intune 结合起来**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
+|**Microsoft Intune 和 Configuration Manager**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
-|**Microsoft 高级威胁保护**     |    有限。 仅当作为独立计划购买时符合条件。 若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft 高级威胁分析**   |        有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
+|**Azure 高级威胁防护**     |    有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
 |**Microsoft Cloud App Security**    |       有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)。
