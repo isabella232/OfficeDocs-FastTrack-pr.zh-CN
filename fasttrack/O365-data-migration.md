@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 5f14c828a402d5d6b67f3f991a347b5326619f51
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: bd6640ce36ac523ee8d252eea4175105c0a80cf2
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711692"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342507"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -192,7 +192,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 |||||
 |:-----|:-----|:-----|:-----|
 |**源环境** <br/> |**迁移类型** <br/> |**迁移内容** <br/> |**不会迁移的内容** <br/> |
-|**任何支持 SMB 2.0 及更高版本的文件共享设备**  <br/> |一次性传输  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别的文件和文件夹权限\*  <br/>  组级别的文件和文件夹权限\*  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  上次修改者  <br/><br/> \**必须配置目录同步。只迁移对 Windows 文件资源管理器公开的 NTFS 权限。不会迁移文件共享设备上直接托管的权限。如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。* <br/> | 所有权历史记录和旧版本  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  旧版本  <br/>  Windows 文件和文件夹属性（如只读和隐藏）  <br/>  非 Windows 新技术文件系统 (NTFS) 和 NTFS 高级权限和特殊设置：  <br/>  显式拒绝权限（在迁移后删除的权限、从属于并行权限的内容或父文件夹上的权限）  <br/>  NTFS 审核配置  <br/>  文件分类基础结构 (FCI) 提供的附加文件元数据  <br/>  无法访问或已损坏的文档  <br/>  隐藏的共享  <br/>  共享（如在共享级别授予的权限）  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
+|**任何支持 SMB 2.0 及更高版本的文件共享设备**  <br/> |单通道或多通道  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别的文件和文件夹权限\*  <br/>  组级别的文件和文件夹权限\*  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  上次修改者  <br/><br/> \**必须配置目录同步。只迁移对 Windows 文件资源管理器公开的 NTFS 权限。不会迁移文件共享设备上直接托管的权限。如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。* <br/> | 所有权历史记录和旧版本  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  旧版本  <br/>  Windows 文件和文件夹属性（如只读和隐藏）  <br/>  非 Windows 新技术文件系统 (NTFS) 和 NTFS 高级权限和特殊设置：  <br/>  显式拒绝权限（在迁移后删除的权限、从属于并行权限的内容或父文件夹上的权限）  <br/>  NTFS 审核配置  <br/>  文件分类基础结构 (FCI) 提供的附加文件元数据  <br/>  无法访问或已损坏的文档  <br/>  隐藏的共享  <br/>  共享（如在共享级别授予的权限）  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
 |**Box（Starter、Business、Enterprise）**  <br/> |单通道或多通道  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别文件夹权限  <br/>  组级别文件夹权限  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  最后一次修改者  <br/>  要迁移的 Box 帐户所拥有的共享内容（若与用户或组显式共享的话）\*  <br/><br/> \**使用 Box 报告确定外部帐户。指示最终用户在迁移后重新共享其内容。* <br/> | 所有权历史记录、旧版本和注释 <br/>  用户级别文件权限  <br/>  组级别文件权限  <br/>  文件和文件夹说明  <br/>  Box 标记和高级元数据  <br/>  文件锁定属性  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  放入回收站的项  <br/>  无法访问或已损坏的文档  <br/>  被阻止的用户或非活动用户  <br/>  Box 备注（未经转换将无法迁移）  <br/>  Box 应用、书签、收藏夹和工作流  <br/>  已迁移的 Box 帐户不拥有的内容（共享文件夹）  <br/>  外部用户的权限和基本元数据\*  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
    
 FastTrack 专家在迁移过程中执行以下操作： 
@@ -276,8 +276,8 @@ FastTrack 专家在迁移过程中执行以下操作：
 |||||
 |:-----|:-----|:-----|:-----|
 |**源环境**|**迁移类型**|**迁移内容**|**不会迁移的内容**|
-|**单个 G 套件环境（仅限 Google 云端硬盘）**  <br/> |单次或两次  <br/> | Google 文档、工作表和幻灯片（文件转换为等同的 Office 格式）  <br/>  文件和文件夹结构  <br/>  用户级别文件夹权限  <br/>  组级别文件夹权限  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  最后一次修改者  <br/>  要迁移的 Google 云端硬盘帐户所拥有的共享内容（若与用户或组显式共享的话）  <br/> | 所有权历史记录、旧版本和注释  <br/>  文件和文件夹说明、文件夹颜色  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  用户级别文件权限  <br/>  组级别文件权限  <br/> 放入回收站的项  <br/>  无法访问或已损坏的文档  <br/>  被阻止的用户或非活动用户  <br/>  组织外部的共享内容  <br/>  Google 相册、Forms、地图和其他已连接应用<br/>  Google 绘图  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
-|**任何支持 SMB 2.0 及更高版本的文件共享设备**  <br/> |一次性传输  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别的文件和文件夹权限\*  <br/>  组级别的文件和文件夹权限\*  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  上次修改者  <br/> <br/>\**必须配置目录同步。只迁移对 Windows 文件资源管理器公开的 NTFS 权限。不会迁移文件共享设备上直接托管的权限。如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。* <br/> | 所有权历史记录和旧版本  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  旧版本  <br/>  Windows 文件和文件夹属性（如只读和隐藏）  <br/>  非 Windows 新技术文件系统 (NTFS) 和 NTFS 高级权限和特殊设置：  <br/>  显式拒绝权限（在迁移后删除的权限、从属于并行权限的内容或父文件夹上的权限）  <br/>  NTFS 审核配置  <br/>  FCI 提供的附加文件元数据  <br/>  无法访问或已损坏的文档  <br/>  隐藏的共享  <br/>  共享（如在共享级别授予的权限）  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
+|**单个 G 套件环境（仅限 Google 云端硬盘）**  <br/> |单通道或多通道  <br/> | Google 文档、工作表和幻灯片（文件转换为等同的 Office 格式）  <br/>  文件和文件夹结构  <br/>  用户级别文件夹权限  <br/>  组级别文件夹权限  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  最后一次修改者  <br/>  要迁移的 Google 云端硬盘帐户所拥有的共享内容（若与用户或组显式共享的话）  <br/> | 所有权历史记录、旧版本和注释  <br/>  文件和文件夹说明、文件夹颜色  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  用户级别文件权限  <br/>  组级别文件权限  <br/> 放入回收站的项  <br/>  无法访问或已损坏的文档  <br/>  被阻止的用户或非活动用户  <br/>  组织外部的共享内容  <br/>  Google 相册、Forms、地图和其他已连接应用<br/>  Google 绘图  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
+|**任何支持 SMB 2.0 及更高版本的文件共享设备**  <br/> |单通道或多通道  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别的文件和文件夹权限\*  <br/>  组级别的文件和文件夹权限\*  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  上次修改者  <br/> <br/>\**必须配置目录同步。只迁移对 Windows 文件资源管理器公开的 NTFS 权限。不会迁移文件共享设备上直接托管的权限。如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。* <br/> | 所有权历史记录和旧版本  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  旧版本  <br/>  Windows 文件和文件夹属性（如只读和隐藏）  <br/>  非 Windows 新技术文件系统 (NTFS) 和 NTFS 高级权限和特殊设置：  <br/>  显式拒绝权限（在迁移后删除的权限、从属于并行权限的内容或父文件夹上的权限）  <br/>  NTFS 审核配置  <br/>  FCI 提供的附加文件元数据  <br/>  无法访问或已损坏的文档  <br/>  隐藏的共享  <br/>  共享（如在共享级别授予的权限）  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
 |**Box（Starter、Business、Enterprise）**  <br/> |单通道或多通道  <br/> | 文档  <br/>  文件和文件夹结构  <br/>  用户级别文件夹权限  <br/>  组级别文件夹权限  <br/>  小于 15GB 的文件  <br/>  基本文档和文件夹元数据：  <br/>  创建日期  <br/>  修改日期  <br/>  创建者  <br/>  最后一次修改者  <br/>  要迁移的 Box 帐户所拥有的共享内容（若与用户或组显式共享的话）\*  <br/><br/> \**使用 Box 报告确定外部帐户。指示最终用户在迁移后重新共享其内容。* <br/> | 所有权历史记录、旧版本和注释  <br/>  文件和文件夹说明  <br/>  用户级别文件权限  <br/>  组级别文件权限  <br/>  Box 标记和高级元数据  <br/>  文件锁定属性  <br/>  内容中嵌入的 URL 的转换后对象  <br/>  放入回收站的项  <br/>  无法访问或已损坏的文档  <br/>  被阻止的用户或非活动用户  <br/>  Box 备注（未经转换将无法迁移）  <br/>  Box 应用、书签、收藏夹和工作流  <br/>  已迁移的 Box 帐户不拥有的内容（共享文件夹）  <br/>  外部用户的权限和基本元数据\*  <br/>  超出当前 [SharePoint Online 限制和局限](https://go.microsoft.com/fwlink/?linkid=846724)的文件或文件夹 <br/> |
    
 FastTrack 专家在迁移过程中执行以下操作：  

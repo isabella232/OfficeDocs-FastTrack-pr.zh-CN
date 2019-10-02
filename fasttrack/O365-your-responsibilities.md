@@ -3,19 +3,19 @@ title: 你的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712100"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342147"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -99,8 +99,6 @@ ms.locfileid: "36712100"
 - 实施相应的客户端基础结构。  
 - 根据 Microsoft 指导，实现用户预配方法。  
 - 根据 Microsoft 指导，启用各种服务。  
-- 如果要配置移动设备管理 (MDM)，请获取 Apple ID。   
-- 更新你的 Apple 推送通知服务 (APNS) 证书。
     
 \*有关你针对 Office 365 美国政府版的责任的信息，请参阅[你针对 Office 365 美国政府版的责任](US-Gov-appendix-your-responsibilities.md)。
   

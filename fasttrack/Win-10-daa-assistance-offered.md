@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712244"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342567"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -51,7 +51,9 @@ FastTrack 不会提供以下帮助：
 客户责任包括：
 - 创建应用清单。
 - 验证 Windows 10 和 Office 365 专业增强版上的应用。
+
 > [!NOTE]
-> Microsoft 无法对源代码进行更改。然而，如果可提供应用的源代码，则桌面应用保证团队可向应用开发人员提供指导。 [!NOTE]
-> 如果 Windows 10 和 Office 365 专业增强版存在支持的更新版本，则 FastTrack 无法修正较旧版本的 ISV 应用、加载项或宏。[!NOTE]
+> Microsoft 无法对源代码进行更改。然而，如果可提供应用的源代码，则桌面应用保证团队可向应用开发人员提供指导。
+
+> [!NOTE]
 > 请联系 [Microsoft 合作伙伴](https://go.microsoft.com/fwlink/?linkid=2080150)，以提供超出范围服务方面的帮助。

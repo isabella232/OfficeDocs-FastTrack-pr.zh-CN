@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711536"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342615"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -140,7 +137,7 @@ Azure AD Premium 设置包括启用以下功能：
 
 -   根据管理需求配置移动设备管理 (MDM) 颁发机构，包括：
 
-    -   如果 Intune 是唯一的 MDM 解决方案或者与 Office 365 中的移动设备管理结合使用时，请将 Intune 设置为 MDM 颁发机构。
+    -   如果 Intune 是唯一的 MDM 解决方案，将 Intune 设置为 MDM 颁发机构。
 
 -   为以下操作提供 MDM 指南:
 

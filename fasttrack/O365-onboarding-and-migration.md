@@ -3,19 +3,19 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712232"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342411"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -200,16 +200,6 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-对于 Microsoft StaffHub，我们提供针对以下方面的指导：
-- 确认是否已在 Office 365 租户上启用 Microsoft StaffHub。
-- 启用或禁用用户许可证。
-- 核心产品功能。 
-- Microsoft StaffHub 的下载位置。
-    
-![Microsoft StaffHub 载入步骤](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
 
