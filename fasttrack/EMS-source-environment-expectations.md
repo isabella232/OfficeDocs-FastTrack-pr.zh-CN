@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342363"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921182"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 
@@ -35,7 +35,7 @@ ms.locfileid: "37342363"
 |Azure AD Premium 载入|已为 Azure AD Premium 准备了本地 Active Directory 及其环境，其中包括对妨碍与 Azure AD 和 Azure AD Premium 功能集成的已确定问题的修正。|
 |Intune 载入| 在计划使用 Intune 部署 WiFi 和 VPN 配置文件时，IT 管理员需要确保现有的证书颁发机构、WiFi 和 VPN 基础结构已经在其生产环境中正常使用。<br /><br /> **注意**：服务权益不包括有关设置或配置证书颁发机构、WiFi、VPN 基础结构或 Apple MDM 推送证书的帮助  |
 |协同管理|通过协同管理，IT 管理员负责准备本地环境，其中可能包括修复妨碍你使用配置管理器和 Intune 同时管理 Windows 10 设备的问题。<br /><br />**注意**：FastTrack 服务权益不包括有关将配置管理器站点服务器和/或配置管理器客户端设置或升级到支持与 Windows 10 设备进行协同管理所需的最低要求的帮助。 |
-|Intune 与 Windows Defender 高级威胁防护 (Windows Defender ATP) 集成|你的 Windows Defender ATP 订阅已根据贵公司的安全要求进行激活和配置。<br /><br />**注意**：FastTrack 服务权益可帮助你将 Intune 与 Windows Defender ATP 集成，并根据其 Windows 10 风险级别评估创建设备合规性策略。 FastTrack 服务权益不提供有关购买、许可、激活或使用 Windows Defender ATP 及其安全中心控制台的帮助。 |
+|Intune 与 Microsoft Defender 高级威胁防护 (ATP) 集成|**注意**：FastTrack 服务权益可帮助你将 Intune 与 Microsoft Defender ATP 集成，并根据其 Windows 10 风险级别评估创建设备合规性策略。 服务权益不提供购买、许可或激活方面的协助。 |
 |Windows Autopilot|IT 管理员负责通过让硬件供应商代表他们上载其硬件 ID 或自己将其上载到 Windows Autopilot 服务中来向其组织注册设备。 |
 |使用 Intune 安全地部署 Outlook for iOS 和 Outlook for Android|<br /><br />-   在 Azure AD for Office 365 中启用的用户标识。<br />-   配置有已分配的用户许可证的 Exchange Online 或混合 Exchange。<br />|
 |Azure 信息保护（P2 或 EMS E5）|<br /><br />客户应该已经： <br /> - 使用 Azure AD。<br />- 使用 Windows 或 iOS（其他操作系统超出范围）。<br /> - 使用不依赖 Office 作为主客户端的比 Office 2010 SP2 更高版本的 Office 客户端。 <br /> - 具有他们的主文件共享位置。  <br /> - 已从 Active Directory 权限管理服务 (AD RMS) 升级。 <br /> - 具有已批准的分类的分类法。 <br /> - 了解针对其受保护密钥管理的任何监管限制。 <br />|

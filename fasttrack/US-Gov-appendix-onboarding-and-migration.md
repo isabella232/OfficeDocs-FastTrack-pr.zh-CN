@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342723"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921970"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -59,7 +59,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家与客户一起评估源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计带宽要求和评估您的 internet 浏览器、客户端操作系统、域名系统（DNS）、网络、基础结构和身份系统，以确定是否需要进行任何更改以进行载入。 
+FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计带宽要求和评估您的 internet 浏览器、客户端操作系统、域名系统（DNS）、网络、基础结构和身份系统，以确定是否需要进行任何更改以进行载入。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   

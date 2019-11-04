@@ -3,18 +3,18 @@ title: 附录 B：FastTrack 中心的其他权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342495"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921290"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
@@ -42,9 +42,9 @@ ms.locfileid: "37342495"
 
 对于 Office 365 ProPlus，我们提供以下指导： 
 - 根据 Microsoft 最佳做法进行评估和计划，重点是让环境准备好执行初始部署和更新管理。 
-- 使用 Office 365 部署工具开发部署配置和更新设置。 
+- 使用 Office 365 部署工具和 Office 自定义工具开发部署配置和更新设置。 
 - 使用 System Center Configuration Manager 进行部署打包。  
-- 部署并配置 Office 遥测来指导你针对应用程序兼容性评估业务关键型 Office 文档和解决方案的使用情况。
+- 启用 Readiness Toolkit for Office，以确定与 Office 一起使用的 Microsoft Visual Basic for Applications (VBA) 宏和加载项的潜在兼容性问题。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -132,12 +132,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 
 - 为以下操作提供指导和帮助：  
   - 根据 Microsoft 最佳做法，评估和计划初始部署和更新管理。
-  - 部署和配置 Office 遥测。 
-  - 使用组策略为 Office 2013 及更高版本的客户端启用遥测日志记录。 
-  - 为以前的 Office 客户端（Office 2003、Office 2007、和 Office 2010）部署 Office 遥测代理。 
-  - 部署遥测处理器。 
-    > [!NOTE]
-    > 此操作需要一个文件共享位置来存储遥测数据以及需要一个运行 SQL Server 2005 及更高版本的服务器来提交处理的数据。 
+  - 启用 Readiness Toolkit for Office，以确定与 Office 一起使用的 Microsoft VBA 宏和加载项的潜在兼容性问题。
   
 ## <a name="your-responsibilities"></a>你的责任
 

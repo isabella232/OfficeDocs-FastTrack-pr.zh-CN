@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: bd6640ce36ac523ee8d252eea4175105c0a80cf2
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342507"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921242"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -87,9 +87,9 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 |||||
 |:-----|:-----|:-----|:-----|
 |**源环境**|**迁移类型**|**将从源邮箱迁移的内容**|**不会迁移的内容**|
-|**Exchange 2003 及更高版本**|直接转换| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 | 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/>  超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/>  非活动邮箱 |
-|**Exchange 2003 和 Exchange 2007**|暂存| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 | 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
-|**Exchange 2010、Exchange 2013 和 Exchange 2016** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 | 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 权限管理电子邮件或加密的电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
+|**Exchange 2003 及更高版本**|直接转换| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/>  超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/>  非活动邮箱 |
+|**Exchange 2003 和 Exchange 2007**|暂存| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
+|**Exchange 2010、Exchange 2013 和 Exchange 2016** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 <br/> 权限管理的电子邮件| 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
 |**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/> <br/> **注意** *数据位置：FastTrack 可以根据客户租赁在美国或 Microsoft/第三方供应商维护设施所在的其他任何地理位置中的位置，传输、处理和存储已迁移的数据。FastTrack 在适用服务完成后的 30 天内删除已存储的任何数据。*           |直接转换或暂存| 电子邮件 <br/> 邮箱联系人 <br/> 日历 <br/> 标签 | 规则 <br/> 代理 <br/> 签名 <br/> 任务 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google 环聊 <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 |
 |**IBM Domino 7.0.3 及更高版本**（[附录 A - 从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)）|暂存| 电子邮件 - 最近 90 天 <br/> 日历 - 最近 90 天以及未来的项目 <br/> 邮箱联系人 - 全部 <br/> 任务 - 全部 <br/> 会议室和资源 - 假设它们是通过标准模板实施 <br/> 邮件文件（包括共享邮件文件）必须使用标准邮件模板 | 签名 <br/> 邮箱规则 <br/> 代理 <br/> 加密项目 <br/> 文档链接 <br/> 用户母本文档 <br/> 超出邮件大小限制的所有电子邮件 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 已损坏的项目 <br/> 日历共存 <br/> 非活动邮箱 |
 |**Novell GroupWise 7.0.4 及更高版本** <br/><br/> **注意** *数据位置：FastTrack 可以根据客户租赁在美国或 Microsoft/第三方供应商维护设施所在的其他任何地理位置中的位置，传输、处理和存储已迁移的数据。FastTrack 在适用服务完成后的 30 天内删除已存储的任何数据。*           |暂存| 电子邮件 <br/> 日历 <br/> 邮箱联系人 <br/> 个人组 <br/> 任务（含限制） <br/> 文档 | 规则 <br/> 代理/委派/访问控制列表 (ACL) 转换 <br/> 签名 <br/> 联系人类别 <br/> 加密电子邮件 <br/> 搜索文件夹 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 权限管理的项目或加密的项目 <br/> 已损坏的项目 <br/> 日历共存 <br/> 非活动邮箱 |

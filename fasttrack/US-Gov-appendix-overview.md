@@ -3,18 +3,18 @@ title: 附录 D - 适用于 Office 365 US Government 的 FastTrack 中心权益�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: 借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。
-ms.openlocfilehash: 38ebcef1d10b72daede766a54220a90c837aae65
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: a269bede3f469e257268bd822c19c23a6f85423a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342711"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921958"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 D - 适用于 Office 365 US Government 的 FastTrack 中心权益概述
 

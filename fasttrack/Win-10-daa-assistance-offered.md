@@ -3,23 +3,23 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342567"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921922"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
-在购买任意 Windows 10 或 Microsoft 365 服务（详见[符合条件的服务和计划](M365-eligible-services-and-plans.md)）后，如果在部署到 Windows 10 和 Office 365 专业增强版和不断更新的过程中遇到应用兼容性问题，FastTrack 专家将提供免费的咨询和修正指导（通过符合条件的订阅）。
+在购买任意 Windows 10 或 Microsoft 365 服务（详见[符合条件的服务和计划](M365-eligible-services-and-plans.md)）后，如果在部署到 Windows 10 和 Office 365 专业增强版和不断更新的过程中遇到应用兼容性问题，FastTrack 专家将提供免费的咨询和修正指导（通过符合条件的订阅）。 此外，我们现在帮助客户部署 Windows 10 企业版多个会话。
 
 若要获取帮助，请完成[桌面应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -38,6 +38,8 @@ FastTrack 提供以下协助：
     - 针对受支持的 Windows 10 版本的 Office 365 专业增强版，包括宏和外接程序。
     - 针对受支持的 Windows 10 版本的 Microsoft 产品和服务。
     - Windows 10 桌面和 Web 应用。
+    - 在 Windows Server 远程桌面会话主机 (RDSH) 上运行的虚拟化应用在 Windows 10 企业版多个会话上部署。
+
 > [!NOTE]
 > FastTrack 将以合理的方式尽全力解决兼容性问题。 
 
@@ -45,7 +47,7 @@ FastTrack 提供以下协助：
 
 FastTrack 不会提供以下帮助：
 - 用于确定在 Windows 10 和 Office 365 专业增强版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问[桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果对深入升级就绪性评估感兴趣，请填写[新式桌面评估的客户请求](https://go.microsoft.com/fwlink/?linkid=2053818)表单。
-- 研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。有关详细信息，请参阅 [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580)。
+- 研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅[桌面分析](https://docs.microsoft.com/zh-CN/sccm/desktop-analytics/overview)。
 - 应用仅打包服务。但是，桌面应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。
 
 客户责任包括：

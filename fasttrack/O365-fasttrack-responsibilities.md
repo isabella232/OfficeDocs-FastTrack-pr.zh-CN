@@ -3,19 +3,19 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342291"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921578"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -88,7 +88,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
   - 必要时，安装和配置 WAP，以将 AD FS 基础结构发布到 Internet。
     > [!NOTE]
     > 对于所有多个林配置，AD FS 部署不在此范围内。 
-- 测试 SSO 功能（如果已部署）。
+- 测试无缝 SSO 功能（如果已部署）。
 - 成功推动服务采用和价值。
     
 \*\*若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。 
@@ -100,9 +100,10 @@ FastTrack 专家在载入期间将承担以下责任。\*
 针对以下内容提供相关指导：
 - 创建或更新 DNS 记录。 
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。 
-- 配置 Exchange Online Protection、数据丢失防护 (DLP) 和 Office 365 邮件加密 (OME) 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
+- 配置 Exchange Online Protection、数据丢失防护 (DLP) 和 Office 365 邮件加密 (OME) 功能及 Office 365 高级威胁防护 (ATP)（如果在你的订阅中可用）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
 - 配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。
+- 为 Office 365 ATP 配置自动化、调查和响应（如果订阅中可用）。
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
@@ -139,6 +140,16 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。
 - 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
+
+针对以下内容提供相关指导：
+- 启用安全链接。
+- 启用安全附件。
+- 启用防钓鱼策略。
+- 配置自动化、调查和响应。
+- 使用攻击模拟器。
+- 报告和威胁分析。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 针对以下内容提供相关指导：

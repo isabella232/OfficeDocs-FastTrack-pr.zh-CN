@@ -3,19 +3,19 @@ title: 载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342411"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922638"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -97,9 +97,13 @@ FastTrack 专家会与你一起评估你的源环境和需求。我们会提供�
 - 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。
     > [!NOTE]
     > 你的邮件交换 (MX) 记录必须指向 Office 365。 
-- 如果 Exchange Online 高级威胁防护 (ATP) 功能属于订阅服务，则设置该功能。这可在 MX 记录指向 Office 365 后完成。此功能被配置为 Exchange Online Protection 反恶意软件设置的一部分。
+- 设置 Office 365 高级威胁防护 (ATP) 功能（如果它属于订阅服务）。 有关详细信息，请参阅 [Office 365 高级威胁防护](#office-365-advanced-threat-protection)。
 - 为在 Office 365 中验证的所有已启用邮件的域设置数据丢失防护 (DLP) 功能，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
 - 为在 Office 365 中验证的所有已启用邮件的域设置 Office 365 邮件加密 (OME) ，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
+
+> [!NOTE]
+> 邮箱复制服务 (MRS) 尝试将用户本地邮箱中的 Information Rights Managed (IRM) 电子邮件迁移到相应的 Exchange Online 邮箱。 可读取受保护内容迁移后的能力取决于客户映射和将 Active Directory Rights Managed Services (AD RMS) 模板复制到 Azure Rights Management Service (Azure RMS)。
+
 - 配置防火墙端口。
 - 设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 和 MX 记录（根据需要）。 
 - 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。
@@ -128,6 +132,14 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
   
 ![启用阶段的 OneDrive 初始启用步骤](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
+
+对于 Office 365 ATP，我们提供针对以下方面的指导：
+- 启用安全链接、安全附件和防钓鱼。 
+- 配置自动化、调查和响应。
+- 使用攻击模拟器。
+- 报告和威胁分析。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 对于 Microsoft Teams，我们提供针对以下方面的指导：

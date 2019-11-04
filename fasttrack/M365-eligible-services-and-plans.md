@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342555"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921170"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -49,20 +49,22 @@ ms.locfileid: "37342555"
 
 FastTrack 中心提供有关以下服务的协助：
   
-- Exchange Online
-- SharePoint Online
-- OneDrive for Business
-- Microsoft Teams
-- Skype for Business Online
-- Power BI
-- Project Online
-- Yammer Enterprise 
-- Office 365 专业增强版
-- Windows 10
 - Azure Active Directory Premium
 - Azure 信息保护
+- Exchange Online 
+- Microsoft Defender 高级威胁防护
 - Microsoft Intune
-    
+- Microsoft Teams
+- Office 365 高级威胁防护
+- Office 365 专业增强版
+- OneDrive for Business
+- Power BI
+- Project Online
+- SharePoint Online
+- Skype for Business Online
+- Windows 10
+- Yammer Enterprise 
+  
 ## <a name="eligible-microsoft-365-plans"></a>符合条件的 Microsoft 365 计划
   
  **Microsoft 365 企业版**
