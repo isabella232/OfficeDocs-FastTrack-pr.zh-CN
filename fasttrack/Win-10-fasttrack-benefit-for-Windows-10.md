@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买至少** 150 个许可证达到服务或计划的条件时，即可使用适于 Windows 10 的 FastTrack 中心权益。
-ms.openlocfilehash: 444268c16b93ef8cccbf156e779c6465d32a5b8a
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 6cea55294624df24437ef509e33a27d946675ef5
+ms.sourcegitcommit: bcb004732e9198bddea721c98b3221a7d9c0ddd6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921898"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992370"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>适用于 Windows 10 的 FastTrack 中心权益
 
@@ -26,6 +26,7 @@ ms.locfileid: "37921898"
     
 - [Windows 10](Win-10-windows-10.md)
 - [桌面应用保证](Win-10-desktop-app-assure.md)
+- [Microsoft Defender 高级威胁防护](Win-10-microsoft-defender-atp.md)
   
 
   
