@@ -3,19 +3,19 @@ title: 你的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 你在 Windows 10 载入过程中将承担以下责任。
-ms.openlocfilehash: 057aff98739778f50836f1e8c093bd855ee9634c
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 296162ab7a38e5cd704a0440d99f9003458006b4
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921554"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663501"
 ---
 # <a name="your-responsibilities"></a>你的责任
 

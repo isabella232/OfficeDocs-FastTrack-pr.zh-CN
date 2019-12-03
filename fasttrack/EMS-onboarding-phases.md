@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921590"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662913"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -103,7 +103,7 @@ Azure AD Premium 设置包括启用以下功能：
 
 -   在 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中，通过单一登录 (SSO) 实现高达三 (3) 个或更多软件即服务 (SaaS) 应用程序集成。
 
--   针对[应用集成教程列表](https://docs.microsoft.com/zh-CN/azure/active-directory/saas-apps/tutorial-list)中列出的预集成 SaaS 应用程序进行自动用户预配，仅限于出站配置。
+-   针对[应用集成教程列表](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)中列出的预集成 SaaS 应用程序进行自动用户预配，仅限于出站配置。
 
 -   自定义登录屏幕，包括徽标、文本和图像。
 
@@ -280,7 +280,7 @@ FastTrack 还为你提供了有关如何成功推行符合条件的服务的指�
 向希望使用 Microsoft Azure 权限管理服务 (Azure RMS)、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 应用保护的客户提供指导。
 
 > [!NOTE]
-> **想了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/zh-CN/cloud-platform/enterprise-mobility)。
+> **想了解更多信息？** 请参阅[企业移动性 + 安全性](https://www.microsoft.com/cloud-platform/enterprise-mobility)。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921098"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662853"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -148,7 +148,7 @@ FastTrack 在载入过程中将承担以下责任。
 
   - 在 [Azure Active Directory 应用商店](https://azure.microsoft.com/marketplace/active-directory/)中，通过单一登录 (SSO) 实现高达三 (3) 个或更多软件即服务 (SaaS) 应用程序集成。
 
-  - 针对[应用集成教程列表](https://docs.microsoft.com/zh-CN/azure/active-directory/saas-apps/tutorial-list)中列出的预集成 SaaS 应用程序进行自动用户预配，仅限于出站配置。
+  - 针对[应用集成教程列表](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)中列出的预集成 SaaS 应用程序进行自动用户预配，仅限于出站配置。
 
   - 自定义登录屏幕，包括徽标、文本和图像。
 

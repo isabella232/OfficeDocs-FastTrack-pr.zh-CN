@@ -3,19 +3,19 @@ title: 对源环境的预期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你设置与源环境的集成级别（例如，如果在源环境中你已经拥有想要移动到 Office 365 的服务）。
-ms.openlocfilehash: c53bdc7eb149a43e7ee254e3e20957fb712d6359
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 38d929abdc9a2ae622f5d832045d3191ce8cfed1
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922592"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663099"
 ---
 # <a name="source-environment-expectations"></a>对源环境的预期
 

@@ -3,19 +3,19 @@ title: 桌面应用保证
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 适用于 Windows 10 的 FastTrack 中心权益提供对桌面应用保证的访问权限。桌面应用保证这项服务旨在解决 Windows 10 和 Office 365 专业增强版应用兼容性问题。
-ms.openlocfilehash: 2d33502736634495eb266048648bc60cb28c7c8f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 8dff85999b5079b4d1ffc584a7c1a5c29a1a48fe
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921910"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663417"
 ---
 # <a name="desktop-app-assure"></a>桌面应用保证
 

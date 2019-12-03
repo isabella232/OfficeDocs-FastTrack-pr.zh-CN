@@ -3,19 +3,19 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921578"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662985"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -107,49 +107,6 @@ FastTrack 专家在载入期间将承担以下责任。\*
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-针对以下内容提供相关指导：
-- 设置用户（包括许可）。
-- 为你的 SharePoint Online 管理员启用站点创建。    
-- 规划网站集。 
-- 保护内容安全和管理权限。
-- 启用个人网站和社交功能。
-- 配置 SharePoint Online 功能。 
-- 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。
-- 评估 SharePoint Online 混合所需的本地 SharePoint 场基础结构配置。 
-- 使用工具和自动化执行以下操作：
-  - 配置本地云 Search Service 应用程序。 
-  - 配置 SharePoint 本地和云环境间的信任。
-- 配置本地 SharePoint 站点以使用 SharePoint Online 混合功能。
-    
-## <a name="onedrive-for-business"></a>OneDrive for Business
-
-针对以下内容提供相关指导：
-- 确定本地 SharePoint 版本和集成选项。 
-- 确定同步和标识选项。
-- 选择推出选项：   
-  - 实时推出。
-  - 分步推出（按顺序和分阶段）。
-- 准备用于 OneDrive for Business 部署的本地环境。
-  - 确定正确的 OneDrive for Business 同步客户端。
-  - 配置 DNS、网络端口和防火墙。 
-- 分配最终用户许可证。 
-- 设置由 SharePoint Online 访问群体来控制和管理谁能够获取 OneDrive for Business。 
-- 将 OneDrive for Business 同步客户端部署到桌面。   
-- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。
-- 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
-
-针对以下内容提供相关指导：
-- 启用安全链接。
-- 启用安全附件。
-- 启用防钓鱼策略。
-- 配置自动化、调查和响应。
-- 使用攻击模拟器。
-- 报告和威胁分析。
-
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 针对以下内容提供相关指导：
@@ -175,26 +132,51 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 启用 Teams 实时事件。 
 - 组织设置和集成到 Microsoft Stream。
 
-
-## <a name="skype-for-business-online"></a>Skype for Business Online
+## <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
 
 针对以下内容提供相关指导：
-- 为 Office 365 配置 Skype for Business 身份。 
-- 可为 Office 365 启用联机会议、即时消息 (IM) 和状态功能。 
-- 创建与受支持的会议室系统设备相关联的帐户（最多 10 个帐户）。 
-- 配置拆分域服务器环境，以支持 Lync 混合或 Skype for Business Online 混合方案（如果适用）。
-- 启用音频会议：
-  - 会议桥默认设置的组织设置。
-  - 向许可用户分配会议桥。
-- 启用电话系统：
-  - 启用电话系统和通话套餐载入（在可用市场中）。
-  - 向许可用户分配号码。
-  - 通过 UI 进行本地号码端口定位的指南（最多到 999）。
-  - 超过 999 的本地号码端口定位 SR 支持。
-- 启用 Skype for Business 会议直播：
-  - 启用 Skype for Business 会议直播载入指南。
-  - 使用会议直播服务的联合身份验证组织设置。
+- 启用安全链接。
+- 启用安全附件。
+- 启用防钓鱼策略。
+- 配置自动化、调查和响应。
+- 使用攻击模拟器。
+- 报告和威胁分析。
+
+## <a name="office-365-proplus"></a>Office 365 专业增强版
+
+针对以下内容提供相关指导：
+- 解决部署问题。
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
+- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
+- 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
+- 使用 Office 365 部署工具配置更新设置。
+- 选择并设置本地或云安装。
+- 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。
+- 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
     
+## <a name="onedrive-for-business"></a>OneDrive for Business
+
+针对以下内容提供相关指导：
+- 确定本地 SharePoint 版本和集成选项。 
+- 确定同步和标识选项。
+- 选择推出选项：   
+  - 实时推出。
+  - 分步推出（按顺序和分阶段）。
+- 准备用于 OneDrive for Business 部署的本地环境。
+  - 确定正确的 OneDrive for Business 同步客户端。
+  - 配置 DNS、网络端口和防火墙。 
+- 分配最终用户许可证。 
+- 设置由 SharePoint Online 访问群体来控制和管理谁能够获取 OneDrive for Business。 
+- 将 OneDrive for Business 同步客户端部署到桌面。   
+- 如何配置 SharePoint Online 混合 OneDrive for Business 重定向（仅 SharePoint 2013 和 SharePoint 2016）。
+- 数据迁移（如果使用 FastTrack 中心数据迁移服务并且如果你符合条件）。
+    
+## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
+
+针对以下内容提供相关指导：
+- 将 Outlook 下载到 iOS 和 Android 设备。
+- 在 Outlook 中配置电子邮件帐户。
+
 ## <a name="power-bi"></a>Power BI
 
 针对以下内容提供相关指导：
@@ -220,28 +202,45 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 使用 Office 365 部署工具或组策略模板配置更新设置。
 - 现场为 Project Online 桌面客户端 设置一个分发服务器，包括指导如何为 Office 2016 部署工具创建 configuration.xml 文件。 
 - 正在将 Project Online 桌面客户端 连接到 Project Online。
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+针对以下内容提供相关指导：
+- 设置用户（包括许可）。
+- 为你的 SharePoint Online 管理员启用站点创建。    
+- 规划网站集。 
+- 保护内容安全和管理权限。
+- 启用个人网站和社交功能。
+- 配置 SharePoint Online 功能。 
+- 如果使用了 FastTrack 中心数据迁移服务或者你符合使用该服务的条件，则提供数据迁移。
+- 评估 SharePoint Online 混合所需的本地 SharePoint 场基础结构配置。 
+- 使用工具和自动化执行以下操作：
+  - 配置本地云 Search Service 应用程序。 
+  - 配置 SharePoint 本地和云环境间的信任。
+- 配置本地 SharePoint 站点以使用 SharePoint Online 混合功能。
     
-## <a name="yammer-enterprise"></a>Yammer Enterprise
+## <a name="skype-for-business-online"></a>Skype for Business Online
+
+针对以下内容提供相关指导：
+- 为 Office 365 配置 Skype for Business 身份。 
+- 可为 Office 365 启用联机会议、即时消息 (IM) 和状态功能。 
+- 创建与受支持的会议室系统设备相关联的帐户（最多 10 个帐户）。 
+- 配置拆分域服务器环境，以支持 Lync 混合或 Skype for Business Online 混合方案（如果适用）。
+- 启用音频会议：
+  - 会议桥默认设置的组织设置。
+  - 向许可用户分配会议桥。
+- 启用电话系统：
+  - 启用电话系统和通话套餐载入（在可用市场中）。
+  - 向许可用户分配号码。
+  - 通过 UI 进行本地号码端口定位的指南（最多到 999）。
+  - 超过 999 的本地号码端口定位 SR 支持。
+- 启用 Skype for Business 会议直播：
+  - 启用 Skype for Business 会议直播载入指南。
+  - 使用会议直播服务的联合身份验证组织设置。
+    
+## <a name="yammer-enterprise"></a>Yammer 企业版
 
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
   
-## <a name="office-365-proplus"></a>Office 365 专业增强版
-
-针对以下内容提供相关指导：
-- 解决部署问题。
-- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
-- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
-- 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
-- 使用 Office 365 部署工具配置更新设置。
-- 选择并设置本地或云安装。
-- 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。
-- 使用 System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
-
-针对以下内容提供相关指导：
-- 将 Outlook 下载到 iOS 和 Android 设备。
-- 在 Outlook 中配置电子邮件帐户。
-
 \*有关针对 Office 365 美国政府版的 FastTrack 责任的信息，请参阅[针对 Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)。
 
