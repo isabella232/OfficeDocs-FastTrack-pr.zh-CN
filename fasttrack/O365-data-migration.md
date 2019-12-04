@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921242"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662925"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -66,10 +66,6 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 #### <a name="us-governmentdod"></a>美国政府/DOD
 
 迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德国 Microsoft Cloud Deutschland (MCD)
-
-迁移在预先安排的标准化工作日（每周 5 天，每天 9 小时）的预定义迁移时间段内完成。每个迁移日一个迁移批处理。一周有五个迁移日，从 UTC 时间星期一中午 12:00 到星期五晚上 21:00。
     
  ### <a name="end-state"></a>结束状态
   
@@ -172,10 +168,6 @@ FastTrack 专家在迁移过程中执行以下操作：
 
 迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德国 Microsoft Cloud Deutschland (MCD)
-
-迁移在预先安排的标准化工作日（每周 5 天，每天 9 小时）的预定义迁移时间段内完成。每个迁移日一个迁移批处理。一周有五个迁移日，从 UTC 时间星期一中午 12:00 到星期五晚上 21:00。
-
 - 所有迁移都需满足 [SharePoint Online 和 OneDrive for Business 软件边界和限制](https://go.microsoft.com/fwlink/?LinkID=616612)中所述的 SharePoint Online 配额。   
 - 整个迁移的数据量将限定在您享有的整体 SharePoint Online 存储配额（包括您可能单独购买的其他存储空间）的 75% 的范围内。
     
@@ -230,8 +222,8 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 执行迁移后迁移修正（如果适用）。
 - 计划并实施更改管理和最终用户通信（如果适用）。   
 - 管理和配置成功完成评估和迁移活动所需的源系统和设备的任何更改。
-- 需至少提前七 (7) 天提出对每个迁移事件迁移的计划，该计划需具有针对该迁移定义的方法和特定用户数据的列表。
-- 在迁移批处理前至少提前 24 小时从计划中删除用户数据。这应与最终的迁移批处理对应。
+- 需至少提前三 (3) 天就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
+- 在迁移批处理前至少提前 24 小时从计划中删除用户数据。 这应与最终的迁移批处理对应。
 > [!NOTE]
 > Microsoft 无法保证文件迁移速度。
     
@@ -255,10 +247,6 @@ FastTrack 专家在迁移过程中执行以下操作：
 #### <a name="us-governmentdod"></a>美国政府/DOD
 
 迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>德国 Microsoft Cloud Deutschland (MCD)
-
-迁移在预先安排的标准化工作日（每周 5 天，每天 9 小时）的预定义迁移时间段内完成。每个迁移日一个迁移批处理。一周有五个迁移日，从 UTC 时间星期一中午 12:00 到星期五晚上 21:00。
     
 - 所有迁移都需要对源环境的相应访问权限和许可。   
 - 所有迁移都需满足 [SharePoint Online 和 OneDrive for Business：软件边界和限制](https://go.microsoft.com/fwlink/?LinkId=698855)中所述的 OneDrive for Business 配额。
@@ -285,7 +273,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 提供该方案的评估和迁移工具的先决条件（如果适用）。  
 - 为迁移团队提供访问源和目标环境以进行评估和迁移的先决条件。   
 - 提供评估工具以执行目标源环境评估，或提供有关如何使用本机源平台函数创建评估报表的说明。    
-- 需至少提前七 (7) 天提出对每个迁移事件迁移的计划，该计划需具有针对该迁移定义的方法和特定用户数据的列表。
+- 需至少提前三 (3) 天就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
 - 在迁移批处理前至少提前 24 小时从计划中删除用户数据。这应与最终的迁移批处理对应。
 - 协助部署和运行评估工具和迁移工具（如果适用）。   
 - 配置迁移基础结构以准备内容迁移（如果适用）。    

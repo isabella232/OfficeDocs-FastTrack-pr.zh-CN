@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921170"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662765"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -72,6 +72,7 @@ FastTrack 中心提供有关以下服务的协助：
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 安全性\*
+- Microsoft 365 F1*
 - Microsoft 365 商业版\*
     
  **Microsoft 365 教育版**
@@ -164,8 +165,6 @@ FastTrack 中心提供有关以下服务的协助：
 |**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
 |**Microsoft Intune 和 Configuration Manager**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
 |**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
-|**Azure 高级威胁防护**     |    有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。   |
-|**Microsoft Cloud App Security**    |       有限。仅当作为独立计划购买时符合条件。若要执行此操作，请转到 [Microsoft 365 FastTrack 门户](https://go.microsoft.com/fwlink/p/?LinkId=2003903)。    |
 
 有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)。
 
