@@ -3,18 +3,18 @@ title: 附录 B：FastTrack 中心的其他权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662865"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929206"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
@@ -102,7 +102,6 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 
 - 提供有关单个公用文件夹树共存的指导，包括：  
   - 在 Exchange 2007、Exchange 2010 和 Exchange 2013 中准备公用文件夹。 
-  - 将 Exchange 2007、Exchange 2010 和 Exchange 2013 公用文件夹层次结构与 Exchange Online 同步时需要的 Windows PowerShell cmdlet。  
   - 可将公用文件夹访问重定向到本地公用文件夹的 Exchange Online 配置。  
   - 对从 Exchange Online 到单个 Exchange 2007、Exchange 2010 或 Exchange 2013 本地环境的公用文件夹的访问权限配置。  
   - 协助对 Exchange Online 中的最多 10 个用户的公用文件夹环境的访问验证。
