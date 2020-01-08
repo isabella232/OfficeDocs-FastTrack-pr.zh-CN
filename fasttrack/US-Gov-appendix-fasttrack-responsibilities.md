@@ -10,16 +10,16 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: ab9213c8ea5095531a0a06bb40138c995be093a6
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929290"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959184"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
-FastTrack 专家在载入期间将承担以下责任。
+FastTrack 专家在载入期间将承担以下责任。  
   
 ## <a name="general"></a>概要
 
@@ -185,7 +185,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 将用户添加到 Project Online，包括 ERP 同步。  
 - 通过创建项目，验证基本 Project Online 功能。
     
-## <a name="yammer-enterprise"></a>Yammer Enterprise
+## <a name="yammer-enterprise"></a>Yammer 企业版
 
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
