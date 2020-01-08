@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929218"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959196"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -98,7 +98,6 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 提供用于计划邮箱迁移的标准模板。
 - 为 FastTrack 专家提供必需权限的相关信息。 
 - 收集采用预定格式的预定邮箱迁移计划。
-- 与您共享实施前工具，以便您可以在迁移失败的邮箱之前，运行实施前工具并主动修复实施前故障。
 - 在将邮箱报告为迁移失败之前，在迁移批量处理期间最多尝试迁移一个邮箱两次。
 - 对于基于 Exchange 和 IMAP4 的源环境，最多迁移用户邮箱存储空间上限 85% 的邮箱内容（例如，如果邮箱存储空间上限是 50 GB，那么 Microsoft 最多迁移 50 GB 存储空间上限 85% 的内容）。 
 - 除非使用直接转换迁移，否则在源邮件环境和 Office 365 Exchange Online 之间启用 SMTP 邮件路由共存。
