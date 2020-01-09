@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928774"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988425"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -139,6 +139,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 配置自动化、调查和响应。
 - 使用攻击模拟器。
 - 报告和威胁分析。
+
+![Office 365 ATP 图表（载入）](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
