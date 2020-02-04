@@ -3,25 +3,25 @@ title: 你对 Office 365 美国政府的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: ba4fc42e59c0f3581ea8bf2525a43646a156ee2c
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 786fcd6b78c20d09fa66e0d8f6b25a1316c82148
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929350"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677184"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对 Office 365 美国政府的责任
 
 你在载入过程中将承担以下责任。
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 开发并实现你的成功计划。   
 - 在此处列出的可配置选项范围外，还对你的 Office 365 租户提供任何增强功能和集成。    
