@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959172"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677016"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -79,6 +79,7 @@ FastTrack 中心提供有关以下服务的协助：
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 安全性\*
  
 ## <a name="eligible-office-365-plans"></a>符合条件的 Office 365 计划
 
@@ -157,14 +158,35 @@ FastTrack 中心提供有关以下服务的协助：
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>符合条件的 Microsoft 企业移动性 + 安全性计划
 
-|计划    |资格详细信息  |
-|---------|---------|
-|**企业移动性 + 安全性 (EMS) E3 或 E5**       |   适用于符合 FastTrack 权益的云服务。否则这将路由到 FastTrack 专家或合作伙伴引荐。        |
-|**Azure Active Directory Premium**     |  如果以单独套餐的形式购买或随附 E3 或 E5 购买，则符合条件。       |
-|**Azure 信息保护**    |  适用于 P2，可随附 E5 购买或以单独套餐的形式购买。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。       |
-|**Microsoft Intune**    |   如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。      |
-|**Microsoft Intune 和 Configuration Manager**     |    如果作为独立计划或作为 E3 或 E5 的一部分购买，则符合条件。     |
-|**Microsoft Intune for Education**     |  如果作为独立计划或作为 A3 或 A5 的一部分购买，则符合条件。       |
+**企业移动性 + 安全性** 
+
+- 企业移动性 + 安全性 (EMS) E3\*\*\*\*
+- 企业移动性 + 安全性 (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium 计划 1
+- Azure Active Directory Premium 计划 2
+
+**Azure 信息保护**
+
+- Azure 信息保护计划 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune 和 Configuration Manager**
+
+- Microsoft Intune 和 Configuration Manager
+
+**Microsoft Intune for Education**
+
+- Microsoft Intune for Education
+
+\*\*\*\*适用于有资格享受 FastTrack 优惠的云服务。 否则，这将会路由至 FastTrack 专家或合作伙伴引用。
+
+\*\*\*\*\*适用于 P2，可随附 E5 购买或以单独套餐的形式购买。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。
 
 有关详细信息，请参阅[适用于企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)。
 

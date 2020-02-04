@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务时，FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929182"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677262"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -24,9 +24,6 @@ ms.locfileid: "40929182"
 - 评估 Windows AV 服务或其他端点安全软件的状态。
 - 评估限制网络流量的代理和防火墙。
 - 确定赞助商、讨论部署计划、开始日期和支持会议的步调。
-
-> [!NOTE]
-> 目前仅提供英语版协助。 
 
 ## <a name="assistance"></a>协助
 
@@ -45,6 +42,10 @@ FastTrack 提供以下协助：
 FastTrack 不会提供以下帮助：
 - 客户补救活动的项目管理。
 - 现场支持。
+- 以下 Microsoft Defender ATP 代理的加入或配置：
+   - Windows Server
+   - macOS
+   - Linux
 - 基于硬件的隔离、应用控制、Exploit Protection 和网络防火墙指导。
 - 持续管理和威胁响应。
 
