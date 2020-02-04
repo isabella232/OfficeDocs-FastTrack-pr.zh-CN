@@ -24,7 +24,7 @@
 #### [对源环境的预期](Win-10-source-environment-expectations.md)
 #### [载入阶段](Win-10-onboarding-phases.md)
 #### [你的责任](Win-10-your-responsibilities.md)
-### [桌面应用保证](Win-10-desktop-app-assure.md)
+### [应用保证](Win-10-desktop-app-assure.md)
 #### [提供的协助](Win-10-daa-assistance-offered.md)
 ### [Microsoft Defender 高级威胁防护](Win-10-microsoft-defender-atp.md)
 #### [提供的协助](Win-10-microsoft-defender-atp-assistance-offered.md)
