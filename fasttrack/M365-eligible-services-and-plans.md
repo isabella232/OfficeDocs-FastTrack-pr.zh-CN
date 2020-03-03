@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677016"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347536"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -30,15 +30,15 @@ ms.locfileid: "41677016"
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“服务”****。
-3.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.  完成“**Microsoft 365 的请求帮助**”表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“我的客户”****。
 3.  搜索你的客户或从你的客户列表中选择。
 4.  选择“服务”****。
-5.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+5.  完成“**Microsoft 365 的请求帮助**”表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
 

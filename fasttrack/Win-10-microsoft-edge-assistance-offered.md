@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/11/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务（如在符合条件的服务和计划中详述）时，FastTrack 的专家将提供远程部署指南和兼容性协助（如果你有与 Internet Explorer 或Google Chrome 兼容的 Web 应用或网站）。
-ms.openlocfilehash: 25306c2ac1a9fecd00daac1745dfcab62da99201
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891728"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347548"
 ---
 # <a name="assistance-offered"></a>提供的协助
 
@@ -23,8 +23,8 @@ ms.locfileid: "41891728"
 
 ## <a name="assistance"></a>协助
 
-FastTrack 提供以下协助：
-- 使用 Microsoft Endpoint Manager (Configuration Manager) 或 Intune 在 Windows 10 Enterprise 上部署新 Microsoft Edge 的指南。
+FastTrack 提供以下远程指南：
+- 使用 Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager 或 Microsoft Intune) 在 Windows 10 Enterprise 上部署新 Microsoft Edge 的指南。
 - 有关 Microsoft Edge 配置的指南（使用组策略或 Intune 应用配置和应用策略）。
 - 有关盘点可能需要在 Internet Explorer 模式下使用的网站列表的指南。
 - 使用现有的 Enterprise Site List 启用 Internet Explorer 模式的指南。
@@ -33,15 +33,15 @@ FastTrack 提供以下协助：
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“服务”****。
-3.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.  完成“**Microsoft 365 的请求帮助**”表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“我的客户”****。
 3.  搜索你的客户或从你的客户列表中选择。
 4.  选择“服务”****。
-5.  选择“**向 Microsoft 365 请求帮助**”表单。
+5.  选择“**Microsoft 365 的请求帮助**”表单。
 6.  选择 **Microsoft Edge** 产品选项并填写表单。
  
 若要获取应用兼容性帮助，请填写[应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
@@ -50,6 +50,6 @@ FastTrack 提供以下协助：
 
 ## <a name="out-of-scope"></a>超出范围
 
-FastTrack 不会提供以下帮助：
+FastTrack 服务不包括：
 - 客户的 Microsoft Edge 部署的项目管理。
 - 现场支持。

@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677196"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347680"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -40,6 +40,8 @@ FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 
 - 如果你的 Web 应用或网站适用于 Internet Explorer 11、受支持的 Google Chrome 版本或任何 Microsoft Edge 版本，则它们也将适用于新版 Microsoft Edge。
 
+有关 Microsoft Edge 部署的指南，请参阅 [Microsoft Edge 频道](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)。 随着网络的不断发展，我们发布了[影响 Microsoft Edge 的已知站点兼容性更改](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes)列表。
+
 ### <a name="windows-virtual-desktop"></a>Windows 虚拟桌面
 
 - 在 Windows Server 远程桌面会话主机 (RDSH) 上运行的虚拟化应用也可作为 Windows 虚拟桌面的一部分在 Windows 10 企业版多会话中运行。
@@ -58,7 +60,7 @@ FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 
 ## <a name="out-of-scope"></a>超出范围
 
-FastTrack 不会提供以下帮助：
+FastTrack 服务不包括：
 - 用于确定在 Windows 10 和 Office 365 专业增强版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问[桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果对深入升级就绪性评估感兴趣，请填写[新式桌面评估的客户请求](https://go.microsoft.com/fwlink/?linkid=2053818)表单。
 - 研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅[桌面分析](https://docs.microsoft.com/sccm/desktop-analytics/overview)。
 - 仅限应用打包的服务。 但是，应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。

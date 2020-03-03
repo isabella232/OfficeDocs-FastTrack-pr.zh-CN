@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e1c993b8a04b6c3f0d572f7e9f8f43721c3d43b6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677004"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347476"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -75,7 +75,7 @@ ms.locfileid: "41677004"
 
 -   注册订阅团队查看器、移动威胁防护和电信费用管理解决方案。
 
--   注册 Windows Defender 高级威胁防护许可证。 （Windows E5 或 Microsoft E5 许可证）。
+-   注册 Microsoft Defender 高级威胁防护许可证。 （Windows E5 或 Microsoft E5 许可证）。
 
 ## <a name="initiate-phase"></a>启动阶段
 

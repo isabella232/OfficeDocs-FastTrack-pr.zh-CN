@@ -3,19 +3,19 @@ title: 载入阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 载入分为四个主要阶段：启动、评估、修正和启用。
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677232"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347752"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -27,7 +27,7 @@ Windows 10 载入分为四个主要阶段：启动、评估、修正和启用。
 
 ## <a name="assess"></a>评估
 
-FastTrack 专家与你一起评估你的源环境和需求。 确保 System Center Configuration Manager 升级到所需级别，以便支持 Windows 10 部署。 
+FastTrack 专家与你一起评估你的源环境和需求。 确保 Microsoft Endpoint Configuration Manager 升级到所需级别，以便支持 Windows 10 部署。 
 
 我们为你提供用于评估 Windows 10 应用的推荐选项。 FastTrack 提供桌面分析使用指南，还引导你创建桌面分析部署计划。
 

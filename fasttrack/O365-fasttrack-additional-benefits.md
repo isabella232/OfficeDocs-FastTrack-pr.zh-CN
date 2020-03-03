@@ -3,18 +3,18 @@ title: 附录 B：FastTrack 中心的其他权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676644"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347608"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
@@ -43,7 +43,7 @@ ms.locfileid: "41676644"
 对于 Office 365 ProPlus，我们提供以下指导： 
 - 根据 Microsoft 最佳做法进行评估和计划，重点是让环境准备好执行初始部署和更新管理。 
 - 使用 Office 365 部署工具和 Office 自定义工具开发部署配置和更新设置。 
-- 使用 System Center Configuration Manager 进行部署打包。  
+- 使用 Microsoft Endpoint Configuration Manager 进行部署打包。  
 - 启用 Readiness Toolkit for Office，以确定与 Office 一起使用的 Microsoft Visual Basic for Applications (VBA) 宏和加载项的潜在兼容性问题。
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 责任

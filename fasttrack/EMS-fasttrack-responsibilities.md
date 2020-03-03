@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676608"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347404"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -168,6 +168,10 @@ FastTrack 在载入过程中将承担以下责任。
 
   - Azure Active Directory 访问审查。
 
+  -   Azure Active Directory 密码保护。
+
+  -   Azure Active Directory B2B。
+
 ### <a name="enable-phase---intune"></a>启用阶段 - Intune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ FastTrack 在载入过程中将承担以下责任。
 
         -   电信费用管理解决方案（需要电信费用管理解决方案订阅）。
 
-        -   Windows Defender 高级威胁防护（需要 Windows E5 或 Microsoft 365 E5 许可证）。
+        -   Microsoft Defender 高级威胁防护（需要 Windows E5 或 Microsoft 365 E5 许可证）。
 
     -   为适用的受支持平台配置软件更新。
 

@@ -3,19 +3,19 @@ title: 源环境预期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你为 Windows 10 部署设置与源环境的集成级别。
-ms.openlocfilehash: 69f384261192a72775e4975b126f68ab7c19a942
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677310"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347632"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 
@@ -29,7 +29,7 @@ FastTrack 中心权益可以指导你设置与源环境的集成级别。
 
 若要升级基础结构，必须满足以下要求：   
 
-- System Center Configuration Manager（当前分支）版本 1902 及更高版本 
+- Microsoft Endpoint Configuration Manager  
 - Configuration Manager 版本必须受 Windows 10 目标版本支持
 
 有关详细信息，请参阅 [Configuration Manager 中的 Windows 10 支持](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)中的 Configuration Manager 支持表格。

@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版和 Windows 8.1 专业版升级到 Windows 10 企业版。
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677298"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347512"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版和 Windows 8.1 专业版升级到 Windows 10 企业版。 你可与 FastTrack 专家协作：
 
-- 使用 Microsoft System Center Configuration Manager 或 Microsoft 365 部署 Windows 10 企业版。
+- 使用 Microsoft Endpoint Configuration Manager 或 Microsoft 365 部署 Windows 10 企业版。
 - 部署 Office 365 专业增强版。 
-- 使用 System Center Configuration Manager 或 Microsoft 365 更新 Windows 10 企业版和 Office 365 专业增强版。
+- 使用 Microsoft Endpoint Configuration Manager 或 Microsoft 365 更新 Windows 10 企业版和 Office 365 专业增强版。
 - 将 Configuration Manager 云附加与 Microsoft Intune，或将 Intune 部署为唯一的云管理解决方案。
   
 > [!NOTE]
@@ -41,14 +41,14 @@ FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版�
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“服务”****。
-3.  完成“通过 Microsoft 365 请求帮助”**** 表单。
+2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.  完成“**Microsoft 365 的请求帮助**”表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.  选择“我的客户”****。
 3.  搜索你的客户或从你的客户列表中选择。
 4.  选择“服务”****。
-5.  选择“**向 Microsoft 365 请求帮助**”表单。
+5.  选择“**Microsoft 365 的请求帮助**”表单。
 6.  选择 Windows 10 产品选项并填写表单。
  
