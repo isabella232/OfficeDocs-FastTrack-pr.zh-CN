@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 699b2f9229187df182e6d9fc6f2f7d49d9707174
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676656"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347524"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -35,19 +35,17 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“服务”****。
-4.  完成“通过 Microsoft 365 请求帮助”**** 表单。 
+2.  从 "登录" 页面顶部的 "**快速操作**" 中选择 "请求帮助"，或选择部署卡片上的 "**请求帮助" 以 microsoft 365 为**microsoft **365。**
+3. 完成**Microsoft 365 的 "请求帮助**" 表单。 
 
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“FastTrack”****。
-3.  选择“我的客户”****。
-4.  搜索你的客户或从你的客户列表中选择。
-5.  选择“服务”****。
-6.  完成“通过 Microsoft 365 请求帮助”**** 表单。   
+2.  选择“我的客户”****。
+3.  搜索你的客户或从你的客户列表中选择。
+4.  选择“服务”****。
+5.  完成**Microsoft 365 的 "请求帮助**" 表单。   
 
-也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -186,7 +184,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。    
 - 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。    
-- 使用 Microsoft System Center Configuration Manager 的部署，包括帮助创建 System Center Configuration Manager 打包。
+- 使用 Microsoft 终结点配置管理器进行部署，包括帮助创建 Microsoft 终结点配置管理器打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
 
