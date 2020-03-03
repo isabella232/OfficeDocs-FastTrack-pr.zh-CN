@@ -3,19 +3,19 @@ title: 适用于 Windows 10 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买至少** 150 个许可证达到服务或计划的条件时，即可使用适于 Windows 10 的 FastTrack 中心权益。
-ms.openlocfilehash: 24dd159914cd370a3c40eb7482f9d7b774a0c308
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891539"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347692"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>适用于 Windows 10 的 FastTrack 中心权益
 
