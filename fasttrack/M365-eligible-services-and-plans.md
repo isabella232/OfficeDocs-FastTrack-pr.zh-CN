@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347536"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637376"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
 
 > [!IMPORTANT]
-> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。
+> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。 
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 
 若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.  完成“**Microsoft 365 的请求帮助**”表单。
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.    完成“**Microsoft 365 的请求帮助**”表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“我的客户”****。
-3.  搜索你的客户或从你的客户列表中选择。
-4.  选择“服务”****。
-5.  完成“**Microsoft 365 的请求帮助**”表单。
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    选择“我的客户”****。
+3.    搜索你的客户或从你的客户列表中选择。
+4.    选择“服务”****。
+5.    完成“**Microsoft 365 的请求帮助**”表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
 

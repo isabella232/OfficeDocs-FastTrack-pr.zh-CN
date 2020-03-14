@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347500"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637388"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -266,7 +266,7 @@ FastTrack 还为你提供了有关如何成功推行符合条件的服务的指�
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![载入启用阶段 - 协调管理](./media/ft-9-enable-phase-comanagement.png)
+![载入启用阶段 - 协调管理](./media/ft-9-enable-phase-comanagement.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>启用阶段 - Azure 信息保护
 
