@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
+ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637376"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707041"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
 
 > [!IMPORTANT]
-> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。 
+> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。 2020 年 3 月新增功能，Microsoft 将提供 6 个月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 试用版许可证协助客户远程工作和学习，应对新型冠状病毒肺炎（COVID-19）的爆发。 从 2020 年 3 月到 2020 年 8 月，FastTrack 将破例协助载入这些免费许可证。  
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 
@@ -152,7 +152,7 @@ FastTrack 中心提供有关以下服务的协助：
 \*\*\*可用于 Skype for Business Online 和 Microsoft Teams 许可用户。 需要符合条件购买 Skype for Business 或 Microsoft Teams。 
 
 > [!NOTE]
-> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 
+> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 2020 年 3 月新增功能，Microsoft 将提供 6 个月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 试用版许可证协助客户远程工作和学习，应对新型冠状病毒肺炎（COVID-19）的爆发。 从 2020 年 3 月到 2020 年 8 月，FastTrack 将破例协助载入这些免费许可证。 
  
 有关详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](https://go.microsoft.com/fwlink/?linkid=2044752)。
 
