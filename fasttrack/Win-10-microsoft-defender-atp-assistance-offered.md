@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务时，FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347704"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052797"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -48,4 +48,3 @@ FastTrack 服务不包括：
    - Linux
 - 基于硬件的隔离、应用控制、Exploit Protection 和网络防火墙指导。
 - 持续管理和威胁响应。
-

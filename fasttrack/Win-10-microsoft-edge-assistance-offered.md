@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务（如在符合条件的服务和计划中详述）时，FastTrack 的专家将提供远程部署指南和兼容性协助（如果你有与 Internet Explorer 或Google Chrome 兼容的 Web 应用或网站）。
-ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5bcad9585c9ebb6449350d72ed3ad9e5f17ae061
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347548"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052977"
 ---
 # <a name="assistance-offered"></a>提供的协助
 
@@ -32,17 +32,17 @@ FastTrack 提供以下远程指南：
 若要请求提供 Microsoft Edge 部署指南，你可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 要进行登录，必须在活动租户上具备有效的工作或学校帐户（组织 ID 或 Azure Active Directory ID）。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.  完成“**Microsoft 365 的请求帮助**”表单。
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.    完成“**Microsoft 365 的请求帮助**”表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“我的客户”****。
-3.  搜索你的客户或从你的客户列表中选择。
-4.  选择“服务”****。
-5.  选择“**Microsoft 365 的请求帮助**”表单。
-6.  选择 **Microsoft Edge** 产品选项并填写表单。
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    选择“我的客户”****。
+3.    搜索你的客户或从你的客户列表中选择。
+4.    选择“服务”****。
+5.    选择“**Microsoft 365 的请求帮助**”表单。
+6.    选择 **Microsoft Edge** 产品选项并填写表单。
  
 若要获取应用兼容性帮助，请填写[应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -53,3 +53,4 @@ FastTrack 提供以下远程指南：
 FastTrack 服务不包括：
 - 客户的 Microsoft Edge 部署的项目管理。
 - 现场支持。
+

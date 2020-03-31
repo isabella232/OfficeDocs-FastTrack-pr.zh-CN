@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347740"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052821"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -37,16 +37,16 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.  完成“**Microsoft 365 的请求帮助**”表单。 
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.    完成“**Microsoft 365 的请求帮助**”表单。 
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“我的客户”****。
-3.  搜索你的客户或从你的客户列表中选择。
-4.  选择“服务”****。
-5.  完成“**Microsoft 365 的请求帮助**”表单。
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    选择“我的客户”****。
+3.    搜索你的客户或从你的客户列表中选择。
+4.    选择“服务”****。
+5.    完成“**Microsoft 365 的请求帮助**”表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
@@ -205,7 +205,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 
 对于 Office 365 专业增强版，我们提供针对以下方面的指导：
 - 解决部署问题。   
-- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。 
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配基于最终用户和设备的许可证。 
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。   
@@ -220,4 +220,3 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 对于 Outlook for iOS 和 Outlook for Android，我们提供以下方面的指导：
 - 从 Apple App Store 和 Google Play 下载 Outlook for iOS 和 Outlook for Android。
 - 配置帐户和访问 Exchange Online 邮箱。
-
