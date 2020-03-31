@@ -9,18 +9,15 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 如果你有带 Microsoft for FastTrack Services 的 HIPAA 业务关联协议 (BAA)，FastTrack Center Benefit for Office 365 中列出的所有服务都将包含在 BAA 中，除了：
-ms.openlocfilehash: 78774e22891ee6430910283da07ea19b333697b1
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed6d259afa689b7dacd3269d271155593cbb2410
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347644"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052773"
 ---
-# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="da022-103">附录 C - FastTrack 中心 HIPAA 业务联合协议</span><span class="sxs-lookup"><span data-stu-id="da022-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="ca56b-103">附录 C - FastTrack 中心 HIPAA 业务联合协议</span><span class="sxs-lookup"><span data-stu-id="ca56b-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="da022-104">如果你已与 Microsoft 达成 HIPAA 业务关联协议 (BAA)，则将根据该 BAA 执行[适用于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)中列出的所有服务，下述服务除外：</span><span class="sxs-lookup"><span data-stu-id="da022-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA except:</span></span> 
-  
-- <span data-ttu-id="da022-105">Gmail 迁移。</span><span class="sxs-lookup"><span data-stu-id="da022-105">Gmail migrations.</span></span>   
-- <span data-ttu-id="da022-106">GroupWise 迁移。</span><span class="sxs-lookup"><span data-stu-id="da022-106">GroupWise migrations.</span></span>
-    
+<span data-ttu-id="ca56b-104">如果你已与 Microsoft 达成 HIPAA 业务关联协议 (BAA)，则将根据该 BAA 执行[适用于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)中列出的所有服务，GroupWise 迁移除外。</span><span class="sxs-lookup"><span data-stu-id="ca56b-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA except GroupWise migrations.</span></span>
+
 
