@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你设置与源环境的集成级别（例如，如果在源环境中你已经拥有想要移动到 Office 365 的服务）。
-ms.openlocfilehash: ac2b711d6b97584862d506666ab01e9fb5525a9e
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 47bfa8393c9e14eb8b35f90cd8d776b2c81aa78e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347416"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052931"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 美国政府的源环境预期
 
@@ -34,7 +34,3 @@ FastTrack 中心权益可以指导你设置与源环境的集成级别（例如�
 |Skype for Business Online 载入  | **网络评估**  <br/>  端口和终结点检查。  <br/>  连接质量检查。  <br/>  带宽预估。  <br/><br/>  **Lync 混合**  <br/>  一个本地 Active Directory 林。  <br/>  使用 Lync 2013 管理工具或 Skype for Business 2015 管理工具和 Lync 2010 边缘服务器角色的 Lync 2010 Server 环境。  <br/>  一个 Lync 2013 Server 环境和 Lync 2013 边缘服务器角色。  <br/><br/>  **Skype for Business Online 混合**  <br/>  一个本地 Active Directory 林。  <br/>  单个 Active Directory 帐户林前向和资源林（Exchange 和/或 Skype for Business）拓扑。  <br/>  多个 Active Directory 帐户林，其中一个林是包含 Exchange 和/或 Skype for Business 的集中式 Active Directory 帐户林。  <br/>  一个包括 Skype for Business 边缘服务器角色的 Skype for Business Server 2015 环境。  <br/><br/> **注意**  *此额外的服务用于配置和验证拆分域（混合）任务，并不包括引入本地组件（例如，Lync 2013 管理工具或 Lync 2013/Skype for Business Online 服务器或 Lync 2010、Lync 2013 或 Skype for Business 边缘服务器）。*    <br/><br/>        **会议室设备**  <br/>  创建受支持的会议室设备（列于 [Skype for Business 解决方案目录](https://go.microsoft.com/fwlink/?LinkId=615775)的"会议室系统"选项卡中）所需的联机帐户。  <br/><br/>  **启用音频会议**  <br/>  会议桥默认设置的组织设置。  <br/>  向许可用户分配会议桥。  <br/><br/>  **启用电话系统和通话套餐指南（仅限美国–在 GCC 高或 DoD 计划中不可用）**  <br/>  组织设置云语音默认设置。  <br/>  向许可用户分配号码。  <br/>  通过用户界面 (UI) 进行本地号码端口定位的指南（最多到 999）。  <br/>  超过 999 的本地号码端口定位服务请求 (SR) 支持。  <br/><br/>  **启用 Skype for Business 会议广播指南载入（在 GCC 高或 DoD 计划中不可用）**  <br/>  使用会议直播服务的联合身份验证组织设置。   |
 |Microsoft 团队载入（在 GCC 高或 DoD 计划中不可用） | 在适用于 Office 365 的 Azure Active Directory 中启用标识。  <br/>  对 SharePoint Online 启用的用户。  <br/>  Exchange 邮箱已存在，联机和/或本地（在 Exchange 混合配置中）。  <br/>  针对 Office 365 组启用。  <br/><br/> **注意**  *如果未为用户分配和启用 SharePoint Online 许可证，他们将不会在 Office 365 中拥有 OneDrive for Business 存储。文件共享将继续在频道中工作，但用户无法在 Office 365 中没有 OneDrive for Business 存储的聊天中共享文件。Microsoft Teams 不支持本地 SharePoint。*   <br/> <br/>       **注意**  *理想的状态是将所有用户的邮箱都托管在 ExchangeOnline 上。将邮箱托管在本地的用户必须通过 Azure Active Directory Connect 将其身份同步至 Office 365 目录。对于这些 Exchange 混合客户，如果用户的邮箱托管在本地，则用户无法添加或配置连接器。*          |
 | 服务载入，包括：  <br/>  *Exchange Online <br/> SharePoint online <br/> OneDrive for Business <br/> Skype FOR business Online <br/> Microsoft 团队<br/> Power BI <br/> Project Online <br/> Yammer <br/> Office 365 专业增强版<br/>*   |如 [Office 的系统要求](https://go.microsoft.com/fwlink/?LinkID=723597)所定义，在线客户端软件（如 Project for Office 365、Outlook 客户端、OneDrive for Business 同步客户端、Power BI Desktop 和 Skype for Business）必须处于最低级别。  <br/> 可以从 [https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411) 下载 Microsoft Teams Windows 和 Mac 桌面客户端的安装程序。   |
-   
-
-  
-

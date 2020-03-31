@@ -1,5 +1,5 @@
 ---
-title: 附录 D - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
+title: 附录 D - 适用于 Office 365 US Government 的 FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -9,14 +9,14 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: 借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347368"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052809"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 D - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 D - 适用于 Office 365 US Government 的 FastTrack 中心权益概述
 
 借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。 
   
@@ -34,5 +34,3 @@ ms.locfileid: "42347368"
 - [你对 Office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md) 
 - [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [附录 B：FastTrack 中心的其他权益](O365-fasttrack-additional-benefits.md)
-
-

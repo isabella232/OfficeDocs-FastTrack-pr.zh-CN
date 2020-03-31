@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347524"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052989"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -34,18 +34,18 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  从 "登录" 页面顶部的 "**快速操作**" 中选择 "请求帮助"，或选择部署卡片上的 "**请求帮助" 以 microsoft 365 为**microsoft **365。**
-3. 完成**Microsoft 365 的 "请求帮助**" 表单。 
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    从 "登录" 页面顶部的 "**快速操作**" 中选择 "请求帮助"，或选择部署卡片上的 "**请求帮助" 以 microsoft 365 为**microsoft **365。**
+3. 完成“**Microsoft 365 的请求帮助**”表单。 
 
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“我的客户”****。
-3.  搜索你的客户或从你的客户列表中选择。
-4.  选择“服务”****。
-5.  完成**Microsoft 365 的 "请求帮助**" 表单。   
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    选择“我的客户”****。
+3.    搜索你的客户或从你的客户列表中选择。
+4.    选择“服务”****。
+5.    完成“**Microsoft 365 的请求帮助**”表单。   
 
-也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -57,7 +57,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计带宽要求和评估您的 internet 浏览器、客户端操作系统、域名系统（DNS）、网络、基础结构和身份系统，以确定是否需要进行任何更改以进行载入。 
+FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计带宽要求和评估 internet 浏览器、客户端操作系统、域名系统（DNS）、网络、基础结构和标识系统，以确定是否需要进行必要的更改才能进行载入。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
@@ -184,11 +184,6 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。    
 - 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。    
-- 使用 Microsoft 终结点配置管理器进行部署，包括帮助创建 Microsoft 终结点配置管理器打包。
+- 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
     
 ![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-

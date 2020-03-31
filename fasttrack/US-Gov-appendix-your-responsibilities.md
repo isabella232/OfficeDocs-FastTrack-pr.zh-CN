@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347776"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052965"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对 Office 365 美国政府的责任
 
@@ -103,7 +103,4 @@ ms.locfileid: "42347776"
 - 根据 Microsoft 指导，启用各种服务。    
 - 如果要配置移动设备管理 (MDM)，请获取 Apple ID。   
 - 更新你的 Apple 推送通知服务 (APNS) 证书。
-    
-
   
-
