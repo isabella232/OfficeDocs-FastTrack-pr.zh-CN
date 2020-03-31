@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347608"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052557"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
@@ -143,7 +143,3 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 - 为运营发起人或负责人分配运营指导委员会的决策权。  
 - 分配一名执行发起人与 Microsoft 执行发起人合作。  
 - 成立每月指导委员会会议。
-    
-
-  
-

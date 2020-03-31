@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347656"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052761"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -42,20 +42,20 @@ FastTrack 流程提供了载入和用户采用服务。
 若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.  完成“**Microsoft 365 的请求帮助**”表单。 
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
+3.    完成“**Microsoft 365 的请求帮助**”表单。 
   
  也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
  在载入助手启动后，我们便会制定联机会议的日程安排。
     
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.  选择“我的客户”****。
-3.  搜索你的客户或从你的客户列表中选择。
-4.  选择“服务”****。
-5.  完成“**Microsoft 365 的请求帮助**”表单。 
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    选择“我的客户”****。
+3.    搜索你的客户或从你的客户列表中选择。
+4.    选择“服务”****。
+5.    完成“**Microsoft 365 的请求帮助**”表单。 
 
 下表列出了流程中的角色和职责。
     
@@ -64,7 +64,3 @@ FastTrack 流程提供了载入和用户采用服务。
 |**角色** <br/> |**职责** <br/> |
 |**FastTrack 专家** <br/> |远程提供所有入门、迁移和用户采用服务。  <br/> 通过综合使用工具和发布的文档远程协助你。 <br/> 直接协助你或你的代表。 <br/> 提供电子邮件和数据迁移指导。|
 |**FastTrack 中心**  <br/> |提供核心和服务入门指导，并指导如何计划成功采用符合条件的服务。  <br/> 在正常工作时间对特定区域提供协助。 <br/> 使用繁体中文、简体中文（仅限讲普通话的资源）、英语、法语、德语、意大利语、日语、韩语、葡萄牙语（巴西）、西班牙语、泰语和越南语提供协助。|
-
-
-  
-
