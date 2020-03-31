@@ -10,42 +10,41 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务时，FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347704"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052797"
 ---
-# <a name="assistance-offered"></a><span data-ttu-id="9b878-104">提供的协助</span><span class="sxs-lookup"><span data-stu-id="9b878-104">Assistance Offered</span></span>  
+# <a name="assistance-offered"></a><span data-ttu-id="a4e99-104">提供的协助</span><span class="sxs-lookup"><span data-stu-id="a4e99-104">Assistance Offered</span></span>  
 
-<span data-ttu-id="9b878-105">当你购买任何 Windows 10 或 Microsoft 365 服务时（[合格服务和计划](M365-eligible-services-and-plans.md)中进行了详细介绍），FastTrack 专家将提供用于保护终结点的远程部署指南。</span><span class="sxs-lookup"><span data-stu-id="9b878-105">When you purchase any of the Windows 10 or Microsoft 365 services (as detailed in [Eligible Services and Plans](M365-eligible-services-and-plans.md)), FastTrack Specialists provide remote deployment guidance for securing endpoints.</span></span> <span data-ttu-id="9b878-106">我们的服务针对每个客户的环境和需求进行了量身定制。</span><span class="sxs-lookup"><span data-stu-id="9b878-106">Our service is tailored to the environment and needs for each customer.</span></span> <span data-ttu-id="9b878-107">FastTrack 专家：</span><span class="sxs-lookup"><span data-stu-id="9b878-107">FastTrack Specialists:</span></span>
-- <span data-ttu-id="9b878-108">评估 OS 版本和设备管理（包括 Microsoft Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置）。</span><span class="sxs-lookup"><span data-stu-id="9b878-108">Assess the OS version and device management (including Microsoft Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations).</span></span>
-- <span data-ttu-id="9b878-109">评估 Windows AV 服务或其他端点安全软件的状态。</span><span class="sxs-lookup"><span data-stu-id="9b878-109">Assess the status of your Windows AV services or other endpoint security software.</span></span>
-- <span data-ttu-id="9b878-110">评估限制网络流量的代理和防火墙。</span><span class="sxs-lookup"><span data-stu-id="9b878-110">Assess proxies and firewalls restricting network traffic.</span></span>
-- <span data-ttu-id="9b878-111">确定赞助商、讨论部署计划、开始日期和支持会议的步调。</span><span class="sxs-lookup"><span data-stu-id="9b878-111">Identify sponsors, discuss deployment plans, start dates, and the cadence of support meetings.</span></span>
+<span data-ttu-id="a4e99-105">当你购买任何 Windows 10 或 Microsoft 365 服务时（[合格服务和计划](M365-eligible-services-and-plans.md)中进行了详细介绍），FastTrack 专家将提供用于保护终结点的远程部署指南。</span><span class="sxs-lookup"><span data-stu-id="a4e99-105">When you purchase any of the Windows 10 or Microsoft 365 services (as detailed in [Eligible Services and Plans](M365-eligible-services-and-plans.md)), FastTrack Specialists provide remote deployment guidance for securing endpoints.</span></span> <span data-ttu-id="a4e99-106">我们的服务针对每个客户的环境和需求进行了量身定制。</span><span class="sxs-lookup"><span data-stu-id="a4e99-106">Our service is tailored to the environment and needs for each customer.</span></span> <span data-ttu-id="a4e99-107">FastTrack 专家：</span><span class="sxs-lookup"><span data-stu-id="a4e99-107">FastTrack Specialists:</span></span>
+- <span data-ttu-id="a4e99-108">评估 OS 版本和设备管理（包括 Microsoft Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置）。</span><span class="sxs-lookup"><span data-stu-id="a4e99-108">Assess the OS version and device management (including Microsoft Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations).</span></span>
+- <span data-ttu-id="a4e99-109">评估 Windows AV 服务或其他端点安全软件的状态。</span><span class="sxs-lookup"><span data-stu-id="a4e99-109">Assess the status of your Windows AV services or other endpoint security software.</span></span>
+- <span data-ttu-id="a4e99-110">评估限制网络流量的代理和防火墙。</span><span class="sxs-lookup"><span data-stu-id="a4e99-110">Assess proxies and firewalls restricting network traffic.</span></span>
+- <span data-ttu-id="a4e99-111">确定赞助商、讨论部署计划、开始日期和支持会议的步调。</span><span class="sxs-lookup"><span data-stu-id="a4e99-111">Identify sponsors, discuss deployment plans, start dates, and the cadence of support meetings.</span></span>
 
-## <a name="assistance"></a><span data-ttu-id="9b878-112">协助</span><span class="sxs-lookup"><span data-stu-id="9b878-112">Assistance</span></span>
+## <a name="assistance"></a><span data-ttu-id="a4e99-112">协助</span><span class="sxs-lookup"><span data-stu-id="a4e99-112">Assistance</span></span>
 
-<span data-ttu-id="9b878-113">FastTrack 提供以下远程指南：</span><span class="sxs-lookup"><span data-stu-id="9b878-113">FastTrack provides remote guidance for the following:</span></span>
-- <span data-ttu-id="9b878-114">通过说明如何使用板载终结点部署 ATP 代理配置文件来启用 Microsoft Defender ATP 服务。</span><span class="sxs-lookup"><span data-stu-id="9b878-114">Enable the Microsoft Defender ATP service by explaining how to deploy an ATP agent profile using an onboard endpoint.</span></span>
-- <span data-ttu-id="9b878-115">提供有关如何设置 Microsoft Defender ATP 配置文件（包括终结点保护和设备限制）的指南。</span><span class="sxs-lookup"><span data-stu-id="9b878-115">Provide guidance on how to set Microsoft Defender ATP configuration profiles (including endpoint protection and device restriction).</span></span>
-- <span data-ttu-id="9b878-116">提供有关如何设置安全中心设置，个性化设置 Microsoft Defender ATP 如何满足你的需求的指南。</span><span class="sxs-lookup"><span data-stu-id="9b878-116">Provide guidance on how to set Security Center settings to personalize how Microsoft Defender ATP addresses your needs.</span></span>
-- <span data-ttu-id="9b878-117">以下方面的教育：</span><span class="sxs-lookup"><span data-stu-id="9b878-117">Education on:</span></span>
-    - <span data-ttu-id="9b878-118">模拟和教程（如实践方案、伪恶意软件和自动调查）。</span><span class="sxs-lookup"><span data-stu-id="9b878-118">Simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>
-    - <span data-ttu-id="9b878-119">报告和威胁分析。</span><span class="sxs-lookup"><span data-stu-id="9b878-119">Reporting and threat analytics.</span></span>
-    - <span data-ttu-id="9b878-120">威胁和漏洞管理。</span><span class="sxs-lookup"><span data-stu-id="9b878-120">Threat and vulnerability management.</span></span>
-    - <span data-ttu-id="9b878-121">在 Microsoft Defender 安全中心门户中导航。</span><span class="sxs-lookup"><span data-stu-id="9b878-121">Navigating the Microsoft Defender Security Center portal.</span></span>
+<span data-ttu-id="a4e99-113">FastTrack 提供以下远程指南：</span><span class="sxs-lookup"><span data-stu-id="a4e99-113">FastTrack provides remote guidance for the following:</span></span>
+- <span data-ttu-id="a4e99-114">通过说明如何使用板载终结点部署 ATP 代理配置文件来启用 Microsoft Defender ATP 服务。</span><span class="sxs-lookup"><span data-stu-id="a4e99-114">Enable the Microsoft Defender ATP service by explaining how to deploy an ATP agent profile using an onboard endpoint.</span></span>
+- <span data-ttu-id="a4e99-115">提供有关如何设置 Microsoft Defender ATP 配置文件（包括终结点保护和设备限制）的指南。</span><span class="sxs-lookup"><span data-stu-id="a4e99-115">Provide guidance on how to set Microsoft Defender ATP configuration profiles (including endpoint protection and device restriction).</span></span>
+- <span data-ttu-id="a4e99-116">提供有关如何设置安全中心设置，个性化设置 Microsoft Defender ATP 如何满足你的需求的指南。</span><span class="sxs-lookup"><span data-stu-id="a4e99-116">Provide guidance on how to set Security Center settings to personalize how Microsoft Defender ATP addresses your needs.</span></span>
+- <span data-ttu-id="a4e99-117">以下方面的教育：</span><span class="sxs-lookup"><span data-stu-id="a4e99-117">Education on:</span></span>
+    - <span data-ttu-id="a4e99-118">模拟和教程（如实践方案、伪恶意软件和自动调查）。</span><span class="sxs-lookup"><span data-stu-id="a4e99-118">Simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>
+    - <span data-ttu-id="a4e99-119">报告和威胁分析。</span><span class="sxs-lookup"><span data-stu-id="a4e99-119">Reporting and threat analytics.</span></span>
+    - <span data-ttu-id="a4e99-120">威胁和漏洞管理。</span><span class="sxs-lookup"><span data-stu-id="a4e99-120">Threat and vulnerability management.</span></span>
+    - <span data-ttu-id="a4e99-121">在 Microsoft Defender 安全中心门户中导航。</span><span class="sxs-lookup"><span data-stu-id="a4e99-121">Navigating the Microsoft Defender Security Center portal.</span></span>
 
-## <a name="out-of-scope"></a><span data-ttu-id="9b878-122">超出范围</span><span class="sxs-lookup"><span data-stu-id="9b878-122">Out of scope</span></span>
+## <a name="out-of-scope"></a><span data-ttu-id="a4e99-122">超出范围</span><span class="sxs-lookup"><span data-stu-id="a4e99-122">Out of scope</span></span>
 
-<span data-ttu-id="9b878-123">FastTrack 服务不包括：</span><span class="sxs-lookup"><span data-stu-id="9b878-123">FastTrack services don't include:</span></span>
-- <span data-ttu-id="9b878-124">客户补救活动的项目管理。</span><span class="sxs-lookup"><span data-stu-id="9b878-124">Project management of the customer’s remediation activities.</span></span>
-- <span data-ttu-id="9b878-125">现场支持。</span><span class="sxs-lookup"><span data-stu-id="9b878-125">On-site support.</span></span>
-- <span data-ttu-id="9b878-126">以下 Microsoft Defender ATP 代理的加入或配置：</span><span class="sxs-lookup"><span data-stu-id="9b878-126">Onboarding or configuration for the following Microsoft Defender ATP agents:</span></span>
-   - <span data-ttu-id="9b878-127">Windows Server</span><span class="sxs-lookup"><span data-stu-id="9b878-127">Windows Server</span></span>
-   - <span data-ttu-id="9b878-128">macOS</span><span class="sxs-lookup"><span data-stu-id="9b878-128">macOS</span></span>
-   - <span data-ttu-id="9b878-129">Linux</span><span class="sxs-lookup"><span data-stu-id="9b878-129">Linux</span></span>
-- <span data-ttu-id="9b878-130">基于硬件的隔离、应用控制、Exploit Protection 和网络防火墙指导。</span><span class="sxs-lookup"><span data-stu-id="9b878-130">Hardware-based isolation, app control, exploit protection, and network firewall guidance.</span></span>
-- <span data-ttu-id="9b878-131">持续管理和威胁响应。</span><span class="sxs-lookup"><span data-stu-id="9b878-131">Ongoing management and threat response.</span></span>
-
+<span data-ttu-id="a4e99-123">FastTrack 服务不包括：</span><span class="sxs-lookup"><span data-stu-id="a4e99-123">FastTrack services don't include:</span></span>
+- <span data-ttu-id="a4e99-124">客户补救活动的项目管理。</span><span class="sxs-lookup"><span data-stu-id="a4e99-124">Project management of the customer's remediation activities.</span></span>
+- <span data-ttu-id="a4e99-125">现场支持。</span><span class="sxs-lookup"><span data-stu-id="a4e99-125">On-site support.</span></span>
+- <span data-ttu-id="a4e99-126">以下 Microsoft Defender ATP 代理的加入或配置：</span><span class="sxs-lookup"><span data-stu-id="a4e99-126">Onboarding or configuration for the following Microsoft Defender ATP agents:</span></span>
+   - <span data-ttu-id="a4e99-127">Windows Server</span><span class="sxs-lookup"><span data-stu-id="a4e99-127">Windows Server</span></span>
+   - <span data-ttu-id="a4e99-128">macOS</span><span class="sxs-lookup"><span data-stu-id="a4e99-128">macOS</span></span>
+   - <span data-ttu-id="a4e99-129">Linux</span><span class="sxs-lookup"><span data-stu-id="a4e99-129">Linux</span></span>
+- <span data-ttu-id="a4e99-130">基于硬件的隔离、应用控制、Exploit Protection 和网络防火墙指导。</span><span class="sxs-lookup"><span data-stu-id="a4e99-130">Hardware-based isolation, app control, exploit protection, and network firewall guidance.</span></span>
+- <span data-ttu-id="a4e99-131">持续管理和威胁响应。</span><span class="sxs-lookup"><span data-stu-id="a4e99-131">Ongoing management and threat response.</span></span>
