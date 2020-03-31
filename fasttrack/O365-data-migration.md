@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 0e88f77ee653e374934fcdb11c25b51af2d7d0db
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347584"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052569"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -37,12 +37,15 @@ FastTrack 专家提供有关将数据迁移到 Office 365 的逐步指导。我�
 > [!NOTE]
 > 如果集成是必需的，则对于相应的应用程序而言，您的源环境必须处于最低级别。 
   
+> [!NOTE]
+> 2020 年 3 月新增功能，Microsoft 将提供 6 个月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 试用版许可证协助客户远程工作和学习，应对新型冠状病毒肺炎（COVID-19）的爆发。 从 2020 年 3 月到 2020 年 8月，FastTrack 破例针对这些试用版证书超过 500 （含）的租户以及针对 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) 学生版提供数据迁移服务。 Microsoft保留随时取消，更改或暂停此优惠的权利，恕不另行通知。
+
 下表描述了对您的现有源环境的迁移预期。
   
 
 |**活动**|**对源环境的预期**|
 |:-----|:-----|
-|**Exchange Online 迁移**  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/> 一个 IBM Domino 7.0.3 前向环境（ [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)）。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。  <br/>  一个 Novell GroupWise 7.0.4 前向环境。  <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
+|**Exchange Online 迁移**  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/> 一个 IBM Domino 7.0.3 前向环境（ [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)）。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。  <br/> Novell GroupWise 环境。 <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
 |**SharePoint Online 迁移**  <br/> | 文件共享（支持 SMB 2.0 前向的设备上的服务器消息块 (SMB) 文件共享）。  <br/>  Box（Starter、Business、Enterprise）。  <br/> |
 |**OneDrive for Business 迁移**  <br/> | 文件共享（SMB 文件在支持 SMB 2.0 前向的设备上共享）。  <br/>  单个 G 套件环境（仅限 Google Drive）。  <br/>  Box（Starter、Business、Enterprise）。 <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 驱动器。*|
    
@@ -86,9 +89,9 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 |**Exchange 2003 及更高版本**|直接转换| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/>  超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/>  非活动邮箱 |
 |**Exchange 2003 和 Exchange 2007**|暂存| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
 |**Exchange 2010、Exchange 2013 和 Exchange 2016** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
-|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/> <br/> **注意** *数据位置：FastTrack 可以根据客户租赁在美国或 Microsoft/第三方供应商维护设施所在的其他任何地理位置中的位置，传输、处理和存储已迁移的数据。FastTrack 在适用服务完成后的 30 天内删除已存储的任何数据。*           |直接转换或暂存| 电子邮件 <br/> 邮箱联系人 <br/> 日历 <br/> 标签 | 规则 <br/> 代理 <br/> 签名 <br/> 任务 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google 环聊 <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/> 联系人：最多可迁移每个联系人 3 个电子邮件地址|
+|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/>          |直接转换或暂存| 电子邮件 <br/> 邮箱联系人 <br/> 日历 <br/> 标签 | 规则 <br/> 代理 <br/> 签名 <br/> 任务 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google 环聊 <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/> 联系人：最多可迁移每个联系人 3 个电子邮件地址|
 |**IBM Domino 7.0.3 及更高版本**（[附录 A - 从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)）|暂存| 电子邮件 - 最近 90 天 <br/> 日历 - 最近 90 天以及未来的项目 <br/> 邮箱联系人 - 全部 <br/> 任务 - 全部 <br/> 会议室和资源 - 假设它们是通过标准模板实施 <br/> 邮件文件（包括共享邮件文件）必须使用标准邮件模板 | 签名 <br/> 邮箱规则 <br/> 代理 <br/> 加密项目 <br/> 文档链接 <br/> 用户母本文档 <br/> 超出邮件大小限制的所有电子邮件 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 已损坏的项目 <br/> 日历共存 <br/> 非活动邮箱 |
-|**Novell GroupWise 7.0.4 及更高版本** <br/><br/> **注意** *数据位置：FastTrack 可以根据客户租赁在美国或 Microsoft/第三方供应商维护设施所在的其他任何地理位置中的位置，传输、处理和存储已迁移的数据。FastTrack 在适用服务完成后的 30 天内删除已存储的任何数据。*           |暂存| 电子邮件 <br/> 日历 <br/> 邮箱联系人 <br/> 个人组 <br/> 任务（含限制） <br/> 文档 | 规则 <br/> 代理/委派/访问控制列表 (ACL) 转换 <br/> 签名 <br/> 联系人类别 <br/> 加密电子邮件 <br/> 搜索文件夹 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 权限管理的项目或加密的项目 <br/> 已损坏的项目 <br/> 日历共存 <br/> 非活动邮箱 |
+|**Novell GroupWise** |使用本机 IMAP4 工具进行迁移| 电子邮件 | Rules <br/> 代理/委派/访问控制列表 (ACL) 转换 <br/> 签名 <br/> 搜索文件夹 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 权限管理的项目或加密的项目 <br/> 已损坏的项目 <br/> 日历共存 <br/> 启用邮件的用户 <br/> 邮箱联系人 <br/> 个人组 <br/> 日历 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 |
 |**IMAP4 源** |使用本机 IMAP4 工具进行迁移| 电子邮件 | 规则 <br/> 代理 <br/> 通讯组列表 <br/> 外部联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 邮箱联系人 <br/> 日历 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
    
 > [!NOTE]
@@ -112,8 +115,8 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 处理与最终用户的所有通信。  
 - 根据 Office 365 指导原则安装合适的客户端软件级别。有关详细信息，请参阅[适用于企业的 Office 365](https://go.microsoft.com/fwlink/?linkid=2005429)。 
 - 验证源邮件环境和 Office 365 Exchange Online 之间的 SMTP 邮件路由共存（如适用）。
-- 需至少提前三 (3) 天提出对每个迁移事件迁移的计划，该计划需具有针对该迁移定义的方法和特定邮箱的列表。对于备注迁移，请务必提前 21 天提供计划。
-- 在迁移批处理前至少提前 24 小时从计划中删除邮箱。这应与最终的迁移批处理对应。
+- 就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定邮箱的列表。
+- 在迁移批处理前至少提前 24 小时从计划中删除邮箱。 
 - 计划 24 小时内的平均目标邮箱数量，如下表所示。
     
 |||
@@ -297,7 +300,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 安装由 FastTrack 提供的迁移软件本地部署（如果适用）。  
 - 完成由 FastTrack 提供的修正报告中所述的修正活动（如果适用）。   
 - 提供使用 FastTrack 模板和指南的迁移计划。 
-- 需至少提前三 (3) 天就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
+- 就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
 - 在迁移批处理前至少提前 24 小时从计划中删除用户数据。这应与最终的迁移批处理对应。
 - 进行迁移质量保证和用户验收测试。   
 - 执行迁移后迁移修正（如果适用）。  
@@ -305,5 +308,6 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 管理和配置成功完成评估和迁移活动所需的源系统和设备的任何更改。
     
 > [!NOTE]
-> Microsoft 无法保证文件迁移速度。  
+> Microsoft 无法保证文件迁移速度。 
+
 

@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347464"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052329"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 
@@ -34,7 +34,7 @@ ms.locfileid: "42347464"
 |核心载入|将功能林级别设置为 Windows Server 2008 或更高版本的 Active Directory 林，具有以下林配置：<br /><br />-   单个 Active Directory 林<br />-   多个 Active Directory 林 </br></br>**注意**：对于所有的多林配置，Active Directory 联合身份验证服务 (AD FS) 部署超出了 FastTrack 中心权益的范围。|
 |Azure AD Premium 载入|已为 Azure AD Premium 准备了本地 Active Directory 及其环境，其中包括对妨碍与 Azure AD 和 Azure AD Premium 功能集成的已确定问题的修正。|
 |Intune 载入| 在计划使用 Intune 部署 WiFi 和 VPN 配置文件时，IT 管理员需要确保现有的证书颁发机构、WiFi 和 VPN 基础结构已经在其生产环境中正常使用。<br /><br /> **注意**：服务权益不包括有关设置或配置证书颁发机构、WiFi、VPN 基础结构或 Apple MDM 推送证书的帮助  |
-|协同管理|通过协同管理，IT 管理员负责准备本地环境，其中可能包括修复妨碍你使用配置管理器和 Intune 同时管理 Windows 10 设备的问题。<br /><br />**注意**：FastTrack 服务权益不包括有关将配置管理器站点服务器和/或配置管理器客户端设置或升级到支持与 Windows 10 设备进行协同管理所需的最低要求的帮助。 |
+|使用 Intune 云附加 Configuration Manager |通过云附加 ，IT 管理员负责准备本地环境，其中可能包括修复妨碍你使用 Intune 云附加 Configuration Manager 环境。<br /><br />**注意**：FastTrack 服务权益不包括有关将配置管理器站点服务器或配置管理器客户端设置或升级到支持云附加所需的最低要求的帮助。 |
 |Intune 与 Microsoft Defender 高级威胁防护 (ATP) 集成|**注意**：FastTrack 服务权益可帮助你将 Intune 与 Microsoft Defender ATP 集成，并根据其 Windows 10 风险级别评估创建设备合规性策略。 服务权益不提供购买、许可或激活方面的协助。 |
 |Windows Autopilot|IT 管理员负责通过让硬件供应商代表他们上载其硬件 ID 或自己将其上载到 Windows Autopilot 服务中来向其组织注册设备。 |
 |使用 Intune 安全地部署 Outlook for iOS 和 Outlook for Android|<br /><br />-   在 Azure AD for Office 365 中启用的用户标识。<br />-   配置有已分配的用户许可证的 Exchange Online 或混合 Exchange。<br />|
@@ -48,3 +48,4 @@ ms.locfileid: "42347464"
 ## <a name="next-steps"></a>后续步骤
 
 [适用于 EMS 的 FastTrack 中心权益的载入阶段](EMS-onboarding-phases.md)
+

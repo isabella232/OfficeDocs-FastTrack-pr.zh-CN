@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 69804ab95b01ad45191f95a5b16405790fd6e500
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347680"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052953"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -74,3 +74,5 @@ FastTrack 服务不包括：
 
 > [!NOTE]
 > 请联系 [Microsoft 合作伙伴](https://go.microsoft.com/fwlink/?linkid=2080150)，以提供超出范围服务方面的帮助。
+
+

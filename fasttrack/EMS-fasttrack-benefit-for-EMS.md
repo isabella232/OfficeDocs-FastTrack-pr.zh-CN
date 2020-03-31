@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347788"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052293"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益
 
@@ -38,5 +38,4 @@ ms.locfileid: "42347788"
 ## <a name="next-steps"></a>后续步骤
 
 [适用于 EMS 的 FastTrack 中心权益的符合条件的服务和计划](M365-eligible-services-and-plans.md)
-
 

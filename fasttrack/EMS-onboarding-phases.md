@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637388"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052341"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -232,41 +232,37 @@ FastTrack 可帮助你在组织中安全地部署 Outlook for iOS 和 Outlook fo
     > [!IMPORTANT]
     > FastTrack 团队不支持使用 Exchange 移动设备和邮箱策略保护 Outlook for iOS 和 Outlook for Android。
 
-#### <a name="co-management"></a>协同管理
+#### <a name="cloud-attach"></a>云附加
 
-FastTrack 将指导你做好准备，以便使用 Configuration Manager 和 Intune 并发管理 Windows 10 设备。 具体步骤取决于源环境，它可能包括：
+FastTrack 引导你如何准备好使用 Intune 云附加现有 Configuration Manager 环境。 具体步骤取决于源环境。 这些步骤包括：
 
-- 解释协同管理的好处。
+- 介绍使用 Intune 云附加 Configuration Manager 的好处。
 
-- 为最终用户进行许可。 FastTrack 还可以就如何为 Microsoft 云服务租户激活批量许可证提供协助（视需要）。
+- 许可最终用户。 FastTrack 还可以就如何为 Microsoft 云服务租户激活批量许可证提供协助（视需要）。
 
-- 通过利用本地 Active Directory 和/或云标识，配置供 Intune 使用的标识。
+- 通过利用本地 Active Directory 和云标识，配置供 Intune 使用的标识。
 
 - 将 Intune 订阅添加到用户，定义 IT 管理角色并创建用户和设备组。
 
-- 提供有关如何将与 Microsoft Endpoint Configuration Manager 集成的 Intune 移至单独的 Intune 的指南。
-
-- 提供有关为 MDM 自动注册设置 Azure Active Directory 的指南。
+- 在配置管理器控制台中启用云附加。
 
 - 提供设置混合的 Azure Active Directory 加入的指南。
 
-- 提供有关如何设置云管理网关的指南
+- 提供有关为 MDM 自动注册设置 Azure Active Directory 的指南。
 
-- 在 Configuration Manager 控制台中启用协同管理。
+- 提供有关如何设置云管理网关的指南。
 
 - 配置要切换到 Intune 的受支持工作负载。
 
 - 在 Intune 注册的设备中安装 Configuration Manager 客户端。
 
-- 提供有关如何监视环境中的协同管理活动的指南。
-
-FastTrack 还为你提供了有关如何成功推行符合条件的服务的指南。
+FastTrack 还提供了有关如何成功推行符合条件的服务的指南。
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![载入启用阶段 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![载入启用阶段 - 协调管理](./media/ft-9-enable-phase-comanagement.png) 
+![载入启用阶段 - 云附加](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>启用阶段 - Azure 信息保护
 
@@ -287,3 +283,4 @@ FastTrack 还为你提供了有关如何成功推行符合条件的服务的指�
 ## <a name="next-steps"></a>后续步骤
 
 [适用于 EMS 的 FastTrack 权益 - Microsoft 责任](EMS-fasttrack-responsibilities.md)
+

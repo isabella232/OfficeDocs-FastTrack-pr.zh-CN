@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347404"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052257"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -249,27 +249,27 @@ FastTrack 在载入过程中将承担以下责任。
     > [!NOTE]
     > 设置 Windows Autopilot 外部 Intune 超出了 FastTrack 权益范围。
 
-### <a name="enable-phase---co-management"></a>启用阶段 - 协同管理
+### <a name="enable-phase---cloud-attach"></a>启用阶段 - 云附加
 
 针对以下内容提供相关指导：
 
 -   许可最终用户。
 
+-   在 Configuration Manager 中启用云附加。
+
 -   将用户添加到 Intune 订阅，定义 IT 管理角色并创建用户和设备组（如果未安装Intune）。
 
--   为 MDM 自动注册设置 Azure Active Directory。
-
 -   设置混合的 Azure Active Directory 加入。
+
+-   为 MDM 自动注册设置 Azure Active Directory。
 
 -   设置云管理网关。
 
 -   将 Intune 订阅添加到用户，定义 IT 管理角色并创建用户和设备组。
 
--   准备 Intune（如果未安装 Intune）：
+-   为设备管理准备 Intune 服务：
 
-    -   根据管理需求配置移动设备管理 (MDM) 颁发机构，包括：
-
-    -   将 Intune 设置为 MDM 颁发机构。
+    -   设置移动设备管理 (MDM)权限为 Intune。
 
     -   配置用于验证 MDM 管理策略的测试组。
 
@@ -277,15 +277,9 @@ FastTrack 在载入过程中将承担以下责任。
 
     -   设置 Intune 角色（帮助台操作员、管理员等）
 
-    -   为每个受支持的平台配置和部署 Intune 应用保护策略。
-
     -   将 Windows 10 设备注册到 Intune。
 
-- 在配置管理器控制台中启用协同管理。
-
-- 将工作负载切换到 Intune。
-
-- 监视环境中的协同管理活动。
+    -   切换工作负载，以根据需要由 Intune 进行管理。
 
 ### <a name="enable-phase--azure-information-protection"></a>启用阶段 - Azure 信息保护
 
@@ -311,3 +305,4 @@ FastTrack 在载入过程中将承担以下责任。
 ## <a name="next-steps"></a>后续步骤
 
 [适用于 EMS 的 FastTrack 权益 - 你的责任](EMS-your-responsibilities.md)
+

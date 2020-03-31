@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347476"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052531"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -63,9 +63,9 @@ ms.locfileid: "42347476"
 
 -   提供和配置任何公用安全套接字层 (SSL) 证书。
 
--   设置或升级配置管理器，达到 Microsoft Intune 与配置管理器集成的最低要求。
+-     设置或升级配置管理器，达到 Microsoft Intune 与配置管理器集成的最低要求。
 
--   如果需要使用 Intune 部署 Wi-fi 和 VPN 配置文件, 请根据需要提供和配置证书颁发机构、Wi-fi 和 VPN 基础架构。
+-     如果需要使用 Intune 部署 Wi-fi 和 VPN 配置文件, 请根据需要提供和配置证书颁发机构、Wi-fi 和 VPN 基础架构。
 
 -   编写组织的使用条款 (TOU) 语句, 以便在最终用户可访问的 Microsoft Intune 公司门户上配置和显示。
 
@@ -127,5 +127,6 @@ ms.locfileid: "42347476"
 ## <a name="see-also"></a>另请参阅
 
 - [适用于 EMS 的 FastTrack 权益](EMS-fasttrack-benefit-for-EMS.md)
+
 - [适用于 Office 365 的 FastTrack 权益](O365-fasttrack-benefit-for-office-365.md)
 

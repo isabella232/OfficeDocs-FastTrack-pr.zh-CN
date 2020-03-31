@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347764"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052269"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -146,7 +146,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 
 针对以下内容提供相关指导：
 - 解决部署问题。
-- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配基于最终用户和设备的许可证。
 - 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
 - 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
 - 使用 Office 365 部署工具配置更新设置。
@@ -243,4 +243,3 @@ FastTrack 专家在载入期间将承担以下责任。\*
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
   
 \*有关针对 Office 365 美国政府版的 FastTrack 责任的信息，请参阅[针对 Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)。
-
