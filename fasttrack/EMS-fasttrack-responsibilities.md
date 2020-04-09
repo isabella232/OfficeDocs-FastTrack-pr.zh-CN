@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052257"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097714"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -267,19 +267,19 @@ FastTrack 在载入过程中将承担以下责任。
 
 -   将 Intune 订阅添加到用户，定义 IT 管理角色并创建用户和设备组。
 
--   为设备管理准备 Intune 服务：
+-   为设备管理准备 Intune 服务。
 
-    -   设置移动设备管理 (MDM)权限为 Intune。
+-   设置移动设备管理 (MDM)权限为 Intune。
 
-    -   配置用于验证 MDM 管理策略的测试组。
+-   配置用于验证 MDM 管理策略的测试组。
 
-    -   浏览 Intune 管理门户以查找有关用户和设备的信息。
+-   浏览 Intune 管理门户以查找有关用户和设备的信息。
 
-    -   设置 Intune 角色（帮助台操作员、管理员等）
+-   设置 Intune 角色（帮助台操作员、管理员等）
 
-    -   将 Windows 10 设备注册到 Intune。
+-   将 Windows 10 设备注册到 Intune。
 
-    -   切换工作负载，以根据需要由 Intune 进行管理。
+-   切换工作负载，以根据需要由 Intune 进行管理。
 
 ### <a name="enable-phase--azure-information-protection"></a>启用阶段 - Azure 信息保护
 
