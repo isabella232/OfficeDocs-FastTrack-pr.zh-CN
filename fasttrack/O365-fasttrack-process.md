@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097702"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666133"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -35,7 +35,7 @@ FastTrack 流程提供了载入和用户采用服务。
 
 下图说明了载入流程。
   
-![使用载入权益的日程表](media/O365-Onboarding-Timeline.png)
+![使用载入权益的日程表](media/o365-onboarding-timeline-m365-apps.png)
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 

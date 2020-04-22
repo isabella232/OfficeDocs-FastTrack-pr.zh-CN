@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665856"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -185,20 +185,20 @@ FastTrack 专家在载入期间将承担以下责任。
 - 将用户添加到 Project Online，包括 ERP 同步。  
 - 通过创建项目，验证基本 Project Online 功能。
     
-## <a name="yammer-enterprise"></a>Yammer Enterprise
+## <a name="yammer-enterprise"></a>Yammer 企业版
 
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
 > Yammer Enterprise 不是 Office 365 美国政府的一个组件，但可以免费获取，作为针对 GCC 中的 Office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
   
-## <a name="office-365-proplus"></a>Office 365 专业增强版
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用程序
 
 针对以下内容提供相关指导：
 - 解决部署问题。   
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。  
-- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
+- 使用即点即用从 Office 365 门户安装 Microsoft 365 应用程序。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 为 Office 365 专业增强版设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。   
+- 为 Microsoft 365 应用程序设置单个现场分发服务器，包括帮助创建用于 Office 365 部署工具的配置 .xml 文件。   
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
