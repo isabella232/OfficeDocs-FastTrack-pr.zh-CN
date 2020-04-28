@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666156"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -201,19 +201,19 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 
 对于 Yammer，我们提供有关启用 Yammer Enterprise 服务的指导。
   
-## <a name="office-365-proplus"></a>Office 365 专业增强版
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
-对于 Office 365 专业增强版，我们提供针对以下方面的指导：
+对于 Microsoft 365 应用版，我们提供针对以下方面的指导：
 - 解决部署问题。   
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配基于最终用户和设备的许可证。 
-- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。   
-- 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
+- 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。   
+- 在 iOS 或 Android 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。   
 - 本地或云安装的选择和设置。 
 - 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。  
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
     
-![Office ProPlus 初始启用步骤](media/O365-Onboarding-Enable-OProPlus.png)
+![Office ProPlus 初始启用步骤](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook for iOS 和 Outlook for Android
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098178"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666108"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
 
@@ -38,9 +38,9 @@ ms.locfileid: "43098178"
 
 对于 Skype for Business Online，我们为本地 Lync 和 Skype for Business 用户提供到 Skype for Business Online 的迁移指导。
   
-## <a name="office-365-proplus"></a>Office 365 专业增强版
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
-对于 Office 365 ProPlus，我们提供以下指导： 
+对于 Microsoft 365 应用版，我们提供以下指导： 
 - 根据 Microsoft 最佳做法进行评估和计划，重点是让环境准备好执行初始部署和更新管理。 
 - 使用 Office 365 部署工具和 Office 自定义工具开发部署配置和更新设置。 
 - 使用 Microsoft Endpoint Configuration Manager 进行部署打包。  
@@ -127,7 +127,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 
 - 提供有关在 Skype for Business 混合部署中批量迁移用户（保留用户的联系人列表）的指南。
     
-## <a name="office-365-proplus"></a>Office 365 专业增强版
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
 - 为以下操作提供指导和帮助：  
   - 根据 Microsoft 最佳做法，评估和计划初始部署和更新管理。

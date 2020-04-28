@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666060"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
@@ -59,7 +59,7 @@ ms.locfileid: "43097582"
 - 设置用于载入合作关系的 Microsoft Teams 协作空间，并邀请 FastTrack 中心团队成员。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。   
-- 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Office 365 专业增强版）目标和组织目标。
+- 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 应用版）目标和组织目标。
     
 ## <a name="assess-phase"></a>评估阶段
 

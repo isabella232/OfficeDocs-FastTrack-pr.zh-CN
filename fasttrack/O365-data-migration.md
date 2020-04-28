@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 00fca4f9baabd1c68fbeb7024bec10791d050f67
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665880"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -88,7 +88,7 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 |**Exchange 2003 及更高版本**|直接转换| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/>  超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/>  非活动邮箱 |
 |**Exchange 2003 和 Exchange 2007**|暂存| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
 |**Exchange 2010、Exchange 2013 和 Exchange 2016** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
-|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/>          |直接转换或暂存| 电子邮件 <br/> 邮箱联系人 <br/> 日历 <br/> 标签 | 规则 <br/> 代理 <br/> 签名 <br/> 任务 <br/> 任何大于 35MB 的电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google 环聊 <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/> 联系人：最多可迁移每个联系人 3 个电子邮件地址|
+|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/>          |直接转换或暂存| 电子邮件 <br/> 邮箱联系人\*  <br/> 日历 <br/> 标签 <br/> \*每个联系人最多可迁移 3 个电子邮件地址| Rules <br/> 代理 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google Hangouts\*\* <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/>\*\*迁移另存为标签的环聊对话 |
 |**IBM Domino 7.0.3 及更高版本**（[附录 A - 从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)）|暂存| 电子邮件 - 最近 90 天 <br/> 日历 - 最近 90 天以及未来的项目 <br/> 邮箱联系人 - 全部 <br/> 任务 - 全部 <br/> 会议室和资源 - 假设它们是通过标准模板实施 <br/> 邮件文件（包括共享邮件文件）必须使用标准邮件模板 | 签名 <br/> 邮箱规则 <br/> 代理 <br/> 加密项目 <br/> 文档链接 <br/> 用户母本文档 <br/> 超出邮件大小限制的所有电子邮件 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 已损坏的项目 <br/> 日历共存 <br/> 非活动邮箱 |
 |**Novell GroupWise** |使用本机 IMAP4 工具进行迁移| 电子邮件 | Rules <br/> 代理/委派/访问控制列表 (ACL) 转换 <br/> 签名 <br/> 搜索文件夹 <br/> 被阻止的用户或非活动用户 <br/> 存档数据 <br/> 权限管理的项目或加密的项目 <br/> 已损坏的项目 <br/> 日历共存 <br/> 启用邮件的用户 <br/> 邮箱联系人 <br/> 个人组 <br/> 日历 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 |
 |**IMAP4 源** |使用本机 IMAP4 工具进行迁移| 电子邮件 | 规则 <br/> 代理 <br/> 通讯组列表 <br/> 外部联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 邮箱联系人 <br/> 日历 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
@@ -112,7 +112,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 在迁移过程中执行以下操作：
 - 使用 FastTrack 中心完成 Exchange Online 载入或通过所需的检查。
 - 处理与最终用户的所有通信。  
-- 根据 Office 365 指导原则安装合适的客户端软件级别。有关详细信息，请参阅[适用于企业的 Office 365](https://go.microsoft.com/fwlink/?linkid=2005429)。 
+- 根据 Office 365 准则安装客户端软件的相应级别。 有关详细信息，请参阅[现代工作场所](https://transform.microsoft.com/download?assetname=assets%2FMicrosoft%20365%20%20Security%20Group%20Marketing%20Field%20Advisory%20%20Renaming%20Office%20365%20SMB%20Products%20and%20Office%20365%20ProPlus.msg)。 
 - 验证源邮件环境和 Office 365 Exchange Online 之间的 SMTP 邮件路由共存（如适用）。
 - 就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定邮箱的列表。
 - 在迁移批处理前至少提前 24 小时从计划中删除邮箱。 

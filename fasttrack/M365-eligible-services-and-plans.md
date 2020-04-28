@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666072"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -52,11 +52,11 @@ FastTrack 中心提供有关以下服务的协助：
 - Azure Active Directory Premium
 - Azure 信息保护
 - Exchange Online 
+- Microsoft 365 应用版
 - Microsoft Defender 高级威胁防护
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 高级威胁防护
-- Office 365 专业增强版
 - OneDrive for Business
 - Power BI
 - Project Online
@@ -64,7 +64,10 @@ FastTrack 中心提供有关以下服务的协助：
 - Skype for Business Online
 - Windows 10
 - Yammer Enterprise 
-  
+
+> [!NOTE]
+> Office 365 专业增强版已重命名为 Microsoft 365 应用版。 你可能会发现在某些情况下仍使用旧名称。 有关此更改何时生效的详细信息，请参阅 [Office 365 专业增强版的名称更改](https://docs.microsoft.com/deployoffice/name-change)。 
+
 ## <a name="eligible-microsoft-365-plans"></a>符合条件的 Microsoft 365 计划
   
  **Microsoft 365 企业版**
@@ -72,14 +75,23 @@ FastTrack 中心提供有关以下服务的协助：
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 安全性\*
-- Microsoft 365 F1*
+- Microsoft 365 F1\*
 - Microsoft 365 商业版\*
+- Microsoft 365 企业应用版\*
+- Microsoft 365 企业应用版（设备）\*
     
+ **Microsoft 365 商业版**
+
+ - Microsoft 365 商业基础版\*
+ - Microsoft 365 商业标准版\*
+ - Microsoft 365 商业应用版\*
+ 
  **Microsoft 365 教育版**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 安全性\*
+- Microsoft 365 教育应用版（设备）\*
  
 ## <a name="eligible-office-365-plans"></a>符合条件的 Office 365 计划
 
@@ -95,13 +107,6 @@ FastTrack 中心提供有关以下服务的协助：
 - Office 365 美国政府版 G4\*\*
 - Office 365 美国政府版 G5\*\*
 - Office 365 美国政府版 F1\*\*
-- Office 365 专业增强版
-    
-**Office 365 商业版**
-
-- Office 365 商业版  
-- Office 365 商业协作版  
-- Office 365 商业高级版
 
 **Office 365 教育版**
   
@@ -206,7 +211,7 @@ FastTrack 中心提供有关以下服务的协助：
 有关详细信息，请参阅[适用于 Windows 10 的 FastTrack 中心权益](https://go.microsoft.com/fwlink/?linkid=2044661)。
 
 > [!NOTE]
-> 对于构建 Windows 10 应用的独立软件供应商 (ISV)，没有最低许可要求。所有应用请求都必须针对当前主流服务窗口内的 Windows 10 或 Office 365 专业增强版本。
+> 生成 Windows 10 应用的商业独立软件供应商 (ISV) 无最低许可要求。 所有应用请求都必须针对当前处于主流服务窗口内的 Windows 10 或 Microsoft 365 应用版的版本。
 
 ## <a name="ineligible-plans"></a>不符合条件的计划
 

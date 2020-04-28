@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 载入分为四个主要阶段：启动、评估、修正和启用。
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666120"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
@@ -31,7 +31,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 确保 Microsoft E
 
 我们为你提供用于评估 Windows 10 应用的推荐选项。 FastTrack 提供桌面分析使用指南，还引导你创建桌面分析部署计划。
 
-FastTrack 还可指导你利用 Configuration Manager 中的 Office 365 准备仪表板或使用 Office 的独立准备情况工具包进行 Office 365 专业增强版兼容性评估。 有关可用服务的详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)。 
+FastTrack 还可指导你利用 Configuration Manager 中的 Office 365 准备仪表板或使用 Office 的独立准备情况工具包进行 Microsoft 365 应用版兼容性评估。 有关可用服务的详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)。 
 
 FastTrack 还会为你评估新式管理策略，包括将 Configuration Manager 云附加到 Microsoft Intune，或者将 Intune 部署为唯一的云管理解决方案。
 
@@ -43,14 +43,14 @@ FastTrack 还会为你评估新式管理策略，包括将 Configuration Manager
 
 FastTrack 提供将现有设备升级到 Windows 10 企业版的指导，只要它们满足所需的设备硬件要求。 提供升级指南以支持现有部署运动。 FastTrack 推荐并提供有关就地升级到 Windows 10 的指南。 指南还可用于 Windows 干净图片安装和 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) 部署方案。 
 
-我们提供了使用 Configuration Manager 部署 Office 365 专业增强版的指导，作为 Windows 10 部署的一部分。 请参阅 [Office 365 专业增强版](O365-onboarding-and-migration.md#office-365-proplus)了解相关服务的更多详情。
+我们提供了在 Windows 10 部署过程中使用 Configuration Manager 部署 Microsoft 365 应用版的指导。 请参阅 [Microsoft 365 应用版](O365-onboarding-and-migration.md#microsoft-365-apps)了解相关服务的更多详情。
 
-我们提供指导，帮助你的组织使用现有 Configuration Manager 环境或 Microsoft 365 保持最新的 Windows 10 企业版和 Office 365 专业增强版。
+我们提供指导，帮助你的组织使用现有 Configuration Manager 环境或 Microsoft 365 保持最新的 Windows 10 企业版和 Microsoft 365 应用版。
 
 如果需要，FastTrack 可指导客户通过将 Configuration Manager 云附加到 Intune 或单独部署 Intune 来启用新式管理。 有关相关服务的详细信息，请参阅[适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益流程](EMS-fasttrack-process.md)。
 
 > [!NOTE]
-> 如果没有现有的部署和维护计划或流程，我们可以根据就地升级方案（推荐）或 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) 提供最佳实践指南。
+> 如果没有现有的部署和维护计划或流程，我们可以根据就地升级方案（推荐）或 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) 提供最佳做法指南。
 
 ## <a name="out-of-scope"></a>超出范围
 

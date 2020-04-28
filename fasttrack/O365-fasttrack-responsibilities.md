@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098274"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666168"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -107,6 +107,18 @@ FastTrack 专家在载入期间将承担以下责任。\*
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
+
+针对以下内容提供相关指导：
+- 解决部署问题。
+- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配基于最终用户和设备的许可证。
+- 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。
+- 在 iOS 或 Android 上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
+- 使用 Office 365 部署工具配置更新设置。
+- 选择并设置本地或云安装。
+- 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。
+- 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 针对以下内容提供相关指导：
@@ -141,18 +153,6 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 配置自动化、调查和响应。
 - 使用攻击模拟器。
 - 报告和威胁分析。
-
-## <a name="office-365-proplus"></a>Office 365 专业增强版
-
-针对以下内容提供相关指导：
-- 解决部署问题。
-- 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配基于最终用户和设备的许可证。
-- 使用即点即用从 Office 365 门户安装 Office 365 专业增强版。
-- 在 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook for iOS 和 Outlook for Android、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。 
-- 使用 Office 365 部署工具配置更新设置。
-- 选择并设置本地或云安装。
-- 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。
-- 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

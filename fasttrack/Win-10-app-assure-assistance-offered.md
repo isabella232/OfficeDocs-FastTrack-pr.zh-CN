@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Office 365 专业增强版并保持最新状态。
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Microsoft 365 应用版并保持最新状态。
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666048"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -32,9 +32,9 @@ ms.locfileid: "43098382"
 
 FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 和 Office 365 专业增强版
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 和 Microsoft 365 应用版
 
-- 在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 上运行的应用也可在 Windows 10 和 Office 365 专业增强版上运行。
+- 在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 上运行的应用也可在 Windows 10 和 Microsoft 365 应用版上运行。
 
 ### <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 
@@ -61,13 +61,13 @@ FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 ## <a name="out-of-scope"></a>超出范围
 
 FastTrack 服务不包括：
-- 用于确定在 Windows 10 和 Office 365 专业增强版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问[桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果对深入升级就绪性评估感兴趣，请填写[新式桌面评估的客户请求](https://go.microsoft.com/fwlink/?linkid=2053818)表单。
+- 用于确定在 Windows 10 和 Microsoft 365 应用版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问[桌面部署中心](https://go.microsoft.com/fwlink/?linkid=2080140)。 如果对深入升级就绪性评估感兴趣，请填写[新式桌面评估的客户请求](https://go.microsoft.com/fwlink/?linkid=2053818)表单。
 - 研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅[桌面分析](https://docs.microsoft.com/sccm/desktop-analytics/overview)。
 - 仅限应用打包的服务。 但是，应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。
 
 客户责任包括：
 - 创建应用清单。
-- 验证 Windows 10 和 Office 365 专业增强版上的应用。
+- 验证 Windows 10 和 Microsoft 365 应用版上的应用。
 
 > [!NOTE]
 > Microsoft 无法对你的源代码进行更改。 但是，如果可提供应用的源代码，则应用保证团队可向应用开发人员提供指导。
