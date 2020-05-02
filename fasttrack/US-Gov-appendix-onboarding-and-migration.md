@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665906"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999792"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -175,13 +175,13 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 > [!NOTE]
 > Yammer Enterprise 不是 Office 365 美国政府的一个组件，但可以免费获取，作为针对 GCC 中的 Office 365 许可的每个用户的独立提供。 此优惠目前仅限于在企业协议和企业订阅协议下购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。 
   
-## <a name="microsoft-365-apps"></a>Microsoft 365 应用程序
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
-对于 Microsoft 365 应用程序，我们为以下内容提供指导： 
+对于 Microsoft 365 应用版，我们提供针对以下方面的指导： 
 - 解决部署问题。    
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。    
-- 使用即点即用从 Office 365 门户安装 Microsoft 365 应用程序。    
-- 在你的 iOS 或 Android 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
+- 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。    
+- 在 iOS 或 Android 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。    
 - 为 Microsoft 365 应用程序设置单个现场分发服务器，包括帮助创建用于 Office 365 部署工具的配置 .xml 文件。    
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。

@@ -3,19 +3,19 @@ title: 你对 Office 365 美国政府的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 27d1309b0cfdd610ab56767765665d9bc887fc8b
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665808"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999744"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对 Office 365 美国政府的责任
 
@@ -61,7 +61,7 @@ ms.locfileid: "43665808"
 - 为加入合作关系和邀请 FastTrack 中心团队成员（不适用于 GCC 高或 DoD 计划）设置协作 Microsoft 团队空间。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。    
-- 为 Office 365 服务（例如，SharePoint Online、Exchange Online、Microsoft 团队和 Microsoft 365 应用）和组织目标提供你的目标。
+- 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 应用版）目标和组织目标。
     
 ## <a name="assess-phase"></a>评估阶段
 
