@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 00fca4f9baabd1c68fbeb7024bec10791d050f67
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 48a493deab932a6422866e59d64018ef78986cfc
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665880"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999864"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -224,7 +224,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 计划并实施更改管理和最终用户通信（如果适用）。   
 - 管理和配置成功完成评估和迁移活动所需的源系统和设备的任何更改。
 - 需至少提前三 (3) 天就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
-- 在迁移批处理前至少提前 24 小时从计划中删除用户数据。 这应与最终的迁移批处理对应。
+- 在迁移批处理前至少提前 24 小时从计划中删除用户数据。这应与最终的迁移批处理对应。
 > [!NOTE]
 > Microsoft 无法保证文件迁移速度。
     

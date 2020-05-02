@@ -3,19 +3,19 @@ title: 附录 A：从 IBM Domino 迁移到 Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 从 IBM Domino 迁移到 Exchange Online 包括几个重要方面，其中包括在以下阶段中发生的情况：
-ms.openlocfilehash: b24ab9399bba785a984444190f187f6a3028d021
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 3038ba8246ede185df3f2c15c548ff4ef8be9427
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098122"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999876"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>附录 A - 从 IBM Domino 迁移到 Exchange Online
 
