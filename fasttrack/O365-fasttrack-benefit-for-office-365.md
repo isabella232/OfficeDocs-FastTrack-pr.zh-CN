@@ -3,7 +3,7 @@ title: 适用于 Office 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665796"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999852"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>适用于 Office 365 的 FastTrack 中心权益
 
@@ -52,6 +52,13 @@ Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心�
 - Microsoft Intune
 - Azure Active Directory Premium 
 - Azure 信息保护
+
+你是否正在寻找[适用于 Windows 10 的 FastTrack 中心权益](Win-10-fasttrack-benefit-for-Windows-10.md)？ 它包括以下信息：
+
+- Windows 10
+- 应用保证
+- 新版 Microsoft Edge
+- Microsoft Defender 高级威胁防护
     
 > [!NOTE]
 > 本信息仅供参考。 
