@@ -3,19 +3,19 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999816"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472197"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -118,6 +118,41 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 选择并设置本地或云安装。
 - 使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
+
+## <a name="microsoft-information-governance"></a>Microsoft 信息治理 
+
+针对以下内容提供相关指导：
+- 记录管理。
+  - 对记录管理应用权限。
+  - 有关将文件计划和保留计划转换为标签和策略的指南。
+  - 创建保留标签和策略。
+  - 建立删除策略。
+  - 查看要处置的项目。
+- 内幕风险管理。
+  - 启用 Office 365 审核日志。
+  - 配置内幕风险管理中的设置。
+  - 使用内置行动手册创建内幕风险策略。
+  - 配置通信合规性的权限。
+  - 使用可自定义的模板创建通信合规性策略。
+  - 监视和查看警报。
+- 信息治理。
+  - 应用信息治理的权限。
+  - 创建保留标签。
+  - 发布保留标签（手动和自动）。
+  - 创建导入作业。
+
+## <a name="microsoft-information-protection"></a>Microsoft 信息保护
+
+针对以下内容提供相关指导：
+- 数据分类。
+- 敏感信息类型。
+- 创建敏感度标签。
+- 应用敏感度标签。 
+- 统一的标签。
+- Trainable 类元。
+- 使用内容浏览器和活动资源管理器了解数据。
+- 使用策略发布标签（手动和自动）。
+- 为 Microsoft 团队聊天和频道创建数据丢失防护（DLP）策略。
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

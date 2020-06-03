@@ -3,19 +3,19 @@ title: 源环境预期
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你为 Windows 10 部署设置与源环境的集成级别。
-ms.openlocfilehash: 52dbaee7b32290098c1e9fb873ff6984a2d26152
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999590"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471981"
 ---
 # <a name="source-environment-expectations"></a>源环境预期
 

@@ -3,7 +3,7 @@ title: 适用于 Office 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
-ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 1b96edf8d0dc5682ffc1cf59060b21e42da17a13
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999852"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472173"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>适用于 Office 365 的 FastTrack 中心权益
 
@@ -36,6 +36,8 @@ Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心�
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
 - [Microsoft 365 应用版](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [Microsoft 信息治理](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [Microsoft 信息保护](O365-fasttrack-responsibilities.md#microsoft-information-protection)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Office 365 高级威胁防护](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive for Business](O365-fasttrack-responsibilities.md#onedrive-for-business)
