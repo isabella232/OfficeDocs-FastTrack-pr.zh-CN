@@ -3,7 +3,7 @@ title: 适用于 Microsoft 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 适用于 Microsoft 365 的 FastTrack 可提供有关规划、部署和采用方面的指导，其中包括远程访问 Microsoft 工程专长、最佳做法、工具和资源。适用于 Microsoft 365 的 FastTrack 可帮助组织及其合作伙伴加快部署速度并促使最终用户采用 Office 365、Windows 10 和企业移动性 + 安全性。
-ms.openlocfilehash: 66d325ac9b85676cd1b96ceaf2513c8b677af36d
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: b7c7a7f04ee1e2abaa8b7782ab44c2af8faa2615
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999542"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471525"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 

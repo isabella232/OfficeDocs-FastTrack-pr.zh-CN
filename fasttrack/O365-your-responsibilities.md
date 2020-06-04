@@ -3,19 +3,19 @@ title: 你的责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: ccda552da54260407dcfc4e1ce6c9244e4bec956
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 0db5f1d7ebe2d5ebf2a7561ab7d6cdff62d7f1f8
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999804"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471537"
 ---
 # <a name="your-responsibilities"></a>你的责任
 

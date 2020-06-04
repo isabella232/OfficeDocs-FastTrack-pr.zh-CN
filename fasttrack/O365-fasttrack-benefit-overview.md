@@ -3,7 +3,7 @@ title: FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 使用适于 Office 365 的 FastTrack 中心权益，可以与 FastTrack 专家远程合作，共同让 Office 365 环境可供使用，并计划在组织内推动服务的使用。有关资格的详细信息，请参阅适用于 Office 365 的 FastTrack 中心权益。
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999888"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471705"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
@@ -30,10 +30,9 @@ ms.locfileid: "43999888"
 - [数据迁移](O365-data-migration.md)
 - [FastTrack 责任](O365-fasttrack-responsibilities.md)
 - [你的责任](O365-your-responsibilities.md) 
-- [附录 A：从 IBM Domino 迁移到 Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [附录 B：FastTrack 中心的其他权益](O365-fasttrack-additional-benefits.md)
-- [附录 C - FastTrack 中心 HIPAA 业务联合协议](O365-hipaa-business-associate-agreement.md)
-- [附录 D - 适用于 Office 365 US Government 的 FastTrack 中心权益概述](US-Gov-appendix-overview.md)
+- [附录 A - FastTrack 中心附加权益](O365-fasttrack-additional-benefits.md)
+- [附录 B - FastTrack 中心 HIPAA 业务关联协议](O365-hipaa-business-associate-agreement.md)
+- [附录 C - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述](US-Gov-appendix-overview.md)
     
 载入完成后，即会创建 Office 365 租户。许可用户可以使用以下任何一个标识选项访问 Office 365：
 - 具有唯一 Office 365 帐户的云标识。
