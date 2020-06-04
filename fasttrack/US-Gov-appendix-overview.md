@@ -1,5 +1,5 @@
 ---
-title: 附录 C-Office 365 美国政府的 FastTrack 中心权益概述
+title: 附录 C - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472149"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 C-Office 365 美国政府的 FastTrack 中心权益概述
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 C - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
 
 借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。 
   
@@ -32,4 +32,4 @@ ms.locfileid: "44472149"
 - [数据迁移](O365-data-migration.md)    
 - [Office 365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [你对 Office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)    
-- [附录 A-FastTrack 中心其他权益](O365-fasttrack-additional-benefits.md)
+- [附录 A - FastTrack 中心附加权益](O365-fasttrack-additional-benefits.md)
