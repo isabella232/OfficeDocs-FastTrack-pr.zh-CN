@@ -3,19 +3,19 @@ title: Office 365 美国政府版的 FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 57fba2b06ec21a2603fb36ff32cc58896e80f623
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471585"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011618"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -82,8 +82,10 @@ FastTrack 专家在载入期间将承担以下责任。
       - 配置 Azure Active Directory 直通身份验证（如果需要）（不适用于 GCC 高或 DoD 计划）。
       - 配置 Azure Active Directory 无缝单一登录（SSO）（如果需要）（不适用于 GCC 高或 DoD 计划）。
     > [!NOTE]
-    > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
-    > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > [!NOTE]
+    > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
+    > [!NOTE]
     > 若要详细了解无缝 SSO 问题，请参阅[排除 Azure Active Directory 无缝单一登录故障](https://go.microsoft.com/fwlink/?linkid=841926)。 
 - 对于单个林，当联合标识是目标时： 
   - 安装和配置 AD FS，以供在单个站点的容错配置中对 Office 365 进行本地域身份验证（如果需要）。  
@@ -200,5 +202,5 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 为 Microsoft 365 应用程序设置单个现场分发服务器，包括帮助创建用于 Office 365 部署工具的配置 .xml 文件。   
+- 为 Microsoft 365 应用程序设置单个现场分发服务器，包括协助创建 configuration.xml 文件以用于 Office 365 部署工具。   
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。

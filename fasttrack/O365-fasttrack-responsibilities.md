@@ -3,19 +3,19 @@ title: FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472197"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011426"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -82,7 +82,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
       - 根据需要，配置 Azure Active Directory 直通身份验证。\*\*
       - 根据需要，配置 Azure Active Directory 无缝单一登录 (SSO)。\*\*\*
     > [!NOTE]
-    > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - 对于单个林，当联合标识是目标时： 
   - 安装和配置 AD FS，以供在单个站点的容错配置中对 Office 365 进行本地域身份验证（如果需要）。
   - 必要时，安装和配置 WAP，以将 AD FS 基础结构发布到 Internet。
@@ -140,6 +140,15 @@ FastTrack 专家在载入期间将承担以下责任。\*
   - 创建保留标签。
   - 发布保留标签（手动和自动）。
   - 创建导入作业。
+- 高级电子数据展示。
+  - 非 Office 365 数据。
+  - 设置权限。
+  - 创建事例。
+  - 添加保管人。 
+  - 合法保留。
+  - 查询.
+  - 评审集。
+  - 导出内容。
 
 ## <a name="microsoft-information-protection"></a>Microsoft 信息保护
 

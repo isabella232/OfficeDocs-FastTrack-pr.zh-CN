@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务（如在符合条件的服务和计划中详述）时，FastTrack 的专家将提供远程部署指南和兼容性协助（如果你有与 Internet Explorer 或Google Chrome 兼容的 Web 应用或网站）。
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472018"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011558"
 ---
 # <a name="assistance-offered"></a>提供的协助
 
@@ -36,7 +36,7 @@ FastTrack 提供以下远程指南：
 2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
 3.    完成“**Microsoft 365 的请求帮助**”表单。
   
-合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    选择“我的客户”****。
 3.    搜索你的客户或从你的客户列表中选择。

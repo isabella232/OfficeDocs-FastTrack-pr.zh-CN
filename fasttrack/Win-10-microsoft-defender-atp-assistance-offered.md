@@ -3,19 +3,19 @@ title: 提供的协助
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务时，FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472005"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011522"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -37,7 +37,7 @@ FastTrack 提供以下远程指南：
     - 自动调查和修复。
     - 安全功能分数。
 - 查看模拟和教程（如实践方案、伪恶意软件和自动调查）。
-- 深入研究报告和威胁分析。
+- 报告和威胁分析功能概述。
 - 将 Office 365 ATP 与 Microsoft Defender ATP 集成。
 - 在 Microsoft Defender 安全中心门户中执行演练。
 
@@ -51,6 +51,7 @@ FastTrack 服务不包括：
    - Windows Server
    - macOS
    - Linux
+   - 移动设备（Android 和 iOS）
 - 配置以下攻击面减少功能：
     - 基于硬件的隔离。
     - 应用程序控制。
@@ -60,3 +61,4 @@ FastTrack 服务不包括：
 - 配置或培训审查 API 或安全信息和事件管理 (SIEM) 连接。
 - 注册或配置 Microsoft 威胁防护 (MTP)。
 - 有关高级搜寻的培训或指导。
+- 涉及使用或创建 Kusto 查询的培训或指导。
