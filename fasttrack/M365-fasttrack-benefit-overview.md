@@ -3,7 +3,7 @@ title: 适用于 Microsoft 365 的 FastTrack 中心权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 适用于 Microsoft 365 的 FastTrack 可提供有关规划、部署和采用方面的指导，其中包括远程访问 Microsoft 工程专长、最佳做法、工具和资源。适用于 Microsoft 365 的 FastTrack 可帮助组织及其合作伙伴加快部署速度并促使最终用户采用 Office 365、Windows 10 和企业移动性 + 安全性。
-ms.openlocfilehash: b7c7a7f04ee1e2abaa8b7782ab44c2af8faa2615
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: FastTrack for Microsoft 365 provides guidance for planning, deployment and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Windows 10, and Enterprise Mobility + Security.
+ms.openlocfilehash: bc689044b115318cd62c3e6bc03ac02fa6f26d0b
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471525"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011234"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 
-适于 Office 365 的 FastTrack 中心权益提供有关规划、部署和采用方面的指导，其中包括远程访问 Microsoft 工程专长、最佳做法、工具和资源。适用于 Microsoft 365 的 FastTrack 可帮助组织及其合作伙伴加快部署速度并促使最终用户采用 Office 365、企业移动性 + 安全性和 Windows 10。FastTrack 包含在合格的 Microsoft 365 订阅中，无需额外费用，它可以帮助你开始使用 Microsoft 365 服务、迁移数据、保护组织免受网络安全威胁、实现有效的团队合作，并使设备和应用程序保持最新状态。这包括：
+The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:
 
 - 订阅中包含持续、可重复的权益。
 - 由 Microsoft 工程师或经批准的合作伙伴交付。
