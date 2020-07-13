@@ -3,19 +3,19 @@ title: 符合条件的服务和计划
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999828"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011222"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
@@ -33,7 +33,7 @@ ms.locfileid: "43999828"
 2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
 3.    完成“**Microsoft 365 的请求帮助**”表单。
   
-合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    选择“我的客户”****。
 3.    搜索你的客户或从你的客户列表中选择。
@@ -54,6 +54,8 @@ FastTrack 中心提供有关以下服务的协助：
 - Exchange Online 
 - Microsoft 365 应用版
 - Microsoft Defender 高级威胁防护
+- Microsoft 信息管控
+- Microsoft 信息保护
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 高级威胁防护
@@ -75,6 +77,10 @@ FastTrack 中心提供有关以下服务的协助：
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 安全性\*
+- Microsoft 365 E5 合规\*
+- Microsoft 365 E5 电子数据展示和审核\*
+- Microsoft 365 E5 信息保护和管控\*
+- Microsoft 365 E5 内部风险管理\*
 - Microsoft 365 F1\*
 - Microsoft 365 商业版\*
 - Microsoft 365 企业应用版\*
@@ -91,6 +97,10 @@ FastTrack 中心提供有关以下服务的协助：
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 安全性\*
+- Microsoft 365 A5 合规\*
+- Microsoft 365 A5 电子数据展示和审核\*
+- Microsoft 365 A5 信息保护和管控\*
+- Microsoft 365 A5 内部风险管理\*
 - Microsoft 365 教育应用版（设备）\*
  
 ## <a name="eligible-office-365-plans"></a>符合条件的 Office 365 计划
@@ -227,5 +237,5 @@ FastTrack 中心提供有关以下服务的协助：
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack 中心的其他权益资格
 
-为 Office 365 租户购买至少 20,000 个许可证的客户符合享受 FastTrack 中心附加服务的条件。有关详细信息，请参阅[附录 B - FastTrack 中心附加权益](O365-fasttrack-additional-benefits.md)。
+为 Office 365 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心的附加服务。 有关详细信息，请参阅[附录 A - FastTrack 中心附加权益](O365-fasttrack-additional-benefits.md)。
   

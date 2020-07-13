@@ -1,24 +1,24 @@
 ---
-title: 附录 B：FastTrack 中心的其他权益
+title: 附录 A - FastTrack 中心附加权益
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999095"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010982"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>附录 B - FastTrack 中心的附加权益
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>附录 A - FastTrack 中心附加权益
 
-为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -48,7 +48,7 @@ ms.locfileid: "43999095"
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
-FastTrack 专家在载入期间承担以下责任。这些责任可能会补充或取代 [FastTrack 责任](O365-fasttrack-responsibilities.md)中定义的活动。
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>常规
 
@@ -64,7 +64,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>异地冗余 AD FS 指南
 
-- 为跨越两 (2) 个数据中心的异地冗余 AD FS 拓扑提供标准的参考体系结构设计。标准的体系结构可提供：
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - 针对作用域内的服务提供联合身份验证，以获取 FastTrack 中心权益。 
   - 单一站点弹性。  
   - 高可用性和故障转移。  
@@ -79,7 +79,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
 ### <a name="ad-fs-client-access-policy-guidance"></a>AD FS 客户端访问策略指南
 
 - 检查保护 Office 365 资源安全所需的策略和配置。  
-- 提供指导和帮助以便为支持方案边界内标识的客户端访问方案配置 AD FS 客户端访问策略。有关详细信息，请参阅 [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689)（根据客户端位置限制对 Office 365 服务的访问权限）。 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - 对于配置最多 10 个用户的标识访问方案，通过修改客户端访问策略验证联合身份验证功能。
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
   - UM 自动助理联系人和 Outlook 语音邮件将用户重定向到 Exchange Online。 
   - 协助创建联合身份验证所需的服务位置 (SRV) 记录。
 > [!NOTE]
-> 可以用受支持的 UM IP 网关和会话边界控制器 (SBC) 配置 UM。有关详细信息，请参阅 [电话系统与 UM 集成](https://go.microsoft.com/fwlink/?LinkID=809293)。 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>公用文件夹共存指南
 
@@ -135,7 +135,7 @@ FastTrack 专家在载入期间承担以下责任。这些责任可能会补充�
   
 ## <a name="your-responsibilities"></a>你的责任
 
-你在载入期间将承担以下责任。这些是对[你的责任](O365-your-responsibilities.md)部分中定义的责任的补充。 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - 根据项目计划分配和管理资源。  
 - 及时采取措施以缓解风险并解决客户、合作伙伴项目经理和 FastTrack 经理提出的问题。   
