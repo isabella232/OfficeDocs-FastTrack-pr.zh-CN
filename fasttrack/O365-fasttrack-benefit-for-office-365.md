@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: You use the FastTrack Center Benefit for Office 365 when you purchase at least 150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.
+description: 为 Office 365 租户至少购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。
 ms.openlocfilehash: 0054d89adf0948dafd62748e1653c4e6e6f91a67
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -21,12 +21,12 @@ ms.locfileid: "45011342"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>适用于 Office 365 的 FastTrack 中心权益
 
-You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance. 
+为 Office 365 租户*至少*购买符合条件的服务或计划的 150 个许可证后，可享有适用于 Office 365 的 FastTrack 中心权益。然后，可与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。这些专家还提供迁移指导。 
   
 > [!NOTE]
 > 在本文档中，FastTrack 专家是指包括 Microsoft 员工、Microsoft 核准供应商和 Microsoft 核准合作伙伴在内的人员。 
   
-To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).
+Office 365 租户至少必须有 500 个许可证，才符合 FastTrack 中心迁移服务的条件。有关详细信息，请参阅[数据迁移](O365-data-migration.md)。
   
 若要详细了解符合条件的服务和计划，请参阅[符合条件的服务和计划](M365-eligible-services-and-plans.md)。
   
@@ -49,7 +49,7 @@ To qualify for FastTrack Center migration services, your Office 365 tenant must 
 - [Skype for Business Online](O365-fasttrack-responsibilities.md#skype-for-business-online)
 - [Yammer 企业版](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:
+你是否正在查找有关[企业移动性 + 安全性的 FastTrack 中心权益](EMS-fasttrack-benefit-for-EMS.md)的信息？其中包括的信息有：
   
 - Microsoft Intune
 - Azure Active Directory Premium 

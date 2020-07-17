@@ -23,13 +23,13 @@ FastTrack 流程提供了载入和用户采用服务。
   
 载入包括：
   
-- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
-- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
+- *核心载入*：这些是完成租户配置以及与 Azure Active Directory (Azure AD) 集成所需执行的任务（如需要）。核心载入还为载入其他符合条件的服务提供了基线。 
+- *服务载入和迁移*：服务载入任务支持你租户中的方案。数据迁移（包括电子邮件和文件）包含在[数据迁移](O365-data-migration.md)中。 
     
-User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
+用户采用服务由多个任务组成，可提供指导以确保你的用户了解符合条件的服务，并可以使用它们推动业务价值。此协助与载入活动并行发生。
   
 > [!NOTE]
-> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
+> FastTrack 为客户提供了建议的方法、指南以及经过工程设计旨在交付快速和可预测结果的最佳做法。如果选择不依据本指南进行部署，则载入体验和服务的使用可能会受到影响。指导定义为口头和书面协助的组合。在 FastTrack 专家提供指导时，FastTrack 人员不能以你的名义进行操作。只要订阅是当前订阅，就可以将 FastTrack 服务用于载入并采用任何合格的产品工作负荷。 
   
 ## <a name="the-onboarding-process"></a>初始启用流程
 
@@ -50,7 +50,7 @@ User adoption services are comprised of tasks that provide guidance for you to e
     
  在载入助手启动后，我们便会制定联机会议的日程安排。
     
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    选择“我的客户”****。
 3.    搜索你的客户或从你的客户列表中选择。

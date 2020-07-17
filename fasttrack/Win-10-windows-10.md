@@ -44,7 +44,7 @@ FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版�
 2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
 3.    完成“**Microsoft 365 的请求帮助**”表单。
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    选择“我的客户”****。
 3.    搜索你的客户或从你的客户列表中选择。

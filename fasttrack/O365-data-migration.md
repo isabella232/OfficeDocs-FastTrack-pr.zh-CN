@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
 ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -25,10 +25,10 @@ ms.locfileid: "45011306"
 
 **对于带 500 或更多的许可证的 Office 365 租户\*:** 数据迁移服务可用于 Exchange Online、SharePoint Online 和 OneDrive for Business。 你的 FastTrack 好处包括为你提供源环境集成和迁移数据的指导。
   
-\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
+\*如果在 2017 年 9 月 1 日之前购买或续订了商务套餐，则当前订阅期内的最低座席要求为 150 个座席，以享受迁移优势。对于教育套餐，只有付费教职员工许可证才具有迁移服务资格。 
   
 > [!NOTE]
-> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
+> 通过 FastTrack 服务迁移的数据可以转移到美国或 Microsoft 维护设施的其他任何地方（除非特定 FastTrack 协定另有规定），并在其中进行存储和处理。FastTrack 服务并不旨在确保数据符合特殊法律或法规要求。 
   
 > [!NOTE]
 > 未预料到的问题（包括但不限于源环境中无法读取或已损坏的项）可能会阻止某些项迁移。 
@@ -47,7 +47,7 @@ ms.locfileid: "45011306"
 
 |**活动**|**对源环境的预期**|
 |:-----|:-----|
-|**Exchange Online 迁移**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。 <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
+|**Exchange Online 迁移**  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。 <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
 |**SharePoint Online 迁移**  <br/> | 文件共享（支持 SMB 2.0 前向的设备上的服务器消息块 (SMB) 文件共享）。 <br/> 单个 G 套件环境（仅限 Google 云端硬盘）。<br/>  Box（Starter、Business、Enterprise）。  <br/> 用于 Teams的 Dropbox（标准版和高级版）<br/> |
 |**OneDrive for Business 迁移**  <br/> | 文件共享（SMB 文件在支持 SMB 2.0 前向的设备上共享）。  <br/>  单个 G 套件环境（仅限 Google 云端硬盘）。  <br/>  Box（Starter、Business、Enterprise）。 <br/> 用于 Teams的 Dropbox（标准版和高级版）<br/><br/> **注意***：FastTrack 仅迁移到活动 Office 365 驱动器。*|
    
@@ -65,11 +65,11 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 
 #### <a name="commercial-and-uk-government"></a>商业和英国政府
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+迁移在预先安排的标准化工作日（每周七天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。
 
 #### <a name="us-governmentdod"></a>美国政府/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
     
  ### <a name="end-state"></a>结束状态
   
@@ -82,7 +82,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - 要迁移的数据类型视源环境而定，如下表所述。
     
 > [!NOTE]
-> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
+> 启用阶段结束时，所有源环境都应处于源环境中相应产品的最新服务包 (SP) 和汇总更新 (RU)/累积更新 (CU) 级别。数据迁移服务受在 Microsoft 控制范围之外的外部因素影响，如对第三方应用程序编程接口 (API) 的更改可能会导致这些服务发生更改、延迟或挂起。在 FastTrack 服务有效期内，可以在 Microsoft 及其供应商维护设施的任何地方访问并存储向 Microsoft 提供的数据。 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 |**IMAP4 源 (如 Domino, GroupWise, and Zimbra)** |使用本机 IMAP4 工具进行迁移| 电子邮件 | 规则 <br/> 代理 <br/> 通讯组列表 <br/> 外部联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 邮箱联系人 <br/> 日历 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
    
 > [!NOTE]
-> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
+> 如果通讯组列表（MailEnabledGroup 对象）和外部联系人（MailEnabledContact 对象）位于本地 Active Directory 中，可以使用 Azure AD Connect 将它们同步。不过，它们并不属于邮箱数据迁移。有关详细信息，请参阅**核心**中的 [标识集成](O365-onboarding-and-migration.md#core) 示例。 
   
 FastTrack 专家在迁移过程中执行以下操作：
 - 提供用于计划邮箱迁移的标准模板。
@@ -104,7 +104,7 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 对于基于 Exchange 和 IMAP4 的源环境，最多迁移用户邮箱存储空间上限 85% 的邮箱内容（例如，如果邮箱存储空间上限是 50 GB，那么 Microsoft 最多迁移 50 GB 存储空间上限 85% 的内容）。 
 - 除非使用直接转换迁移，否则在源邮件环境和 Office 365 Exchange Online 之间启用 SMTP 邮件路由共存。
 - 提供迁移后报告。
-- Provide post-migration assistance for critical issues. The following issues are considered critical:
+- 针对严重问题提供迁移后支持。我们将以下问题视为严重问题：
   - 在迁移期间丢失数据。
   - 在迁移期间源环境变得不可用。
   - 迁移活动导致源环境中出现问题。
@@ -127,32 +127,32 @@ FastTrack 专家在迁移过程中执行以下操作：
 |\>10000  <br/> |1500  <br/> |
    
    > [!NOTE]
-   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
+   > 这些数字以最佳做法为依据。不过，每天迁移的邮箱数量会因环境、准备情况和业务约束而异。Microsoft 无法保证邮箱迁移速度。 
   
 - 计划在迁移批处理中至少迁移 35 个邮箱。 
 - 解决预迁移故障问题（如果适用）。  
 - 向 FastTrack 专家授予对源环境的访问权限及其他权限，以方便专家执行迁移活动。 
 - 在 Office 365 中采购和/或提供已授权的管理帐户，以执行迁移活动（如果合适）。 
 - 针对客户端迁移问题提供支持，并在必要时运行迁移后操作。 
-- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
+- 根据需要迁移客户端数据。这包括但不限于本地通讯簿、本地 PST 文件中的数据、Outlook 规则和本地 Outlook 设置。   
 - 将邮箱大小减小到目标 Office 365 邮箱限制的 85% 以下（如果适用）。   
 - 处理迁移后报告中的操作，包括未移动的邮箱。  
 - 解决迁移后故障问题，然后重新计划邮箱（如果适用）。   
-- Engage in post-migration assistance for critical issues. The following issues are considered critical:
+- 针对严重问题提供迁移后支持。我们将以下问题视为严重问题：
   - 在迁移期间丢失数据。
   - 在迁移期间源环境变得不可用。
   - 迁移活动导致源环境中出现问题。
     
-You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
+需要遵循标准迁移过程，并与 Microsoft 适当合作。这包括授予对源环境和 Office 365 环境的访问权限及其他权限、提供迁移计划、纠正导致迁移错误出现的所有原因等。此外，还需要与最终用户合作，以便能够进行通信、计划邮箱迁移和处理与最终用户迁移相关的问题。
   
 > [!NOTE]
-> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+> 迁移仅使用符合载入时定义的安全要求的帐户。如果不使用此类帐户，则可能会遇到迁移延迟问题。 
   
 ## <a name="migration-to-sharepoint-online"></a>到 SharePoint Online 的迁移
 
 ### <a name="enable-to-migrate"></a>启用迁移
   
-If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
+如果使用 Microsoft 迁移数据，我们会指导如何启用 SharePoint Online 和源环境进行迁移。我们执行的启用步骤可能因源环境而异。我们通过综合使用工具和文档，以及执行适用可行的配置任务，提供具体指导。
   
 需要向 Microsoft 提供执行某些活动所需的相应访问权限和许可。
   
@@ -163,11 +163,11 @@ If you use Microsoft to migrate your data, we provide guidance to enable both Sh
 
 #### <a name="commercial-and-uk-government"></a>商业和英国政府
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+迁移在预先安排的标准化工作日（每周七天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。
 
 #### <a name="us-governmentdod"></a>美国政府/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
 
 - 所有迁移都需满足 [SharePoint Online 和 OneDrive for Business 软件边界和限制](https://go.microsoft.com/fwlink/?LinkID=616612)中所述的 SharePoint Online 配额。   
 - 整个迁移的数据量将限定在您享有的整体 SharePoint Online 存储配额（包括您可能单独购买的其他存储空间）的 75% 的范围内。
@@ -208,14 +208,14 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 在迁移完成后最多五天时的用户验收测试中提供迁移后协助。
     
 在迁移过程中执行以下操作： 
-- Provide project resources recommended for assessment and migration activities. These include: 
+- 为评估和迁移活动提供建议的项目资源。这些包括： 
   - 项目管理。 
   - 用户验收测试 (UAT)。  
   - 负责源和目标内容平台的管理员。  
 - 提供有关评估和迁移活动的基础结构先决条件（如果需要）。  
 - 向 FastTrack 专家授予对源环境和目标环境的访问权限及其他权限，以方便专家执行迁移活动（如果需要）。
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 迁移仅使用符合载入时定义的安全要求的帐户。如果不使用此类帐户，则可能会遇到迁移延迟问题。 
 - 提供支持评估和迁移的先决条件并执行所需的活动。   
 - 安装由 FastTrack 提供的评估工具并完成评估数据收集活动（如果适用）。   
 - 安装由 FastTrack 提供的迁移软件本地部署（如果适用）。   
@@ -234,9 +234,9 @@ FastTrack 专家在迁移过程中执行以下操作：
 
  ### <a name="enable-to-migrate"></a>启用迁移
   
-If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
+如果使用 Microsoft 迁移数据，我们会指导如何启用 OneDrive for Business 和源环境进行迁移。我们执行的启用步骤可能因源环境而异。我们通过综合使用工具和文档，以及执行适用可行的配置任务，指导如何执行一些活动。
   
-You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
+可能需要向 Microsoft 授予相应访问权限及其他权限，以便执行一些活动。如果没有授予相应访问权限和/或其他权限，需要根据 Microsoft 指导自行执行指定任务。 
   
 ### <a name="migration-policy-and-steps"></a>迁移策略和步骤
   
@@ -245,11 +245,11 @@ You may need to provide appropriate access and permissions to Microsoft to perfo
 
 #### <a name="commercial-and-uk-government"></a>商业和英国政府
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+迁移在预先安排的标准化工作日（每周七天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。
 
 #### <a name="us-governmentdod"></a>美国政府/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+迁移在预先安排的标准化工作日（每周五天全天候）的预定义迁移时间段内完成。每个迁移日三个迁移批处理。一周有五个迁移日，从 UTC 时间星期一凌晨 2:00 到星期五午夜。这意味着最后一次计划迁移是 UTC 时间星期五晚上 8:00。
     
 - 所有迁移都需要对源环境的相应访问权限和许可。   
 - 所有迁移都需满足 [SharePoint Online 和 OneDrive for Business：软件边界和限制](https://go.microsoft.com/fwlink/?LinkId=698855)中所述的 OneDrive for Business 配额。
@@ -290,20 +290,20 @@ FastTrack 专家在迁移过程中执行以下操作：
 - 在迁移完成后最多五天时的用户验收测试中提供迁移后协助。
    
 在迁移过程中执行以下操作：
-- Provide project resources recommended for assessment and migration activities. These include:
+- 为评估和迁移活动提供建议的项目资源。这些包括：
   - 项目管理。
   - UAT。
   - 负责源和目标内容平台的管理员。
 - 提供有关评估和迁移活动的基础结构先决条件（如果需要）。   
 - 向 FastTrack 专家授予对源环境和目标环境的访问权限及其他权限，以方便专家执行迁移活动（如果需要）。  
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 迁移仅使用符合载入时定义的安全要求的帐户。如果不使用此类帐户，则可能会遇到迁移延迟问题。 
 - 安装由 FastTrack 提供的评估工具并完成评估数据收集活动（如果适用）。
 - 安装由 FastTrack 提供的迁移软件本地部署（如果适用）。  
 - 完成由 FastTrack 提供的修正报告中所述的修正活动（如果适用）。   
 - 提供使用 FastTrack 模板和指南的迁移计划。 
 - 就每个迁移事件提供采用所定义方法的计划和包含要迁移的特定用户数据的列表。
-- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
+- 在迁移批处理前至少提前 24 小时从计划中删除用户数据。这应与最终的迁移批处理对应。
 - 进行迁移质量保证和用户验收测试。   
 - 执行迁移后迁移修正（如果适用）。  
 - 计划并实施更改管理和最终用户通信（如果适用）。  

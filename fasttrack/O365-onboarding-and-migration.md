@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase.
+description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
 ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -19,7 +19,7 @@ ms.locfileid: "45011594"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及下图所示的可选数据迁移阶段。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
@@ -41,7 +41,7 @@ Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and
 2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
 3.    完成“**Microsoft 365 的请求帮助**”表单。 
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
 2.    选择“我的客户”****。
 3.    搜索你的客户或从你的客户列表中选择。
@@ -50,17 +50,17 @@ Partners can also get help through the [FastTrack site](https://go.microsoft.com
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
-During this phase, we discuss the onboarding process, verify your data, and set up a kickoff meeting. This includes working with you to understand how you intend to use the service and your organization's goals and plans to drive service usage.
+在这一阶段，我们讨论入门流程并验证数据，同时创建启动会议。这包括与你一起了解打算如何使用服务和组织的目标和计划来推动服务使用。
   
 ![启动阶段的入门步骤](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>评估阶段
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack Specialists work with you to assess your source environment and the requirements. We provide tools for you to gather data about your environment and  guide you through estimating bandwidth requirements and assessing your internet browsers, client operating systems, Domain Name System (DNS), network, infrastructure, and identity system to determine if any changes are required for onboarding. 
+FastTrack 专家会与你一起评估你的源环境和需求。我们会提供可助你收集你的环境数据的工具，并指导你如何估计带宽需求，以及如何评估你的 Internet 浏览器、客户端操作系统、域名系统 (DNS)、网络和基础结构，还会帮你进行系统确认以确定是否需要为载入进行任何更改。 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
 ![评估阶段的载入步骤](media/O365.png)
   
@@ -70,7 +70,7 @@ Based on your current setup, we provide a remediation plan that brings your sour
   
 ![修正阶段的初始启用步骤](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+我们还提供一套建议活动，以增加最终用户价值和采用。在启动启用阶段之前，我们共同验证了修正活动的成果，以确保您符合继续下一阶段的条件。 
   
 在此阶段中，你的 FastTrack 经理会与你一起制定成功计划，指导你选择合适的资源和最佳做法，来提供使该服务适用于你的组织并推动跨服务使用率的指导。
   
@@ -80,26 +80,26 @@ We also provide a set of suggested activities to increase end user value and ado
   
 ## <a name="core"></a>核心
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+核心载入涉及服务预配以及租户和身份集成。它还包括为载入服务提供基础所要采取的步骤，例如 Exchange Online、SharePoint Online 和 Skype for Business Online。你和你的 FastTrack 经理会继续进行成功计划检查点会议以针对你的目标来评估进展情况，并确定后续需要何种帮助。
   
 ![启用阶段 1 的核心载入步骤](media/O365-Onboarding-Enable-Core.png)
   
 ![启用阶段 2 的核心载入步骤](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP 代表 Web 应用程序代理。SSL 代表安全套接字层。SDS 代表学校数据同步。有关 SDS 的详细信息，请参阅[欢迎使用 Microsoft 学校数据同步](https://go.microsoft.com/fwlink/?linkid=871480)。 
   
 在核心载入完成后，便可以开始载入一个或多个符合条件的服务。
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+对于 Exchange Online，我们会全程指导你，直到你的组织可以使用电子邮件为止。具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
 - 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。
     > [!NOTE]
     > 你的邮件交换 (MX) 记录必须指向 Office 365。 
 - 设置 Office 365 高级威胁防护 (ATP) 功能（如果它属于订阅服务）。 有关详细信息，请参阅 [Office 365 高级威胁防护](#office-365-advanced-threat-protection)。
-- Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
-- Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
+- 为在 Office 365 中验证的所有已启用邮件的域设置数据丢失防护 (DLP) 功能，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
+- 为在 Office 365 中验证的所有已启用邮件的域设置 Office 365 邮件加密 (OME) ，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。
 
 > [!NOTE]
 > 邮箱复制服务 (MRS) 尝试将用户本地邮箱中的 Information Rights Managed (IRM) 电子邮件迁移到相应的 Exchange Online 邮箱。 可读取受保护内容迁移后的能力取决于客户映射和将 Active Directory Rights Managed Services (AD RMS) 模板复制到 Azure Rights Management Service (Azure RMS)。
