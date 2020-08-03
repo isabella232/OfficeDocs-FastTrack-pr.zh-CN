@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011222"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534033"
 ---
 # <a name="eligible-services-and-plans"></a>符合条件的服务和计划
 
 购买任何 Microsoft 365 服务后，将会获得 FastTrack 专家指导，了解如何载入并开始使用 Microsoft 365。
 
 > [!IMPORTANT]
-> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。 2020 年 3 月新增功能，Microsoft 将提供 6 个月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 试用版许可证协助客户远程工作和学习，应对新型冠状病毒肺炎（COVID-19）的爆发。 从 2020 年 3 月到 2020 年 8 月，FastTrack 将破例协助载入这些免费试用版许可证和 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) 学生版。 Microsoft保留随时取消，更改或暂停此优惠的权利，恕不另行通知。   
+> 必须*至少*购买列出的符合条件的计划列表中的 150 个许可证，才能接收 FastTrack 服务。  
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 

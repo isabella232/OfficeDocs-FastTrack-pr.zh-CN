@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011306"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534045"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -38,9 +38,6 @@ ms.locfileid: "45011306"
   
 > [!NOTE]
 > 如果集成是必需的，则对于相应的应用程序而言，您的源环境必须处于最低级别。 
-  
-> [!NOTE]
-> 2020 年 3 月新增功能，Microsoft 将提供 6 个月的 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 和 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 试用版许可证协助客户远程工作和学习，应对新型冠状病毒肺炎（COVID-19）的爆发。 从 2020 年 3 月到 2020 年 8月，FastTrack 破例针对这些试用版证书超过 500 （含）的租户以及针对 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) 学生版提供数据迁移服务。 Microsoft保留随时取消，更改或暂停此优惠的权利，恕不另行通知。
 
 下表描述了对您的现有源环境的迁移预期。
   
