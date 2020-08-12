@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011270"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634214"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -35,17 +35,17 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从 "登录" 页面顶部的 "**快速操作**" 中选择 "请求帮助"，或选择部署卡片上的 "**请求帮助" 以 microsoft 365 为**microsoft **365。**
-3. 完成“**Microsoft 365 的请求帮助**”表单。 
-
+2.    从登陆页面顶部的 "**快速操作**" 中选择 "从**Microsoft 365 请求帮助**"。
+3.    **使用 Microsoft 365**表单完成 "请求帮助"。
+  
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    选择“我的客户”****。
-3.    搜索你的客户或从你的客户列表中选择。
-4.    选择“服务”****。
-5.    完成“**Microsoft 365 的请求帮助**”表单。   
+2.    从登陆页面顶部的 "**快速操作**" 中选择 "从**Microsoft 365 请求帮助**"。
+3.    通过输入客户名称、域或 TPID 搜索您的客户。
+4.    从搜索结果中选择 "客户"。
+5.    **使用 Microsoft 365**表单完成 "请求帮助"。
 
-也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -57,7 +57,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计带宽要求和评估 internet 浏览器、客户端操作系统、域名系统（DNS）、网络、基础结构和标识系统，以确定是否需要进行必要的更改才能进行载入。 
+FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供了一些工具，用于收集有关您的环境的数据，并指导您完成估计的带宽要求和评估 internet 浏览器、客户端操作系统、域名系统 (DNS) 、网络、基础结构和标识系统，以确定是否需要进行任何更改。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
@@ -132,8 +132,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置 DNS。    
 - 创建任何聊天室系统设备的帐户。    
 - 部署支持的 Skype for Business Online 客户端。   
-- 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 server 环境和 Skype for business Online 租户之间建立拆分域服务器配置（如果适用）。
-- 启用通话套餐、Skype 会议直播和电话系统和通话套餐（在可用市场中-在 GCC 高或 DoD 计划中不可用）。 
+- 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 server 环境和 Skype for business Online 租户之间建立拆分域服务器配置（如果适用) ，则为 (）。
+- 在可用市场中启用通话套餐、Skype 会议直播以及电话系统和通话套餐–在 GCC 高或 DoD 计划) 中不可用的 (。 
     
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
   
