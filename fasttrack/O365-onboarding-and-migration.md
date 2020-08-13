@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 075ff08f59992d5ebd6fd77fa25012c1416cd8ae
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011594"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634226"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -38,15 +38,15 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.    完成“**Microsoft 365 的请求帮助**”表单。 
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    完成**请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    选择“我的客户”****。
-3.    搜索你的客户或从你的客户列表中选择。
-4.    选择“服务”****。
-5.    完成“**Microsoft 365 的请求帮助**”表单。
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    通过输入客户名称、域名或TPID搜索客户。
+4.    在搜索结果中选择客户。
+5.    完成**请求Microsoft 365 的协助** 表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     

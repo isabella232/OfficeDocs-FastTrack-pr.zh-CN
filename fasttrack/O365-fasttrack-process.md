@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: e1fad1717e905b9f224dbfd2bc03ca2c41ce62f7
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011366"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634202"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -43,19 +43,19 @@ FastTrack 流程提供了载入和用户采用服务。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.    完成“**Microsoft 365 的请求帮助**”表单。 
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    完成**请求Microsoft 365 的协助** 表单。
+  
+合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
+1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    通过输入客户名称、域名或TPID搜索客户。
+4.    在搜索结果中选择客户。
+5.    完成**请求Microsoft 365 的协助** 表单。
   
  也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
  在载入助手启动后，我们便会制定联机会议的日程安排。
-    
-合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
-1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    选择“我的客户”****。
-3.    搜索你的客户或从你的客户列表中选择。
-4.    选择“服务”****。
-5.    完成“**Microsoft 365 的请求帮助**”表单。 
 
 下表列出了流程中的角色和职责。
     

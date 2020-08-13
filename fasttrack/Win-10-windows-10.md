@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版和 Windows 8.1 专业版升级到 Windows 10 企业版。
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011510"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634166"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ FastTrack 提供 Windows 10 部署指南，以帮助你从 Windows 7 专业版�
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从登录页面顶部的“**快速操作**”中选择“**Microsoft 365 的请求帮助**”，或者在部署卡上选择“**Microsoft 365 的请求帮助**”。
-3.    完成“**Microsoft 365 的请求帮助**”表单。
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    完成**请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    选择“我的客户”****。
-3.    搜索你的客户或从你的客户列表中选择。
-4.    选择“服务”****。
-5.    选择“**Microsoft 365 的请求帮助**”表单。
-6.    选择 Windows 10 产品选项并填写表单。
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    通过输入客户名称、域名或TPID搜索客户。
+4.    在搜索结果中选择客户。
+5.    完成**请求Microsoft 365 的协助** 表单。
  
