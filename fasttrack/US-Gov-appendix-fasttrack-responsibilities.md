@@ -3,19 +3,19 @@ title: Office 365 美国政府版的 FastTrack 责任
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011618"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776474"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -79,8 +79,8 @@ FastTrack 专家在载入期间将承担以下责任。
   - 在你的 Active Directory 域服务 (AD DS) 和 Office 365 间安装目录同步服务器（如果需要）。   
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
-      - 配置 Azure Active Directory 直通身份验证（如果需要）（不适用于 GCC 高或 DoD 计划）。
-      - 配置 Azure Active Directory 无缝单一登录（SSO）（如果需要）（不适用于 GCC 高或 DoD 计划）。
+      - 如果需要，配置 Azure Active Directory 直通身份验证 (在 GCC High 或 DoD 计划) 中不可用。
+      - 配置 Azure Active Directory 无缝单一登录 (SSO) （如果需要） (在 GCC High 或 DoD 计划) 中不可用。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -100,9 +100,9 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 使用 Exchange Online 设置统一消息（UM）（UM 在 GCC DoD 计划中不可用）。 
+- 在 Exchange Online (UM 中设置统一消息 (UM) 在 GCC DoD 计划) 中不可用。 
     
-有关数据迁移责任的详细信息，请参阅[数据迁移](O365-data-migration.md).。
+有关数据迁移责任的详细信息，请参阅[数据迁移](data-migration.md).。
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -147,12 +147,12 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用音频会议：   
   - 会议桥默认设置的组织设置。   
   - 向许可用户分配会议桥。 
-- 启用电话系统（在 GCC 高或 DoD 计划中不可用）：  
+- 启用 "电话系统" (在 GCC 高或 DoD 计划) 中不可用：  
   - 启用电话系统和通话套餐载入（在可用市场中）。 
   - 向许可用户分配号码。  
   - 通过 UI 进行本地号码端口定位的指南（最多到 999）。  
   - 超过 999 的本地号码端口定位 SR 支持。  
-- 启用 Skype for Business 会议广播（在 GCC 高或 DoD 计划中不可用）：  
+- 启用 Skype for Business 会议广播 (在 GCC High 或 DoD 计划) 中不可用：  
   - 启用 Skype for Business 会议直播载入指南。  
   - 使用会议直播服务的联合身份验证组织设置。
     

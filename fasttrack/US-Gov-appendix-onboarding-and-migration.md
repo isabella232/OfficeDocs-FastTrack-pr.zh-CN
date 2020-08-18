@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
-ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634214"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776486"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务，请参阅 office [365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md)和[你对 Office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务，请参阅 office [365 美国政府版的 FastTrack 责任](US-Gov-appendix-fasttrack-responsibilities.md) 和 [你对 Office 365 美国政府的责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -35,17 +35,17 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从登陆页面顶部的 "**快速操作**" 中选择 "从**Microsoft 365 请求帮助**"。
-3.    **使用 Microsoft 365**表单完成 "请求帮助"。
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    完成**请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    从登陆页面顶部的 "**快速操作**" 中选择 "从**Microsoft 365 请求帮助**"。
-3.    通过输入客户名称、域或 TPID 搜索您的客户。
-4.    从搜索结果中选择 "客户"。
-5.    **使用 Microsoft 365**表单完成 "请求帮助"。
+2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+3.    通过输入客户名称、域名或TPID搜索客户。
+4.    在搜索结果中选择客户。
+5.    完成**请求Microsoft 365 的协助** 表单。
 
-也可以从为租户的可用服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
+也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     
 在此阶段，我们会讨论载入过程、验证您的数据并安排启动会议。
   
@@ -103,7 +103,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们为您提供
 - 设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。   
 - 执行从源邮件环境到 Office 365 的邮件迁移。   
     > [!NOTE]
-    > 有关邮件和数据迁移的详细信息，请参阅[数据迁移](O365-data-migration.md)。 
+    > 有关邮件和数据迁移的详细信息，请参阅[数据迁移](data-migration.md)。 
   
 ![启用阶段的 Exchange 初始启用步骤](media/O365-Onboarding-Enable-Exchange.png)
   
