@@ -7,21 +7,21 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: 为 Exchange Online 租户购买至少 20,000 个许可证的客户有资格享受 FastTrack 中心附加服务。有关详细信息，请参阅“符合条件的服务和计划”。
-ms.openlocfilehash: 833d53b2b3e27aff99bf9b329d68b53804f9f27a
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800916"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817541"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>附录 A - FastTrack 中心附加权益
 
 > [!CAUTION]
-> 此内容已不再是最新的，并计划删除。 对当前内容使用左侧导航栏中的目录。
+> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
 
-为 Exchange Online 租户至少购买20000许可证的客户有资格享受 FastTrack Center 附加服务。 有关详细信息，请参阅 [资格](eligibility.md) 。 
+为 Exchange Online 租户购买至少 20，000 个许可证的客户有资格获得 FastTrack 中心附加服务。 有关 [更多详细信息，请参阅](eligibility.md) 资格。 
   
 ## <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -51,11 +51,11 @@ ms.locfileid: "46800916"
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
-FastTrack 专家在载入期间将承担以下责任。 这些活动可能是补充或替换在 [流程和期望](process-and-expectations.md)中定义的活动。
+FastTrack 专家在载入期间将承担以下责任。 这些操作可能会与处理和预期中 [定义的活动进行](process-and-expectations.md)比较或替换。
   
 ## <a name="general"></a>常规
 
-- 在成功规划开发、实施和必需的配置活动中为您提供远程支持协助，这些活动在 [产品和功能](products-and-capabilities.md)方面进行了详细介绍。
+- 为你提供远程支持协助，帮助你成功完成规划开发和实施以及产品和功能中 [需要的配置活动](products-and-capabilities.md)。
     
 ## <a name="assess-phase"></a>评估阶段
 
@@ -138,7 +138,7 @@ FastTrack 专家在载入期间将承担以下责任。 这些活动可能是补
   
 ## <a name="your-responsibilities"></a>你的责任
 
-你在初始启用过程中将承担以下责任。 这些是对在 [过程和期望](process-and-expectations.md)方面定义的责任的补充。 
+你在初始启用过程中将承担以下责任。 这些是由进程和期预期中定义的[职责的带来。](process-and-expectations.md) 
   
 - 根据项目计划分配和管理资源。  
 - 及时采取措施以缓解风险并解决客户、合作伙伴项目经理和 FastTrack 经理提出的问题。   

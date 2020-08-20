@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Microsoft 365 应用版并保持最新状态。
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795066"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817685"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
-在购买任何 Windows 10 或 Microsoft 365 服务 (时，如 [资格](eligibility.md)) 中的详细说明，如果您在部署 [受支持的 microsoft 产品](#supported-microsoft-products)中所述的较新 Microsoft 产品时遇到应用兼容性问题，则 FastTrack 专家将提供咨询和补救指南。
+当你按照支持的 Microsoft 产品中所述，如果购买了任何 Windows 10 或 Microsoft 365 服务 ([和资格](eligibility.md) 服务) ，FastTrack 专家将提供建议和修复指导（如果在支持的 Microsoft 产品中概述了应用兼容性问题时遇到应用 [兼容性问题](#supported-microsoft-products)）。
 
 若要获取帮助，请填写[应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 

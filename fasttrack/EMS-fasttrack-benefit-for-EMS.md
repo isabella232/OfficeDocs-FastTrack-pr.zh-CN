@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a86fe2b4be3cf68e08c8dc0aa4c8e773d050dc77
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800496"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817277"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>适用于企业移动性 + 安全性 (EMS) 的 FastTrack 中心权益
 
 > [!CAUTION]
-> 此内容已不再是最新的，并计划删除。 对当前内容使用左侧导航栏中的目录。
+> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
 
 
 当你在符合条件的计划中购买至少 150 个 EMS 许可证或其任何单个云服务时，可以使用企业移动性 + 安全性 (EMS) FastTrack 中心权益。 然后，与 FastTrack 专家合作，共同评估、修正、启用和推动这些服务的使用。 专家还会提供迁移指导。 

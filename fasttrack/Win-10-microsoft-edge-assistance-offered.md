@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务（如在符合条件的服务和计划中详述）时，FastTrack 的专家将提供远程部署指南和兼容性协助（如果你有与 Internet Explorer 或Google Chrome 兼容的 Web 应用或网站）。
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800700"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817625"
 ---
 # <a name="assistance-offered"></a>提供的协助
 
-在购买任何符合条件的 Windows 10 或 Microsoft 365 服务 (时，如 [资格](eligibility.md)) 中的详细说明，如果您有可用于 Internet Explorer 或 Google Chrome 的 web 应用或网站，则 FastTrack 专家将提供远程部署指导和兼容性协助。 
+当你购买符合条件 [) ](eligibility.md) 的任意合格 Windows 10 或 Microsoft 365 服务 (时，如果有与 Internet Explorer 或 Google Chrome 兼容的 Web 应用或网站，FastTrack 的专家将提供远程部署指南和兼容性协助。 
 
 ## <a name="assistance"></a>协助
 
