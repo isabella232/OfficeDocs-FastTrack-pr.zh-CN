@@ -14,7 +14,7 @@ ms.collection: FastTrack
 description: 使用适于 Office 365 的 FastTrack 中心权益，可以与 FastTrack 专家远程合作，共同让 Office 365 环境可供使用，并计划在组织内推动服务的使用。有关资格的详细信息，请参阅适用于 Office 365 的 FastTrack 中心权益。
 ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800892"
@@ -22,7 +22,7 @@ ms.locfileid: "46800892"
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 中心权益概述
 
 > [!CAUTION]
-> 此内容已不再是最新的，并计划删除。 对当前内容使用左侧导航栏中的目录。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 使用适于 Office 365 的 FastTrack 中心权益，可以与 FastTrack 专家远程合作，共同让 Office 365 环境可供使用，并计划在组织内推动服务的使用。有关资格的详细信息，请参阅[适用于 Office 365 的 FastTrack 中心权益](O365-fasttrack-benefit-for-office-365.md)。
   

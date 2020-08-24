@@ -12,14 +12,14 @@ ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
 ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800928"
 ---
 # <a name="data-migration"></a>数据迁移
 > [!CAUTION]
-> 此内容已不再是最新的，并计划删除。 对当前内容使用左侧导航栏中的目录。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 你可能有你想要迁移到 Office 365 的源环境中的数据。
 

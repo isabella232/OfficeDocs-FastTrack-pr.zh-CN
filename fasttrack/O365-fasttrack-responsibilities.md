@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800856"
@@ -20,7 +20,7 @@ ms.locfileid: "46800856"
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
 > [!CAUTION]
-> 此内容已不再是最新的，并计划删除。 对当前内容使用左侧导航栏中的目录。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 FastTrack 专家在载入期间将承担以下责任。\*
   
@@ -124,47 +124,47 @@ FastTrack 专家在载入期间将承担以下责任。\*
 
 ## <a name="microsoft-information-governance"></a>Microsoft 信息管控 
 
-针对以下内容提供相关指导：
+针对以下方面提供相关指导：
 - 记录管理。
-  - 对记录管理应用权限。
+  - 应用记录管理权限。
   - 有关将文件计划和保留计划转换为标签和策略的指南。
   - 创建保留标签和策略。
   - 建立删除策略。
-  - 查看要处置的项目。
-- 内幕风险管理。
+  - 审阅项目以便进行处置。
+- 内部风险管理。
   - 启用 Office 365 审核日志。
-  - 配置内幕风险管理中的设置。
-  - 使用内置行动手册创建内幕风险策略。
-  - 配置通信合规性的权限。
+  - 配置内部风险管理中的设置。
+  - 使用内置行动手册创建内部风险策略。
+  - 配置通信合规性权限。
   - 使用可自定义的模板创建通信合规性策略。
   - 监视和查看警报。
 - 信息管控。
-  - 应用信息治理的权限。
+  - 应用信息管控权限。
   - 创建保留标签。
-  -  (手动和自动) 发布保留标签。
+  - 发布保留标签（手动和自动）。
   - 创建导入作业。
 - 高级电子数据展示。
   - 非 Office 365 数据。
   - 设置权限。
-  - 创建事例。
+  - 创建案例。
   - 添加保管人。 
   - 合法保留。
-  - 查询.
-  - 评审集。
+  - 搜索。
+  - 审阅集。
   - 导出内容。
 
 ## <a name="microsoft-information-protection"></a>Microsoft 信息保护
 
-针对以下内容提供相关指导：
+针对以下方面提供相关指导：
 - 数据分类。
 - 敏感信息类型。
 - 创建敏感度标签。
 - 应用敏感度标签。 
 - 统一标记。
-- Trainable 类元。
-- 使用内容浏览器和活动资源管理器了解数据。
-- 使用策略发布标签 (手动和自动) 。
-- 为 Microsoft 团队聊天和频道创建数据丢失防护 (DLP) 策略。
+- 可训练的分类器。
+- 通过内容浏览器和活动浏览器了解你的数据。
+- 使用策略来发布标签（手动和自动）。
+- 创建针对 Microsoft Teams 聊天和频道的数据丢失防护 (DLP) 策略。
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
