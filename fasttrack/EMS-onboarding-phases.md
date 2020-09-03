@@ -9,19 +9,19 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
-ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 980cd0e0d996737df96d677ade192d5fcca38343
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817506"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338362"
 ---
 # <a name="onboarding-phases"></a>载入阶段
 
 > [!CAUTION]
-> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 使用[符合条件的服务和计划](M365-eligible-services-and-plans.md)以获取可供使用的 Microsoft Azure Active Directory Premium 、Microsoft Intune 和 Azure Information Protection 时，过程中涉及到以下几个阶段。 以下部分介绍了载入流程的每一个阶段。
 

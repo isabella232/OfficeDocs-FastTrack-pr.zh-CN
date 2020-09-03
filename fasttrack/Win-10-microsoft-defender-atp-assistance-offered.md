@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 当你购买任何 Windows 10 或 Microsoft 365 服务时，FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。
-ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817649"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338553"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
 > [!CAUTION]
-> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 当你购买任何 Windows 10 或 Microsoft 365 服务时（[合格服务和计划](M365-eligible-services-and-plans.md)中进行了详细介绍），FastTrack 专家将提供用于保护终结点的远程部署指南。 我们的服务针对每个客户的环境和需求进行了量身定制。 FastTrack 专家：
 - 评估 OS 版本和设备管理（包括 Microsoft Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置）。
@@ -54,7 +54,7 @@ FastTrack 服务不包括：
    - Windows Server
    - macOS
    - Linux
-   - Android 和 iOS (移动设备) 
+   -  (Android 和 iOS) 的移动设备
 - 配置以下攻击面减少功能：
     - 基于硬件的隔离。
     - 应用程序控制。
@@ -64,4 +64,4 @@ FastTrack 服务不包括：
 - 配置或培训审查 API 或安全信息和事件管理 (SIEM) 连接。
 - 注册或配置 Microsoft 威胁防护 (MTP)。
 - 有关高级搜寻的培训或指导。
-- 关于使用或创建 Kusto 查询的培训或指南。
+- 涉及使用或创建 Kusto 查询的培训或指导。

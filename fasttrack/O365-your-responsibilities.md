@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: e2cc171dde9e0d9ddde0847d7ee53f6e6f201285
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 77afe0d6244175e5ede6b2cad8cd32fae64975f0
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817361"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338146"
 ---
 # <a name="your-responsibilities"></a>你的责任
 
 > [!CAUTION]
-> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 你在载入过程中将承担以下责任。\*
   

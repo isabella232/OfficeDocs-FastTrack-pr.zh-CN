@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 适用于 Windows 10 的 FastTrack 中心权益提供了对 Microsoft Defender 高级威胁防护 (ATP) 的访问权限，这是一项新服务，旨在帮助企业网络防止、检测、调查和响应高级威胁。
-ms.openlocfilehash: 98a1978d5f1585613d6e24f28bb6bc54e608c76c
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: b3a5a64204d779f492eb23ac9d9b76aa2708acd3
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817637"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338518"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender 高级威胁防护
 
 > [!CAUTION]
-> 此内容不再是最新内容，计划删除。 将左侧导航中的目录用于当前内容。
+> 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
 适用于 Windows 10 的 FastTrack 中心权益提供了对 Microsoft Defender 高级威胁防护 (ATP) 的访问权限，这是一个平台，旨在帮助企业网络防止、检测、调查和响应高级威胁。 通过 FastTrack 请求 Microsoft Defender ATP 部署协助后，FastTrack 专家将协助你部署技术来保护你的终结点。
 
