@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Microsoft 365 应用版并保持最新状态。
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817685"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206249"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
-当你按照支持的 Microsoft 产品中所述，如果购买了任何 Windows 10 或 Microsoft 365 服务 ([和资格](eligibility.md) 服务) ，FastTrack 专家将提供建议和修复指导（如果在支持的 Microsoft 产品中概述了应用兼容性问题时遇到应用 [兼容性问题](#supported-microsoft-products)）。
+在购买任何 Windows 10 或 Microsoft 365 服务 (时，如 [资格](eligibility.md)) 中的详细说明，如果您在部署 [受支持的 microsoft 产品](#supported-microsoft-products)中所述的较新 Microsoft 产品时遇到应用兼容性问题，则 FastTrack 专家将提供咨询和补救指南。
 
 若要获取帮助，请填写[应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -36,6 +36,13 @@ FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 
 - 在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 上运行的应用也可在 Windows 10 和 Microsoft 365 应用版上运行。
 
+### <a name="windows-10-on-arm"></a>ARM 上的 Windows 10
+
+- 在 Windows 7、Office 2010 或更高版本上运行的应用程序可在 ARM64 设备上的 Windows 10 和 Microsoft 365 应用中运行。
+
+> [!NOTE]
+> ARM 排除和限制中的 Windows 10 包括依赖于 ARM 中不兼容的软件驱动程序的应用程序、使用 OpenGL 或 OpenCL，或仅在 64 (x64) 中可用。
+
 ### <a name="the-new-microsoft-edge"></a>新版 Microsoft Edge
 
 - 如果你的 Web 应用或网站适用于 Internet Explorer 11、受支持的 Google Chrome 版本或任何 Microsoft Edge 版本，则它们也将适用于新版 Microsoft Edge。
@@ -45,13 +52,14 @@ FastTrack 针对以下 Microsoft 产品上部署的应用提供修正协助：
 ### <a name="windows-virtual-desktop"></a>Windows 虚拟桌面
 
 - 在 Windows Server 远程桌面会话主机 (RDSH) 上运行的虚拟化应用也可作为 Windows 虚拟桌面的一部分在 Windows 10 企业版多会话中运行。
-- 在任何 Windows 7 或 Windows 10 虚拟桌面基础结构 (VDI) 环境中运行的应用也可作为 Windows 虚拟桌面的一部分在 Windows 7 企业版和 Windows 10 企业版上运行。*
-- 在 Windows 7 或 Windows 10 客户端设备中运行的应用也可作为 Windows 虚拟桌面的一部分在 Windows 7 企业版和 Windows 10 企业版上运行。\*
+- 在任何 Windows 7 或 Windows 10 虚拟桌面基础结构上运行的应用程序 (VDI) 环境也在 windows 7 企业版和 Windows 10 企业版上作为 Windows 虚拟桌面的一部分运行。
+- 在 Windows 7 或 Windows 10 客户端设备中运行的应用也可作为 Windows 虚拟桌面的一部分在 Windows 7 企业版和 Windows 10 企业版上运行。
 
-\*Windows 10 企业版多会话在兼容性方面存在下列排除和限制：
-- 硬件重定向受到限制。
-- A/V 密集型应用可能功能受限。
-- 64 位 Windows 虚拟桌面不支持 16 位应用。
+> [!NOTE]
+> Windows 10 企业版多会话在兼容性方面存在下列排除和限制： 
+> - 硬件重定向受到限制。
+> - A/V 密集型应用可能功能受限。
+> - 64 位 Windows 虚拟桌面不支持 16 位应用。
 
 有关详细信息，请参阅[什么是 Windows 虚拟桌面？](https://docs.microsoft.com/azure/virtual-desktop/overview)和 [Windows 10 企业版多对话常见问题解答](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq)。
 
