@@ -3,19 +3,19 @@ title: 资格
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817565"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320016"
 ---
 # <a name="eligibility"></a>资格
 
@@ -46,8 +46,8 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Windows 虚拟桌面
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>符合条件的计划
@@ -65,6 +65,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - Microsoft 365 E5 电子数据展示和审核\*
   - Microsoft 365 E5 信息保护和管控\*
   - Microsoft 365 E5 内部风险管理\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 商业版\*
   - Microsoft 365 企业应用版\*
@@ -115,6 +116,19 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - Exchange Online Protection
   - Office 365 高级威胁防护
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - 电话系统
+  - 通话套餐
+  - 音频会议
+  - Microsoft 团队聊天室
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - 含 Office 的 OneDrive for Business
+  - OneDrive for Business 计划 1
+  - OneDrive for Business 计划 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online 协作版
@@ -126,32 +140,16 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - SharePoint Online 计划 1
   - SharePoint Online 计划 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - 含 Office 的 OneDrive for Business
-  - OneDrive for Business 计划 1
-  - OneDrive for Business 计划 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - 电话系统\*\*\*
-  - 通话套餐\*\*\*
-  - 音频会议\*\*\*
-  - Skype for Business Online 计划 1
-  - Skype for Business Online 计划 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*仅适用于符合 FastTrack 条件的云服务和此权益说明中所述的功能。  
       
 \*\*若要详细了解有关 FastTrack 美国政府版权益的信息，请参阅 [Office 365 美国政府版](https://aka.ms/aboutgovcloud)。  
-      
-\*\*\*可用于 Skype for Business Online 和 Teams 许可用户。 需要符合条件的 Skype for Business 或 Teams 购买。  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>企业移动性 + 安全性计划  
       

@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776486"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319992"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 

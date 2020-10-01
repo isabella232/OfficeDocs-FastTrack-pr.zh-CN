@@ -3,19 +3,19 @@ title: 流程和期望
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817577"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319932"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 
@@ -43,6 +43,8 @@ ms.locfileid: "46817577"
 3.  通过输入客户名称、域名或TPID搜索客户。
 4.  在搜索结果中选择客户。
 5.  完成“**请求有关 Microsoft 365 的帮助**”表单。
+
+若要请求应用程序保证的帮助，请完成 [应用确保服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
 ## <a name="fasttrack-expectations"></a>FastTrack 期望
 

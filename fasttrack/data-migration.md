@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817709"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319944"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -281,6 +281,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
+<li> 标记为 "受限" 或 "未 copyable" 的文件 </li>
 <li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
 </ul></td>
 </tr>
