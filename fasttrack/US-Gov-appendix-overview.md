@@ -1,35 +1,35 @@
 ---
-title: 附录 B-Office 365 美国政府的 FastTrack 中心权益概述
+title: 附录 B - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: 借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。
-ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 87bb7ee331b9abbd92d984d9f2ac940762cf34c2
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776455"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319956"
 ---
-# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="c19c5-103">附录 B-Office 365 美国政府的 FastTrack 中心权益概述</span><span class="sxs-lookup"><span data-stu-id="c19c5-103">Appendix B - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="0f2c2-103">附录 B - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述</span><span class="sxs-lookup"><span data-stu-id="0f2c2-103">Appendix B - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
 
-<span data-ttu-id="c19c5-104">借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。</span><span class="sxs-lookup"><span data-stu-id="c19c5-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
+<span data-ttu-id="0f2c2-104">借助面向 Office 365 的 FastTrack 中心权益，你可以与 FastTrack 专家远程合作，让你的 Office 365 环境准备就绪，并在你的组织内规划部署和使用情况。</span><span class="sxs-lookup"><span data-stu-id="0f2c2-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
   
-<span data-ttu-id="c19c5-105">尽管 Office 365 套件和 Office 365 美国政府的大多数产品和功能都是相同的，但并非所有功能都在所有计划中都可用。</span><span class="sxs-lookup"><span data-stu-id="c19c5-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="c19c5-106">有关最新的功能列表，请查看 [Office 365 美国政府](https://aka.ms/aboutgovcloud) 版服务说明。</span><span class="sxs-lookup"><span data-stu-id="c19c5-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
+<span data-ttu-id="0f2c2-105">尽管 Office 365 套件和 Office 365 美国政府的大多数产品和功能都是相同的，但并非所有功能都在所有计划中都可用。</span><span class="sxs-lookup"><span data-stu-id="0f2c2-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="0f2c2-106">有关最新的功能列表，请查看 [Office 365 美国政府](https://aka.ms/aboutgovcloud) 版服务说明。</span><span class="sxs-lookup"><span data-stu-id="0f2c2-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="c19c5-107">若要接收 FastTrack 服务，请转到 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698) 并请求协助。</span><span class="sxs-lookup"><span data-stu-id="c19c5-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
+> <span data-ttu-id="0f2c2-107">若要接收 FastTrack 服务，请转到 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698) 并请求协助。</span><span class="sxs-lookup"><span data-stu-id="0f2c2-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
 
-<span data-ttu-id="c19c5-108">我们将介绍以下主题：</span><span class="sxs-lookup"><span data-stu-id="c19c5-108">We cover the following topics:</span></span>
-- [<span data-ttu-id="c19c5-109">过程和期望</span><span class="sxs-lookup"><span data-stu-id="c19c5-109">Process and Expectations</span></span>](process-and-expectations.md) 
-- [<span data-ttu-id="c19c5-110">Office 365 美国政府的源环境预期</span><span class="sxs-lookup"><span data-stu-id="c19c5-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
-- [<span data-ttu-id="c19c5-111">Office 365 美国政府版的载入和迁移阶段</span><span class="sxs-lookup"><span data-stu-id="c19c5-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
-- [<span data-ttu-id="c19c5-112">数据迁移</span><span class="sxs-lookup"><span data-stu-id="c19c5-112">Data Migration</span></span>](data-migration.md)    
-- [<span data-ttu-id="c19c5-113">Office 365 美国政府版的 FastTrack 责任</span><span class="sxs-lookup"><span data-stu-id="c19c5-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [<span data-ttu-id="c19c5-114">你对 Office 365 美国政府的责任</span><span class="sxs-lookup"><span data-stu-id="c19c5-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md)    
+<span data-ttu-id="0f2c2-108">我们将介绍以下主题：</span><span class="sxs-lookup"><span data-stu-id="0f2c2-108">We cover the following topics:</span></span>
+- [<span data-ttu-id="0f2c2-109">流程和期望</span><span class="sxs-lookup"><span data-stu-id="0f2c2-109">Process and Expectations</span></span>](process-and-expectations.md) 
+- [<span data-ttu-id="0f2c2-110">Office 365 美国政府的源环境预期</span><span class="sxs-lookup"><span data-stu-id="0f2c2-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
+- [<span data-ttu-id="0f2c2-111">Office 365 美国政府版的载入和迁移阶段</span><span class="sxs-lookup"><span data-stu-id="0f2c2-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
+- [<span data-ttu-id="0f2c2-112">数据迁移</span><span class="sxs-lookup"><span data-stu-id="0f2c2-112">Data Migration</span></span>](data-migration.md)    
+- [<span data-ttu-id="0f2c2-113">Office 365 美国政府版的 FastTrack 责任</span><span class="sxs-lookup"><span data-stu-id="0f2c2-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [<span data-ttu-id="0f2c2-114">你对 Office 365 美国政府的责任</span><span class="sxs-lookup"><span data-stu-id="0f2c2-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md)    
 
