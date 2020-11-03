@@ -1,21 +1,21 @@
 ---
 title: 数据迁移
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319944"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827644"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -23,8 +23,8 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 
 我们提供的帮助类型取决于你的 Office 365 许可证数量：
 
-  - **对于具有 150-499 个许可证的 Office 365 租户**：FastTrack 仅提供迁移指南；你负责执行数据迁移。 我们将指导你阅读文档，以帮助你计划和使用免费工具来执行自助服务迁移。
-  - **对于具有 500 个或更多许可证的 Office 365 租户**：FastTrack 提供迁移指南和数据迁移服务。 我们提供指导，以帮助你计划迁移、配置源环境和 Office 365 租户，并利用我们的数据迁移服务来迁移数据。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。
+  - **对于具有 150-499 个许可证的 Office 365 租户** ：FastTrack 仅提供迁移指南；你负责执行数据迁移。 我们将指导你阅读文档，以帮助你计划和使用免费工具来执行自助服务迁移。
+  - **对于具有 500 个或更多许可证的 Office 365 租户** ：FastTrack 提供迁移指南和数据迁移服务。 我们提供指导，以帮助你计划迁移、配置源环境和 Office 365 租户，并利用我们的数据迁移服务来迁移数据。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。
 
 > [!NOTE]
 > 如果你在 2017 年 9 月 1 日之前购买或续订了商业计划，则只需 150 个许可证即可获得数据迁移服务的资格。 对于教育计划，只有付费教职员工许可证才有资格获得数据迁移服务。
@@ -54,7 +54,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
   - FastTrack 仅迁移到活动的 Office 365 邮箱。
   - 如果要从本地 Exchange 环境迁移，则必须满足特定要求。 有关详细信息，请参阅[配置混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。
   - 每个源环境都必须处于源环境中相应产品的最新服务包 (SP) 和汇总更新 (RU)/累积更新 (CU) 级别。
-  - 位于本地 Active Directory 中的通讯组列表（*MailEnabledGroup* 对象）和外部联系人（*MailEnabledContact* 对象）不是邮箱数据迁移的一部分。 但是，你可以使用 Azure Active Directory (Azure AD) Connect 将它们同步。 
+  - 位于本地 Active Directory 中的通讯组列表（ *MailEnabledGroup* 对象）和外部联系人（ *MailEnabledContact* 对象）不是邮箱数据迁移的一部分。 但是，你可以使用 Azure Active Directory (Azure AD) Connect 将它们同步。 
 
 ## <a name="source-environments"></a>源环境
 
@@ -79,7 +79,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注意：</strong> 有关本地 Exchange 依赖项的信息，请参阅 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署先决条件</span></a>。</td>
+<strong>注意：</strong> 有关本地 Exchange 依存关系，请参阅 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署先决条件</span></a>。</td>
 <td>使用混合部署进行的迁移</td>
 <td><ul>
 <li>电子邮件</li>
@@ -107,7 +107,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <tr class="even">
 <td><strong>G 套件环境（仅限 Gmail、联系人和日历）</strong><br />
 <br />
-<strong>注意：</strong> 你的 G 套件环境必须满足<a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">执行 G 套件迁移</a>中所述的先决条件。</td>
+<strong>注意：</strong> 您的 G 套件环境必须满足 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">执行 G 套件迁移</a>中所述的先决条件。</td>
 <td>直接转换或暂存</td>
 <td><ul>
 <li> 电子邮件 </li>
@@ -242,7 +242,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
 <li> 标记为 "受限" 或 "未 copyable" 的文件 </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和局限</span></a> 的文件或文件夹</li>
+<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
 </ul></td>
 </tr>
 </tbody>

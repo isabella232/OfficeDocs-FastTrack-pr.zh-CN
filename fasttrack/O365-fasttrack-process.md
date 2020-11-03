@@ -1,7 +1,7 @@
 ---
 title: FastTrack 流程
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 流程提供了载入和用户采用服务。
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338542"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827042"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 流程
 
@@ -26,8 +26,8 @@ FastTrack 流程提供了载入和用户采用服务。
   
 载入包括：
   
-- *核心载入*：这些是完成租户配置以及与 Azure Active Directory (Azure AD) 集成所需执行的任务（如需要）。核心载入还为载入其他符合条件的服务提供了基线。 
-- *服务载入和迁移*：服务载入任务支持你租户中的方案。数据迁移（包括电子邮件和文件）包含在[数据迁移](O365-data-migration.md)中。 
+- *核心载入* ：这些是完成租户配置以及与 Azure Active Directory (Azure AD) 集成所需执行的任务（如需要）。核心载入还为载入其他符合条件的服务提供了基线。 
+- *服务载入和迁移* ：服务载入任务支持你租户中的方案。数据迁移（包括电子邮件和文件）包含在 [数据迁移](O365-data-migration.md)中。 
     
 用户采用服务由多个任务组成，可提供指导以确保你的用户了解符合条件的服务，并可以使用它们推动业务价值。此协助与载入活动并行发生。
   
@@ -42,19 +42,19 @@ FastTrack 流程提供了载入和用户采用服务。
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 
-若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
-3.    完成**请求Microsoft 365 的协助** 表单。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
+3.    完成 **请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
 3.    通过输入客户名称、域名或TPID搜索客户。
 4.    在搜索结果中选择客户。
-5.    完成**请求Microsoft 365 的协助** 表单。
+5.    完成 **请求Microsoft 365 的协助** 表单。
   
  也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     

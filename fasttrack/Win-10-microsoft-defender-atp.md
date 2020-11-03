@@ -1,7 +1,7 @@
 ---
 title: Microsoft Defender 高级威胁防护
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 适用于 Windows 10 的 FastTrack 中心权益提供了对 Microsoft Defender 高级威胁防护 (ATP) 的访问权限，这是一项新服务，旨在帮助企业网络防止、检测、调查和响应高级威胁。
-ms.openlocfilehash: b3a5a64204d779f492eb23ac9d9b76aa2708acd3
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6e587758babcb1e99f4f3623aafa5d2bc54f6924
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338518"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827276"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender 高级威胁防护
 

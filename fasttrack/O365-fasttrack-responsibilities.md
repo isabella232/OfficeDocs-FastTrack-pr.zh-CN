@@ -1,7 +1,7 @@
 ---
 title: FastTrack 责任
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 9300f7e15d77de5a87218482ea811085c989ef12
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338206"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827162"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 责任
 
@@ -104,7 +104,7 @@ FastTrack 专家在载入期间将承担以下责任。\*
 - 创建或更新 DNS 记录。 
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。 
 - 配置 Exchange Online Protection、数据丢失防护 (DLP) 和 Office 365 邮件加密 (OME) 功能及 Office 365 高级威胁防护 (ATP)（如果在你的订阅中可用）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。
-- 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
+- 在一个本地 Exchange 组织和 Office 365 之间 *或* 在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
 - 配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。
 - 为 Office 365 ATP 配置自动化、调查和响应（如果订阅中可用）。
     

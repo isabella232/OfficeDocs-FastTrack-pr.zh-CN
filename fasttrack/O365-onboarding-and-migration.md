@@ -1,7 +1,7 @@
 ---
 title: 载入和迁移阶段
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及可选数据迁移阶段。
-ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 2358700e6e7bb052869c41b1f5b7fdc15e86207b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338254"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827006"
 ---
 # <a name="onboarding-and-migration-phases"></a>载入和迁移阶段
 
@@ -37,19 +37,19 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 可以通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)或 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获得帮助。 
 
-若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”**** 向导。 
+若要通过 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)获取帮助，管理员需登录到管理中心，然后单击“需要帮助吗?”向导。 
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
-3.    完成**请求Microsoft 365 的协助** 表单。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
+3.    完成 **请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
 3.    通过输入客户名称、域名或TPID搜索客户。
 4.    在搜索结果中选择客户。
-5.    完成**请求Microsoft 365 的协助** 表单。
+5.    完成 **请求Microsoft 365 的协助** 表单。
 
 也可以从为租户提供的服务列表中的 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)寻求 FastTrack 中心帮助。 
     

@@ -1,21 +1,21 @@
 ---
 title: Office 365 美国政府版的 FastTrack 责任
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319968"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827174"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 美国政府版的 FastTrack 责任
 
@@ -80,7 +80,7 @@ FastTrack 专家在载入期间将承担以下责任。
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
       - 如果需要，配置 Azure Active Directory 直通身份验证 (在 GCC High 或 DoD 计划) 中不可用。
-      - 配置 Azure Active Directory 无缝单一登录 (SSO) （如果需要） (在 GCC High 或 DoD 计划) 中不可用。
+      - 配置 Azure Active Directory 无缝单 Sign-On (SSO) （如果需要） (在 GCC High 或 DoD 计划) 中不可用。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -99,7 +99,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 创建或更新 DNS 记录。    
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
-- 在一个本地 Exchange 组织和 Office 365 之间*或*在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
+- 在一个本地 Exchange 组织和 Office 365 之间 *或* 在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
 - 在 Exchange Online (UM 中设置统一消息 (UM) 在 GCC DoD 计划) 中不可用。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](data-migration.md).。

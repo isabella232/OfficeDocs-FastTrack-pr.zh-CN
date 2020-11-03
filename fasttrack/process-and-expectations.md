@@ -1,21 +1,21 @@
 ---
 title: 流程和期望
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319932"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827643"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 
@@ -27,22 +27,22 @@ ms.locfileid: "48319932"
   
 可通过以下两个位置向 FastTrack 专家请求帮助：
 
-  - 通过 Microsoft 管理中心 – 租户管理员登录 Microsoft 管理中心，然后单击“**需要帮助？**”小组件，该小组件之后会指导他们完成请求流程。
+  - 通过 Microsoft 管理中心 – 租户管理员登录 Microsoft 管理中心，然后单击“ **需要帮助？** ”小组件，该小组件之后会指导他们完成请求流程。
   - 通过 FastTrack 网站 – 你或合作伙伴通过 FastTrack 网站为贵公司请求帮助。
 
 若要直接通过 FastTrack 网站请求帮助：
 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
-3.  完成**请求Microsoft 365 的协助** 表单。
+2.  在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
+3.  完成 **请求Microsoft 365 的协助** 表单。
 
 若要让合作伙伴代表你通过 FastTrack 网站请求帮助，请让合作伙伴进行以下操作：
 
 1.  登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。
-2.  在登录页面顶部的**快速操作**中选择**请求Microsoft 365 的协助**。
+2.  在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
 3.  通过输入客户名称、域名或TPID搜索客户。
 4.  在搜索结果中选择客户。
-5.  完成“**请求有关 Microsoft 365 的帮助**”表单。
+5.  完成“ **请求有关 Microsoft 365 的帮助** ”表单。
 
 若要请求应用程序保证的帮助，请完成 [应用确保服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
@@ -55,7 +55,7 @@ FastTrack 提供有关移动到和使用 Microsoft 365 的全套指导。 你将
 可以通过技术会谈、研讨会和检查点会议与 FastTrack 专家进行远程合作，包括：
 
   - **技术会谈和研讨会：** 这些会议提供主题深入探讨和最佳做法，以加快 Microsoft 365 服务的部署。 它们通常会提供对可用文档、软件工具和管理控制台的概述。 标准持续时间：60 分钟。
-  - **检查点会议：** 每周或每两周一次的碰头会议，确保部署进展顺利。 标准持续时间：30 分钟。
+  - **检查点会议：** 每周或每两周的 touchpoints，以确保您的部署进展。 标准持续时间：30 分钟。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>预期成果和关键里程碑 
 

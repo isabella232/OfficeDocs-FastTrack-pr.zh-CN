@@ -1,7 +1,7 @@
 ---
 title: 数据迁移
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家提供有关将数据迁移到 Office 365 的步骤指导。并向所有使用 Exchange Online、OneDrive for Business 和 SharePoint Online 的 Office 365 服务的符合条件的客户提供该指导。
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338590"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827306"
 ---
 # <a name="data-migration"></a>数据迁移
 > [!CAUTION]
@@ -46,7 +46,7 @@ ms.locfileid: "47338590"
 
 |**活动**|**对源环境的预期**|
 |:-----|:-----|
-|**Exchange Online 迁移**  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。 <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
+|**Exchange Online 迁移**  <br/> | Microsoft 会迁移下列源环境的任何组合，每次迁移一个组合。我们可以使用 FastTrack 中心迁移已载入的邮件系统，或者在该邮件系统通过了 FastTrack 中心检查时对其进行迁移。这包括：<br/>  如果每个组织中均实施了基于 Exchange 2010 的混合前向，并且 Exchange 邮件系统是 2003 前向，则单个或多个 Active Directory 林将具有单个或多个 Exchange 组织。  <br/>  一个支持 IMAP 的电子邮件环境。  <br/>  G 套件环境（仅限 Gmail、联系人和日历）。 <br/> <br/> **注意***：在迁移之前，必须完成 Exchange Online 载入。* <br/> <br/> **注意***：FastTrack 仅迁移到活动 Office 365 邮箱。* <br/> <br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅 [混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。* <br/><br/> **注意***：在迁移多个源邮件环境（如多个 Exchange 组织或多个 Domino 域）时，这些迁移会依序执行。*| 
 |**SharePoint Online 迁移**  <br/> | 文件共享（支持 SMB 2.0 前向的设备上的服务器消息块 (SMB) 文件共享）。 <br/> 单个 G 套件环境（仅限 Google 云端硬盘）。<br/>  Box（Starter、Business、Enterprise）。  <br/> 用于 Teams的 Dropbox（标准版和高级版）<br/> |
 |**OneDrive for Business 迁移**  <br/> | 文件共享（SMB 文件在支持 SMB 2.0 前向的设备上共享）。  <br/>  单个 G 套件环境（仅限 Google 云端硬盘）。  <br/>  Box（Starter、Business、Enterprise）。 <br/> 用于 Teams的 Dropbox（标准版和高级版）<br/><br/> **注意***：FastTrack 仅迁移到活动 Office 365 驱动器。*|
    
@@ -88,12 +88,12 @@ Microsoft 可能需要你的邮件系统的相应访问权限及其他权限才�
 |**源环境**|**迁移类型**|**将从源邮箱迁移的内容**|**不会迁移的内容**|
 |**Exchange 2003 及更高版本**|直接转换| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/>  超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/>  非活动邮箱 |
 |**Exchange 2003 和 Exchange 2007**|暂存| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 个人联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 签名 <br/> 邮箱转储程序 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
-|**Exchange 2010、Exchange 2013、Exchange 2016和 Exchange 2019** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅[混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
-|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意**：*G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/>          |直接转换或暂存| 电子邮件 <br/> 邮箱联系人\*  <br/> 日历 <br/> 标签 <br/> \*每个联系人最多可迁移 3 个电子邮件地址| Rules <br/> 代理 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google Hangouts\*\* <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/>\*\*迁移另存为标签的环聊对话 |
+|**Exchange 2010、Exchange 2013、Exchange 2016和 Exchange 2019** <br/><br/> **注意***：有关本地 Exchange 依赖项的信息，请参阅 [混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。*           |使用混合部署进行的迁移| 电子邮件 <br/> 邮箱规则 <br/> 代理 <br/> 邮箱联系人 <br/> 日历 <br/> 任务 <br/> 签名 <br/> 与用户的邮箱一起迁移的个人存档 <br/> 可恢复的项目 <br/> 权限管理的电子邮件 <br/> 加密电子邮件| 公用文件夹 <br/> 超出邮件大小限制的所有电子邮件 <br/> 日记存档或任何第三方存档解决方案 <br/> 被阻止的用户或非活动用户 <br/> 来自个人存储表 (PST) 文件的存档数据 <br/> 已损坏的项目 <br/> 非活动邮箱 |
+|**G 套件环境（仅限 Gmail、联系人和日历）** <br/> <br/> **注意** ： *G 套件环境必须启用 Google API 和 Google 管理 SDK，才能扩展功能。* <br/>          |直接转换或暂存| 电子邮件 <br/> 邮箱联系人\*  <br/> 日历 <br/> 标签 <br/> \*每个联系人最多可迁移 3 个电子邮件地址| Rules <br/> 代理 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件或附件 <br/> 被阻止的用户或非活动用户 <br/> 来自 PST 文件或任何第三方存档解决方案（例如 Google Vault）的存档数据 <br/> 权限管理或加密电子邮件 <br/> 已损坏的项目 <br/> Google Hangouts\*\* <br/> Google 组 <br/> 资源邮箱 <br/> 非活动邮箱 <br/> 假期设置和自动答复设置 <br/> 共享日历、云附件、Google Hangout 链接和事件颜色 <br/>\*\*迁移另存为标签的环聊对话 |
 |**IMAP4 源 (如 Domino, GroupWise, and Zimbra)** |使用本机 IMAP4 工具进行迁移| 电子邮件 | 规则 <br/> 代理 <br/> 通讯组列表 <br/> 外部联系人 <br/> 启用邮件的用户 <br/> 被阻止的用户或非活动用户 <br/> 邮箱联系人 <br/> 日历 <br/> 签名 <br/> 任务 <br/> 超出邮件大小限制的所有电子邮件 <br/> 存档数据 <br/> 加密电子邮件 <br/> 已损坏的项目 <br/> 非活动邮箱 |
    
 > [!NOTE]
-> 如果通讯组列表（MailEnabledGroup 对象）和外部联系人（MailEnabledContact 对象）位于本地 Active Directory 中，可以使用 Azure AD Connect 将它们同步。不过，它们并不属于邮箱数据迁移。有关详细信息，请参阅**核心**中的 [标识集成](O365-onboarding-and-migration.md#core) 示例。 
+> 如果通讯组列表（MailEnabledGroup 对象）和外部联系人（MailEnabledContact 对象）位于本地 Active Directory 中，可以使用 Azure AD Connect 将它们同步。不过，它们并不属于邮箱数据迁移。有关详细信息，请参阅 **核心** 中的 [标识集成](O365-onboarding-and-migration.md#core) 示例。 
   
 FastTrack 专家在迁移过程中执行以下操作：
 - 提供用于计划邮箱迁移的标准模板。

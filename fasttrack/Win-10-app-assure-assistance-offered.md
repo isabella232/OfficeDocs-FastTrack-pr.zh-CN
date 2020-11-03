@@ -1,7 +1,7 @@
 ---
 title: 提供的协助
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在你购买任何 Windows 10 或 Microsoft 365 服务时，对于符合条件的订阅，FastTrack 专家将免费提供咨询和修正指南来支持客户部署到 Windows 10 和 Microsoft 365 应用版并保持最新状态。
-ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
-ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
+ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48206249"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827414"
 ---
 # <a name="assistance-offered"></a>提供的协助  
 
@@ -23,7 +23,7 @@ ms.locfileid: "48206249"
 
 若要获取帮助，请填写[应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
-合作伙伴也可代表客户通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 若要执行此操作，合作伙伴需登录网站，选择客户记录，单击“**服务**”，并填写“**应用保证帮助请求**”表单。
+合作伙伴也可代表客户通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。 若要执行此操作，合作伙伴需登录网站，选择客户记录，单击“ **服务** ”，并填写“ **应用保证帮助请求** ”表单。
 
 > [!NOTE]
 > 协助提供以下语言版本：繁体中文和简体中文（仅限国语资源）、英语、法语、德语、意大利语、日语、韩语、葡萄牙语（巴西）和西班牙语。 

@@ -1,21 +1,21 @@
 ---
 title: 产品和功能
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主题包括 FastTrack 支持的工作负载方案的详细信息，以及我们可以开始之前所需的源环境预期。 根据您的当前设置，我们与您合作，创建一个补救计划，使源环境最大限度地满足成功的加入。
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320028"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827102"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
@@ -34,7 +34,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
   - [新版 Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> 有关 Office 365 美国政府版的源环境预期的信息，请参阅 [适用于 office 365 美国政府的源环境期望值](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。
+> 若要了解 Office 365 US Government 的源环境预期，请参阅 [Office 365 US Government 的源环境预期](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)。
  
 ## <a name="general"></a>常规
 
@@ -78,7 +78,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
 <li>  多个 Active Directory 帐户林和资源林（Exchange 和/或 Lync 2010、Lync 2013 或 Skype for Business）拓扑。  </li>
 <li>  多个 Active Directory 帐户林，其中的一个林是一个含有 Exchange 和/或 Lync 2010、Lync 2013 或 Skype for Business 的集中式 Active Directory 帐户林。  </li>
 <li>  多个 Active Directory 帐户林，每一个都有自己的 Exchange 组织。  </li>
-<li>  必要时，租户配置和与 Azure Active Directory 集成所需的任务。   </li>
+<li>  必要时，租户配置和与 Azure Active Directory 集成所需的任务。   </li>
 </ul>
   <strong>重要</strong>  <ul>
 <li>  对于多林 Active Directory 方案，如果已部署 Lync 2010、Lync 2013 或 Skype for Business，则必须将其部署在与 Exchange 相同的 Active Directory 林中。  </li>
@@ -101,7 +101,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
   此外，如果您有一个宏或外接程序在以前版本的 Office 中运行，并且您遇到兼容性问题，我们通过应用程序确保计划来提供通过无需额外成本来修正兼容性问题的指导。 有关详细信息，请参阅 <strong>应用程序确保</strong> <a href="#windows-10">Windows 10</a> 的一部分。 </li>
 </ul></td>
 <td><ul>
-<li>  联机客户端软件必须至少是在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。  </li>
+<li>  联机客户端软件必须至少是在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
 <li>  配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。  </li>
 </ul>
   <strong>数据迁移</strong>  <br>
-有关使用 FastTrack 的数据迁移到 Office 365 的好处的信息，请参阅 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">数据迁移</a>。   
+有关使用 FastTrack 的数据迁移到 Office 365 的好处的信息，请参阅 <a href="https://docs.microsoft.com/fasttrack/data-migration">数据迁移</a>。   
 <td>  源环境必须具有以下最低级别之一：
 <ul>
 <li>  具有 Exchange Server 2003 前向的单个或多个 Exchange 组织。  </li>
@@ -157,7 +157,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
 <li>  单个 G 套件环境（仅限 Gmail、联系人和日历）。  </li>
 <li>  有关多地理位置功能的信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online 中的多地理位置功能</a>。  </li>
 </ul>
-Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outlook for iOS 和 Outlook for iOS、OneDrive for business 同步客户端、Power BI Desktop 和 Skype for Business）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office 的系统要求</a>中定义的最低级别。  </td>
+Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outlook for iOS 和 Outlook for iOS、OneDrive for business 同步客户端、Power BI Desktop 和 Skype for Business）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office 的系统要求</a>中定义的最低级别。  </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft 信息管控</strong></td>
@@ -186,6 +186,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  通过内容浏览器和活动浏览器了解你的数据。  </li>
 <li>  使用策略来发布标签（手动和自动）。  </li>
 <li>  创建针对 Microsoft Teams 聊天和频道的数据丢失防护 (DLP) 策略。  </li>
+<li>  为由 Microsoft 终结点管理器管理的设备创建 DLP 策略。  </li>
 </ul></td>
 <td>除了 <strong>核心载入</strong> 部分 <a href="#general">之外，没有</a>最低的系统要求。</td>
 </tr>
@@ -211,7 +212,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <ul>
 <li>  Microsoft 团队聊天室设备：  </li>
 <ul>
-<li>  创建在 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">团队设备目录</a>中列出的受支持电话和会议室设备所需的联机帐户。  </li>
+<li>  创建 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 设备目录</a>中所列支持的电话和会议室设备所需的在线帐户。  </li>
 <li>  针对已认证的 Microsoft 团队聊天室设备的服务端配置的远程协助。  </li>
 <li>  启用音频会议：  </li>
 <li>  会议桥默认设置的组织设置。  </li>
@@ -249,9 +250,9 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  Exchange 邮箱在 Exchange 混合配置) 中 (联机和本地提供。  </li>
 <li>  针对 Office 365 组启用。  </li>
 </ul>
-  <strong>注意：</strong>  如果没有为用户分配和启用 SharePoint Online 许可证，则在 Office 365 中不会有 OneDrive for business 存储。 文件共享在频道中继续工作，但用户无法在 Office 365 中共享无 OneDrive for business 存储的聊天文件。 团队不支持本地 SharePoint。  <br>
-  <strong>注意：</strong>  理想的状态是让所有用户将其邮箱驻留在 Exchange Online 上。 邮箱驻留在本地的用户必须将其标识同步到通过 Azure AD Connect 的 Office 365 目录。 对于这些 Exchange 混合客户，如果用户的邮箱在本地，则用户无法添加或配置连接器。  
-  可以从下载 Microsoft 团队窗口和 Mac 桌面客户端的安装程序  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> 。  </td>
+  <strong>注意：</strong> 如果没有为用户分配和启用 SharePoint Online 许可证，则在 Office 365 中不会有 OneDrive for business 存储。 文件共享在频道中继续工作，但用户无法在 Office 365 中共享无 OneDrive for business 存储的聊天文件。 团队不支持本地 SharePoint。  <br>
+  <strong>注意：</strong> 理想的状态是让所有用户将其邮箱驻留在 Exchange Online 上。 邮箱驻留在本地的用户必须将其标识同步到通过 Azure AD Connect 的 Office 365 目录。 对于这些 Exchange 混合客户，如果用户的邮箱在本地，则用户无法添加或配置连接器。  
+  可以从 <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> 下载 Microsoft Teams Windows 和 Mac 桌面客户端的安装程序。  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 高级威胁防护 (ATP)</strong></td>
@@ -284,7 +285,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  分配 Power BI 许可证。  </li>
 <li>  部署 Power BI Desktop 应用。  </li>
 </ul></td>
-<td>Online 客户端软件（如 Power BI Desktop）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
+<td>Online 客户端软件（如 Power BI Desktop）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -295,7 +296,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  设置企业资源池 (ERP)。  </li>
 <li>  创建你的首个项目。  </li>
 </ul></td>
-<td>Online 客户端软件（如 Project for Office 365）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
+<td>Online 客户端软件（如 Project for Office 365）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional 和 Premium</strong></td>
@@ -308,7 +309,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  为 Project Online 桌面客户端 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。  </li>
 <li>  将 Project Online 桌面客户端 连接到 Project Online Professional 或 Project Online 高级版。  </li>
 </ul></td>
-<td>Online 客户端软件（如 Project for Office 365）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
+<td>Online 客户端软件（如 Project for Office 365）的最低级别必须为 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online 和 OneDrive for Business</strong></td>
@@ -334,7 +335,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  部署 OneDrive for Business 客户端同步。  </li>
 </ul>
   <strong>数据迁移</strong>  <br>
-有关使用 FastTrack 的数据迁移到 Office 365 的好处的信息，请参阅 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">数据迁移</a>。
+有关使用 FastTrack 的数据迁移到 Office 365 的好处的信息，请参阅 <a href="https://docs.microsoft.com/fasttrack/data-migration">数据迁移</a>。
 </ul></td>
 <td><br><strong>对于 SharePoint 混合：</strong>  
 <ul>
@@ -344,15 +345,15 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <ul>
 <li>  若要启用 SharePoint 混合，您必须具有以下本地 SharePoint Server 环境之一：2013、2016或2019。  </li>
 </ul>
-  <strong>注意：</strong> 将本地 SharePoint 环境升级到 SharePoint Server 不在作用域内。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴</a> 联系以获取帮助。 有关详细信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 混合功能的最小公共更新级别</a><em>。</em>  <br>
-  <strong>注意：</strong> 有关多地理位置功能的信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 中的 OneDrive 和 SharePoint Online 中的多地理位置功能</a><em>。</em>  </td>
+  <strong>注意：</strong> 将本地 SharePoint 环境升级到 SharePoint Server 不在作用域内。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴</a> 联系以获取帮助。 有关详细信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 混合功能的最小公共更新级别</a><em>。</em>  <br>
+  <strong>注意：</strong> 有关多地理位置功能的信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=831056">Office 365 中的 OneDrive 和 SharePoint Online 中的多地理位置功能</a><em>。</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer 企业版</strong></td>
 <td><ul>
 我们提供了有关启用 Yammer Enterprise 服务的远程指南。  
 </ul></td>
-<td>联机客户端软件必须至少是在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
+<td>联机客户端软件必须至少是在 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 和 Office 的系统要求</a>中定义的最低级别。</td>
 </tr>
 </tbody>
 </table>
@@ -402,7 +403,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
   查看 Azure AD 使用条款。  
   </li>
 <li>  
-  使用 Azure AD 特权标识管理管理和 controling 权限的管理员帐户。  
+  使用 Azure AD 特权标识管理管理和控制对特权管理员帐户的访问。  
   </li>
 </ul>
   
@@ -597,7 +598,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 若要升级基础结构，必须满足以下要求：
 <ul>
 <li>  Microsoft 终结点配置管理器。  </li>
-<li>  Configuration Manager 版本必须受 Windows 10 目标版本支持。 有关详细信息，请参阅 configuration manager <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">中的 Windows 10 支持</a>下的 configuration manager 支持表格。  </li>
+<li>  Configuration Manager 版本必须受 Windows 10 目标版本支持。 有关详细信息，请参阅 <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager 中的 Windows 10 支持</a>中的 Configuration Manager 支持表格。  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
   Windows Server 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server 半年频道 (SAC) 版本1803。  
+  Windows Server Semi-Annual 通道 (SAC) 版本1803。  
   </li>
 <li>  
   macOS 版本10.13、10.14 和10.15。  
@@ -786,7 +787,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>Linux 应用场景。</li>
 <li>用户配置文件的转换或迁移。</li>
 </ul>
-联系 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴</a>   以获取有关这些服务的帮助。</td>
+联系 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴</a> 以获取有关这些服务的帮助。</td>
 <td>您应该已经具备以下各项：
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 虚拟桌面许可要求</a>。</li>
