@@ -3,19 +3,19 @@ title: Office 365 美国政府版的载入和迁移阶段
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 板载版 office 365 美国政府有四个主要阶段，即启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: f53831dfaca68a25ffc9233a5aaf0a461d76e90b
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827534"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525421"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 美国政府版的载入和迁移阶段
 
@@ -35,12 +35,12 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 通过 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助： 
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助**。
 3.    完成 **请求Microsoft 365 的协助** 表单。
   
 合作伙伴也可以客户身份通过 [FastTrack 网站](https://go.microsoft.com/fwlink/?linkid=780698)获取帮助。若要执行此操作：
 1.    登录到 [FastTrack 站点](https://go.microsoft.com/fwlink/?linkid=780698)。 
-2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助** 。
+2.    在登录页面顶部的 **快速操作** 中选择 **请求Microsoft 365 的协助**。
 3.    通过输入客户名称、域名或TPID搜索客户。
 4.    在搜索结果中选择客户。
 5.    完成 **请求Microsoft 365 的协助** 表单。

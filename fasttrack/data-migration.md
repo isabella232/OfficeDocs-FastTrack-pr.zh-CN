@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827644"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525328"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -23,8 +23,8 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 
 我们提供的帮助类型取决于你的 Office 365 许可证数量：
 
-  - **对于具有 150-499 个许可证的 Office 365 租户** ：FastTrack 仅提供迁移指南；你负责执行数据迁移。 我们将指导你阅读文档，以帮助你计划和使用免费工具来执行自助服务迁移。
-  - **对于具有 500 个或更多许可证的 Office 365 租户** ：FastTrack 提供迁移指南和数据迁移服务。 我们提供指导，以帮助你计划迁移、配置源环境和 Office 365 租户，并利用我们的数据迁移服务来迁移数据。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。
+  - **对于具有 150-499 个许可证的 Office 365 租户**：FastTrack 仅提供迁移指南；你负责执行数据迁移。 我们将指导你阅读文档，以帮助你计划和使用免费工具来执行自助服务迁移。
+  - **对于具有 500 个或更多许可证的 Office 365 租户**：FastTrack 提供迁移指南和数据迁移服务。 我们提供指导，以帮助你计划迁移、配置源环境和 Office 365 租户，并利用我们的数据迁移服务来迁移数据。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。
 
 > [!NOTE]
 > 如果你在 2017 年 9 月 1 日之前购买或续订了商业计划，则只需 150 个许可证即可获得数据迁移服务的资格。 对于教育计划，只有付费教职员工许可证才有资格获得数据迁移服务。
@@ -54,7 +54,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
   - FastTrack 仅迁移到活动的 Office 365 邮箱。
   - 如果要从本地 Exchange 环境迁移，则必须满足特定要求。 有关详细信息，请参阅[配置混合部署先决条件](https://go.microsoft.com/fwlink/?LinkId=787528)。
   - 每个源环境都必须处于源环境中相应产品的最新服务包 (SP) 和汇总更新 (RU)/累积更新 (CU) 级别。
-  - 位于本地 Active Directory 中的通讯组列表（ *MailEnabledGroup* 对象）和外部联系人（ *MailEnabledContact* 对象）不是邮箱数据迁移的一部分。 但是，你可以使用 Azure Active Directory (Azure AD) Connect 将它们同步。 
+  - 位于本地 Active Directory 中的通讯组列表（*MailEnabledGroup* 对象）和外部联系人（*MailEnabledContact* 对象）不是邮箱数据迁移的一部分。 但是，你可以使用 Azure Active Directory (Azure AD) Connect 将它们同步。 
 
 ## <a name="source-environments"></a>源环境
 
@@ -302,6 +302,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 最后一次修改者 </li>
 </ul></li>
 <li> 属于 Box 帐户的共享内容会被迁移 </li>
+<li> 方框备注 (转换为 Word 文档格式)  </li>
 </ul></td>
 <td><ul>
 <li> 所有权历史记录、旧版本和注释 </li>

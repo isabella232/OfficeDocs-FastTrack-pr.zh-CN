@@ -3,19 +3,19 @@ title: 产品和功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主题包括 FastTrack 支持的工作负载方案的详细信息，以及我们可以开始之前所需的源环境预期。 根据您的当前设置，我们与您合作，创建一个补救计划，使源环境最大限度地满足成功的加入。
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827102"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525457"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
@@ -27,7 +27,7 @@ FastTrack 提供的指导可帮助您首先了解 (所有 Microsoft Online Servi
 
   - [常规](#general)
   - [Office 365](#office-365)
-  - [企业移动性 & 安全性](#enterprise-mobility--security)
+  - [企业移动性 + 安全性](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows 虚拟桌面](#windows-virtual-desktop)
   - [应用保证](#app-assure)
@@ -163,14 +163,23 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <td><strong>Microsoft 信息管控</strong></td>
 <td>  我们为以下内容提供了远程指导：
 <ul>
-<li>  信息管控。  </li>
 <li>  保留标签和策略。  </li>
 <li>  记录管理。  </li>
 <li>  删除策略。  </li>
 <li>  通信合规性。  </li>
 <li>  内部风险管理。  </li>
 <li>  高级电子数据展示。  </li>
-</ul></td>
+</ul>
+
+  <strong>以下项超出范围 </strong>  
+<ul>
+<li> 记录管理文件计划的开发。</li>
+<li> 数据连接器。</li>
+<li> 信息障碍。</li>
+<li> 特权访问管理。</li>
+<li> SharePoint 中的信息体系结构的开发。</li>
+<li> 自定义脚本和编码。</li>
+</td>
 <td>除了 <strong>核心载入</strong> 部分 <a href="#general">之外，没有</a>最低的系统要求。</td>
 </tr>
 <tr class="odd">
@@ -186,8 +195,20 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <li>  通过内容浏览器和活动浏览器了解你的数据。  </li>
 <li>  使用策略来发布标签（手动和自动）。  </li>
 <li>  创建针对 Microsoft Teams 聊天和频道的数据丢失防护 (DLP) 策略。  </li>
-<li>  为由 Microsoft 终结点管理器管理的设备创建 DLP 策略。  </li>
-</ul></td>
+<li>  为 Windows 10 设备创建终结点 DLP 策略。  </li>
+</ul>
+
+<strong>以下项超出范围 </strong>  
+<ul>
+<li>Customer 键。</li>
+<li>适用于敏感信息类型的自定义正则表达式 (RegEx) 开发。</li>
+<li>关键字词典的创建或修改。</li>
+<li>自定义脚本和编码。</li>
+</ul>
+<strong>注意：</strong>有关详细信息，请参阅<a href="#enterprise-mobility--security">Enterprise 可移动性 + Security</a>中的<strong>Azure 信息保护</strong>。
+<ul>
+
+</td>
 <td>除了 <strong>核心载入</strong> 部分 <a href="#general">之外，没有</a>最低的系统要求。</td>
 </tr>
 <tr class="even">
@@ -266,7 +287,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <td>除了 <strong>核心载入</strong> 部分 <a href="#general">之外，没有</a>最低的系统要求。</td>
 </tr>
 <tr class="even">
-<td><strong>iOS 和 Android 版 Outlook</strong></td>
+<td><strong>IOS 和 Android 版 Outlook</strong></td>
 <td>  我们为以下内容提供了远程指导：
 <ul>
 <li>  从 Apple App Store 和 Google Play 下载 Outlook for iOS 和 Outlook for Android。  </li>
@@ -358,7 +379,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>企业移动性 & 安全性
+## <a name="enterprise-mobility--security"></a>企业移动性 + 安全性
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <td>已为 Azure AD Premium 准备好了本地 Active Directory 及其环境，包括修正了阻止与 Azure AD 和 Azure AD 高级功能集成的已识别问题。</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure 信息保护（P2 或 EMS E5）</strong></td>
+<td><strong>Azure 信息保护 </strong></td>
 <td>  我们提供有关如何执行以下操作的指导：
 <ul>
 <li>  激活并配置租户。  </li>
 <li>  创建和设置标签和策略。  </li>
 <li>  向文档应用信息保护。  </li>
 <li>  自动对在 Windows 上运行的 Office 应用（如Word、PowerPoint、Excel 和 Outlook）中的信息进行分类和标记，并使用 Azure 信息保护客户端。  </li>
-<li>  使用带有 Azure 信息保护扫描程序的静态文件。  </li>
+<li>  使用 Azure 信息保护扫描程序发现并标记 rest 上的文件。  </li>
 <li>  使用 Exchange Online 邮件流规则监视传输中的电子邮件。  </li>
 </ul>
 如果您想要使用 Microsoft Azure 权限管理服务 (Azure RMS) 、Office 365 邮件加密 (OME) 和数据丢失防护 (DLP) 来应用保护，则还提供指导。  </td>
-<td>  您应该已经：
+<td>  客户先决条件责任包括：
 <ul>
-<li>  使用 Azure AD。  </li>
-<li>  使用 Windows 或 iOS (其他操作系统不在作用域) 。  
+<li>  要扫描的文件共享位置的列表。  </li>
+<li>  已批准的分类分类。 </li>
+<li> 了解有关密钥管理的任何法规限制或要求。  </li>
+<li>  为您的本地 Active Directory 创建的服务帐户已与 Azure AD 同步。 </li>
+<li>  为分类和保护配置的标签。 </li>
+<li> Azure 信息保护扫描程序的所有先决条件都已准备就绪。 有关详细信息，请参阅 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">安装和部署 Azure 信息保护统一标记扫描程序的先决条件</a>。 </li>
+<li>  确保用户设备运行的是受支持的操作系统，并且安装了必要的必备组件。 有关更多详细信息，请参阅以下内容。</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">管理指南：安装适用于用户的 Azure 信息保护统一标记客户端</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">什么是适用于 iOS 或 Android 的 Azure 信息保护应用程序？</a>  </li>
+</ul>
+<li> 安装和配置 Azure RMS 连接器和服务器（包括 Active Directory RMS (AD RMS) 连接器）以实现混合支持。  </li>
+<li> "设置和配置" 将您自己的密钥 (BYOK) 、双密钥加密 (DKE)  (仅限统一的标记客户端) 或保留自己的密钥 (HYOK)  (经典客户端仅) 经典客户端仅应在您的部署中请求这些选项之一。  </li>
   </ul>
-<strong>注意</strong>：计算机和移动设备必须在支持 Azure 信息保护的 <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">操作系统</a> 上运行。  
-<li>  具有您的主文件共享位置。  </li>
-<strong>注意</strong>：混合支持需要 AD RMS 连接器。 
-<li>  具有已批准的分类分类。  </li>
-<li>  了解对受保护密钥管理的任何法规限制。  </li>
 </ul>
   
-<strong>Azure 信息保护扫描程序</strong>  
-  
-您应该已经：  
-<ul>
-<li>  使用 Windows Server 2012 R2 或 Windows Server 2016。  </li>
-<li>  具有 internet 连接。  </li>
-<li>  在本地或远程实例中安装 Microsoft SQL Server 2012。  </li>
-<li>  拥有为本地 Active Directory 创建的服务帐户，并已与 Azure AD 同步。  </li>
-<li>  已下载 AzInfoProtection.exe。  </li>
-<li>  将标签配置为自动分类/保护。  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
@@ -473,7 +490,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <ul>
 <li>  通过 web 链接或深层链接针对每个受支持的平台的应用程序部署。  </li>
 <li>  条件访问策略。  </li>
-<li>  如果您的组织中有现有的证书颁发机构、无线网络或 VPN 基础结构，则将电子邮件、无线网络和 VPN 的部署) 配置文件。  </li>
+<li>  如果您的组织中有现有的证书颁发机构、无线网络或 VPN 基础结构，则部署电子邮件、无线网络和 VPN 配置文件。  </li>
 <li>  连接到 Intune 数据仓库。  </li>
 <li>  将 Intune 与以下内容进行集成：
 <ul>
@@ -540,11 +557,7 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
  
   IT 管理员负责通过让硬件供应商代表他们上载其硬件 ID 或自己将其上载到 Windows Autopilot 服务中来向其组织注册设备。  
   
-<strong>使用 Intune 安全地部署 Outlook for iOS 和 Android </strong>  
-<ul>
-<li>  在 Azure AD for Office 365 中启用的用户标识。  </li>
-<li>  使用分配了用户许可证的 Exchange Online 或混合 Exchange 配置。  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ Online 客户端软件（如 Project for Office 365、Outlook for Windows、Outl
 <strong>ARM 上的 Windows 10</strong>
 <ul>
 <li>  
-在 Windows 7、Office 2010 或更高版本上运行的应用程序可在 ARM64 设备上的 Windows 10 和 Microsoft 365 应用中运行。 
+在 Windows 7、Office 2010 或更高版本上工作的应用程序也适用于 ARM64 设备上的 Windows 10 和 Microsoft 365 应用。 
   </li>
 </ul>
-  <strong>注意：</strong> ARM 排除和限制中的 Windows 10 包括：
+  <strong>便笺</strong> 
 <ul>
+<li> 适用于参与 <a href="https://insider.windows.com/">Windows 预览体验成员计划</a>的客户的预览版中提供了 x64 (64 位) 仿真。  </li>
 <li>  
- 依赖于 ARM 中不兼容的软件驱动程序的应用程序。  
+ 对于 Windows 10 版本2004上的非 Windows 内幕客户 (或更高版本) ，使用 <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL 和 OpenGL 兼容包</a>支持 ARM64 Photoshop。 
   </li>
 <li>  
-  使用 OpenGL 或 OpenCL 的应用程序。   
-  </li>
-<li>  
-  仅在64位 (x64) 中提供应用程序。  
+  Windows 预览体验成员计划中的客户可以下载 OpenCL 和 OpenGL 兼容包的内幕版，以便与其他应用一起使用。    
   </li>
 </ul>
 <strong>新的 Microsoft Edge</strong>
