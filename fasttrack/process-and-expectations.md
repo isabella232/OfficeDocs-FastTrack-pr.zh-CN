@@ -3,19 +3,19 @@ title: 流程和期望
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
-ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525326"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49749979"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 
@@ -44,7 +44,7 @@ ms.locfileid: "49525326"
 4.  在搜索结果中选择客户。
 5.  完成“**请求有关 Microsoft 365 的帮助**”表单。
 
-若要请求应用程序保证的帮助，请完成 [应用确保服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
+若要请求应用保证的帮助，请完成 [应用保证服务请求](https://go.microsoft.com/fwlink/?linkid=2022721)。
 
 ## <a name="fasttrack-expectations"></a>FastTrack 期望
 
@@ -55,7 +55,7 @@ FastTrack 提供有关移动到和使用 Microsoft 365 的全套指导。 你将
 可以通过技术会谈、研讨会和检查点会议与 FastTrack 专家进行远程合作，包括：
 
   - **技术会谈和研讨会：** 这些会议提供主题深入探讨和最佳做法，以加快 Microsoft 365 服务的部署。 它们通常会提供对可用文档、软件工具和管理控制台的概述。 标准持续时间：60 分钟。
-  - **检查点会议：** 每周或每两周的 touchpoints，以确保您的部署进展。 标准持续时间：30 分钟。
+  - **检查点会议：** 每周或每两周接触一次，以确保部署正在进行。 标准持续时间：30 分钟。
 
 ### <a name="expected-outcomes-and-key-milestones"></a>预期成果和关键里程碑 
 

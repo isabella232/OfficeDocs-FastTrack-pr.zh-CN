@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525328"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750039"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -79,7 +79,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注意：</strong> 有关本地 Exchange 依存关系，请参阅 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署先决条件</span></a>。</td>
+<strong>注意：</strong> 有关本地 Exchange 依赖项，请参阅 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署先决条件</span></a>。</td>
 <td>使用混合部署进行的迁移</td>
 <td><ul>
 <li>电子邮件</li>
@@ -107,7 +107,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <tr class="even">
 <td><strong>G 套件环境（仅限 Gmail、联系人和日历）</strong><br />
 <br />
-<strong>注意：</strong> 您的 G 套件环境必须满足 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">执行 G 套件迁移</a>中所述的先决条件。</td>
+<strong>注意：</strong> G 套件环境必须满足"执行 G 套件迁移 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">"中所述的先决条件</a>。</td>
 <td>直接转换或暂存</td>
 <td><ul>
 <li> 电子邮件 </li>
@@ -242,7 +242,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -281,8 +281,8 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
-<li> 标记为 "受限" 或 "未 copyable" 的文件 </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 标记为受限或不可复制的文件 </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -302,7 +302,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 最后一次修改者 </li>
 </ul></li>
 <li> 属于 Box 帐户的共享内容会被迁移 </li>
-<li> 方框备注 (转换为 Word 文档格式)  </li>
+<li> 转换为 Word (格式的方框)  </li>
 </ul></td>
 <td><ul>
 <li> 所有权历史记录、旧版本和注释 </li>
@@ -318,7 +318,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -356,7 +356,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +436,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -475,7 +475,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -510,7 +510,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -548,7 +548,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前<a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 限制和限制的</span>文件或文件夹</a> </li>
+<li> 超出当前 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint Online 限制和限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 </tbody>

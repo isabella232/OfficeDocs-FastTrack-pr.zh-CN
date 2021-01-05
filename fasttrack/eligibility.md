@@ -3,19 +3,19 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525385"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750015"
 ---
 # <a name="eligibility"></a>资格
 
@@ -35,7 +35,10 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 > [!NOTE]
 > Office 365 专业增强版已重命名为 Microsoft 365 应用版。 你可能会发现在某些情况下仍使用旧名称。 有关此更改何时生效的详细信息，请参阅 [Office 365 专业增强版的名称更改](https://docs.microsoft.com/deployoffice/name-change)。
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender 高级威胁防护 (ATP)
+  - Microsoft Defender for Identity 
   - Microsoft Edge
   - Microsoft 信息管控
   - Microsoft 信息保护
@@ -121,7 +124,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - 电话系统
   - 通话套餐
   - 音频会议
-  - Microsoft 团队聊天室
+  - Microsoft Teams 会议室
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
