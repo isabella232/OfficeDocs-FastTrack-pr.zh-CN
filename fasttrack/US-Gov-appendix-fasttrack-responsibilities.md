@@ -3,21 +3,21 @@ title: FastTrack 对 Office 365 美国政府版的职责
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750075"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016666"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>适用于 Office 365 美国政府版 FastTrack 的责任
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 对 Office 365 美国政府版的职责
 
 FastTrack 专家在载入期间将承担以下责任。  
   
@@ -93,6 +93,13 @@ FastTrack 专家在载入期间将承担以下责任。
 - 测试 SSO 功能（如果已部署）。   
 - 成功推动服务采用和价值。
     
+## <a name="compliance"></a>合规性
+
+针对以下内容提供相关指导：
+- 有关 Microsoft 信息治理 **的** 远程 ([请参阅安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+- 有关 Microsoft 信息保护 **的** 远程 (请参阅 [安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+- 有关 Azure 信息保护 **的远程 (** 请参阅 [安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+
 ## <a name="exchange-online"></a>Exchange Online
 
 针对以下内容提供相关指导： 
@@ -190,7 +197,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府版的组件，但作为 GCC 中 Office 365 许可的每个用户的独立产品/服务，可以不付费获取。 此优惠当前仅限于根据企业协议和企业订阅协议购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
+> Yammer Enterprise 不是 Office 365 美国政府版的组件，但作为 GCC 中许可的 Office 365 的每个用户的独立产品/服务，可以不付费获取。 此优惠目前仅限于根据企业协议和企业订阅协议购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 

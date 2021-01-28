@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 在你购买至少 150 个许可证达到服务或计划的条件时，即可使用适于 Windows 10 的 FastTrack 中心权益。
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827342"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016432"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>适用于 Windows 10 的 FastTrack 中心权益
 
 > [!CAUTION]
 > 此内容已不再是最新的，且已计划删除。 使用左侧导航栏中的目录可查看最新内容。
 
-在你购买至少 150 个许可证达到服务或计划的条件时，即可使用适于 Windows 10 的 FastTrack 中心权益。 然后与 FastTrack 专家协作，评估、修正和部署 Windows 10、全新的 Microsoft Edge 或 Microsoft Defender 高级线程防护，以及协调适用于 Microsoft 365 应用版的 FastTrack 中心权益。 
+在你购买至少 150 个许可证达到服务或计划的条件时，即可使用适于 Windows 10 的 FastTrack 中心权益。 然后，你与 FastTrack 专家合作，评估、修正和部署 Windows 10、Microsoft Edge 或 Microsoft Defender 高级线程保护，并协调适用于 Microsoft 365 应用的 FastTrack 中心权益。 
 
 适用于 Windows 10 的 FastTrack 中心权益也提供了应用保证服务。 可通过此服务联系 FastTrack 专家，他们可在你遇到应用兼容性问题时提供咨询和修正指导。 
 

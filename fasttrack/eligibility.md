@@ -3,19 +3,19 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750015"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016456"
 ---
 # <a name="eligibility"></a>资格
 
@@ -168,7 +168,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 
 #### <a name="azure-information-protection"></a>Azure 信息保护
 
-  - Azure 信息保护计划 2\*\*\*\*\*
+  - Azure 信息保护
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
       
 <br>
 
-\*\*\*\*适用于有资格享受 FastTrack 优惠的云服务。 否则，这将会路由至 FastTrack 专家或合作伙伴引用。  
-      
-\*\*\*\*\*适用于 P2，可随附 E5 购买或以单独套餐的形式购买。 适用于符合 FastTrack 权益的云服务。 对于云服务 P1，FastTrack 将共享自助部署指南。  
-      
+\*\*\*\*适用于有资格享受 FastTrack 优惠的云服务。 否则，这将会路由至 FastTrack 专家或合作伙伴引用。    
 
 ### <a name="windows-10-plans"></a>Windows 10 计划
 

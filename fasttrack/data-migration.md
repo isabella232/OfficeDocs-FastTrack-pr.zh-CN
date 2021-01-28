@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750039"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016468"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -83,7 +83,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <td>使用混合部署进行的迁移</td>
 <td><ul>
 <li>电子邮件</li>
-<li>邮箱规则</li>
+<li>服务器端邮箱规则</li>
 <li>代理</li>
 <li>邮箱联系人 </li>
 <li> 日历 </li>
@@ -102,6 +102,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 来自个人存储表 (PST) 文件的存档数据 </li>
 <li> 已损坏的项目 </li>
 <li> 非活动邮箱 </li>
+<li> 客户端邮箱规则</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -139,7 +140,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <td>使用本机 IMAP4 工具进行迁移</td>
 <td><li>电子邮件 </li></td>
 <td><ul>
-<li> 规则 </li>
+<li> Rules </li>
 <li> 代理 </li>
 <li> 通讯组列表 </li>
 <li> 外部联系人 </li>
