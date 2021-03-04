@@ -3,19 +3,19 @@ title: 流程和期望
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
-ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016504"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416585"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 

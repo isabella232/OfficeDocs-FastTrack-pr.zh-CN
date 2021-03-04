@@ -1,23 +1,23 @@
 ---
-title: FastTrack 对 Office 365 美国政府版的职责
+title: FastTrack 对 Office 365 美国政府版的责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016666"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416527"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 对 Office 365 美国政府版的职责
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 对 Office 365 美国政府版的责任
 
 FastTrack 专家在载入期间将承担以下责任。  
   
@@ -96,9 +96,9 @@ FastTrack 专家在载入期间将承担以下责任。
 ## <a name="compliance"></a>合规性
 
 针对以下内容提供相关指导：
-- 有关 Microsoft 信息治理 **的** 远程 ([请参阅安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
-- 有关 Microsoft 信息保护 **的** 远程 (请参阅 [安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
-- 有关 Azure 信息保护 **的远程 (** 请参阅 [安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+- 有关 **Microsoft 信息治理的** 远程 ([请参阅安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+- 有关 **Microsoft 信息保护的远程 (** 请参阅 [安全与](products-and-capabilities.md#security-and-compliance) 合规) 。
+- 有关 Azure 信息保护 **的远程 (，** 请参阅 [安全与](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -107,7 +107,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间 *或* 在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 使用 Exchange Online (UM) UM (在 GCC DoD 计划中不可用) 。 
+- 使用 Exchange Online (UM) UM (UM 在 GCC DoD 计划中不可用) 。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](data-migration.md).。
   
@@ -154,12 +154,12 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用音频会议：   
   - 会议桥默认设置的组织设置。   
   - 向许可用户分配会议桥。 
-- 启用电话系统 (在 GCC High 或 DoD 计划中) ：  
+- 启用电话系统 (GCC High 或 DoD 计划中不可用) ：  
   - 启用电话系统和通话套餐载入（在可用市场中）。 
   - 向许可用户分配号码。  
   - 通过 UI 进行本地号码端口定位的指南（最多到 999）。  
   - 超过 999 的本地号码端口定位 SR 支持。  
-- 启用 Skype for Business 会议 (在 GCC High 或 DoD 计划中) ：  
+- 启用 Skype for Business 会议直播 (GCC High 或 DoD 计划中不可用) ：  
   - 启用 Skype for Business 会议直播载入指南。  
   - 使用会议直播服务的联合身份验证组织设置。
     
@@ -192,12 +192,12 @@ FastTrack 专家在载入期间将承担以下责任。
 - 将用户添加到 Project Online，包括 ERP 同步。  
 - 通过创建项目，验证基本 Project Online 功能。
     
-## <a name="yammer-enterprise"></a>Yammer 企业版
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府版的组件，但作为 GCC 中许可的 Office 365 的每个用户的独立产品/服务，可以不付费获取。 此优惠目前仅限于根据企业协议和企业订阅协议购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
+> Yammer Enterprise 不是 Office 365 美国政府版的组件，但作为 GCC 中许可使用 Office 365 的每个用户的独立产品/服务，可以不付费获取。 此优惠当前仅限于根据企业协议和企业订阅协议购买 Office 365 GCC 的客户。 Yammer 在 GCC High 或 DoD 计划中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
@@ -207,5 +207,5 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 为 Microsoft 365 应用版设置单个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。   
+- 为 Microsoft 365 应用设置单个现场分发服务器，包括帮助创建 configuration.xml 文件以用于 Office 365 部署工具。   
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
