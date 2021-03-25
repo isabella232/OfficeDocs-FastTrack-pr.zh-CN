@@ -3,19 +3,19 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416421"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187981"
 ---
 # <a name="eligibility"></a>资格
 
@@ -37,14 +37,14 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Microsoft Defender 高级威胁防护 (ATP)
+  - Microsoft Defender for Endpoint
   - Microsoft Defender for Identity 
+  - Microsoft Defender for Office 365
   - Microsoft Edge
   - Microsoft 信息管控
   - Microsoft 信息保护
   - Microsoft Intune
   - Microsoft Teams
-  - Office 365 高级威胁防护 (ATP)
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -117,7 +117,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - Exchange Online 计划 2
   - Exchange Online Kiosk
   - Exchange Online Protection
-  - Office 365 高级威胁防护
+  - Microsoft Defender for Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 
