@@ -3,19 +3,19 @@ title: Office 365 美国政府版源环境预期
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 中心权益可以指导你设置与源环境的集成级别（例如，如果在源环境中你已经拥有想要移动到 Office 365 的服务）。
-ms.openlocfilehash: 41ec539f5a64a320839fe111045c55189c4b9234
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 15d88831679b91b0622d8588d02cc85c556cb109
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188005"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926910"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 美国政府版源环境预期
 
