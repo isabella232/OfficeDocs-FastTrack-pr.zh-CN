@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926994"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996251"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -160,7 +160,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 责任
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack 对 Exchange Online 迁移的责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -363,7 +363,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 责任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>SharePoint Online 迁移的 FastTrack 责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息
 
@@ -555,7 +555,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 责任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>OneDrive for Business 迁移的 FastTrack 责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -756,7 +756,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack 责任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack 负责 Microsoft Teams 和 Microsoft 365 组迁移
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
