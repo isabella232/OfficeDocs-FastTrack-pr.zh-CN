@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927006"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283444"
 ---
 # <a name="eligibility"></a>资格
 
@@ -124,7 +124,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
   - 电话系统
   - 通话套餐
   - 音频会议
-  - Microsoft Teams 会议室
+  - Microsoft Teams会议室
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -202,6 +202,9 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
       
 > [!NOTE]
 > 针对生成 Windows 10 应用的商业独立软件供应商 (ISV)，无最低许可要求。 所有应用请求都必须针对当前处于主流服务窗口内的 Windows 10 或 Microsoft 365 应用版的版本。
+
+> [!NOTE]
+> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 作为例外，FastTrack 正在协助为印度和巴西符合条件的客户提供从 2021 年 5 月到 2021 年 6 月 30 日之间的 Office 365 E1 试用版许可证，以帮助应对当前的 COVID-19 激增。 
 
 ### <a name="ineligible-plans"></a>不符合条件的计划 
  不符合 FastTrack 服务使用条件的计划包括（但不限于）：
