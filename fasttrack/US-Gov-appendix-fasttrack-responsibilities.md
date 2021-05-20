@@ -1,23 +1,23 @@
 ---
-title: FastTrack 对 Office 365 美国政府版的职责
+title: FastTrack 美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: adac2fee65878f2d593d3c249f4b7231cb7eb967
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926935"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570514"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 对 Office 365 美国政府版的职责
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 美国政府Office 365责任
 
 FastTrack 专家在载入期间将承担以下责任。  
   
@@ -79,8 +79,8 @@ FastTrack 专家在载入期间将承担以下责任。
   - 在你的 Active Directory 域服务 (AD DS) 和 Office 365 间安装目录同步服务器（如果需要）。   
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
-      - 配置 Azure Active Directory 传递身份验证（如果需要 (GCC High 或 DoD 计划中不可用) 。
-      - 配置 Azure Active Directory 无缝单Sign-On (SSO) （如果需要 (GCC High 或 DoD 计划中) ）。
+      - 配置Azure Active Directory传递身份验证（如果需要 (高GCC DoD 计划中不可用) 。
+      - 配置Azure Active Directory无缝单Sign-On (SSO) （如果需要 (高GCC DoD 计划中不可用) 。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -107,7 +107,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间 *或* 在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 在 GCC DoD (中) EXCHANGE Online (UM 设置统一消息) 。 
+- 在 DoD (中) 统一消息Exchange Online (UM Exchange Online (在 DoD 计划中GCC不可用) 。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](data-migration.md).。
   
@@ -154,12 +154,12 @@ FastTrack 专家在载入期间将承担以下责任。
 - 启用音频会议：   
   - 会议桥默认设置的组织设置。   
   - 向许可用户分配会议桥。 
-- 启用电话系统 (在 GCC High 或 DoD 计划中) ：  
+- 启用电话系统 (高GCC DoD 计划中不可用) ：  
   - 启用电话系统和通话套餐载入（在可用市场中）。 
   - 向许可用户分配号码。  
   - 通过 UI 进行本地号码端口定位的指南（最多到 999）。  
   - 超过 999 的本地号码端口定位 SR 支持。  
-- 启用 Skype for Business 会议直播 (在 GCC High 或 DoD 计划中) ：  
+- 在Skype for Business高 (DoD 计划中GCC启用会议直播) ：  
   - 启用 Skype for Business 会议直播载入指南。  
   - 使用会议直播服务的联合身份验证组织设置。
     
@@ -197,7 +197,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise 不是 Office 365 美国政府版的组件，但可针对 GCC 中许可使用 Office 365 的每个用户作为独立产品/服务获得任何费用。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer 在 GCC High 或 DoD 计划中不可用。
+> Yammer Enterprise不是美国政府的一Office 365，但对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
@@ -207,5 +207,5 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 为 Microsoft 365 应用版设置单个现场分发服务器，包括帮助创建 configuration.xml 文件以用于 Office 365 部署工具。   
+- 设置单个现场分发服务器Microsoft 365 应用版，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。   
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。

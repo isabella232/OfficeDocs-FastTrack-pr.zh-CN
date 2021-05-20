@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
-ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
+ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52312440"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570478"
 ---
 # <a name="data-migration"></a>数据迁移
 

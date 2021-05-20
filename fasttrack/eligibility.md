@@ -3,19 +3,19 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283444"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570490"
 ---
 # <a name="eligibility"></a>资格
 
