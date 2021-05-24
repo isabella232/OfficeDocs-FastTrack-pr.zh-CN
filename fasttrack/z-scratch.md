@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
-description: 适用于 Microsoft 服务的 FastTrack 指南详细信息。
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: 适用于 fastTrack 的 FastTrack Microsoft 服务。
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996235"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592390"
 ---
 # <a name="security-and-compliance"></a>安全性和合规性
 
@@ -31,11 +31,11 @@ ms.locfileid: "51996235"
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender 是一个统一的攻破前和入侵后企业防御套件，在本机协调跨终结点、标识、电子邮件和应用进行检测、预防、调查和响应，以提供针对复杂攻击的集成保护。 我们提供针对： </p> 
+<td> <p> Microsoft 365Defender 是一个统一的攻破前和入侵后企业防御套件，在本机协调跨终结点、标识、电子邮件和应用进行检测、预防、调查和响应，以提供针对复杂攻击的集成保护。 我们提供针对： </p> 
 <ul>
-<li>  提供 Microsoft 365 安全中心概述。  </li>
+<li>  提供安全中心Microsoft 365概述。  </li>
 <li>  查看跨产品事件，包括通过确保完整的攻击范围、受影响的资产和分组在一起的自动修正操作，重点关注关键方面。  </li>
-<li>  演示 Microsoft 365 Defender 如何协调对资产、用户、设备和邮箱的调查，这些资产、用户、设备和邮箱可能由于自动自我修复而受到威胁。 </li>
+<li>  演示 Microsoft 365 Defender 如何安排对资产、用户、设备和邮箱的调查，这些资产、用户、设备和邮箱可能由于自动自我修复而受到威胁。 </li>
 <li>  解释并提供客户如何主动搜寻跨多个数据集影响您的电子邮件、数据、设备和帐户的入侵尝试和入侵活动的示例。   </li>
 <li> 向客户展示他们如何使用 Microsoft 安全分数全面查看和改进安全状况。</li>
 </ul>
@@ -55,7 +55,7 @@ ms.locfileid: "51996235"
 </tr>
 <tr class="even">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security 是一款云访问安全代理 (CASB) ，可提供丰富的可见性、控制数据传输和复杂分析，以识别和防御所有 Microsoft 和第三方云服务中的网络威胁。 我们提供针对：
+<td>  Microsoft Cloud App Security 是云访问安全代理 (CASB) ，可提供丰富的可见性、控制数据传输和复杂分析，以识别和防御所有 Microsoft 和第三方云服务中的网络威胁。 我们提供针对：
 <ul>
 <li>  配置门户，包括：  </li>
 <ul>
@@ -71,15 +71,15 @@ ms.locfileid: "51996235"
 <li> Zscaler。</li>
 <li> iboss。</li>
 </ul>
-<li> 使用 <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">应用连接器</a> 连接特色应用。</li>
-<li> 在条件访问和云应用安全门户中设置条件访问应用控制，以应用实时会话控件。</li>
-<li> 部署 Cloud App Security 和 Cloud Discovery 仪表板。</li>
+<li> 使用 [应用连接器](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) 连接特色应用。</li>
+<li> 在条件访问和访问门户中设置云应用安全访问应用控件，以应用实时会话控件。</li>
+<li> 部署云应用安全和云发现仪表板。</li>
 <li> 根据组织优先级自定义应用风险评分。</li>
 <li> 创建应用标记和类别。</li>
 <li> 批准和取消批准应用。</li>
 <li> 使用活动和文件日志。</li>
 <li> 管理 OAuth 应用。</li>
-<li> 了解 Microsoft 365 Defender 门户中的事件关联。</li>
+<li> 了解 defender 门户中Microsoft 365相关。</li>
 <li> 为 CASB 的 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> 大用例提供配置帮助 (包括创建或更新多达 6 (6) 策略，) 除外： </li>
 <ul>
 <li> 审核将 Internet 作为服务配置 (IaaS) 环境 (#18) 。</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996235"
 <li> 连接自定义应用。</li>
 <li> 与第三方标识提供程序 (DLP) 提供程序的 ISP (数据丢失) 集成。</li>
 <li> 有关高级搜寻的培训或指导。</li>
-<li> 自动调查和修正，包括 Microsoft Power Automate 手册。</li>
+<li> 自动调查和修正，包括 Microsoft Power Automate手册。</li>
 <li> SIEM 或 API 集成 (安全) 事件管理 (包括 Azure Sentinel) 。</li>
-<li> 部署 Cloud App Security 作为概念证明。</li>
+<li> 部署云应用安全概念证明。</li>
 </ul></td>
 </tr>
 
@@ -112,9 +112,9 @@ ms.locfileid: "51996235"
 <li>  部署技术以确保终结点安全。  </li>
 <li>  配置终结点保护和设备限制配置文件。  </li>
 <li>  评估操作系统版本和设备管理 (包括 Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置) 以及 Windows Defender AV 服务或其他终结点安全软件的状态。  </li>
-<li>  评估 Windows AV 服务或其他终结点安全软件的状态。  </li>
+<li>  评估你的 Windows AV 服务或其他终结点安全软件的状态。  </li>
 <li>  评估限制网络流量的代理和防火墙。  </li>
-<li>  通过说明如何使用板载终结点部署 ATP 代理配置文件来启用 Microsoft Defender ATP 服务。  </li>
+<li>  通过说明如何Microsoft Defender ATP板载终结点部署 ATP 代理配置文件来启用服务。  </li>
 <li>  部署指南、配置帮助和教育：
 <ul>
 <li>  
@@ -149,13 +149,13 @@ ms.locfileid: "51996235"
   Windows Server 2016。  
   </li>
 <li>  
-  Windows Server 2019。  
+  WindowsServer 2019。  
   </li>
 <li>  
-  Windows Server 2019 Core Edition。  
+  WindowsServer 2019 Core Edition。  
   </li>
 <li>  
-  Windows Server Semi-Annual Channel (SAC) 版本 1803。  
+  WindowsServer Semi-Annual Channel (SAC) 版本 1803。  
   </li>
 <li>  
   macOS 版本 10.13、10.14 和 10.15。  
@@ -163,7 +163,7 @@ ms.locfileid: "51996235"
 </ul>
 </li>
 </ul>
-<strong>注意：</strong> 所有 Windows Server 版本都必须由最新版本的 System Center Configuration Manager 2012 (版本 1012 R2、1511 或 1602) 或 Microsoft Endpoint Configuration Manager (版本 2002 或) 管理。 
+<strong>注意：</strong>所有 Windows Server 版本都必须由 System Center Configuration Manager 2012 (版本 1012 R2、1511 或 1602) 或 Microsoft Endpoint Configuration Manager (版本 2002 或) ) 的最新版本管理。 
 
 </li>
 </ul>
@@ -255,14 +255,14 @@ ms.locfileid: "51996235"
 <li>  运行大小工具进行资源容量规划。 </li>
 <li>  运行审核工具来评估域控制器与传感器的兼容性。 </li>
 </ul>
-<li>  部署传感器以直接从域控制器捕获和分析网络流量和 Windows 事件，包括： </li>
+<li>  部署传感器以捕获和分析网络流量，并Windows域控制器捕获和分析网络事件，包括： </li>
 <ul> 
 <li>  下载传感器程序包。 </li>
 <li>  配置传感器。 </li>
 <li>  以静默方式在域控制器上安装传感器。 </li>
 <li>  将传感器部署到多林环境。 </li>
 </ul>
-<li>  不需要将 Defender for Identity 与 Microsoft Cloud App Security (Cloud App Security 许可集成) 。 </li>
+<li>  将 Defender for Identity 与Microsoft Cloud App Security (云应用安全不需要集成许可) 。 </li>
 <li>  提供有关： 的部署指南、配置帮助和教育： </li>
 <ul>
 <li> 调整环境以减少"噪音"。  </li>
@@ -309,11 +309,11 @@ ms.locfileid: "51996235"
 </ul>
 <li> 在下列其中一个上运行的域控制器：</li>
 <ul>
-<li> Windows Server 2008 R2 SP1。</li>
+<li> WindowsServer 2008 R2 SP1。</li>
 <li> Windows Server 2012。</li>
-<li> Windows Server 2012 R2。</li>
+<li> Windows Server 2012R2。</li>
 <li> Windows Server 2016。</li>
-<li> Windows Server 2019 和 KB4487044 (操作系统版本 17763.316) 。</li>
+<li> Windows带 KB4487044 的服务器 2019 (操作系统版本 17763.316) 。</li>
 </ul>
 </ul></td>
 </tr>
@@ -336,7 +336,7 @@ ms.locfileid: "51996235"
 <li> 数据连接器。</li>
 <li> 信息屏障。</li>
 <li> 特权访问管理。</li>
-<li> 在 SharePoint 中开发信息体系结构。</li>
+<li> 开发 SharePoint 中的信息体系结构。</li>
 <li> 自定义脚本和编码。</li>
 </td>
 <td>除常规 <strong>中的核心</strong> 载入 <a href="products-and-capabilities.md#general">部分外</a>，没有最低系统要求。</td>
@@ -354,7 +354,7 @@ ms.locfileid: "51996235"
 <li>  通过内容浏览器和活动浏览器了解你的数据。  </li>
 <li>  使用策略来发布标签（手动和自动）。  </li>
 <li>  创建针对 Microsoft Teams 聊天和频道的数据丢失防护 (DLP) 策略。  </li>
-<li>  为 Windows 10 设备创建终结点 DLP 策略。  </li>
+<li>  为设备创建终结点 DLP Windows 10。  </li>
 </ul>
 
 <strong>以下内容超出范围 </strong>  
@@ -364,7 +364,7 @@ ms.locfileid: "51996235"
 <li>创建或修改关键字词典。</li>
 <li>自定义脚本和编码。</li>
 </ul>
-<strong>注意：</strong>有关详细信息，请参阅<strong>Azure Information Protection</strong> in Enterprise <a href="products-and-capabilities.md#enterprise-mobility--security">Mobility + Security。</a>
+<strong>注意：</strong>有关详细信息，请参阅<strong>Azure Information Protection</strong> in<a href="products-and-capabilities.md#enterprise-mobility--security">企业移动性 + 安全性</a>。
 <ul>
 
 </td>
@@ -388,7 +388,7 @@ ms.locfileid: "51996235"
 <td><strong>发现&响应</strong></td>
 <td>  
 
-<strong>高级电子数据展示</strong>
+<strong>Advanced eDiscovery</strong>
   
 <ul>
 <li>  启用安全链接、安全附件和防钓鱼。  </li>
@@ -465,7 +465,7 @@ ms.locfileid: "51996235"
 
 <strong>以下内容超出范围 </strong> 
 <ul>
-<li> 创建和管理 Power Automate 流。</li>
+<li> 创建和管理Power Automate流。</li>
 <li> 数据连接器 (HR 连接器) 。 </li>
 <li> 使用 RegEx (配置的) 正则表达式。</li>
 <li> 设计、架构师和第三方文档审阅。</li>
