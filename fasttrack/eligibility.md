@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592391"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626693"
 ---
 # <a name="eligibility"></a>资格
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主题包含有关 FastTrack 支持的工作负荷方案的详细信息，以及开始之前所需的源环境预期。 根据您的当前设置，我们将与用户一起制定修正计划，使源环境达到成功载入的最低要求。
-ms.openlocfilehash: 56fe941acf3f5739802ac9065c843dbbc2f2525b
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 9a4546b248a739ee980f1300b9575e780e383c1a
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592445"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626681"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
@@ -50,8 +50,9 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <tbody>
 <tr class="odd">
 <td><strong>核心入门</strong></td>
-<td>  我们提供有关核心载入的远程指导，其中包括服务预配、租户和标识集成。 它还包括为载入服务（如 Exchange Online、SharePoint Online 和 Microsoft Teams）提供基础的步骤，包括有关安全性、网络连接和合规性[的讨论](/office365/enterprise/office-365-network-connectivity-principles)。  
-  在核心载入完成后，便可以开始载入一个或多个符合条件的服务。
+<td>  我们提供有关核心载入的远程指导，其中包括服务预配、租户和标识集成。 它还包括为载入服务（如 Exchange Online、SharePoint Online 和 Microsoft Teams）提供基础的步骤，包括有关安全性、网络连接和合规性<a href="/office365/enterprise/office-365-network-connectivity-principles">的讨论</a>。   
+
+在核心载入完成后，便可以开始载入一个或多个符合条件的服务。
 </li>
 </ul>  
 
@@ -67,7 +68,8 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li>使用密码哈希同步或传递身份验证将身份验证从 AD FS 迁移到 Azure AD。</li>
 <li>将预集成应用 (如 Azure AD 库软件即服务 (SaaS) 应用) 从 AD FS 迁移到 Azure AD，实现单一登录 (SSO) 。</li>
 <li>从 Azure AD 库启用 SaaS 应用与 SSO 的集成。</li>
-<li>为预集成 SaaS 应用启用自动用户预配（如应用集成教程列表 [ (仅限](/azure/active-directory/saas-apps/tutorial-list) Azure AD 库 SaaS 应用和仅) 出站预配）。  </li>
+<li>为预集成 SaaS 应用启用自动用户预配（如应用集成教程列表 <a href="/azure/active-directory/saas-apps/tutorial-list"> (仅限 </a> Azure AD 库 SaaS 应用和仅) 出站预配）。  </li>
+
 </td>
 
 <td>  <strong>网络启用 </strong>  
@@ -108,12 +110,12 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 </tr>
 <tr class="odd">
 <td><strong>网络运行状况</strong></td>
-<td>  我们提供远程指导，以便从你的环境获取和解释关键网络连接数据，说明组织的网站如何与 Microsoft 的网络连接 [原则保持一致](/office365/enterprise/office-365-network-connectivity-principles)。 这突出显示了直接影响迁移速度、用户体验、服务性能和可靠性的网络分数。  
+<td>  我们提供远程指导，以便从你的环境获取和解释关键网络连接数据，说明组织的网站如何与 Microsoft 的网络连接 <a href="/office365/enterprise/office-365-network-connectivity-principles">原则保持一致</a>。 这突出显示了直接影响迁移速度、用户体验、服务性能和可靠性的网络分数。  
   我们还将指导你完成此数据突出显示的任何修正步骤，以帮助你提高网络分数。  </td>
 <td><ul>
 <li>  Microsoft 365管理中心访问权限。  </li>
 <li>  需要最新版本的 Microsoft 365 应用。  </li>
-<li>  根据管理中心（预览版）中的网络性能Microsoft 365[启用 (服务) 。 ](/Office365/Enterprise/office-365-network-mac-perf-overview)  </li>
+<li>  根据管理中心（预览版）中的网络性能Microsoft 365<a href="/Office365/Enterprise/office-365-network-mac-perf-overview">启用 (服务) 。 </a>  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -339,7 +341,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li> Zscaler。</li>
 <li> iboss。</li>
 </ul>
-<li> 使用 [应用连接器](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) 连接特色应用。</li>
+<li> 使用 <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> 应用连接器</a> 连接特色应用。</li>
 <li> 在条件访问和访问门户中设置云应用安全访问应用控件，以应用实时会话控件。</li>
 <li> 部署云应用安全和云发现仪表板。</li>
 <li> 根据组织优先级自定义应用风险评分。</li>
@@ -716,11 +718,11 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li> 了解有关密钥管理的任何法规限制或要求。  </li>
 <li>  为本地 Active Directory 创建的已与 Azure AD 同步的服务帐户。 </li>
 <li>  为分类和保护配置的标签。 </li>
-<li> Azure 信息保护扫描程序的所有先决条件都已到位。 有关详细信息，请参阅安装和部署 Azure 信息保护统一标签扫描 [程序的先决条件](/azure/information-protection/deploy-aip-scanner-prereqs)。 </li>
+<li> Azure 信息保护扫描程序的所有先决条件都已到位。 有关详细信息，请参阅安装和部署 Azure 信息保护统一标签扫描 <a href="/azure/information-protection/deploy-aip-scanner-prereqs">程序的先决条件</a>。 </li>
 <li>  确保用户设备正在运行受支持的操作系统，并且已安装必要的必备组件。 有关详细信息，请参阅以下内容。</li>
 <ul>
-<li> [管理指南：为用户安装 Azure 信息保护统一标记客户端](/azure/information-protection/rms-client/clientv2-admin-guide-install)   </li>
-<li>  [什么是适用于 iOS 或 Android 的 Azure 信息保护应用？](/azure/information-protection/rms-client/mobile-app-faq)  </li>
+<li> <a href="/azure/information-protection/rms-client/clientv2-admin-guide-install">管理指南：为用户安装 Azure 信息保护统一标记客户端</a>   </li>
+<li>  <a href="/azure/information-protection/rms-client/mobile-app-faq">什么是适用于 iOS 或 Android 的 Azure 信息保护应用？</a>  </li>
 </ul>
 <li> 安装和配置 Azure RMS 连接器和服务器，包括 Active Directory RMS (AD RMS) 连接器，实现混合支持。  </li>
 <li> 设置和配置自带密钥 (BYOK) 、双密钥加密 (DKE)  (统一标记客户端仅) 或仅保留你自己的密钥 (HYOK)  (经典客户端) （如果部署需要这些选项之一）。  </li>
@@ -852,7 +854,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li>  配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。  </li>
 </ul>
   <strong>数据迁移</strong>  <br>
-有关使用 FastTrack 权益将数据迁移到 Office 365 的信息，请参阅数据[迁移](data-migration.md)。   
+有关使用 FastTrack 权益将数据迁移到 Office 365 的信息，请参阅数据<a href="/fasttrack/data-migration">迁移</a>。   
 <td>  源环境必须具有以下最低级别之一：
 <ul>
 <li>  具有 Exchange Server 2003 前向的单个或多个 Exchange 组织。  </li>
@@ -864,7 +866,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 </tr>
 
 <td><strong>Microsoft Defender for Office 365</strong></td>
-<td>  有关详细信息，请参阅安全与Office 365中的 Microsoft <strong>Defender</strong> [for Office 365。](products-and-capabilities.md#security-and-compliance)  
+<td>  有关详细信息，请参阅安全与Office 365中的 Microsoft <strong>Defender</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">for Office 365。</a>  
 </td>
 <td></td>
 </tr>
@@ -872,7 +874,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 
 <tr class="even">
 <td><strong>Microsoft 信息管控</strong></td>
-<td>  有关详细信息，请参阅安全与 <strong> 合规中的 Microsoft</strong> [信息治理](products-and-capabilities.md#security-and-compliance)。 
+<td>  有关详细信息，请参阅安全与 <strong> 合规中的 Microsoft</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">信息治理</a>。 
 
 </td>
 <td></td>
@@ -880,7 +882,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tr class="odd">
 <td><strong>Microsoft 信息保护</strong></td>
 <td>  
-有关详细信息，请参阅安全与 <strong>合规 </strong> 中的 Microsoft [信息保护](products-and-capabilities.md#security-and-compliance)。
+有关详细信息，请参阅安全与 <strong>合规 </strong> 中的 Microsoft <a href="/fasttrack/products-and-capabilities#security-and-compliance">信息保护</a>。
 
 </td>
 <td>
@@ -958,7 +960,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <ul>
 <li>  从 Apple App Store 和 Google Play 下载 Outlook for iOS 和 Outlook for Android。  </li>
 <li>  配置帐户和访问 Exchange Online 邮箱。  </li>
-<li>  保护Outlook移动设备 (请参阅在 Exchange Online 中保护[适用于 iOS Outlook Android](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android)) 。  </li>
+<li>  保护Outlook移动设备 (请参阅在 Exchange Online 中保护<a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">适用于 iOS Outlook Android</a>) 。  </li>
 </ul></td>
 <td><ul>
 <li>  在 Azure AD 中为用户启用Office 365。  </li>
@@ -1022,7 +1024,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  部署OneDrive for Business客户端同步。  </li>
 </ul>
   <strong>数据迁移</strong>  <br>
-有关使用 FastTrack 权益将数据迁移到 Office 365 的信息，请参阅数据[迁移](data-migration.md)。
+有关使用 FastTrack 权益将数据迁移到 Office 365 的信息，请参阅数据<a href="/fasttrack/data-migration">迁移</a>。
 </ul></td>
 <td><br><strong>对于SharePoint混合：</strong>  
 <ul>
@@ -1058,19 +1060,19 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) 和 Azure AD 高级版</strong></td>
-<td>  有关详细信息，请参阅安全与Azure Active Directory (中的 azure AD) 和<strong>Azure AD</strong> [高级版。](products-and-capabilities.md#security-and-compliance)</td>
+<td>  有关详细信息，请参阅安全与Azure Active Directory (中的 azure AD) 和<strong>Azure AD</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">高级版。</a></td>
 <td></td>
 </tr>
 <tr class="odd">#安全性和合规性
 <td><strong>Azure 信息保护 </strong></td>
-<td>  有关 Azure 信息保护详细信息，请参阅安全与合规中的 <strong>Microsoft</strong> [信息保护](products-and-capabilities.md#security-and-compliance)。  </td>
+<td>  有关 Azure 信息保护详细信息，请参阅安全与合规中的 <strong>Microsoft</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">信息保护</a>。  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  有关详细信息，<strong>请参阅安全与</strong>Microsoft Intune[中的"安全与合规"。](products-and-capabilities.md#security-and-compliance)
+<td>  有关详细信息，<strong>请参阅安全与</strong>Microsoft Intune<a href="/fasttrack/products-and-capabilities#security-and-compliance">中的"安全与合规"。</a>
   </td>
 <td>  
   
@@ -1129,12 +1131,12 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 若要升级基础结构，必须满足以下要求：
 <ul>
 <li>  Microsoft Endpoint Configuration Manager。  </li>
-<li>  配置管理器版本必须受目标Windows 10支持。 有关详细信息，请参阅 [Configuration Manager 中的 Windows 10 支持](/sccm/core/plan-design/configs/support-for-windows-10)中的 Configuration Manager 支持表格。  </li>
+<li>  配置管理器版本必须受目标Windows 10支持。 有关详细信息，请参阅 <a href="/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager 中的 Windows 10 支持</a>中的 Configuration Manager 支持表格。  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>Microsoft Defender for Endpoint</strong></td>
-<td>  有关详细信息，请参阅安全与合规中的<strong>Microsoft Defender for Endpoint。</strong> [](products-and-capabilities.md#security-and-compliance)</td>
+<td>  有关详细信息，请参阅安全与合规中的<strong>Microsoft Defender for Endpoint。</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance"></a></td>
 <td></td>
 
 </tbody>
@@ -1185,7 +1187,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> ，获得这些服务的帮助。</td>
 <td>你应该已经拥有以下内容：
 <ul>
-<li>[Windows虚拟桌面许可要求](/azure/virtual-desktop/overview#requirements)。</li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows虚拟桌面许可要求</a>。</li>
 <li>Azure 网络：
 <ul>
 <li>使用 VNET (虚拟网络) 和子网。</li>
@@ -1194,7 +1196,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>从本地路由到 Azure。</li>
 <li>允许连接到虚拟桌面Windows防火墙规则。
 </ul>
-有关详细信息，请参阅支持的 [远程桌面客户端](/azure/virtual-desktop/overview#supported-remote-desktop-clients)。
+有关详细信息，请参阅支持的 <a href="//azure/virtual-desktop/overview#supported-remote-desktop-clients">远程桌面客户端</a>。
 </ul>
 <ul><li>Azure AD 常规设置：
 <ul>
@@ -1228,14 +1230,14 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <ul>
 <li>  <strong>Windows 10 (</strong>包括 ARM64 设备) </li>
 <li> <strong>Microsoft 365 应用版</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong>有关部署指南，请参阅[部署Microsoft Edge概述](/DeployEdge/microsoft-edge-channels)。  </li>
-<li>  <strong>Windows虚拟桌面</strong> -有关详细信息，请参阅什么是虚拟[Windows？](/azure/virtual-desktop/overview)和Windows 10 企业版[会话常见问题解答](/azure/virtual-desktop/windows-10-multisession-faq)。  </li>
+<li>  <strong>Microsoft Edge -</strong>有关部署指南，请参阅<a href="/DeployEdge/microsoft-edge-channels">部署Microsoft Edge概述</a>。  </li>
+<li>  <strong>Windows虚拟桌面</strong> -有关详细信息，请参阅什么是虚拟<a href="/azure/virtual-desktop/overview">Windows？</a>和Windows 10 企业版<a href="/azure/virtual-desktop/windows-10-multisession-faq">会话常见问题解答</a>。  </li>
 </ul>
 
 <strong>以下内容超出范围 </strong>  
 <ul>
 <li>  用于确定在 Windows 10 和 Microsoft 365 应用版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问<a href="https://go.microsoft.com/fwlink/?linkid=2080140">桌面部署中心</a>。 如果对深入升级就绪性评估感兴趣，请填写<a href="https://go.microsoft.com/fwlink/?linkid=2053818">新式桌面评估的客户请求</a>表单。</li>
-<li>  研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅[桌面分析](/sccm/desktop-analytics/overview)。</li>
+<li>  研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅<a href="/sccm/desktop-analytics/overview">桌面分析</a>。</li>
 <li>仅限应用打包的服务。 但是，应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。</li>
 </ul>
 
@@ -1278,7 +1280,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
   如果你的 Web 应用或网站在 Internet Explorer 11、受支持的 Google Chrome 版本或任何 Microsoft Edge 版本上工作，它们也将与 Microsoft Edge 一Microsoft Edge。  
   </li>
 <li>  
-  随着 Web 的不断发展，请务必查看此已发布的已知网站兼容性影响更改列表，以[Microsoft Edge。](/microsoft-edge/web-platform/site-impacting-changes)  
+  随着 Web 的不断发展，请务必查看此已发布的已知网站兼容性影响更改列表，以<a href="/microsoft-edge/web-platform/site-impacting-changes">Microsoft Edge。</a>  
   </li>
 </ul>
   <strong>Windows虚拟桌面</strong>  
@@ -1327,7 +1329,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 我们提供远程部署和采用指南以及兼容性协助，用于： <ul> <li>使用 Microsoft Edge 或 Intune Windows 10 Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager部署) 。  </li>
 <li>  使用Microsoft Edge (或 Intune 应用配置以及应用策略配置) 。  </li>
 <li>  清点可能需要在活动模式中使用Internet Explorer列表。  </li>
-<li>  使用Internet Explorer站点列表启用Enterprise模式。  (有关详细信息，请参阅 [吸引 FastTrack](process-and-expectations.md#engaging-fasttrack)) 。 此外，如果你有一个与 Internet Explorer 或 Google Chrome 一起工作的 Web 应用或网站，并且你遇到兼容性问题，我们会提供指导，以便无需额外付费地解决该问题。 若要请求应用保证的兼容性支持，请登录到 <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 门户</a> 以启动服务活动。  </li>
+<li>  使用Internet Explorer站点列表启用Enterprise模式。  (有关详细信息，请参阅<a href="/fasttrack/process-and-expectations#engaging-fasttrack">吸引 FastTrack。</a> 此外，如果你有一个与 Internet Explorer 或 Google Chrome 一起工作的 Web 应用或网站，并且你遇到兼容性问题，我们会提供指导，以便无需额外付费地解决该问题。 若要请求应用保证的兼容性支持，请登录到 <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 门户</a> 以启动服务活动。  </li>
 <li> Microsoft 搜索书签的边缘采用和配置指南的规划指南。</li>
 </ul>
 
