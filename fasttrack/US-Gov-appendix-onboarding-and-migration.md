@@ -3,19 +3,19 @@ title: 美国政府的载入Office 365迁移阶段
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365美国政府Office 365计划有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570562"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994957"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务，请参阅[FastTrack](US-Gov-appendix-fasttrack-responsibilities.md)美国政府版Office 365和你针对[美国政府Office 365的责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 

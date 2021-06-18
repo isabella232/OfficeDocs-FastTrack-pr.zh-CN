@@ -1,23 +1,23 @@
 ---
-title: FastTrack 美国政府Office 365责任
+title: FastTrack美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570514"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994901"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack 美国政府Office 365责任
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack美国政府Office 365责任
 
 FastTrack 专家在载入期间将承担以下责任。  
   
@@ -97,7 +97,7 @@ FastTrack 专家在载入期间将承担以下责任。
 
 针对以下内容提供相关指导：
 - 有关 **Microsoft 信息治理的远程** (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
-- 有关 Microsoft 信息 **保护的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
+- 远程协助 **Microsoft 信息保护 (**[安全与合规](products-and-capabilities.md#security-and-compliance)) 。
 - 有关 Azure 信息 **保护的远程** ([请参阅安全与合规](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
