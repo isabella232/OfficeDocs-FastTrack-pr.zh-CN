@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365美国政府Office 365计划有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994957"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255525"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务，请参阅[FastTrack](US-Gov-appendix-fasttrack-responsibilities.md)美国政府版Office 365和你针对[美国政府Office 365的责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -92,7 +92,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
   
 ## <a name="exchange-online"></a>Exchange Online
 
-对于 Exchange Online，我们会全程指导你，直到你的组织可以使用电子邮件为止。具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
+For Exchange Online， we remotely guide you through the process to get your organization ready to use email. 具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
   
 - 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
@@ -109,7 +109,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 和 OneDrive for Business
 
-对于 SharePoint Online 和 OneDrive for Business，我们提供针对以下方面的指导： 
+对于 SharePoint Online 和 OneDrive for Business，我们提供针对： 
 - 设置 DNS。   
 - 配置防火墙端口。   
 - 设置用户和许可证。   
@@ -127,7 +127,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-对于 Skype for Business Online，我们提供针对以下方面的指导： 
+对于 Skype for Business Online，我们提供针对： 
 - 配置防火墙端口。    
 - 设置 DNS。    
 - 创建任何聊天室系统设备的帐户。    
@@ -142,20 +142,48 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 以下功能在高级或GCC中不可用。
+> FastTrack 根据功能在每个相应环境中的可用性帮助范围。 有关每个环境中当前可用的功能的列表，请参阅 <a href="/office365/servicedescriptions/teams-service-description#feature-availability">功能可用性</a>。
 
-对于 Microsoft Teams，我们提供针对以下方面的指导： 
-- 确认最低要求。   
+对于Microsoft Teams，我们提供针对： 
+- 确认 Azure AD Exchange Online、SharePoint Online、Office 365 组Azure Active Directory (Azure AD) 中的最低Teams。
 - 配置防火墙端口。   
 - 设置 DNS。  
 - 确认是否已在 Office 365 租户上启用 Microsoft Teams。    
 - 启用或禁用用户许可证。
+- 网络评估Teams：
+    - 端口和终结点检查。
+    - 连接质量检查。
+    - 带宽预估。
+    - 为 Teams Web (Teams、Teams 桌面应用和 Teams for iOS 和 Android 应用配置) 。
+ 
+<br> 如果适用，我们提供针对： </br>
+- Microsoft Teams会议室设备：
+    - 创建 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 设备目录</a>中所列支持的电话和会议室设备所需的在线帐户。
+    - 远程协助通过认证的设备进行Microsoft Teams 会议室配置。
+- 启用音频会议：
+    - 会议桥默认设置的组织设置。
+    - 向许可用户分配会议桥。
+- 电话系统：
+    - 组织设置云语音默认设置。
+    - 通话套餐指南 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市场) ：</a>  
+        - 向许可用户分配号码。
+        - 通过用户界面 (UI) 进行本地号码端口定位的指南（最多到 999）。
+        - 超过 999 的本地号码端口定位服务请求 (SR) 支持。
+        - 直接路由指南：
+            - 针对合作伙伴托管方案或客户部署方案的直接路由设计（最多 10 个站点）的组织设置指南。
+            - 会话边界控制器 (SBC) 配置检查。
+            - 拨号计划配置的远程协助。
+            - 语音路由配置。
+            - 媒体旁路和本地媒体优化。
+- 启用 Teams 实时事件。
+- 组织设置和集成到 Microsoft Stream。
+- 转换Skype for Business Teams指南。 
     
-![FastTrack Microsoft Teams 关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft 团队关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-对于 Power BI，我们提供针对以下方面的指导：  
+对于Power BI，我们提供针对：  
 - 分配 Power BI 许可证。    
 - 部署 Power BI Desktop 应用。   
 ## <a name="project-online"></a>Project Online
@@ -168,16 +196,16 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
     
 ![Project Online 的“启用”阶段发生的步骤](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
-## <a name="yammer-enterprise"></a>Yammer Enterprise
+## <a name="yammer-enterprise"></a>Yammer 企业版
 
-对于 Yammer，我们提供有关启用 Yammer Enterprise 服务的指导。
+对于Yammer，我们提供启用 Yammer Enterprise 服务的远程指南。
 
 > [!NOTE]
 > Yammer Enterprise不是美国政府的一Office 365，但对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
-对于 Microsoft 365 应用版，我们提供针对以下方面的指导： 
+对于Microsoft 365 应用版，我们提供针对： 
 - 解决部署问题。    
 - 使用 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/?linkid=2032704)和 Windows PowerShell 分配最终用户许可证。    
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。    
