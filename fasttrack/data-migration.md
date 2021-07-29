@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: 7b9e48d802e0c33f72165f77b23680915c9c61eb
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: f23500293334db525b4146e98498516ffaccff25
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994933"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629505"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -160,7 +160,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack迁移Exchange Online职责
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack 迁移Exchange Online责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -363,7 +363,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack Online SharePoint迁移的责任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack 负责SharePoint Online 迁移
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息
 
@@ -555,7 +555,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack迁移OneDrive for Business责任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack 迁移OneDrive for Business责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -569,7 +569,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>迁移到 Microsoft Teams 组Microsoft 365组
 
-当你选择使用 FastTrack 将文件迁移到 Microsoft Teams Microsoft 365 组时，我们提供迁移指导和数据迁移服务。 我们提供的指南可帮助你规划迁移、配置源环境以及Teams Microsoft 365组，以及利用我们的数据迁移服务来迁移你的文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，您可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams Microsoft 365 组。 Teams频道Microsoft 365组必须先由客户预配，然后才能将数据迁移到这些目标类型。 Teams组Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack迁移期间不会将最终用户或组添加到任何Teams或Microsoft 365组权限。
+当你选择使用 FastTrack 将文件迁移到 Microsoft Teams Microsoft 365 组时，我们将提供迁移指南和数据迁移服务。 我们提供的指南可帮助你规划迁移、配置源环境以及Teams Microsoft 365组，以及利用我们的数据迁移服务来迁移你的文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，您可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams Microsoft 365 组。 Teams频道Microsoft 365组必须先由客户预配，然后才能将数据迁移到这些目标类型。 Teams组Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack 不会在迁移期间将最终用户或组添加到任何Teams或Microsoft 365组"权限。
 
 ### <a name="considerations"></a>注意事项
 
@@ -756,7 +756,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack组迁移Microsoft Teams Microsoft 365组迁移的责任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack 负责Microsoft Teams Microsoft 365组迁移
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -768,4 +768,4 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 - 根据Microsoft Teams事件Microsoft 365设置所有频道和组。
 
 > [!NOTE]
->FastTrack预配频道或Microsoft Teams组Microsoft 365预配。 FastTrack向频道或组添加最终用户Microsoft Teams组Microsoft 365组。 在将数据迁移到目标之前，您必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档
+>FastTrack 不会预先预配Microsoft Teams或Microsoft 365组。 FastTrack 不会将最终用户或组添加到Microsoft Teams组或Microsoft 365组。 在将数据迁移到目标之前，您必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档

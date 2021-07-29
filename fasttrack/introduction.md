@@ -3,7 +3,7 @@ title: 适用于 Microsoft 365 的 FastTrack 中心权益
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 是一项旨在帮助你免费部署 Microsoft 365（包括在合格的订阅中）的权益。 可以将 FastTrack 服务与新的或现有的合格订阅一起使用。
-ms.openlocfilehash: 17a695810002140923cc32b020a22110a0a86298
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: a20fc77d742199c5a7469d1e81387f79a58e649b
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994945"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629793"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 

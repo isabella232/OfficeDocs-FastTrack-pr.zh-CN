@@ -3,19 +3,19 @@ title: 产品和功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主题包含有关 FastTrack 支持的工作负荷方案的详细信息，以及开始之前所需的源环境预期。 根据您的当前设置，我们将与用户一起制定修正计划，使源环境达到成功载入的最低要求。
-ms.openlocfilehash: 43c8edc915d45c1af84155d82d995860cd966950
-ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
+ms.openlocfilehash: 0cef6e5a9296af124d2fa2f3deac964aee825b2d
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255501"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629553"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
@@ -37,7 +37,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 > [!NOTE]
 > 若要了解 Office 365 US Government 的源环境预期，请参阅 [Office 365 US Government 的源环境预期](/us-gov-appendix-source-environment-expectations)。 
  
-## <a name="general"></a>概要
+## <a name="general"></a>一般信息
 
 <table>
 <table style="width: 100%">
@@ -402,7 +402,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 
 
 <tr class="even">
-<td><strong> Microsoft Defender for Endpoint </strong></td>
+<td><strong>Microsoft Defender for Endpoint</strong></td>
 <td>  Microsoft Defender for Endpoint 是旨在帮助企业网络预防、检测、调查和响应高级威胁的平台。  
   我们提供针对：
 <ul>
@@ -411,7 +411,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li>  评估操作系统版本和设备管理 (包括 Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置) 以及 Windows Defender AV 服务或其他终结点安全软件的状态。  </li>
 <li>  评估你的 Windows AV 服务或其他终结点安全软件的状态。  </li>
 <li>  评估限制网络流量的代理和防火墙。  </li>
-<li>  通过说明如何使用载入终结点部署 Defender for Endpoint 代理配置文件，启用 Microsoft Defender for Endpoint 服务。  </li>
+<li>  通过说明如何使用受支持的管理方法之一在代理配置文件中部署 Defender for Endpoint 终结点检测和响应 (EDR) 启用 Microsoft Defender for Endpoint 服务。  </li>
 <li>  部署指南、配置帮助和教育：
 <ul>
 <li>  
@@ -424,7 +424,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
   新一代保护。  
   </li>
 <li>  
-  终结点检测和响应。  
+  EDR。  
   </li>
 <li>  
   自动调查和修复。  
@@ -433,13 +433,14 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
   设备的安全分数。  
   </li>
 <li> Microsoft Defender SmartScreen配置Microsoft Endpoint Manager。</li>
+<li> 设备发现。</li>
 
 </ul></li>
 <li>  查看模拟和教程 (如实践方案、虚假恶意软件和自动调查) 。  </li>
 <li>  报告和威胁分析功能的概述。  </li>
 <li>  将 Microsoft Defender for Office 365与 Microsoft Defender for Endpoint 集成。  </li>
 <li>  在 Microsoft Defender 安全中心门户中执行演练。  </li>
-<li>  以下操作系统：
+<li>  载入和配置以下操作系统：
 <ul>
 <li>  
   Windows 10。  
@@ -457,7 +458,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
   WindowsServer Semi-Annual Channel (SAC) 版本 1803。  
   </li>
 <li>  
-  macOS 版本 10.13、10.14 和 10.15。  
+  支持的 macOS 版本 (<a href="/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-mac?view=o365-worldwide#system-requirements"> 请参阅系统要求 </a> 了解详细信息) 。  
   </li>
 </ul>
 </li>
@@ -545,6 +546,15 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
 <li> Credential Guard</li>
 </ul>
 <li> BitLocker 的配置或管理。</li>
+<li> 网络设备发现的配置或管理。 </li>
+<li> 以下设备发现功能的配置或管理：</li>
+<ul>
+<li> 未在 FastTrack 作用域中的非托管设备的载入 (Linux) 。</li>
+<li> 与第三方工具集成。</li>
+<li> 设备发现排除项。</li>
+<li> 初步网络协助。 </li>
+<li> 网络问题疑难解答。</li>
+</ul>
 <li>  注册或配置 Microsoft 威胁专家。  </li>
 <li>  查看 SIEM 连接中的 API 或安全信息 (或) 培训。  </li>
 <li>  注册或配置Microsoft 365 Defender。  </li>
@@ -1217,7 +1227,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 </ul>
 
 <tr class="odd">
-<td><strong> Microsoft Defender for Endpoint </strong></td>
+<td><strong>Microsoft Defender for Endpoint</strong></td>
 <td>  有关详细信息，请参阅安全与合规中的<strong>Microsoft Defender for Endpoint。</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance"></a></td>
 <td></td>
 
@@ -1323,25 +1333,26 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tbody>
 <tr class="even">
 <td><strong>应用保证</strong></td>
-<td>  应用保证是一项旨在解决与应用兼容性Windows 10 Microsoft 365 应用版的问题的服务。 当你请求应用保证服务时，我们会与你在符合条件的订阅中一起处理有效的应用问题，无需额外付费。 我们还为在部署虚拟桌面和 Windows时面临兼容性问题的客户提供指导Microsoft Edge并尽一切努力解决兼容性问题。 我们为以下 Microsoft 产品上部署的应用提供修正帮助：
+<td>  应用保证是一项旨在解决应用兼容性Windows Microsoft 365 应用版的服务。 当你请求应用保证服务时，我们会与你在符合条件的订阅中一起处理有效的应用问题，无需额外付费。 我们还为在部署 Windows 365 云电脑、Windows 虚拟桌面和 Microsoft Edge 时面临兼容性问题的客户提供指导Microsoft Edge并尽一切努力解决兼容性问题。 我们为以下 Microsoft 产品上部署的应用提供修正帮助：
 <ul>
-<li>  <strong>Windows 10 (</strong>包括 ARM64 设备) </li>
-<li> <strong>Microsoft 365 应用版</strong>  </li>
+<li>  <strong>Windows 10</strong> <strong>11 Windows 11</strong> (包括 ARM64) 。</li>
+<li> <strong>Microsoft 365 应用版</strong>。  </li>
 <li>  <strong>Microsoft Edge -</strong>有关部署指南，请参阅<a href="/DeployEdge/microsoft-edge-channels">部署Microsoft Edge概述</a>。  </li>
 <li>  <strong>Windows虚拟桌面</strong> -有关详细信息，请参阅什么是虚拟<a href="/azure/virtual-desktop/overview">Windows？</a>和Windows 10 企业版<a href="/azure/virtual-desktop/windows-10-multisession-faq">会话常见问题解答</a>。  </li>
+<li> <strong>Windows 365 云电脑</strong>– 有关详细信息，请参阅引入混合个人计算的新纪元<a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">：Windows 365 云电脑</a>。 </li>
 </ul>
 
 <strong>以下内容超出范围 </strong>  
 <ul>
-<li>  用于确定在 Windows 10 和 Microsoft 365 应用版上是否正常运作的应用清单和测试。 有关此过程的更多指导，请访问<a href="https://go.microsoft.com/fwlink/?linkid=2080140">桌面部署中心</a>。 如果对深入升级就绪性评估感兴趣，请填写<a href="https://go.microsoft.com/fwlink/?linkid=2053818">新式桌面评估的客户请求</a>表单。</li>
-<li>  研究 Windows 10 兼容性和支持语句的第三方 ISV 应用。 有关详细信息，请参阅<a href="/sccm/desktop-analytics/overview">桌面分析</a>。</li>
-<li>仅限应用打包的服务。 但是，应用保证团队会打包我们已为 Windows 10 修正的应用，以确保可以在客户环境中部署。</li>
+<li>  应用清单和测试，以确定哪些功能对应用和Windows Microsoft 365 应用版。 有关此过程的更多指导，请访问<a href="https://go.microsoft.com/fwlink/?linkid=2080140">桌面部署中心</a>。 如果对深入升级就绪性评估感兴趣，请填写<a href="https://go.microsoft.com/fwlink/?linkid=2053818">新式桌面评估的客户请求</a>表单。</li>
+<li>  研究第三方 ISV 应用，Windows兼容性和支持声明。 有关详细信息，请参阅<a href="/sccm/desktop-analytics/overview">桌面分析</a>。</li>
+<li>仅限应用打包的服务。 但是，应用保证团队会打包我们已针对 Windows修正的应用，以确保它们可以在客户环境中部署。</li>
 </ul>
 
 <strong>客户职责包括</strong>  
 <ul>
 <li>  创建应用清单。</li>
-<li>  验证 Windows 10 和 Microsoft 365 应用版上的应用。</li>
+<li>  在 Windows 和 Microsoft 365 应用版 上验证这些Microsoft 365 应用版。</li>
 </ul>
 <strong>注意：</strong>  Microsoft 无法对源代码进行更改。 但是，如果可提供应用的源代码，则应用保证团队可向应用开发人员提供指导。 
 
@@ -1349,16 +1360,21 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
   请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> ，获得这些服务的帮助。  </td>
 
 </td>
-<td><strong>Windows 10 和 Microsoft 365 应用版</strong>
+<td><strong>Windows 和 Microsoft 365 应用版</strong>
 <ul>
 <li>  
-  在 Windows 7、Windows 8.1、Office 2010 和 Office 2013 上运行的应用也可在 Windows 10 和 Microsoft 365 应用版上运行。  
+  使用 Windows 7、Windows 8.1 和 Windows 10 的应用也可在 Windows 10 11 Windows工作。  
   </li>
+<li> 在 Office 2010、Office 2013、Office 2016 和 Office 2019 上运行的应用也Microsoft 365 应用版。</li>
 </ul>
-<strong>Windows 10 ARM</strong>
+<strong>Windows 365 云电脑</strong>
+<ul>
+<li> 使用 Windows 7、Windows 8.1 和 Windows 10 的应用也可在 Windows 365 云电脑上运行。</li>
+</ul>
+<strong>Windows ARM</strong>
 <ul>
 <li>  
-在 WINDOWS 7、Office 2010 或更高版本上运行的应用也可在 ARM64 Windows 10 Microsoft 365 应用版设备上运行。 
+使用 Windows 7、Windows 8.1 和 Windows 10 的应用也可在 ARM64 Windows 10 Windows 11 上运行。 
   </li>
 </ul>
   <strong>注意：</strong> 
@@ -1383,16 +1399,17 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
   <strong>Windows虚拟桌面</strong>  
 <ul>
 <li>  
-  在 Windows Server 远程桌面会话主机 (RDSH) 上运行的虚拟化应用也可作为 Windows 虚拟桌面的一部分在 Windows 10 企业版多会话中运行。  
+  在 Windows 7、Windows 8.1、Windows 10 或 Windows Server (上运行的应用) 虚拟化应用也运行在： </li>
+<ul>
+<li>  
+  Windows 10 企业版和 Windows 11 Enterprise。
   </li>
 <li>  
-  在任何 Windows 7 或 Windows 10 虚拟桌面基础结构 (VDI) 环境中运行的应用也将在 Windows 7 企业版 上运行Windows 10 企业版虚拟桌面Windows一部分。  
-  </li>
-<li>  
-  在 Windows 7 或 Windows 10 客户端设备中运行的应用也可作为 Windows 虚拟桌面的一部分在 Windows 7 企业版和 Windows 10 企业版上运行。  
+  Windows 10 企业版和 Windows 11 Enterprise多会话。
   </li>
 </ul>
-  <strong>注意：Windows 10 企业版</strong>会话兼容性排除和限制包括：
+</ul>
+  <strong>注意：Windows Enterprise</strong>会话兼容性排除和限制包括：
 <ul>
 <li>  
   硬件重定向受到限制。  

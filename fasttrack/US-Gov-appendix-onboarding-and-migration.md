@@ -3,19 +3,19 @@ title: 美国政府的载入Office 365迁移阶段
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365美国政府Office 365计划有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
-ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
+ms.openlocfilehash: 087535f5f36c72bf5f1aa50145c1a908187131f6
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255525"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629529"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
@@ -196,14 +196,14 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
     
 ![Project Online 的“启用”阶段发生的步骤](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
-## <a name="yammer-enterprise"></a>Yammer 企业版
+## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 对于Yammer，我们提供启用 Yammer Enterprise 服务的远程指南。
 
 > [!NOTE]
 > Yammer Enterprise不是美国政府的一Office 365，但对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
   
-## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用
 
 对于Microsoft 365 应用版，我们提供针对： 
 - 解决部署问题。    

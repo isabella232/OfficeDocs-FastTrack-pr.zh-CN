@@ -3,19 +3,19 @@ title: 你对美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: b6ab10d86248252d38e60b038241f7e7ec5d08e0
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: b1a8b6ca52f2329a1012da484247b851d77b683c
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994885"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629457"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
@@ -58,7 +58,7 @@ ms.locfileid: "52994885"
     
 ## <a name="initiate-phase"></a>启动阶段
 
-- 设置用于Microsoft Teams合作关系的协作资源空间，并邀请 FastTrack Center (在 GCC 高或 DoD 计划中) 。   
+- 设置用于载入Microsoft Teams协作空间，并邀请 FastTrack 中心 (在 GCC 高或 DoD 计划中) 。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。    
 - 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 应用版）目标和组织目标。
