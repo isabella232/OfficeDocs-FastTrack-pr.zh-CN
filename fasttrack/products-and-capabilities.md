@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 本主题包含有关 FastTrack 支持的工作负荷方案的详细信息，以及开始之前所需的源环境预期。 根据您的当前设置，我们将与用户一起制定修正计划，使源环境达到成功载入的最低要求。
-ms.openlocfilehash: 0cef6e5a9296af124d2fa2f3deac964aee825b2d
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 8b7c1ea3867cebd2dc9f0ec1b309b3084288013d
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629553"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661847"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
@@ -35,7 +35,7 @@ FastTrack 提供指导，帮助你首先获得所有 (通用的核心功能，Mi
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> 若要了解 Office 365 US Government 的源环境预期，请参阅 [Office 365 US Government 的源环境预期](/us-gov-appendix-source-environment-expectations)。 
+> 若要了解 Office 365 US Government 的源环境预期，请参阅 [Office 365 US Government 的源环境预期](/us-gov-appendix-source-environment-expectations)。  
  
 ## <a name="general"></a>一般信息
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: c264b4136ca7d55a54f9244b3dd1f32d627e3034
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 3ab88165cc36f9b7da37e5e9810922b8c7dc1f27
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629481"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661835"
 ---
 # <a name="eligibility"></a>资格
 
@@ -55,7 +55,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 
 ## <a name="eligible-plans"></a>符合条件的计划
 
-必须至少从以下计划之一购买 150 个许可证，才能使用 FastTrack。 该列表按产品系列分组，以便于你查找贵公司所购买的特定计划：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。
+必须从以下的某个计划中为每个租户购买至少 150 个许可证，才能有资格使用 FastTrack。 该列表按产品系列分组，以便于你查找贵公司所购买的特定计划：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 计划
 
