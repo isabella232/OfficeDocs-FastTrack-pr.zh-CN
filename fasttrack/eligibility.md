@@ -3,19 +3,19 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 3ab88165cc36f9b7da37e5e9810922b8c7dc1f27
-ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
+ms.openlocfilehash: 542d97f90da5440a57630175094f498eb0658815
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661835"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392340"
 ---
 # <a name="eligibility"></a>资格
 
@@ -204,7 +204,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 > 针对生成 Windows 10 应用的商业独立软件供应商 (ISV)，无最低许可要求。 所有应用请求都必须针对当前处于主流服务窗口内的 Windows 10 或 Microsoft 365 应用版的版本。
 
 > [!NOTE]
-> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 作为例外，FastTrack 协助为印度和巴西的合格客户载入 2021 年 5 月到 2021 年 6 月 30 日之间的 Office 365 E1 试用版许可证，以帮助应对当前的 COVID-19 激增。 
+> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 作为例外，FastTrack在 2021 年 8 月 6 日到 9 月 30 日协助为印度尼西亚符合条件的客户载入 Office 365 E1 试用版许可证，以帮助应对当前的 COVID-19 激增。 
 
 ### <a name="ineligible-plans"></a>不符合条件的计划 
  不符合 FastTrack 服务使用条件的计划包括（但不限于）：

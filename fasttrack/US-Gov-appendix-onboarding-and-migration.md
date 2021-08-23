@@ -3,19 +3,19 @@ title: 美国政府的载入Office 365迁移阶段
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365美国政府Office 365计划有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 087535f5f36c72bf5f1aa50145c1a908187131f6
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+description: Office 365美国政府Office 365入门有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
+ms.openlocfilehash: 427b9720a07c036111e1b4e50a4b38eb0a140175
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629529"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392426"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务，请参阅[FastTrack](US-Gov-appendix-fasttrack-responsibilities.md)美国政府版Office 365和你针对[美国政府Office 365的责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -57,7 +57,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
 
 FastTrack 经理会与您和您的采用团队进行一次交互式成功计划通话。这会向您介绍您所购买的符合条件的服务的功能、成功所需要的关键基础、促进服务使用率的方法以及您可用于从服务中获取价值的方案。我们会为您的成功计划提供帮助，并在关键方面提供反馈（根据需要）。
   
-FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用于收集有关环境的数据的工具，并指导你完成估计带宽要求和评估 Internet 浏览器、客户端操作系统、域名系统 (DNS) 、网络、基础结构和标识系统，以确定载入是否要求任何更改。 
+FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用于收集有关环境的数据的工具，并指导你估计带宽要求并评估 Internet 浏览器、客户端操作系统、域名系统 (DNS) 、网络、基础结构和标识系统，以确定载入是否要求任何更改。 
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
@@ -92,7 +92,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online， we remotely guide you through the process to get your organization ready to use email. 具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
+例如Exchange Online，我们会远程指导你完成此过程，让组织准备好使用电子邮件。 具体步骤视你的源环境和电子邮件迁移计划而定，可以包括为以下内容提供指导：
   
 - 为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。   
     > [!NOTE]
@@ -132,8 +132,8 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置 DNS。    
 - 创建任何聊天室系统设备的帐户。    
 - 部署支持的 Skype for Business Online 客户端。   
-- 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 服务器环境与 Skype for Business Online 租户 (（如果适用）之间建立拆分域) 。
-- 在可用市场中Skype 会议通话套餐、电话系统广播、 (和通话套餐 -GCC 高或 DoD 计划中) 。 
+- 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 服务器环境与 Skype for Business Online 租户 (（如果适用）之间建立) 。
+- 在可用市场中Skype 会议通话套餐、电话系统广播、 (通话套餐和通话套餐-GCC高或 doD 计划) 。 
     
 ![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,10 +142,10 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> FastTrack 根据功能在每个相应环境中的可用性帮助范围。 有关每个环境中当前可用的功能的列表，请参阅 <a href="/office365/servicedescriptions/teams-service-description#feature-availability">功能可用性</a>。
+> FastTrack根据各个环境中功能的可用性帮助范围。 有关每个环境中当前可用的功能的列表，请参阅 <a href="/office365/servicedescriptions/teams-service-description#feature-availability">功能可用性</a>。
 
 对于Microsoft Teams，我们提供针对： 
-- 确认 Azure AD Exchange Online、SharePoint Online、Office 365 组Azure Active Directory (Azure AD) 中的最低Teams。
+- 确认 Azure AD Exchange Online、SharePoint Online、Office 365 组Azure Active Directory (Azure AD) 支持Teams。
 - 配置防火墙端口。   
 - 设置 DNS。  
 - 确认是否已在 Office 365 租户上启用 Microsoft Teams。    
@@ -154,18 +154,18 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
     - 端口和终结点检查。
     - 连接质量检查。
     - 带宽预估。
-    - 为 Teams Web (Teams、Teams 桌面应用和 Teams for iOS 和 Android 应用配置) 。
+    - 配置 Teams 应用策略 (Teams Web 应用、Teams 桌面应用和 Teams for iOS 和 Android 应用) 。
  
 <br> 如果适用，我们提供针对： </br>
 - Microsoft Teams会议室设备：
     - 创建 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 设备目录</a>中所列支持的电话和会议室设备所需的在线帐户。
-    - 远程协助通过认证的设备进行Microsoft Teams 会议室配置。
+    - 通过经认证的设备进行服务器端配置的Microsoft Teams 会议室协助。
 - 启用音频会议：
     - 会议桥默认设置的组织设置。
     - 向许可用户分配会议桥。
 - 电话系统：
     - 组织设置云语音默认设置。
-    - 通话套餐指南 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市场) ：</a>  
+    - 通话套餐指南 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市场</a>) ：  
         - 向许可用户分配号码。
         - 通过用户界面 (UI) 进行本地号码端口定位的指南（最多到 999）。
         - 超过 999 的本地号码端口定位服务请求 (SR) 支持。
@@ -201,9 +201,9 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 对于Yammer，我们提供启用 Yammer Enterprise 服务的远程指南。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365，但对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
+> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可使用 Office 365 的每个用户，可GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
   
-## <a name="microsoft-365-apps"></a>Microsoft 365 应用
+## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
 对于Microsoft 365 应用版，我们提供针对： 
 - 解决部署问题。    

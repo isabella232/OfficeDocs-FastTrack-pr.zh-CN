@@ -3,19 +3,19 @@ title: 你对美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: b1a8b6ca52f2329a1012da484247b851d77b683c
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: be41b6a9f0080909d01da1106ab8f1f638381973
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629457"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392378"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
@@ -42,7 +42,7 @@ ms.locfileid: "53629457"
 - 激活移动设备。    
 - 提供网络配置、分析、带宽验证、测试和监视。 
 - 更改防火墙规则以支持特定 URL 和 IP 地址范围，Office 365服务 (（如果需要) ）。
-- 如果需要，向 Microsoft (提供本地反向) 。     
+- 如果需要，向 Microsoft (提供本地反向代理) 。     
 - 更改网络，为 Skype for Business Online 服务提供必要的带宽。   
 - 管理技术变更管理审核流程，并创建支持文档。    
 - 指定和定义适用于用户、工作站和服务器管理的组策略。    
@@ -58,7 +58,7 @@ ms.locfileid: "53629457"
     
 ## <a name="initiate-phase"></a>启动阶段
 
-- 设置用于载入Microsoft Teams协作空间，并邀请 FastTrack 中心 (在 GCC 高或 DoD 计划中) 。   
+- 设置协作Microsoft Teams加入合作关系的空间，并邀请 FastTrack Center 团队成员 (在 GCC 高或 DoD 计划中) 。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。    
 - 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 应用版）目标和组织目标。
