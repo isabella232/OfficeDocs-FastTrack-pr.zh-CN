@@ -10,18 +10,18 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365美国政府Office 365入门有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 427b9720a07c036111e1b4e50a4b38eb0a140175
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 3498d5797825f59b36cf1478424015144c7dc65f
+ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392426"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58468474"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
 Office 365 载入分为四个主要阶段：启动、评估、修正和启用。可以遵循这些阶段以及下图所示的可选数据迁移阶段。
   
-![载入权益的各个阶段](media/O365-Onboarding-Phases.png)
+![载入权益的阶段。](media/O365-Onboarding-Phases.png)
   
 有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[责任](US-Gov-appendix-your-responsibilities.md)。
   
@@ -51,7 +51,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 这包括与您一起了解服务的使用方式、您组织的目标和推动服务使用的计划。
   
-![启动阶段的入门步骤](media/O365-Onboarding-Initiate.png)
+![启动阶段中的载入步骤。](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>评估阶段
 
@@ -61,13 +61,13 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
   
 根据您当前的设置，我们提供了修正计划，此计划可使您的源环境达到成功载入 Office 365 以及成功迁移邮箱和/或数据（如有必要）所需达到的最低要求。我们提供一套建议活动以增加最终用户价值和采用。我们还为修正阶段安排了适当的检查点通话。
   
-![评估阶段的载入步骤](media/O365.png)
+![评估阶段的载入步骤。](media/O365.png)
   
 ## <a name="remediate-phase"></a>修正阶段
 
 您基于您的源环境执行修正任务，以便您满足载入、采用和迁移每个服务所需的要求。
   
-![修正阶段的初始启用步骤](media/O365-Onboarding-Remediate.png)
+![修正阶段中的载入步骤。](media/O365-Onboarding-Remediate.png)
   
 我们还提供一套建议活动，以增加最终用户价值和采用。在启动启用阶段之前，我们共同验证了修正活动的成果，以确保您符合继续下一阶段的条件。 
   
@@ -81,9 +81,9 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
 
 核心载入涉及服务预配以及租户和身份集成。它还包括为载入服务提供基础所要采取的步骤，例如 Exchange Online、SharePoint Online 和 Skype for Business Online。你和你的 FastTrack 经理会继续进行成功计划检查点会议以针对你的目标来评估进展情况，并确定后续需要何种帮助。
   
-![启用阶段 1 的核心载入步骤](media/O365-Onboarding-Enable-Core.png)
+![启用启用期间的核心载入phase_1。](media/O365-Onboarding-Enable-Core.png)
   
-![启用阶段 2 的核心载入步骤](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
+![启用启用期间的核心载入phase_2。](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
 > WAP 代表 Web 应用程序代理。SSL 代表安全套接字层。SDS 代表学校数据同步。有关 SDS 的详细信息，请参阅[欢迎使用 Microsoft 学校数据同步](https://go.microsoft.com/fwlink/?linkid=871480)。 
@@ -105,7 +105,7 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
     > [!NOTE]
     > 有关邮件和数据迁移的详细信息，请参阅[数据迁移](data-migration.md)。 
   
-![启用阶段的 Exchange 初始启用步骤](media/O365-Onboarding-Enable-Exchange.png)
+![Exchange启用阶段执行载入步骤。](media/O365-Onboarding-Enable-Exchange.png)
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 和 OneDrive for Business
 
@@ -117,13 +117,13 @@ FastTrack 专家与你一起评估你的源环境和需求。 我们提供了用
     
 FastTrack 专家综合使用工具和文档，以及在适用和可行的情况下执行配置任务，提供有关将数据迁移到 Office 365 的指导。
   
-![SharePoint and Skype for Business 载入步骤](media/O365-Onboarding-Enable-SP.png)
+![SharePoint和Skype for Business载入步骤。](media/O365-Onboarding-Enable-SP.png)
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
 对于 OneDrive for Business，具体步骤取决于你目前是否在使用 SharePoint 以及所使用的版本。 
   
-![启用阶段的 OneDrive 初始启用步骤](media/O365-Onboarding-Enable-ODB.png)
+![OneDrive启用阶段执行载入步骤。](media/O365-Onboarding-Enable-ODB.png)
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
@@ -135,9 +135,9 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 服务器环境与 Skype for Business Online 租户 (（如果适用）之间建立) 。
 - 在可用市场中Skype 会议通话套餐、电话系统广播、 (通话套餐和通话套餐-GCC高或 doD 计划) 。 
     
-![启用阶段 1 的 Lync 载入步骤](media/O365-Onboarding-Enable-Lync.png)
+![Lync 载入步骤在启用phase_1。](media/O365-Onboarding-Enable-Lync.png)
   
-![启用阶段 2 的 Skype for Business 载入步骤](media/SfBOifappborderupdate.png)
+![Skype for Business启用启用期间执行phase_2。](media/SfBOifappborderupdate.png)
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -179,7 +179,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 组织设置和集成到 Microsoft Stream。
 - 转换Skype for Business Teams指南。 
     
-![FastTrack Microsoft 团队关系图（启用阶段）](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft Teams启用 (启用阶段) 。](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -194,14 +194,14 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置企业资源池 (ERP)。   
 - 创建你的首个项目。 
     
-![Project Online 的“启用”阶段发生的步骤](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
+![在启用阶段发生的步骤Project Online。](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 对于Yammer，我们提供启用 Yammer Enterprise 服务的远程指南。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可使用 Office 365 的每个用户，可GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
+> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的Office 365用户，可GCC独立产品/服务。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
@@ -214,4 +214,4 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 设置单个现场分发服务器Microsoft 365 应用版，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。    
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
     
-![Office ProPlus 初始启用步骤](media/o365-onboarding-enable-m365-apps-2.png)
+![OfficeProPlus 载入步骤。](media/o365-onboarding-enable-m365-apps-2.png)
