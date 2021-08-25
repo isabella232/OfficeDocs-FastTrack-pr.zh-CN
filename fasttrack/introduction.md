@@ -3,7 +3,7 @@ title: 适用于 Microsoft 365 的 FastTrack 中心权益
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack 是一项旨在帮助你免费部署 Microsoft 365（包括在合格的订阅中）的权益。 可以将 FastTrack 服务与新的或现有的合格订阅一起使用。
-ms.openlocfilehash: e62a288411d6d03b189c2f56c0cb9388968a4e34
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 886d88266d4c5ff4d3975259f914c80022f59e4d
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392330"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517460"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 
@@ -29,7 +29,7 @@ FastTrack 是一项旨在帮助你免费部署 Microsoft 365（包括在合格�
 
 如前所述，FastTrack 专家可以与你远程合作。 他们努力了解你购买的合格 Microsoft 产品的计划和用途，并为你提供适合你的环境的推荐方法，以帮助你实现目标。 FastTrack 专家是指包括 Microsoft 员工、Microsoft 核准供应商和 Microsoft 核准合作伙伴在内的人员。
 
-FastTrack 使用以下语言提供帮助：繁体中文、简体中文（仅限讲普通话的资源）、英语、法语、德语、意大利语、日语、韩语、葡萄牙语（巴西）、西班牙语、泰语和越南语提供协助。
+FastTrack 使用以下语言提供帮助：繁体中文、简体中文（仅限讲普通话的资源）、英语、法语、德语、意大利语、日语、韩语、葡萄牙语（巴西）、西班牙语、泰语和越南语提供协助。 
 
 > [!NOTE]
 > 由于 FastTrack 指南是针对你和你的环境量身定制的，因此，如果你选择在本指南范围之外进行部署，则可能会影响你的体验。

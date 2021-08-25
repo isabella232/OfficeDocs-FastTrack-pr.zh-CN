@@ -3,19 +3,19 @@ title: FastTrack美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: d193207dc8f3081faca635f62085d30de9f49104
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: b542a6373b6614172ef87546e6efb2b24210a5b4
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392335"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517496"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack美国政府Office 365责任
 
@@ -80,7 +80,7 @@ FastTrack 专家在载入期间将承担以下责任。
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
       - 配置Azure Active Directory传递身份验证（如果需要 (高GCC DoD 计划中不可用) 。
-      - 配置Azure Active Directory无缝单Sign-On (SSO) （如果需要 (高GCC DoD 计划中) ）。
+      - 配置Azure Active Directory无缝单Sign-On (SSO) （如果需要 (在 GCC 高或 DoD 计划中) ）。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -96,9 +96,9 @@ FastTrack 专家在载入期间将承担以下责任。
 ## <a name="compliance"></a>合规性
 
 针对以下内容提供相关指导：
-- 有关 Microsoft 信息 **治理的远程** (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
-- 远程协助 **Microsoft 信息保护 (**[安全与合规](products-and-capabilities.md#security-and-compliance)) 。
-- 有关 Azure 信息 **保护的** 远程 ([请参阅安全与合规](products-and-capabilities.md#security-and-compliance)) 。
+- 有关 **Microsoft 信息治理的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
+- 远程协助 **Microsoft 信息保护 (** 安全 [与合规](products-and-capabilities.md#security-and-compliance)) 。
+- 有关 Azure 信息 **保护的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -197,7 +197,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可使用 Office 365 的每个用户，可GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。
+> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的Office 365用户，可GCC独立产品/服务。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 

@@ -3,19 +3,19 @@ title: 你对美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: be41b6a9f0080909d01da1106ab8f1f638381973
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 2127589d1c0f10e2836081bc2e28286a8d6eacef
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392378"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517556"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
@@ -42,7 +42,7 @@ ms.locfileid: "58392378"
 - 激活移动设备。    
 - 提供网络配置、分析、带宽验证、测试和监视。 
 - 更改防火墙规则以支持特定 URL 和 IP 地址范围，Office 365服务 (（如果需要) ）。
-- 如果需要，向 Microsoft (提供本地反向代理) 。     
+- 如果需要，向 Microsoft (提供本地反向) 。     
 - 更改网络，为 Skype for Business Online 服务提供必要的带宽。   
 - 管理技术变更管理审核流程，并创建支持文档。    
 - 指定和定义适用于用户、工作站和服务器管理的组策略。    
