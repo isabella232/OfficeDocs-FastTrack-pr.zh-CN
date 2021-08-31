@@ -1,43 +1,37 @@
 ### YamlMime:Hub
-title: Microsoft FastTrack 文档和资源
-summary: 了解 Microsoft FastTrack 如何帮助客户部署 Microsoft 云解决方案。 具有符合条件的 Microsoft 365、Azure 或 Dynamics 365 订阅的客户可以在订阅的生命周期中使用 FastTrack，而无需额外成本。
+title: Microsoft FastTrack文档和资源
+summary: 了解 Microsoft FastTrack如何帮助客户部署 Microsoft 云解决方案。 具有适用于 Microsoft 365 Azure 或 Dynamics 365 的合格订阅的客户FastTrack订阅生命周期内无需额外付费。
 brand: m365
 metadata:
-  title: Microsoft FastTrack 文档和资源
-  description: 了解 Microsoft FastTrack 如何帮助客户部署 Microsoft 云解决方案。 具有符合条件的 Microsoft 365、Azure 或 Dynamics 365 订阅的客户可以在订阅的生命周期中使用 FastTrack，而无需额外成本。
+  title: Microsoft FastTrack文档和资源
+  description: 了解 Microsoft FastTrack如何帮助客户部署 Microsoft 云解决方案。 具有适用于 Microsoft 365 Azure 或 Dynamics 365 的合格订阅的客户FastTrack订阅生命周期内无需额外付费。
   ms.service: microsoft-365-enterprise
   ms.topic: hub-page
   audience: ITPro
   author: samanro
   ms.author: samanro
   ms.date: 07/03/2019
-  localization_priority: Priority
-  ms.openlocfilehash: a44789bd440b93d4778304bde9d35f6b0cd7ec5b
-  ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
-  ms.translationtype: MT
-  ms.contentlocale: zh-CN
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "46776449"
+  ms.localizationpriority: high
 conceptualContent:
   items:
-  - title: FastTrack for Microsoft 365
-    links:
-    - url: /fasttrack/introduction
-      itemType: overview
-      text: '概述 (包括 Office 365、企业移动性 + 安全性和 Windows 10) '
-  - title: 适用于 Azure 的 FastTrack
-    links:
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
-      itemType: overview
-      text: 主要好处
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
-      itemType: concept
-      text: 适用于 Azure 合作伙伴的 FastTrack
-  - title: FastTrack for Dynamics 365
-    links:
-    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
-      itemType: overview
-      text: 客户接洽概述
-    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
-      itemType: concept
-      text: 财务 & 运营的动态
+    - title: FastTrack for Microsoft 365
+      links:
+        - url: /fasttrack/introduction
+          itemType: overview
+          text: '概述 (包括Office 365、企业移动性 + 安全性 和 Windows 10) '
+    - title: FastTrack Azure
+      links:
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03'
+          itemType: overview
+          text: 主要优势
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/partners/'
+          itemType: concept
+          text: FastTrack Azure 合作伙伴
+    - title: FastTrack Dynamics 365
+      links:
+        - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+          itemType: overview
+          text: 客户参与概述
+        - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+          itemType: concept
+          text: Dynamics for Finance & Operations

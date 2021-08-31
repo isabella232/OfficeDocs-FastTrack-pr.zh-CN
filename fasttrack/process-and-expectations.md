@@ -6,15 +6,15 @@ manager: jimmuir
 ms.date: 8/25/2021
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
-ms.openlocfilehash: bede9ca238ec77b86867eaa5c30a63298ef04c78
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: fdad877b5d84d554e0b100e224f97ae89e4d3a99
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517503"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710500"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 

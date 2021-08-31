@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 audience: ITPro
 ms.topic: overview
 ms.service: virtual-desktop
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: FastTrack Windows虚拟桌面部署指南，可帮助你载入此桌面。
-ms.openlocfilehash: bdec1f6438a34b5ec023be5159329617bc5a78f9
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+description: FastTrack提供Windows虚拟桌面部署指南，以帮助你载入此桌面。
+ms.openlocfilehash: f6925cbbb9e18921139d370ef32bb64f4658069e
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592435"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710514"
 ---
 # <a name="windows-virtual-desktop"></a>Windows 虚拟桌面
 
@@ -23,14 +23,14 @@ ms.locfileid: "52592435"
 <thead>
 <tr class="header">
 <th><strong>服务</strong></th>
-<th><strong>FastTrack 指南详细信息</strong></th>
+<th><strong>FastTrack指南详细信息</strong></th>
 <th><strong>对源环境的预期</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Windows 虚拟桌面</td>
-<td><p>FastTrack 提供了 Windows 虚拟桌面部署指南，可帮助你轻松载入此桌面应用虚拟化服务，同时利用 Windows 10 多会话体验，针对 Microsoft 365 应用版 for Enterprise 进行了优化，具有针对 Microsoft 365 的集成安全和管理。</p>
+<td><p>FastTrack 提供了 Windows 虚拟桌面部署指南，可帮助你轻松载入此桌面应用虚拟化服务，同时利用 Windows 10 多会话体验，该体验针对 Microsoft 365 应用版 for Enterprise 进行了优化，具有针对 Microsoft 365 的集成安全和管理。</p>
 <p>你可与 FastTrack 专家协作：</p>
 <ul>
 <li><p>使用以下Windows 10 企业版部署具有Microsoft 365 应用版 +Enterprise的 WVD 环境：</p>

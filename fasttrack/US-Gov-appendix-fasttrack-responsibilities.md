@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
-ms.openlocfilehash: b542a6373b6614172ef87546e6efb2b24210a5b4
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: fbc15c5882d02126dee53f0185c1078b71f13467
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517496"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710450"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack美国政府Office 365责任
 
@@ -96,8 +96,8 @@ FastTrack 专家在载入期间将承担以下责任。
 ## <a name="compliance"></a>合规性
 
 针对以下内容提供相关指导：
-- 有关 **Microsoft 信息治理的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
-- 远程协助 **Microsoft 信息保护 (** 安全 [与合规](products-and-capabilities.md#security-and-compliance)) 。
+- 有关 Microsoft 信息 **治理的远程** ([请参阅 Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
+- 有关安全与 **Microsoft 信息保护 (** 的远程帮助 [，请参阅安全与](products-and-capabilities.md#security-and-compliance)) 。
 - 有关 Azure 信息 **保护的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
@@ -197,7 +197,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的Office 365用户，可GCC独立产品/服务。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。
+> Yammer Enterprise不是美国政府的一Office 365组件，但是对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或GCC DoD 计划中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 

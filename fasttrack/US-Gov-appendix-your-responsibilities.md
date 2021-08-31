@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: 2127589d1c0f10e2836081bc2e28286a8d6eacef
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517556"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710165"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
