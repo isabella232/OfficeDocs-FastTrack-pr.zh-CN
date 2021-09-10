@@ -11,17 +11,17 @@ ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
 ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710165"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971191"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
 你在载入过程中将承担以下责任。
   
-## <a name="general"></a>常规
+## <a name="general"></a>概要
 
 - 开发并实现你的成功计划。   
 - 在此处列出的可配置选项范围外，还对你的 Office 365 租户提供任何增强功能和集成。    

@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.collection: FastTrack
 description: 在本主题中，我们将介绍如何接洽 FastTrack 以获得帮助以及这种帮助的提供方式，还将提供用以获得成功体验的提示，并分别说明 FastTrack 和你的公司的主要责任。
 ms.openlocfilehash: fdad877b5d84d554e0b100e224f97ae89e4d3a99
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710500"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971171"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 

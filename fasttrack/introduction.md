@@ -13,11 +13,11 @@ ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack 是一项旨在帮助你免费部署 Microsoft 365（包括在合格的订阅中）的权益。 可以将 FastTrack 服务与新的或现有的合格订阅一起使用。
 ms.openlocfilehash: 2cf1902250f237df4023a0d52f6ac97d8535093e
-ms.sourcegitcommit: afb7b49daa1241dd2158dc81221afdc740fd4535
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58826094"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971174"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 

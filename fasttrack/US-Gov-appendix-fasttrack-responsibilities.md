@@ -11,11 +11,11 @@ ms.localizationpriority: ''
 ms.collection: FastTrack
 description: FastTrack 专家在载入期间将承担以下责任。
 ms.openlocfilehash: fbc15c5882d02126dee53f0185c1078b71f13467
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710450"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971187"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack美国政府Office 365责任
 
@@ -80,7 +80,7 @@ FastTrack 专家在载入期间将承担以下责任。
   - 根据需要，使用 Azure Active Directory Connect 工具配置与 Office 365 (Azure Active Directory) 进行的密码同步（密码哈希）。  
   - 对于单林和多林环境：
       - 配置Azure Active Directory传递身份验证（如果需要 (高GCC DoD 计划中不可用) 。
-      - 配置Azure Active Directory无缝单Sign-On (SSO) （如果需要 (在 GCC 高或 DoD 计划中) ）。
+      - 配置Azure Active Directory无缝Sign-On (SSO) （如果需要 (高或 DoD 计划中GCC可用) 。
     > [!NOTE]
     > 如果 Active Directory 林之间存在林信任且名称后缀路由配置正确，则支持为多林环境配置 Azure Active Directory 直通身份验证。可以在多个本地服务器上安装其他代理，提供登录请求所需的高可用性。有关详细信息，请参阅 [Azure Active Directory 直通身份验证：快速入门](https://go.microsoft.com/fwlink/?linkid=860094)和 [Azure Active Directory 无缝单一登录：快速入门](https://go.microsoft.com/fwlink/?linkid=860095)。[!NOTE]
     > 若要详细了解直通身份验证限制，请参阅 [Azure Active Directory 直通身份验证：当前限制](https://go.microsoft.com/fwlink/?linkid=860356)。[!NOTE]
@@ -97,7 +97,7 @@ FastTrack 专家在载入期间将承担以下责任。
 
 针对以下内容提供相关指导：
 - 有关 Microsoft 信息 **治理的远程** ([请参阅 Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
-- 有关安全与 **Microsoft 信息保护 (** 的远程帮助 [，请参阅安全与](products-and-capabilities.md#security-and-compliance)) 。
+- 有关安全与 **Microsoft 信息保护 (** 的远程帮助，请参阅 [安全与](products-and-capabilities.md#security-and-compliance)) 。
 - 有关 Azure 信息 **保护的** 远程 (请参阅 [Security and Compliance](products-and-capabilities.md#security-and-compliance)) 。
 
 ## <a name="exchange-online"></a>Exchange Online
@@ -107,7 +107,7 @@ FastTrack 专家在载入期间将承担以下责任。
 - 在源邮件系统和 Office 365 环境之间启用电子邮件路由。    
 - 配置 Exchange Online Protection 功能（如果在你的订阅中可用，则包括 Exchange Online 高级威胁防护 功能）并验证你的 MX 记录指向所有已验证的启用邮件的域的 Office 365。   
 - 在一个本地 Exchange 组织和 Office 365 之间 *或* 在多个本地 Exchange 组织和 Office 365 之间配置混合设置。 
-- 在 DoD 计划中 (统一) UM Exchange Online (UM GCC不可用) 。 
+- 在 DoD () 中Exchange Online (统一消息GCC UM) 。 
     
 有关数据迁移责任的详细信息，请参阅[数据迁移](data-migration.md).。
   
@@ -197,7 +197,7 @@ FastTrack 专家在载入期间将承担以下责任。
 提供有关将单个 Yammer Basic 网络转换为单个 Yammer Enterprise 网络的指导。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365组件，但是对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或GCC DoD 计划中不可用。
+> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
@@ -207,5 +207,5 @@ FastTrack 专家在载入期间将承担以下责任。
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。   
 - 在你的 iOS、Android 或 Windows Mobile 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 2016 部署工具或组策略模板配置更新设置。   
-- 设置单个现场分发服务器Microsoft 365 应用版，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。   
+- 设置单个现场分发服务器进行Microsoft 365 应用版，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。   
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
