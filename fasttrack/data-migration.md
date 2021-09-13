@@ -14,8 +14,8 @@ ms.openlocfilehash: cc2299dc36440568aef0a5b573807b2b5ef255bd
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971175"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157736"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -160,7 +160,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack迁移Exchange Online职责
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack迁移Exchange Online责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -243,7 +243,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -555,7 +555,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack迁移OneDrive for Business责任
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack迁移OneDrive for Business职责
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -569,7 +569,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>迁移到 Microsoft Teams 组Microsoft 365组
 
-当你选择使用 FastTrack 将文件迁移到 Microsoft Teams Microsoft 365 组时，我们提供迁移指导和数据迁移服务。 我们提供指导，帮助你规划迁移、配置源环境和Teams Microsoft 365组，以及利用我们的数据迁移服务迁移文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams 和 Microsoft 365 组。 Teams频道Microsoft 365组必须由客户预先设置，然后才能将数据迁移到这些目标类型。 Teams组Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack迁移期间不会将最终用户或组添加到任何Teams或Microsoft 365组"权限。
+当你选择使用 FastTrack 将文件迁移到 Microsoft Teams Microsoft 365 组时，我们提供迁移指导和数据迁移服务。 我们提供指导，帮助你规划迁移、配置源环境以及Teams Microsoft 365组，以及利用我们的数据迁移服务迁移文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，您可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams Microsoft 365 组。 Teams频道Microsoft 365组必须由客户预先预配，然后才能将数据迁移到这些目标类型。 Teams组Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack迁移期间不会将最终用户或组添加到任何Teams或Microsoft 365组"权限。
 
 ### <a name="considerations"></a>注意事项
 
@@ -616,7 +616,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </ul></li>
 </ul>
 <br>
-*必须配置目录同步。 只迁移对 Windows 文件资源管理器公开的 NTFS 权限。 不会迁移文件共享设备上直接托管的权限。 如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。 权限受组和/或Microsoft 365频道Microsoft Teams影响。 如果目标为Microsoft 365或Microsoft Teams组或频道，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或频道Microsoft 365文件Microsoft Teams权限。</td>
+*必须配置目录同步。 只迁移对 Windows 文件资源管理器公开的 NTFS 权限。 不会迁移文件共享设备上直接托管的权限。 如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。 权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为组或Microsoft 365组Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或频道Microsoft 365文件Microsoft Teams权限。</td>
 <td><ul>
 <li> 所有权历史记录和旧版本 </li>
 <li> 内容中嵌入的 URL 的转换后对象 </li>
@@ -763,9 +763,9 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 ### <a name="your-responsibilities"></a>你的责任 
 
 你在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
-还可以执行以下特定于组迁移Microsoft Teams Microsoft 365活动： 
+还可以执行以下特定于组迁移Microsoft Teams Microsoft 365迁移： 
 
-- 根据Microsoft Teams事件Microsoft 365所有频道和组。
+- 根据Microsoft Teams事件Microsoft 365设置所有频道和组。
 
 > [!NOTE]
->FastTrack未预先预配Microsoft Teams或Microsoft 365组。 FastTrack向频道或组添加最终用户Microsoft Teams组Microsoft 365组。 在将数据迁移到目标之前，必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档
+>FastTrack预配频道或Microsoft Teams组Microsoft 365预配。 FastTrack向频道或组添加最终用户Microsoft Teams组Microsoft 365组。 在将数据迁移到目标之前，必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档

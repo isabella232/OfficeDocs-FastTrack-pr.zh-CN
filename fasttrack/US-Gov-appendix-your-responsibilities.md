@@ -14,8 +14,8 @@ ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971191"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157717"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 

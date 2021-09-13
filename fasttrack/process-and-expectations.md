@@ -13,8 +13,8 @@ ms.openlocfilehash: fdad877b5d84d554e0b100e224f97ae89e4d3a99
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971171"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157756"
 ---
 # <a name="process-and-expectations"></a>流程和期望
 

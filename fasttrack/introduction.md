@@ -16,8 +16,8 @@ ms.openlocfilehash: 2cf1902250f237df4023a0d52f6ac97d8535093e
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971174"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157710"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>适用于 Microsoft 365 的 FastTrack 中心权益
 

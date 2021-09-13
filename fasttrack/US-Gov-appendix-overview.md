@@ -13,8 +13,8 @@ ms.openlocfilehash: c8779b4a7a090aec0594bd8820f8160f179dfad5
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971183"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157714"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>附录 B - 适用于 Office 365 美国政府版的 FastTrack 中心权益概述
 

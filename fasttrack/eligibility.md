@@ -14,8 +14,8 @@ ms.openlocfilehash: 46e7cee8c160f29a2558e86eb3f6abe0249f1c3b
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971178"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157735"
 ---
 # <a name="eligibility"></a>资格
 
