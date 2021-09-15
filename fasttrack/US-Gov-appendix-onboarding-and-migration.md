@@ -3,19 +3,19 @@ title: 美国政府的载入Office 365迁移阶段
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/25/2021
+ms.date: 9/14/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: ''
 ms.collection: FastTrack
 description: Office 365美国政府Office 365有四个主要阶段：启动、评估、修正和启用。 您可以遵循这些阶段以及下图所示的可选数据迁移阶段。
-ms.openlocfilehash: 8dab94d7641c3542900408754bd97d4ad1ae3179
-ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
+ms.openlocfilehash: 7b8d6d3ce5cd0f7c55a68b355600759a5b2d8b59
+ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157712"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327667"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>美国政府的载入Office 365迁移阶段
 
@@ -23,7 +23,7 @@ Office 365 载入分为四个主要阶段：启动、评估、修正和启用。
   
 ![载入权益的阶段。](media/O365-Onboarding-Phases.png)
   
-有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[责任](US-Gov-appendix-your-responsibilities.md)。
+有关每个阶段的详细任务，请参阅FastTrack[美国政府](US-Gov-appendix-fasttrack-responsibilities.md)Office 365和美国政府Office 365[的责任](US-Gov-appendix-your-responsibilities.md)。
   
 ## <a name="initiate-phase"></a>启动阶段
 
@@ -133,11 +133,11 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 创建任何聊天室系统设备的帐户。    
 - 部署支持的 Skype for Business Online 客户端。   
 - 在本地 Lync 2010、Lync 2013 或 Skype for Business 2015 服务器环境与 Skype for Business Online 租户 (（如果适用）之间建立拆分域) 。
-- 在可用市场中Skype 会议通话套餐、电话系统广播、 (通话套餐和通话套餐- GCC高或 DoD 计划) 。 
+- 在可用市场中Skype 会议通话套餐、电话系统广播、 (和通话套餐 -GCC 高或 DoD 计划中) 。 
     
-![启用更新期间 Lync phase_1。](media/O365-Onboarding-Enable-Lync.png)
+![Lync 载入步骤在启用phase_1。](media/O365-Onboarding-Enable-Lync.png)
   
-![Skype for Business启用启用期间执行phase_2。](media/SfBOifappborderupdate.png)
+![Skype for Business启用期间执行载入phase_2。](media/SfBOifappborderupdate.png)
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -159,13 +159,13 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 <br> 如果适用，我们提供针对： </br>
 - Microsoft Teams会议室设备：
     - 创建 <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams 设备目录</a>中所列支持的电话和会议室设备所需的在线帐户。
-    - 通过经认证的设备进行服务器端配置的Microsoft Teams 会议室帮助。
+    - 远程协助通过认证的设备进行Microsoft Teams 会议室配置。
 - 启用音频会议：
     - 会议桥默认设置的组织设置。
     - 向许可用户分配会议桥。
 - 电话系统：
     - 组织设置云语音默认设置。
-    - 通话套餐指南 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市场) ：</a>  
+    - 通话套餐指南 (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">可用市场</a>) ：  
         - 向许可用户分配号码。
         - 通过用户界面 (UI) 进行本地号码端口定位的指南（最多到 999）。
         - 超过 999 的本地号码端口定位服务请求 (SR) 支持。
@@ -179,7 +179,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 组织设置和集成到 Microsoft Stream。
 - 转换Skype for Business Teams指南。 
     
-![FastTrack Microsoft Teams启用 (阶段) 。](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft Teams启用 (启用阶段) 。](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -201,7 +201,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 对于Yammer，我们提供启用 Yammer Enterprise 服务的远程指南。
 
 > [!NOTE]
-> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
+> Yammer Enterprise不是美国政府的一Office 365，但是对于在美国政府中获得许可的每位用户，可Office 365独立产品GCC。 This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements. Yammer高或 doD GCC中不可用。 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 应用版
 
@@ -211,7 +211,7 @@ FastTrack 专家综合使用工具和文档，以及在适用和可行的情况�
 - 使用即点即用从 Office 365 门户安装 Microsoft 365 应用版。    
 - 在 iOS 或 Android 设备上安装 Office Mobile 应用（如 Outlook Mobile、Word Mobile、Excel Mobile 和 PowerPoint Mobile）。   
 - 使用 Office 365 部署工具配置更新设置。    
-- 设置单个现场分发服务器进行Microsoft 365 应用版，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一同使用。    
+- 设置单个现场分发服务器Microsoft 365 应用版，包括帮助创建configuration.xml文件以与 Office 365 部署工具一同使用。    
 - 使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。
     
 ![OfficeProPlus 载入步骤。](media/o365-onboarding-enable-m365-apps-2.png)

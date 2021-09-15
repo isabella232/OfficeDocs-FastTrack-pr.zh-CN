@@ -1,23 +1,23 @@
 ---
-title: 你对美国政府Office 365责任
+title: 你向美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/25/2021
+ms.date: 9/14/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
-ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
+ms.openlocfilehash: af92bca74dd6c90c0fd178e46ea5de6aed8cd51b
+ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157717"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327627"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
+# <a name="your-responsibilities-for-office-365-us-government"></a>你向美国政府Office 365责任
 
 你在载入过程中将承担以下责任。
   
@@ -42,7 +42,7 @@ ms.locfileid: "59157717"
 - 激活移动设备。    
 - 提供网络配置、分析、带宽验证、测试和监视。 
 - 更改防火墙规则以支持特定 URL 和 IP 地址范围，Office 365服务 (（如果需要) ）。
-- 如果需要，向 Microsoft (提供本地反向) 。     
+- 如果需要，向 Microsoft (提供本地反向代理) 。     
 - 更改网络，为 Skype for Business Online 服务提供必要的带宽。   
 - 管理技术变更管理审核流程，并创建支持文档。    
 - 指定和定义适用于用户、工作站和服务器管理的组策略。    

@@ -3,23 +3,23 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/25/2021
+ms.date: 9/14/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: 46e7cee8c160f29a2558e86eb3f6abe0249f1c3b
-ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
+ms.openlocfilehash: 741da89265986bdfb45e12a5eb337a65c6790e45
+ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157735"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327677"
 ---
 # <a name="eligibility"></a>资格
 
-在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
+在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。 
 
 通过以下 Microsoft 产品系列的某个符合条件的订阅计划获得 150 个或更多许可证的客户可享受 FastTrack 帮助：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。 这些计划可对应单个产品（如 Exchange Online）或一套产品 (Office 365 E3)。 由于 Microsoft 提供了许多购买选项，因此符合条件的计划非常多，并且均已在[符合条件的计划](#eligible-plans)中列出。
 
@@ -55,7 +55,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 
 ## <a name="eligible-plans"></a>符合条件的计划
 
-必须至少从以下计划之一购买 150 个许可证，才能使用FastTrack。 该列表按产品系列分组，以便于你查找贵公司所购买的特定计划：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。 
+必须从以下的某个计划中为每个租户购买至少 150 个许可证，才能有资格使用 FastTrack。 该列表按产品系列分组，以便于你查找贵公司所购买的特定计划：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 计划
 
