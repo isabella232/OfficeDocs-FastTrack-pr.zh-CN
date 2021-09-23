@@ -3,27 +3,27 @@ title: 产品和功能
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: 本主题包含有关应用程序支持的工作负荷FastTrack以及开始之前所需的源环境预期。 根据您的当前设置，我们将与用户一起制定修正计划，使源环境达到成功载入的最低要求。
-ms.openlocfilehash: eaff4d9e66457f61487f49b6a484cbcc94306be5
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: a346e3d909d9ae15355f3b0a30aa76b43feafd60
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327597"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484292"
 ---
 # <a name="products-and-capabilities"></a>产品和功能
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a>支持的服务和FastTrack 
+## <a name="services-and-scenarios-supported-by-fasttrack"></a>支持的服务和方案FastTrack 
 
 本主题包含有关应用程序支持的工作负荷FastTrack以及开始之前所需的源环境预期。 根据您的当前设置，我们将与用户一起制定修正计划，使源环境达到成功载入的最低要求。
 
-FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online Services) ，然后载入每个符合条件的服务：
+FastTrack指南可帮助你首先获得所有 (通用的核心Microsoft Online Services) ，然后载入每个符合条件的服务：
 
   - [常规](#general)
   - [安全性和符合性](#security-and-compliance)
@@ -37,7 +37,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 > [!NOTE]
 > 若要了解 Office 365 US Government 的源环境预期，请参阅 [Office 365 US Government 的源环境预期](US-Gov-appendix-source-environment-expectations.md)。    
  
-## <a name="general"></a>概要
+## <a name="general"></a>常规
 
 <table>
 <table style="width: 100%">
@@ -66,15 +66,15 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 
 我们提供针对：
 <ul>
-<li>准备本地 Active Directory 标识以同步到 Azure Active Directory (Azure AD) 包括安装和配置 Azure AD 连接 (单林或多林) 以及许可 (包括基于组的许可) 。</li> 
+<li>准备本地 Active Directory 标识以同步到 Azure Active Directory (Azure AD) 包括安装和配置 Azure AD 连接 (单林或多林) 以及 (包括基于组的许可) 。</li> 
 <li>创建云标识，包括批量导入和许可，包括使用基于组的许可。</li>
 <li>为云旅程选择和启用正确的身份验证方法、密码哈希同步、传递身份验证或 Active Directory 联合身份验证服务 (AD FS) 。</li>
-<li> 选择无密码身份验证和 Fast Identity Online (FIDO (FIDO) 2 或 Microsoft Authenticator App) ，为用户提供更方便的身份验证体验。</li>
-<li>为具有单个 Active Directory 林和标识与 Azure AD 连接工具同步的客户启用 AD FS。 这要求Windows Server 2012 R2 Active Directory 联合身份验证服务 2.0 或更大。</li>
+<li> 选择无密码身份验证 (Fast Identity Online (FIDO) 2 或 Microsoft Authenticator App) ，为用户提供更方便的身份验证体验。</li>
+<li>为具有单个 Active Directory 林和标识与 Azure AD 连接工具同步的客户启用 AD FS。 这需要Windows Server 2012 R2 Active Directory 联合身份验证服务 2.0 或更大。</li>
 <li>使用密码哈希同步或传递身份验证将身份验证从 AD FS 迁移到 Azure AD。</li>
-<li>将预集成应用 (如 Azure AD 库软件即服务 (SaaS) 应用) 从 AD FS 迁移到 Azure AD，实现单一登录 (SSO) 。</li>
+<li>将预集成应用 (Azure AD 库软件即服务 (SaaS) 应用) 从 AD FS 迁移到 Azure AD，实现单一登录 (SSO) 。</li>
 <li>从 Azure AD 库启用 SaaS 应用与 SSO 的集成。</li>
-<li>为预集成 SaaS 应用启用自动用户预配（如应用集成教程列表 <a href="/azure/active-directory/saas-apps/tutorial-list"> (仅限于 </a> Azure AD 库 SaaS 应用和仅) ）。  </li>
+<li>为预集成 SaaS 应用启用自动用户预配（如应用集成教程列表 <a href="/azure/active-directory/saas-apps/tutorial-list"> (仅限于 </a> Azure AD 库 SaaS 应用和仅) 出站预配）。  </li>
 
 </td>
 
@@ -88,12 +88,12 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  多个 Active Directory 帐户林和资源林（Exchange 和/或 Lync 2010、Lync 2013 或 Skype for Business）拓扑。  </li>
 <li>  多个 Active Directory 帐户林，其中的一个林是一个含有 Exchange 和/或 Lync 2010、Lync 2013 或 Skype for Business 的集中式 Active Directory 帐户林。  </li>
 <li>  多个 Active Directory 帐户林，每一个都有自己的 Exchange 组织。  </li>
-<li>  租户配置和与租户集成Azure Active Directory（如果需要）。   </li>
+<li>  租户配置和集成所需的任务Azure Active Directory，如果需要。   </li>
 </ul>
   <strong>重要</strong>  <ul>
-<li>  对于多林 Active Directory 方案，如果部署了 Lync 2010、Lync 2013 或 Skype for Business，则必须将其部署在 Exchange 相同的 Active Directory 林中。  </li>
+<li>  对于多林 Active Directory 方案，如果部署了 Lync 2010、Lync 2013 或 Skype for Business，则必须将其部署在与 Exchange 相同的 Active Directory 林中。  </li>
 <li>  在 Exchange 多混合配置中实现具有多个 Exchange 组织的多个 Active Directory 林时，不支持在源林之间共享用户主体名称 (UPN) 命名空间。 Exchange 组织之间的主要 SMTP 命名空间也应该进行分隔。 有关详细信息，请参阅 <a href="https://go.microsoft.com/fwlink/?linkid=845444">具有多个 Active Directory 林的混合部署</a>。  </li>
-<li>  对于所有多林配置，Active Directory 联合身份验证服务 (AD FS) 超出了范围。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> 以寻求帮助。  </li>
+<li>  对于所有多林配置，Active Directory 联合身份验证 (AD FS) 超出了范围。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> 以寻求帮助。  </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -108,10 +108,10 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  本地或云安装的选择和设置。  </li>
 <li>  使用 Office 自定义工具或用于配置部署包的本地 XML 创建 Office 部署工具配置 XML。  </li>
 <li>  使用 Microsoft Endpoint Configuration Manager 的部署，包括帮助创建 Microsoft Endpoint Configuration Manager 打包。  
-  此外，如果你有使用 Office 早期版本的宏或外接程序，并且你遇到兼容性问题，我们会指导通过应用保证计划免费修复兼容性问题。 有关详细信息，<strong>请参阅</strong><a href="#windows-10">Windows 10保证部分</a>。 </li>
+  此外，如果你有与 Office 早期版本一起工作的宏或外接程序，并且你遇到兼容性问题，我们会指导通过应用保证计划免费修复兼容性问题。 有关详细信息，<strong>请参阅</strong><a href="#windows-10">Windows 10保证部分</a>。 </li>
 </ul></td>
 <td><ul>
-<li>  联机客户端软件必须处于最低级别，如 Microsoft 365 和 Office 的系统<a href="https://go.microsoft.com/fwlink/?LinkID=723597">要求中定义</a>。  </li>
+<li>  联机客户端软件必须处于最低级别，如 system <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requirements for Microsoft 365 and Office 。</a>  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -153,7 +153,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 
 <strong>安全基础基础结构</strong>  </ul>
 <ul>
-<li>  为标识配置和启用强身份验证，包括使用 Azure 多重身份验证 (MFA)  (仅) 、Microsoft Authenticator 应用以及 Azure MFA 和自助服务密码重置联合注册 (SSPR) 进行保护。  </li>
+<li>  为标识配置和启用强身份验证，包括使用 Azure 多重身份验证 (MFA)  (云仅) 、Microsoft Authenticator 应用以及 Azure MFA 和自助服务密码重置联合注册 (SSPR) 。  </li>
 <li> 部署 FIDO2 或 Microsoft Authenticator App。 </li>
 <li>  对于非Azure AD Premium客户，提供了使用安全默认值保护标识的指南。  </li>
 <li>  对于 Azure AD 高级客户，提供了使用条件访问保护标识的指南。  </li>
@@ -162,7 +162,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  使用 Azure Identity Protection 启用基于风险的检测和修正。  </li>
 <li>  启用自定义登录屏幕，包括徽标、文本和具有自定义品牌的图像。  </li>
 <li>  使用 Azure AD B2B 安全地与来宾用户共享应用和服务。  </li>
-<li>  使用基于角色的访问控制 (RBAC) 管理角色管理 Office 365 管理员的访问权限，并减少特权管理员帐户的数量。  </li>
+<li>  使用基于角色的访问控制 (RBAC) 内置管理角色管理 Office 365 管理员的访问权限，并减少特权管理员帐户的数量。  </li>
 <li>  配置混合 Azure AD 加入。  </li>
 <li>  配置 Azure AD 加入。  </li>
 </ul>
@@ -186,7 +186,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
   查看 Azure AD 使用条款。  
   </li>
 <li>  
-  使用 Azure AD 管理中心管理和控制对特权管理员Privileged Identity Management。  
+  使用 Azure AD 管理中心管理和控制对特权Privileged Identity Management。  
   </li>
 </ul>
   
@@ -195,12 +195,12 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  
   启用 Azure AD SSPR。  
   </li>
-<li>  允许用户使用 Azure AD 自助服务组管理创建和管理Office 365云安全组或用户组。  </li>
+<li>  允许用户使用 Azure AD 自助服务组管理创建和管理Office 365云安全组或组。  </li>
 <li>  使用 Azure AD 委派组管理管理企业应用的委派访问权限。  </li>
 <li>  启用 Azure AD 动态组。  </li>
 <li>  使用集合在"我的应用程序"门户中组织应用。  </li>
 </ul></td>
-<td>本地 Active Directory 及其环境已针对部署Azure AD Premium，包括修复阻止与 Azure AD 和 Azure AD Premium集成的问题。</td>
+<td>本地 Active Directory 及其环境已针对部署Azure AD Premium，包括修复阻止与 Azure AD 集成且Azure AD Premium问题。</td>
 </tr>
 <tr class="odd">
 <td><strong>Azure 信息保护 </strong></td>
@@ -231,7 +231,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 我们提供针对：  
 <ul>
 <li> 启用高级审核。</li>
-<li> 使用 UI 和审核日志审核 PowerShell 命令执行搜索。</li>
+<li> 在 UI 和审核日志 PowerShell 命令中执行搜索。</li>
 </ul>
 
 <strong> 合规性管理器</strong>
@@ -297,7 +297,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li> 创建和管理Power Automate流。</li>
 <li> 数据连接器 (HR 连接器) 。 </li>
-<li> RegEx 配置 (正则表达式) 正则表达式。</li>
+<li> 使用 RegEx (配置的) 正则表达式。</li>
 <li> 设计、架构师和第三方文档审阅。</li>
 <li> 信息屏障。</li>
 <li> 特权访问管理。</li>
@@ -332,12 +332,12 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 </ul>
 </li>
 <li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High或GCC-DoD (Office 365美国政府</a>) 。</li>
-<li> SIEM 或 API 集成 (安全) 事件管理。</li>
+<li> SIEM 或 API 集成 (信息和) 事件管理。</li>
 </td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security 是云访问安全代理 (CASB) ，可提供丰富的可见性、控制数据传输以及复杂的分析，以识别和防御所有 Microsoft 和第三方云服务中的网络威胁。 我们提供针对：
+<td>  Microsoft Cloud App Security 是云访问安全代理 (CASB) ，可提供丰富的可见性、控制数据传输和复杂分析，以识别和防御所有 Microsoft 和第三方云服务中的网络威胁。 我们提供针对：
 <ul>
 <li>  配置门户，包括：  </li>
 <ul>
@@ -370,10 +370,10 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li> 使用活动和文件日志。</li>
 <li> 管理 OAuth 应用。</li>
 <li> 查看和配置策略模板。</li>
-<li> 为 CASB 的 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> 大用例提供配置帮助 (包括创建或更新多达 6 (6) 策略，) 除外： </li>
+<li> 为 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">CASB 服务前 20</a> 个用例提供配置帮助 (包括创建或更新多达 6 (6) 策略) 除外： </li>
 <ul>
-<li> 审核将 Internet 作为服务配置 (IaaS) 环境 (#18) 。</li>
-<li> 监视用户活动，以防范 IaaS 环境中 (#19) 。</li>
+<li> 审核你的 Internet 即服务配置 (IaaS) 环境 (#18) 。</li>
+<li> 监视用户活动，以抵御 IaaS 环境中 (#19) 。</li>
 </ul>
 <li> 了解事件门户中的Microsoft 365 Defender相关。</li>
 </ul>
@@ -381,20 +381,20 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li> 客户补救活动的项目管理。</li>
 <li> 持续管理、威胁响应和修正。 </li>
-<li> 有关将 云应用安全其他 CASB 产品/服务进行比较的讨论。</li>
+<li> 讨论比较云应用安全 CASB 产品/服务。</li>
 <li> 配置云应用安全以满足特定的合规性或法规要求。</li>
 <li> 将服务部署到非生产测试环境。</li>
 <li> 部署 Cloud App Discovery 作为概念证明。</li>
-<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High或GCC-DoD (Office 365美国政府</a>) 。</li>
+<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High美国政府GCC-DoD (Office 365或美国政府) 。 </a></li>
 <li> 使用 Docker 或日志收集器为连续报告设置自动日志上载的基础结构、安装或部署。 </li>
 <li> 创建云发现快照报告。</li>
 <li> 使用阻止脚本阻止应用使用。</li>
 <li> 连接自定义应用。</li>
 <li> 为非特色应用载入和部署条件访问应用控制。</li>
-<li> 与第三方标识提供程序 (DLP) 提供程序的 ISP (数据丢失) 。</li>
+<li> 与第三方标识提供程序集成 (DLP) 提供程序的 ISP (数据丢失) 。</li>
 <li> 有关高级搜寻的培训或指导。</li>
 <li> 自动调查和修正，包括 Microsoft Power Automate手册。</li>
-<li> SIEM (或 API 集成) 安全信息和事件管理 (包括 Azure Sentinel) 。</li>
+<li> SIEM (或 API 集成) 安全信息和事件 (包括 Azure Sentinel) 。</li>
 
 </ul></td>
 </tr>
@@ -409,17 +409,18 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  部署技术以确保终结点安全。  </li>
 <li>  配置终结点保护和设备限制配置文件。  </li>
 <li>  评估操作系统版本和设备管理 (包括 Intune、Microsoft Endpoint Configuration Manager、组策略对象 (GPO) 和第三方配置) 以及 Windows Defender AV 服务或其他终结点安全软件的状态。  </li>
-<li> 仅为 Windows 365 云电脑版中的 Endpoint E5 客户 (Windows 365 和 Microsoft Defender) 。</li>
+<li> 仅为 Windows 365 云电脑版中的终结点 E5 客户 (Windows 365 和 Microsoft Defender) 。</li>
 <li>  专门为提供云电脑安全基线指南：</li>
 <ul>
 <li>  攻击面减少规则。</li>
 <li>  Microsoft Defender。</li>
 <li>  Microsoft Defender 防病毒排除项。</li>
-</ul>
 <li>  Microsoft Defender SmartScreen </li>
+</ul>
+
 <li>  评估 AV 服务Windows终结点安全软件的状态。  </li>
 <li>  评估限制网络流量的代理和防火墙。  </li>
-<li>  通过说明如何使用受支持的管理方法之一将 Microsoft Defender for Endpoint 终结点检测和响应 (EDR) 部署 Microsoft Defender for Endpoint 服务。  </li>
+<li>  通过说明如何使用受支持的管理方法之一，为终结点 (EDR) 部署 Microsoft Defender 终结点检测和响应，从而启用 Microsoft Defender for Endpoint 服务。  </li>
 <li>  部署指南、配置帮助和教育：
 <ul>
 <li>  
@@ -463,15 +464,15 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
   WindowsServer 2019 Core Edition。  
   </li>
 <li>  
-  WindowsSAC Semi-Annual 1803 () 频道。  
+  WindowsSAC Semi-Annual 1803 (Server) Channel。  
   </li>
 <li>  
-  支持的 macOS 版本 (请参阅 <a href="/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-mac?view=o365-worldwide#system-requirements"> 系统要求 </a> 了解详细信息) 。  
+  支持的 macOS 版本 (<a href="/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-mac?view=o365-worldwide#system-requirements"> 请参阅系统要求 </a> ，详细了解) 。  
   </li>
 </ul>
 </li>
 </ul>
-<strong>注意：</strong>所有 Windows Server 版本都必须由 System Center Configuration Manager 2012 (版本 1012 R2、1511 或 1602) 或 Microsoft Endpoint Configuration Manager (版本 2002 或) ) 的最新版本管理。 
+<strong>注意：</strong>所有 Windows Server 版本都必须由最新版本的 System Center Configuration Manager 2012 (版本 1012 R2、1511 或 1602) 或 Microsoft Endpoint Configuration Manager (版本 2002 或) 。 
 
 </li>
 </ul>
@@ -479,7 +480,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <strong>以下内容超出范围 </strong>  
 <ul>
 <li>  客户补救活动的项目管理。  </li>
-<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High或GCC-DoD (Office 365美国政府</a>) 。</li>
+<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High美国政府GCC-DoD (Office 365或美国政府) 。 </a></li>
 <li>  现场支持。  </li>
 <li>  持续管理和威胁响应。  </li>
 <li>  以下 Microsoft Defender 终结点代理的载入或配置：
@@ -557,18 +558,18 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li> 网络设备发现的配置或管理。 </li>
 <li> 以下设备发现功能的配置或管理：</li>
 <ul>
-<li> 未在作用域内为非托管设备（如 Linux FastTrack (）) 。</li>
+<li> 未在作用域内（如 Linux FastTrack (）的未托管) 。</li>
 <li> 与第三方工具集成。</li>
 <li> 设备发现排除项。</li>
 <li> 初步网络协助。 </li>
 <li> 网络问题疑难解答。</li>
 </ul>
 <li>  注册或配置 Microsoft 威胁专家。  </li>
-<li>  查看 SIEM (连接的 API 或安全信息) 培训。  </li>
+<li>  查看 SIEM 连接中的 API 或安全 (或) 培训。  </li>
 <li>  注册或配置Microsoft 365 Defender。  </li>
 <li>  有关高级搜寻的培训或指导。  </li>
 <li>  有关使用或创建 Kusto 查询的培训或指南。</li>
-<li> 有关使用组策略对象Microsoft Defender SmartScreen GPO (GPO) 、Windows 安全中心 或 Microsoft Edge 的培训或Microsoft Edge。</li>
+<li> 有关使用组策略Microsoft Defender SmartScreen GPO (GPO) 、Windows 安全中心 或 Microsoft Edge 的培训或Microsoft Edge。</li>
 </li>
 <li> 一Windows 365 功能，包括： </li>
 <ul>
@@ -576,7 +577,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  配置 Windows 365 云电脑。</li>
 <li>  第三方应用虚拟化和部署。</li>
 <li>  自定义图像。</li>
-<li>  ALl 未列为 365 范围内Windows区域。</li>
+<li>  所有其他未列为 365 范围内Windows区域。</li>
 </ul>
 </ul>
 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> ，获得这些服务的帮助。  
@@ -626,7 +627,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li> 了解非活动用户报告。</li>
 <li> 有关遭到入侵的帐户的修正选项的说明。</li>
 </ul>
-<li>  推动从高级威胁分析 (ATA) 到 Defender for Identity。 </li>
+<li>  推动从高级威胁分析 (ATA) 迁移到 Defender for Identity。 </li>
 </ul>
 <p><strong>以下内容超出范围</strong></p>
 <ul>
@@ -667,7 +668,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  已部署 Active Directory。  </li>
 <li>  打算安装 Defender for Identity 传感器的域控制器具有到 Defender for Identity 云服务的 Internet 连接。  </li>
 <ul>
-<li> 防火墙和代理必须处于打开状态，以与 Defender for Identity 云服务通信 (*.atp.azure.com 端口 443 必须) 。</li>
+<li> 防火墙和代理必须处于打开状态，以与 Defender for Identity 云服务进行通信 (*.atp.azure.com 端口 443 必须) 。</li>
 </ul>
 <li> 在下列其中一个上运行的域控制器：</li>
 <ul>
@@ -678,7 +679,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li> Windows带 KB4487044 的服务器 2019 (操作系统版本 17763.316 或更高版本) 。</li>
 </ul>
 <li> Microsoft .NET Framework 4.7 或更高版本。</li>
-<li> 至少需要五 (5) GB 磁盘空间，建议使用 10 GB。</li>
+<li> 至少需要 5 (5) GB 的磁盘空间，建议使用 10 GB。</li>
 <li> 域控制器 (2) 2 个内核和 6 (6) GB 的 RAM。</li>
 </ul></td>
 </tr>
@@ -704,13 +705,13 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li> 客户补救活动的项目管理。</li>
 <li> 持续管理、威胁响应和修正。</li>
-<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High或GCC-DoD (Office 365美国政府</a>) 。</li>
+<li> 支持<a href=" /fasttrack/us-gov-appendix-overview">GCC-High美国政府GCC-DoD (Office 365或美国政府) 。 </a></li>
 <li> 将 Defender for Office 365与其他安全产品/服务进行比较的讨论。</li>
 <li> 部署 Defender for Office 365作为概念证明。</li>
 <li> 连接自定义应用。</li>
 <li> 有关高级搜寻的培训或指导。</li>
 <li> 自动调查和修正，包括 Microsoft Power Automate手册。</li>
-<li> SIEM (或 API 集成) 安全信息和事件管理 (包括 Azure Sentinel) 。</li>
+<li> SIEM (或 API 集成) 安全信息和事件 (包括 Azure Sentinel) 。</li>
 </ul>
 </td>
 <td>除常规 <strong>中的核心</strong> 载入 <a href="#general">部分外</a>，没有最低系统要求。</td>
@@ -724,7 +725,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li>  创建和发布保留标签和策略 (仅在 E5) 。  
 </li>
-<li>  记录管理 (E5 服务中) 。  </li>
+<li>  记录管理 (仅在 E5 记录) 。  </li>
 <ul><li>  查看文件计划创建。 </li>
 <li>  创建和管理记录 (包括基于事件的记录) 。  </li>
 <li>  正在审查处置。 </ul> </li>
@@ -764,10 +765,10 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  E3 和 E5 (支持敏感信息) 。  </li>
 <li>  创建敏感度标签 (E3 和 E5 支持) 。  </li>
 <li>  在 E3 和 E5 (支持应用敏感度) 。  </li>
-<li>  E5 (支持的可训练分类) 。  </li>
+<li>  E5 (中支持的可训练分类) 。  </li>
 <li>  使用内容资源管理器和活动资源管理器了解 (E5 服务支持) 。  </li>
 <li>  使用策略发布标签 (E5)  (支持手动和自动) 。  </li>
-<li>  为 E5 (支持) 终结点Windows 10创建终结点 (DLP) 。  </li>
+<li>  为 E5 (支持) 终结点Windows 10创建终结点数据丢失防护 (DLP) 。  </li>
 <li>  为聊天和Microsoft Teams创建 DLP 策略。  </li>
 </ul>
 
@@ -789,7 +790,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  激活和配置租户。  </li>
 <li>  创建和设置 P1 和 P2 (支持的标签和) 。  </li>
 <li>  对 P1 和 P2 (支持的文档应用信息) 。  </li>
-<li>  自动分类和标记 Office 应用中的信息 (如在 Windows 上运行的 Word、PowerPoint、Excel 和 Outlook) ，以及使用 P2) 中支持的 Azure 信息保护客户端 (。  </li>
+<li>  自动对 Office 应用中的信息进行分类和标记 (如在 Windows 上运行的 Word、PowerPoint、Excel 和 Outlook) ，以及使用 P2) 中支持的 Azure 信息保护客户端 (。  </li>
 <li>  使用 Azure 信息保护扫描程序发现和标记处于 (P1 和 P2) 。  </li>
 <li>  使用 Exchange Online 邮件流规则监视传输中的电子邮件。  </li>
 </ul>
@@ -829,7 +830,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  <a href="/azure/information-protection/rms-client/mobile-app-faq">什么是适用于 iOS 或 Android 的 Azure 信息保护应用？</a>  </li>
 </ul>
 <li> 安装和配置 Azure RMS 连接器和服务器，包括 Active Directory RMS (AD RMS) 连接器，实现混合支持。  </li>
-<li> 设置和配置自带密钥 (BYOK) 、双密钥加密 (DKE)  (统一标记客户端仅) 或仅保留你自己的密钥 (HYOK)  (经典客户端) （如果部署需要这些选项之一）。  </li>
+<li> 设置和配置仅自带密钥 (BYOK) 、双密钥加密 (DKE)  (统一标记客户端) 或仅保留你自己的密钥 (HYOK)  (经典客户端) （如果部署需要这些选项之一）。  </li>
   </ul>
 </ul>
 </td>
@@ -861,7 +862,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li>  需要团队查看器订阅 (远程协助团队查看器) 。  </li>
 <li>  移动威胁防护 (MTD) MTD (需要 MTD 订阅) 。  </li>
-<li>  需要电信费用管理解决方案 (电信费用管理解决方案订阅才能) 。  </li>
+<li>  需要电信费用管理解决方案 (订阅电信费用管理解决方案) 。  </li>
 
 </ul></li>
 <li>  将每个受支持平台的设备注册到 Intune。  </li>
@@ -894,10 +895,10 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  在 Intune 注册的设备中安装 Configuration Manager 客户端。  </li>
 </ul> 
 
-<strong>安全地Outlook适用于 iOS 和 Android 的移动设备</strong>我们可以提供指导，帮助你在组织中安全地Outlook适用于 iOS 和 Android 的移动设备，以确保用户已安装所有必需的应用。  
+<strong>安全地Outlook适用于 iOS 和 Android 的移动设备</strong>我们可以提供指导，帮助你在组织中Outlook iOS 和 Android 移动版，以确保用户已安装所有必需的应用。  
   使用 Intune 安全地部署适用于 iOS Outlook Android 移动版的步骤取决于你的源环境。 它可以包括：
 <ul>
-<li>  通过 Apple Outlook或 Google Play Microsoft Authenticator下载适用于 iOS 和 Intune 公司门户 Android、Intune 公司门户 应用的应用。  </li>
+<li>  通过 Apple Outlook 或 Google Play Microsoft Authenticator下载适用于 iOS 和 Intune 公司门户 Android、Intune 公司门户 应用的应用。  </li>
 <li>  提供有关设置的指导：
 <ul>
 <li>  适用于 iOS Outlook Android、Microsoft Authenticator 和 Intune 公司门户 Intune 的应用部署。  </li>
@@ -908,13 +909,13 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 </ul>  
   </td>
 <td>  在规划使用 Intune 部署无线网络和 VPN 配置文件时，IT 管理员需要具有已在生产环境中工作的现有证书颁发机构、无线网络和 VPN 基础结构。  
-  <strong>注意</strong>：FastTrack服务权益不包括帮助为 Intune 设置或配置证书颁发机构、无线网络、VPN 基础结构或 Apple MDM 推送证书。  
+  <strong>注意</strong>：FastTrack权益不包括帮助为 Intune 设置或配置证书颁发机构、无线网络、VPN 基础结构或 Apple MDM 推送证书。  
  
   <strong>注意</strong>：FastTrack 服务权益不包括有关将配置管理器站点服务器或配置管理器客户端设置或升级到支持云附加所需的最低要求的帮助。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> 以寻求帮助。
 
   <strong>Intune 与 Microsoft Defender for Endpoint 集成</strong> 
  
-  <strong>注意</strong>：我们协助将 Intune 与 Microsoft Defender for Endpoint 集成，并基于其风险级别评估Windows 10设备合规性策略。 我们不提供有关购买、许可或激活的帮助。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> 以寻求帮助。  
+  <strong>注意</strong>：我们协助将 Intune 与 Microsoft Defender for Endpoint 集成，并基于其风险级别Windows 10创建设备合规性策略。 我们不提供有关购买、许可或激活的帮助。 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> 以寻求帮助。  
   
 <strong>Windows Autopilot</strong> 
  
@@ -950,14 +951,14 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <ul>
 <li>  为 Office 365 中验证的所有启用邮件的域设置 Exchange Online Protection (EOP) 功能。  </li>
 <li>  将邮件交换 (MX) 记录指向Office 365。  </li>
-<li>  如果 Microsoft Defender 是订阅Office 365的一部分，则设置 Microsoft Defender for Office 365 功能。 有关详细信息，请参阅此表<strong>的 Microsoft Defender Office 365</strong>部分。  </li>
+<li>  设置 Microsoft Defender for Office 365功能（如果它是订阅服务的一部分）。 有关详细信息，请参阅此表<strong>的 Microsoft Defender Office 365</strong>部分。  </li>
 <li>  为在 Office 365 中验证的所有已启用邮件的域设置数据丢失防护 (DLP) 功能，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。</li>
 <li>  为在 Office 365 中验证的所有已启用邮件的域设置 Office 365 邮件加密 (OME) ，将其作为订阅服务的一部分。这可在 MX 记录指向 Office 365 后完成。</li>
 </ul>
   <strong>注意：</strong>邮箱复制服务 (MRS) 尝试将信息权限托管 (IRM) 电子邮件从本地邮箱迁移到相应的 Exchange Online 邮箱。 可读取受保护内容迁移后的能力取决于客户映射和将 Active Directory Rights Managed Services (AD RMS) 模板复制到 Azure Rights Management Service (Azure RMS)。  
 <ul>
 <li>  配置防火墙端口。  </li>
-<li>  设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 、域密钥识别邮件 (DKIM) 、基于域的邮件身份验证、报告和一致性 (DMARC) 以及 MX 记录 (（如果需要) ）。  </li>
+<li>  根据需要设置 DNS，包括所需的自动发现、发件人策略框架 (SPF) 、域密钥识别邮件 (DKIM) 、基于域的邮件身份验证、报告和一致性 (DMARC) 和 MX (记录) 。  </li>
 <li>  设置源邮件环境和 Exchange Online 之间的电子邮件流（根据需要）。  </li>
 <li>  执行从源邮件环境到 Office 365 的邮件迁移。  </li>
 <li>  配置邮箱客户端（Outlook for Windows、Outlook 网页版以及 Outlook for iOS 和 Outlook for Android）。  </li>
@@ -971,7 +972,7 @@ FastTrack指导，帮助你首先获得所有 (通用的核心Microsoft Online S
 <li>  单个 G 套件环境（仅限 Gmail、联系人和日历）。  </li>
 <li>  有关多地理位置功能的信息，请参阅多地理位置功能<a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online。</a>  </li>
 </ul>
-Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、OneDrive for Business 同步客户端、Power BI Desktop 和 Skype for Business 等联机客户端软件必须处于最低级别，如<a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office</a>的系统要求中的定义。  </td>
+Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、OneDrive for Business 同步客户端、Power BI Desktop 和 Skype for Business 等联机客户端软件必须处于最低级别，如 Microsoft 365 Office 的系统<a href="https://go.microsoft.com/fwlink/?LinkID=723597">要求</a>中的定义。  </td>
 </tr>
 
 <td><strong>Microsoft Defender for Office 365</strong></td>
@@ -991,7 +992,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tr class="odd">
 <td><strong>Microsoft 信息保护</strong></td>
 <td>  
-有关详细信息，<strong>请参阅安全Microsoft 信息保护</strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">中的"安全与合规"。</a>
+有关详细信息，请参阅安全Microsoft 信息保护<strong></strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">中的"安全与合规"。</a>
 
 </td>
 <td>
@@ -1014,7 +1015,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  带宽预估。  </li>
 </ul>
 <ul>
-<li>  为 Teams Web (Teams、桌面Teams和适用于 iOS Teams Android) 配置应用策略。  </li>
+<li>  配置Teams Web (Teams、Teams 桌面应用和 Teams for iOS 和 Android) 的应用策略。  </li>
 </ul>
 如果适用，我们还提供有关：
 <ul>
@@ -1056,10 +1057,10 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <td><ul>
 <li>  在 Azure AD 中为用户启用Office 365。  </li>
 <li>  对 SharePoint Online 启用的用户。  </li>
-<li>  Exchange混合配置 (中联机和本地Exchange邮箱) 。  </li>
+<li>  Exchange混合配置 (联机和本地Exchange邮箱) 。  </li>
 <li>  针对 Office 365 组启用。  </li>
 </ul>
-  <strong>注意：</strong>如果未为用户分配和启用 SharePoint Online 许可证，他们将不会在 OneDrive for Business 中Office 365。 文件共享继续在频道中工作，但如果没有在频道中存储的OneDrive for Business，用户Office 365。 Teams不支持SharePoint本地部署。  <br>
+  <strong>注意：</strong>如果未为用户分配和启用 SharePoint Online 许可证，他们将不会OneDrive for Business存储空间Office 365。 文件共享继续在频道中工作，但如果没有在频道中存储的 OneDrive for Business，用户Office 365。 Teams不支持SharePoint本地部署。  <br>
   <strong>注意：</strong>理想的状态是所有用户的邮箱都位于Exchange Online。 拥有托管在本地的邮箱的用户必须通过 Azure AD Office 365其标识同步到 连接。 对于这些Exchange，如果用户的邮箱位于本地，则用户无法添加或配置连接器。  
   可以从 <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> 下载 Microsoft Teams Windows 和 Mac 桌面客户端的安装程序。  </td>
 </tr>
@@ -1070,7 +1071,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <ul>
 <li>  从 Apple App Store 和 Google Play 下载 Outlook for iOS 和 Outlook for Android。  </li>
 <li>  配置帐户和访问 Exchange Online 邮箱。  </li>
-<li>  保护Outlook移动设备 (请参阅在 Exchange Online 中保护<a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">适用于 iOS Outlook Android</a>) 。  </li>
+<li>  保护Outlook移动设备 (请参阅在 Exchange Online 中保护<a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">iOS Outlook</a>和 Android) 。  </li>
 </ul></td>
 <td><ul>
 <li>  在 Azure AD 中为用户启用Office 365。  </li>
@@ -1095,7 +1096,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  设置企业资源池 (ERP)。  </li>
 <li>  创建你的首个项目。  </li>
 </ul></td>
-<td>联机客户端软件（如 Project for Office 365）必须处于最低级别，如 Microsoft 365 和 Office 的系统<a href="https://go.microsoft.com/fwlink/?LinkID=723597">要求中定义</a>。</td>
+<td>联机客户端软件（如 Project for Office 365）必须处于最低级别，如 Microsoft 365<a href="https://go.microsoft.com/fwlink/?LinkID=723597">和 Office 的系统要求中定义</a>。</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional 和 高级版</strong></td>
@@ -1108,7 +1109,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  为 Project Online 桌面客户端 设置一个现场分发服务器，包括帮助创建 configuration.xml 文件以与 Office 365 部署工具一起使用。  </li>
 <li>  将 Project Online 桌面客户端 连接到 Project Online Professional 或 Project Online 高级版。  </li>
 </ul></td>
-<td>联机客户端软件（如 Project for Office 365）必须处于最低级别，如 Microsoft 365 和 Office 的系统<a href="https://go.microsoft.com/fwlink/?LinkID=723597">要求中定义</a>。</td>
+<td>联机客户端软件（如 Project for Office 365）必须处于最低级别，如 Microsoft 365<a href="https://go.microsoft.com/fwlink/?LinkID=723597">和 Office 的系统要求中定义</a>。</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online 和 OneDrive for Business</strong></td>
@@ -1124,12 +1125,12 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  配置 SharePoint 混合功能，如混合搜索、混合网站、混合分类、内容类型、混合自助式网站创建（仅适用于 SharePoint Server 2013）、扩展的应用启动器、混合 OneDrive for Business 和 Extranet 网站。  </li>
 <li>  迁移方法。  </li>
 </ul>
-根据你的OneDrive for Business版本，SharePoint其他指南，例如：
+根据你的 OneDrive for Business 版本，SharePoint指南，例如：
 <ul>
 <li>  确定集成选项并查看本地和联机网络基础结构和带宽。  </li>
 <li>  安装 SharePoint Online 2013 SP1 (（如果适用) ，规划和实现同步和标识要求，并确定OneDrive for Business客户端。  </li>
-<li>  为所有用户规划和实施单一推出 (或分阶段推出) 。  </li>
-<li>  分配许可证、将"我的网站"和个人文档库重定向到适用于 SharePoint Online 2013) 的 Office 365 (，设置访问群体以控制对适用于 SharePoint Online 2013) 的 OneDrive (的访问。  </li>
+<li>  规划和实现针对所有用户的单个推出 (或分阶段推出) 。  </li>
+<li>  分配许可证、将"我的网站"和个人文档库重定向到适用于 Office 365 (Online 2013) 的 SharePoint，设置访问群体以控制对 OneDrive (（适用于 SharePoint Online 2013) ）的访问。  </li>
 <li>将已知文件夹重定向或移动到OneDrive。</li>
 <li>  部署OneDrive for Business客户端同步。  </li>
 </ul>
@@ -1142,17 +1143,17 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 </ul>
   <strong>注意：</strong>在 2013 年 10 月运行本地服务器时，自助式网站创建SharePoint范围内。  
 <ul>
-<li>  若要启用SharePoint混合，您必须具有以下本地 SharePoint 服务器环境之一：2013、2016 或 2019。  </li>
+<li>  若要SharePoint混合，您必须具有以下本地 SharePoint 服务器环境之一：2013、2016 或 2019。  </li>
 </ul>
   <strong>注意：</strong>未将本地SharePoint环境升级到 SharePoint Server。 请联系 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴</a> 寻求帮助。 有关详细信息，请参阅混合<a href="https://go.microsoft.com/fwlink/?linkid=853548">功能的最低公共SharePoint级别</a><em>。</em>  <br>
-  <strong>注意：</strong>有关多地理位置功能的信息，请参阅 OneDrive 和 SharePoint Online 中的多<a href="https://go.microsoft.com/fwlink/?linkid=831056">地理位置Office 365。</a><em></em>  </td>
+  <strong>注意：</strong>有关多地理位置功能的信息，请参阅 OneDrive<a href="https://go.microsoft.com/fwlink/?linkid=831056">和 SharePoint Online 中的多地理位置Office 365。</a><em></em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer 企业版</strong></td>
 <td>
 我们提供启用 Yammer Enterprise 服务的远程指导。  
 </td>
-<td>联机客户端软件必须处于最低级别，如 system <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requirements for Microsoft 365 and Office 。</a></td>
+<td>联机客户端软件必须处于最低级别，如 system <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requirements for Microsoft 365 and Office</a>。</td>
 </tr>
 </tbody>
 </table>
@@ -1175,19 +1176,19 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) 和 Azure AD Premium</strong></td>
-<td>  有关详细信息，请参阅安全与Azure Active Directory (<strong>中的 azure AD) 和</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">Azure AD Premium。</a></td>
+<td>  有关详细信息，请参阅安全与<strong>Azure Active Directory (中的 azure AD) 和</strong> <a href="/fasttrack/products-and-capabilities#security-and-compliance">Azure AD Premium。</a></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><strong>Azure 信息保护 </strong></td>
-<td>  有关 Azure 信息保护详细信息<strong>，请参阅Microsoft 信息保护</strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">和合规性中的指南</a>。  </td>
+<td>  有关 Azure 信息保护详细信息<strong>，请参阅Microsoft 信息保护</strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">和合规性中的"azure 信息保护"。</a>  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  有关详细信息，<strong>请参阅安全Microsoft Intune</strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">中的"安全与合规"。</a>
+<td>  有关详细信息，请参阅安全Microsoft Intune<strong></strong><a href="/fasttrack/products-and-capabilities#security-and-compliance">中的"安全与合规"。</a>
   </td>
 <td>  
   
@@ -1220,9 +1221,9 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <li>  了解Windows 10意图。  </li>
 <li>  评估源环境和要求 (确保Microsoft Endpoint Configuration Manager升级到所需级别，以支持Windows 10部署) 。  </li>
 <li>  使用Windows 10 企业版或Microsoft 365 应用版部署Microsoft Endpoint Configuration Manager和Microsoft 365。  </li>
-<li>  建议你评估你的应用Windows 10选项。  </li>
+<li>  推荐用于评估应用Windows 10选项。  </li>
 <li>  通过创建桌面分析部署计划，支持使用桌面分析和指导。  </li>
-<li>  Microsoft 365 应用版配置管理器中的 Office 365 准备情况仪表板或独立的准备情况仪表板进行兼容性评估Toolkit Office部署Microsoft 365 应用版。  </li>
+<li>  Microsoft 365 应用版 Configuration Manager 中的 Office 365 准备情况仪表板或独立的准备情况仪表板进行Toolkit准备情况Office部署Microsoft 365 应用版。  </li>
 <li>  创建修正清单，检查需要执行哪些操作，使源环境达到成功部署的最低要求。  </li>
 <li>  为现有设备提供升级指南，Windows 10 企业版满足所需设备硬件要求时进行升级。  </li>
 <li>  提供升级指南以支持现有部署运动。 FastTrack 推荐并提供有关就地升级到 Windows 10 的指南。 指南还可用于 Windows 干净图片安装和 Windows Autopilot 部署方案。  </li>
@@ -1244,7 +1245,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> ，获得这些服务的帮助。  </td>
 <td>  要升级电脑，必须满足以下要求：
 <ul>
-<li>  源操作系统：Windows 7 企业版Professional、Windows 8.1 企业版或Professional。  </li>
+<li>  源操作系统：Windows 7 企业版、Professional、Windows 8.1 企业版或Professional。  </li>
 <li>  设备：台式机、笔记本或平板电脑外形。  </li>
 <li>  目标操作系统：窗口 10 Enterprise。  </li>
 </ul>
@@ -1280,10 +1281,10 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tbody>
 <tr class="odd">
 <td><strong>Windows 虚拟桌面</strong></td>
-<td><p>我们提供载入虚拟桌面的部署指南Windows桌面 (桌面应用虚拟化服务) 。 Windows虚拟桌面利用Windows 10会话体验，并针对 Microsoft 365 应用版 进行了Enterprise集成的安全性和管理，Microsoft 365。</p>
+<td><p>我们提供部署到虚拟桌面的部署Windows桌面 (桌面应用虚拟化服务) 。 Windows虚拟桌面利用Windows 10会话体验，并针对 Microsoft 365 应用版 进行了优化Enterprise集成的安全性和管理，Microsoft 365。</p>
 <p>我们提供针对：</p>
 <ul>
-<li>使用Windows 10 企业版为Microsoft 365 应用版部署Enterprise会话和会话：
+<li>使用Windows 10 企业版部署多会话Microsoft 365 应用版Enterprise部署多个会话：
 <ul>
 <li>Azure Marketplace 映像。</li>
 <li>共享图像。</li>
@@ -1313,7 +1314,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 请与 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 合作伙伴联系</a> ，获得这些服务的帮助。</td>
 <td>你应该已经拥有以下内容：
 <ul>
-<li><a href="/azure/virtual-desktop/overview#requirements">Windows虚拟桌面许可要求</a>。</li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows虚拟桌面许可要求。</a></li>
 <li> 支持<a href="/azure/virtual-desktop/overview">Virtual Deskstop Windows基础结构</a>。 </li>
 <ul>
 <li><a href="/azure/virtual-desktop/store-fslogix-profile">存储 Virtual Deskstop 中的 FSLogix Windows容器。</a> </li>
@@ -1361,20 +1362,20 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <tbody>
 <tr class="even">
 <td><strong>应用保证</strong></td>
-<td>  应用保证是一项旨在解决应用兼容性Windows Microsoft 365 应用版问题的服务。 当你请求应用保证服务时，我们会与你在符合条件的订阅中一起解决有效的应用问题，无需额外付费。 我们还为在部署 Windows 365 云电脑、Windows 虚拟桌面和 Microsoft Edge 时面临兼容性问题的客户提供指导Microsoft Edge并尽一切努力解决兼容性问题。 我们为以下 Microsoft 产品上部署的应用提供修正帮助：
+<td>  应用保证是一项旨在解决应用兼容性Windows Microsoft 365 应用版的服务。 当你请求应用保证服务时，我们会与你在符合条件的订阅中一起解决有效的应用问题，无需额外付费。 我们还为在部署 Windows 365 云电脑、Windows 虚拟桌面和 Microsoft Edge 时面临兼容性问题的客户提供指导，并尽一切努力解决兼容性问题。 我们为以下 Microsoft 产品上部署的应用提供修正帮助：
 <ul>
 <li>  <strong>Windows 10</strong> <strong>11 Windows 11</strong> (包括 ARM64) 。</li>
 <li> <strong>Microsoft 365 应用版</strong>。  </li>
 <li>  <strong>Microsoft Edge -</strong>有关部署指南，请参阅<a href="/DeployEdge/microsoft-edge-channels">部署Microsoft Edge概述</a>。  </li>
 <li>  <strong>Windows虚拟桌面</strong> -有关详细信息，请参阅什么是虚拟<a href="/azure/virtual-desktop/overview">Windows？</a>和Windows 10 企业版<a href="/azure/virtual-desktop/windows-10-multisession-faq">会话常见问题解答</a>。  </li>
-<li> <strong>Windows 365</strong>云电脑 – 有关详细信息，请参阅引入混合个人计算的新纪元<a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">：Windows 365 云电脑</a>。 </li>
+<li> <strong>Windows 365 云电脑</strong>– 有关详细信息，请参阅引入混合个人计算的新纪元<a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">：Windows 365 云电脑</a>。 </li>
 </ul>
 
 <strong>以下内容超出范围 </strong>  
 <ul>
 <li>  应用清单和测试，以确定哪些功能对应用和Windows Microsoft 365 应用版。 有关此过程的更多指导，请访问<a href="https://go.microsoft.com/fwlink/?linkid=2080140">桌面部署中心</a>。 如果对深入升级就绪性评估感兴趣，请填写<a href="https://go.microsoft.com/fwlink/?linkid=2053818">新式桌面评估的客户请求</a>表单。</li>
 <li>  研究第三方 ISV 应用，Windows兼容性和支持声明。 有关详细信息，请参阅<a href="/sccm/desktop-analytics/overview">桌面分析</a>。</li>
-<li>仅限应用打包的服务。 但是，应用保证团队会打包我们已针对 Windows修正的应用，以确保它们可以部署到客户环境中。</li>
+<li>仅限应用打包的服务。 但是，应用保证团队会打包我们已针对 Windows 修正的应用，以确保它们可以在客户环境中部署。</li>
 </ul>
 
 <strong>客户职责包括</strong>  
@@ -1407,7 +1408,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 </ul>
   <strong>注意：</strong> 
 <ul>
-<li> x64 (预览版 64) 预览版，适用于参与预览体验计划Windows<a href="https://insider.windows.com/">客户</a>。  </li>
+<li> x64 (64 位) 预览版，适用于参与预览体验计划Windows<a href="https://insider.windows.com/">客户</a>。  </li>
 <li>  
  对于使用 Windows 10 2004 (或更高版本) 的非 Windows 预览体验成员客户，ARM64 Photoshop 支持使用 OpenCL 和<a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL</a>兼容包。 
   </li>
@@ -1418,7 +1419,7 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  如果你的 Web 应用或网站在 Internet Explorer 11、受支持的 Google Chrome 版本或任何 Microsoft Edge 版本上工作，它们也将与 Microsoft Edge 一Microsoft Edge。  
+  如果你的 Web 应用或网站使用 Internet Explorer 11、受支持的 Google Chrome 版本或任何 Microsoft Edge 版本，它们也将与 Microsoft Edge 一Microsoft Edge。  
   </li>
 <li>  
   随着 Web 的不断发展，请务必查看此已发布的已知网站兼容性影响更改列表，以<a href="/microsoft-edge/web-platform/site-impacting-changes">Microsoft Edge。</a>  
@@ -1475,9 +1476,9 @@ Project for Office 365、Outlook for Windows、Outlook for iOS 和 Android、One
 <td>
 我们提供远程部署和采用指南以及兼容性协助，用于： <ul> <li>使用 Microsoft Edge 或 Intune Windows 10在Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager部署) 。  </li>
 <li>  使用Microsoft Edge (或 Intune 应用配置以及应用策略配置) 。  </li>
-<li>  清点可能需要在安全模式下使用Internet Explorer列表。  </li>
-<li>  使用Internet Explorer站点列表启用Enterprise模式。  (有关详细信息，请参阅吸引<a href="/fasttrack/process-and-expectations#engaging-fasttrack">FastTrack。</a> 此外，如果你有一个与 Internet Explorer 或 Google Chrome 一起工作的 Web 应用或网站，并且你遇到兼容性问题，我们会提供指导来解决问题，无需额外付费。 若要请求应用保证的兼容性支持，请登录到<a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 门户</a>以启动服务活动。  </li>
-<li> Edge 采用规划指南和适用于Microsoft 搜索配置指南。</li>
+<li>  清点可能需要在活动模式中使用Internet Explorer列表。  </li>
+<li>  使用Internet Explorer站点列表启用Enterprise模式。  (有关详细信息，<a href="/fasttrack/process-and-expectations#engaging-fasttrack">请参阅使用</a>FastTrack。 此外，如果你有一个与 Internet Explorer 或 Google Chrome 一起工作的 Web 应用或网站，并且你遇到兼容性问题，我们会提供指导来解决问题，无需额外付费。 若要请求应用保证的兼容性支持，请登录到<a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack 门户</a>以启动服务活动。  </li>
+<li> 适用于应用书签的边缘采用和配置Microsoft 搜索指南。</li>
 </ul>
 
 <strong>以下内容超出范围 </strong>  

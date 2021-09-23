@@ -3,19 +3,19 @@ title: 数据迁移
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office 365（Exchange Online、SharePoint Online 和 OneDrive for Business）。 我们提供的帮助类型取决于你的 Office 365 许可证数量。
-ms.openlocfilehash: f81d233992b25ffeb231a10677fedcfd84357aaa
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: 85abaf5e236d5627bfe32df991a9a70133511e4f
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327607"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484309"
 ---
 # <a name="data-migration"></a>数据迁移
 
@@ -79,7 +79,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <tr class="odd">
 <td><strong>Exchange 2010、Exchange 2013、Exchange 2016、Exchange 2019</strong><br />
 <br />
-<strong>注意：</strong>有关本地部署Exchange，请参阅混合<a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">部署先决条件</span></a>。</td>
+<strong>注意：</strong>有关本地部署Exchange，请参阅<a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">混合部署先决条件</span></a>。</td>
 <td>使用混合部署进行的迁移</td>
 <td><ul>
 <li>电子邮件</li>
@@ -283,7 +283,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
 <li> 标记为受限或不可复制的文件 </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -319,7 +319,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -357,13 +357,13 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack Online 迁移SharePoint的责任
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack Online SharePoint迁移的责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息
 
@@ -437,7 +437,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 无法访问或已损坏的文档 </li>
 <li> 隐藏的共享 </li>
 <li> 共享（如在共享级别授予的权限） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -476,7 +476,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -511,7 +511,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -567,9 +567,9 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 
   - 预置将作为迁移事件目标的所有 OneDrive for Business 网站。
 
-## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>迁移到 Microsoft Teams 组Microsoft 365组
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>迁移到 Microsoft Teams 和 Microsoft 365 组
 
-当你选择使用 FastTrack 将文件迁移到 Microsoft Teams Microsoft 365 组时，我们提供迁移指导和数据迁移服务。 我们提供的指南可帮助你规划迁移、配置源环境和 Teams Microsoft 365 组，以及利用我们的数据迁移服务来迁移你的文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams 组Microsoft 365组。 Teams频道Microsoft 365组必须先由客户预配，然后才能将数据迁移到这些目标类型。 Teams Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack迁移期间不会将最终用户或组添加到任何Teams或Microsoft 365组权限。
+当你选择使用 FastTrack 将文件迁移到 Microsoft Teams 和 Microsoft 365 组时，我们提供迁移指导和数据迁移服务。 我们提供的指南可帮助你规划迁移、配置源环境以及Teams Microsoft 365组，以及利用我们的数据迁移服务迁移你的文件。 你可以创建和安排迁移事件。 我们将根据你的日程安排启动迁移事件、监视其进度并提供状态报告。 迁移事件完成后，可以预期源环境的适当计划源和符合条件的源中的文件已迁移到 Teams 组Microsoft 365组。 Teams频道Microsoft 365组必须先由客户预配，然后才能将数据迁移到这些目标类型。 Teams组Microsoft 365组会影响对文件目标位置的权限。 Teams组Microsoft 365组，以允许协作。 用户Teams或Microsoft 365组确定迁移到目标时谁有权访问这些文件。 FastTrack迁移期间，不会将最终用户或组添加到任何Teams或Microsoft 365组"权限。
 
 ### <a name="considerations"></a>注意事项
 
@@ -616,7 +616,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 </ul></li>
 </ul>
 <br>
-*必须配置目录同步。 只迁移对 Windows 文件资源管理器公开的 NTFS 权限。 不会迁移文件共享设备上直接托管的权限。 如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。 权限受组和/或Microsoft 365频道Microsoft Teams影响。 如果目标为组或Microsoft 365组Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或 Microsoft 365 频道Microsoft Teams权限。</td>
+*必须配置目录同步。 只迁移对 Windows 文件资源管理器公开的 NTFS 权限。 不会迁移文件共享设备上直接托管的权限。 如果数据存储在 SMB 2.0 设备上，只会迁移 SMB 协议公开的与 NTFS 等同的权限。 权限受组和/或Microsoft 365频道Microsoft Teams影响。 如果目标为Microsoft 365或Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或 Microsoft 365 频道Microsoft Teams权限。</td>
 <td><ul>
 <li> 所有权历史记录和旧版本 </li>
 <li> 内容中嵌入的 URL 的转换后对象 </li>
@@ -652,7 +652,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 属于 Google 云端硬盘帐户的共享内容会被迁移 </li>
 </ul>
 <br>
-*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为组或Microsoft 365组Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或Microsoft 365组Microsoft Teams权限。 
+*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为Microsoft 365或Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或 Microsoft 365 频道Microsoft Teams权限。 
 </td>
 <td><ul>
 <li> 所有权历史记录、旧版本和注释 </li>
@@ -671,7 +671,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 不属于Google 云端硬盘帐户的内容被迁移 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Google 云端硬盘管理报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
 <li> 共享驱动器成员资格权限（<strong>注意</strong>：使用 Google 云端硬盘管理报告来标识共享驱动器成员资格。 指示最终用户迁移前在目标上配置这些成员资格设置。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -694,7 +694,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 转换为 Word 文档 (格式的方框)  </li>
 </ul>
 <br>
-*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为组或Microsoft 365组Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或Microsoft 365组Microsoft Teams权限。 </td>
+*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为Microsoft 365或Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或 Microsoft 365 频道Microsoft Teams权限。 </td>
 <td><ul>
 <li> 所有权历史记录、旧版本和注释 </li>
 <li> 文件和文件夹说明 </li>
@@ -709,7 +709,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Box 应用、书签、收藏夹和工作流 </li>
 <li> 不属于已迁移 Box 帐户的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Box 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -732,7 +732,7 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> 属于 Dropbox 帐户的共享内容会被迁移 </li>
 </ul>
 <br>
-*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为组或Microsoft 365组Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或Microsoft 365组Microsoft Teams权限。
+*权限受组和/Microsoft 365频道Microsoft Teams影响。 如果目标为Microsoft 365或Microsoft Teams，则组或频道将确定迁移文件的最终权限配置文件。 建议不要迁移迁移到组或 Microsoft 365 频道Microsoft Teams权限。
 </td>
 <td><ul>
 <li> 所有权历史记录、旧版本和注释 </li>
@@ -750,13 +750,13 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 <li> Dropbox 应用及收藏夹（已固定或加星标） </li>
 <li> 已迁移的 Dropbox 帐户不拥有的内容 </li>
 <li> 外部用户的权限和基本元数据（<strong>注意</strong>：使用 Dropbox 报告确定与外部用户共享的内容。 指示最终用户在迁移后与外部用户重新共享内容。） </li>
-<li> 超出当前联机限制<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint的文件或文件夹</span></a> </li>
+<li> 超出当前联机SharePoint<a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">限制的文件或文件夹</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack组迁移Microsoft Teams Microsoft 365迁移的责任
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack组迁移Microsoft Teams Microsoft 365组迁移的责任
 
 我们的 FastTrack 专家在迁移项目期间执行标准活动。 有关详细信息，请参阅[流程和期望](process-and-expectations.md)中的数据迁移职责信息。
 
@@ -768,4 +768,4 @@ FastTrack 可以帮助你将源环境中的邮件和文件数据迁移到 Office
 - 根据Microsoft Teams事件Microsoft 365设置所有频道和组。
 
 > [!NOTE]
->FastTrack未预先预配Microsoft Teams或Microsoft 365组。 FastTrack向频道或组添加最终用户Microsoft Teams组Microsoft 365组。 在将数据迁移到目标之前，您必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档
+>FastTrack预配频道或Microsoft Teams组Microsoft 365预配。 FastTrack向频道或组添加最终用户Microsoft Teams组Microsoft 365组。 在将数据迁移到目标之前，您必须将最终用户或组添加到所有 Microsoft Teams 频道和 Microsoft 365 组，以便这些最终用户能够访问新迁移的文档

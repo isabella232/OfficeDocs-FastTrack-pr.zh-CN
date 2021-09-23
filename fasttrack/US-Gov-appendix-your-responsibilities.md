@@ -1,27 +1,27 @@
 ---
-title: 你向美国政府Office 365责任
+title: 你对美国政府Office 365责任
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 你在载入过程中将承担以下责任。
-ms.openlocfilehash: af92bca74dd6c90c0fd178e46ea5de6aed8cd51b
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: 700d230e6bb9a85014e0a96fd7f88e49252bd43f
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327627"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484328"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>你向美国政府Office 365责任
+# <a name="your-responsibilities-for-office-365-us-government"></a>你对美国政府Office 365责任
 
 你在载入过程中将承担以下责任。
   
-## <a name="general"></a>概要
+## <a name="general"></a>常规
 
 - 开发并实现你的成功计划。   
 - 在此处列出的可配置选项范围外，还对你的 Office 365 租户提供任何增强功能和集成。    
@@ -42,7 +42,7 @@ ms.locfileid: "59327627"
 - 激活移动设备。    
 - 提供网络配置、分析、带宽验证、测试和监视。 
 - 更改防火墙规则以支持特定 URL 和 IP 地址范围，Office 365服务 (（如果需要) ）。
-- 如果需要，向 Microsoft (提供本地反向代理) 。     
+- 如果需要，向 Microsoft (提供本地反向) 。     
 - 更改网络，为 Skype for Business Online 服务提供必要的带宽。   
 - 管理技术变更管理审核流程，并创建支持文档。    
 - 指定和定义适用于用户、工作站和服务器管理的组策略。    
@@ -58,7 +58,7 @@ ms.locfileid: "59327627"
     
 ## <a name="initiate-phase"></a>启动阶段
 
-- 设置协作Microsoft Teams加入合作关系的空间，并邀请 FastTrack Center 团队成员 (在 GCC 高或 DoD 计划中) 。   
+- 设置用于Microsoft Teams合作关系的协作FastTrack，并邀请 (中心团队成员GCC高或 DoD 计划) 。   
 - 与 FastTrack 专家合作，共同开始载入符合条件的服务。    
 - 参加参与启动会议，管理和领导你组织中的参与者，并确认修正日程表。    
 - 提供你的 Office 365 服务（例如：SharePoint Online、Exchange Online、Microsoft Teams 和 Microsoft 365 应用版）目标和组织目标。
