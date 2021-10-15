@@ -3,25 +3,25 @@ title: 资格
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/22/2021
+ms.date: 10/20/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。
-ms.openlocfilehash: aa4143b3ca09caabf8f6e99c02c54b75d4a5c4cc
-ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
+ms.openlocfilehash: e7ffe2cb0f049c4e44c668a6c450b4a024c36f4c
+ms.sourcegitcommit: 2dec21801e6272da43cabf4a7eaf044bf2f7d047
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59484341"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60385982"
 ---
 # <a name="eligibility"></a>资格
 
 在本主题中，我们将概述享受 FastTrack 专家提供的远程指导性帮助的资格要求（通过购买 Microsoft 365 许可证获得的权益之一），并详述所涉及的具体产品和功能。  
 
-通过以下 Microsoft 产品系列的某个符合条件的订阅计划获得 150 个或更多许可证的客户可享受 FastTrack 帮助：Microsoft 365、Office 365、企业移动性与安全性以及 Windows 10。 这些计划可对应单个产品（如 Exchange Online）或一套产品 (Office 365 E3)。 由于 Microsoft 提供了许多购买选项，因此符合条件的计划非常多，并且均已在[符合条件的计划](#eligible-plans)中列出。
+FastTrack以下 Microsoft 产品系列中的一个符合条件的计划（Microsoft 365、Office 365、Enterprise Mobility & Security 和 Windows 10）拥有 150 个或多个许可证的客户租户。 这些计划可对应单个产品（如 Exchange Online）或一套产品 (Office 365 E3)。 由于 Microsoft 提供了许多购买选项，因此符合条件的计划非常多，并且均已在[符合条件的计划](#eligible-plans)中列出。
 
 ## <a name="products-and-capabilities-covered"></a>所涉及的产品和功能
 
@@ -204,7 +204,7 @@ FastTrack 专家可为你购买的计划中可能包含的以下服务提供远�
 > 针对生成 Windows 10 应用的商业独立软件供应商 (ISV)，无最低许可要求。 所有应用请求都必须针对当前处于主流服务窗口内的 Windows 10 或 Microsoft 365 应用版的版本。
 
 > [!NOTE]
-> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 作为例外，FastTrack协助在 2021 年 8 月 6 日到 9 月 30 日为印度尼西亚符合条件的客户载入 Office 365 E1 试用版许可证，以帮助应对当前的 COVID-19 激增。  
+> FastTrack 中心权益的资格基于购买前面所述的符合条件的计划的付费许可。 作为例外，FastTrack在 2021 年 8 月 6 日到 9 月 30 日协助为印度尼西亚符合条件的客户载入 Office 365 E1 试用版许可证，以帮助应对当前的 COVID-19 激增。  
 
 ### <a name="ineligible-plans"></a>不符合条件的计划 
  不符合 FastTrack 服务使用条件的计划包括（但不限于）：

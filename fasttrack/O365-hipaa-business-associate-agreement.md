@@ -3,18 +3,18 @@ title: 附录 A - FastTrack 中心 HIPAA 业务伙伴协议
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/22/2021
+ms.date: 10/20/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: 如果你有带 Microsoft for FastTrack Services 的 HIPAA 业务关联协议 (BAA)，FastTrack Center Benefit for Office 365 中列出的所有服务都将包含在 BAA 中，除了：
-ms.openlocfilehash: cbf691f9d7bf3f483c6c50f2b6ef9ea5c39eed1b
-ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
+ms.openlocfilehash: dc01d5d47163ef15a58cf3d1e21e98dae63fb672
+ms.sourcegitcommit: 2dec21801e6272da43cabf4a7eaf044bf2f7d047
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59484368"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60385952"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>附录 A - FastTrack 中心 HIPAA 业务伙伴协议
 
